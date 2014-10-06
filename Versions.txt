@@ -34,6 +34,7 @@ Dark Menagerie beta v2.0
 Doom-like Dungeon v1.4.0
 Dynamic Lights v1.7.10
 Enviromine (Version Needed)
+Falling Meteors (Version Needed)
 Farlanders (Version Needed)
 Fast Leaf Decay (Version Needed)
 FMPIntegration v1.2.2
@@ -48,6 +49,7 @@ Inventory Tweaks v1.58 147
 Lycanite's Mobs (Version Needed)
 MineTweaker v3.0.6
 ModTweaker v0.5d
+Natura v2.2.0 b1
 Natural Absorption (Version Needed)
 NEI Addons v1.12.2.9
 NEI Plugins v1.1.0.7
