@@ -76,6 +76,7 @@ Spice of Life (Version Needed)
 Statues v2.1.4
 TiCTooltips v1.1.11b
 Tinker's Construct v1.7.0d4
+Tinker's Steelworks v1.0.3
 Too Much Loot (Version Needed)
 Twilight Forest v2.3.2
 Underground Biomes Constructs (Version Needed)
