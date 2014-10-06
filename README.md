@@ -11,7 +11,7 @@ Servers: The server download comes with recommended Java arguments. Those were u
 
 Contributing
 ===
-I love getting outside contributions, especially to myw mod documentation system, however doing so can be a little complex for some.
+I love getting outside contributions, however doing so can be a little complex for some.
 
 First a note: If you are going to contribute, please make your contributions to the ___Dev___ branch, not master. Switch this by using the dropdown box on the main repo page.
 
