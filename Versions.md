@@ -1,72 +1,73 @@
 Current Forge Version
-
-Forge v10.13.0.1208
+=
+**Forge** v10.13.0.1208
 
 Current API Versions
-
-AppleCore (Version Needed)
-AsieLib v0.3.1
-bspkrs Core v6.13
-CoFHCore v3.0.0B6-32
-CoFHLib v1.0.0B6-26
-CoroUtil v1.0
-Forge Multipart v1.1.0.307
-INPureCore (Version Needed)
-IvToolKit (Version Needed)
-Mantle v0.3.1
-ServerTools-BACKUP v2.1.0.11
-ServerTools-CORE v2.1.0.55
+=
+- **AppleCore** (Version Needed)
+- **AsieLib** v0.3.1
+- **bspkrs Core** v6.13
+- **CoFHCore** v3.0.0B6-32
+- **CoFHLib** v1.0.0B6-26
+- **CoroUtil** v1.0
+- **Forge Multipart** v1.1.0.307
+- **INPureCore** (Version Needed)
+- **IvToolKit** (Version Needed)
+- **Mantle** v0.3.1
+- **ServerTools-BACKUP** v2.1.0.11
+- **ServerTools-CORE** v2.1.0.55
 
 Current Mod Versions
+=
 
-Admin Command Toolbox v0.0.2a
-Antique Atlas (Version Needed)
-Armor Status HUD v1.27
-Better Foliage v1.0.1
-Better Title Screen v1.1
-BiblioCraft v1.8.2
-BiblioWoods (BoP) v1.8
-BiblioWoods (Natura) v1.4
-Biomes O' Plenty v2.1.0.991
-Carpenter's Blocks v3.2.8
-Chisel v1.5.7
-Custom Ore Gen (Version Needed)
-Damage Indicators Mod v3.2.0
-Dark Menagerie beta v2.0
-Doom-like Dungeon v1.4.0
-Dynamic Lights v1.7.10
-Enviromine (Version Needed)
-Falling Meteors (Version Needed)
-Farlanders (Version Needed)
-Fast Leaf Decay (Version Needed)
-FMPIntegration v1.2.2
-Garden Stuff v1.2.1
-Glenn's Gases (Version Needed)
-Glowstone Wire v1.0.2.113
-Hardcore Ender Expansion v1.6.2
-Hunger Overhaul (Version Needed)
-Iguana's Tweaks (Version Needed)
-Infernal Mobs v1.5.6
-Inventory Tweaks v1.58 147
-Lycanite's Mobs (Version Needed)
-MineTweaker v3.0.6
-ModTweaker v0.5d
-Natura v2.2.0 b1
-Natural Absorption (Version Needed)
-NEI Addons v1.12.2.9
-NEI Plugins v1.1.0.7
-Nether Ores v2.3.0RC3-84
-Not Enough Items v1.0.3.49
-Open Eye v0.6
-Pam's Clay Spawn v1.7.2a
-Ping v1.0.2.B6
-Recurrent Complex (Version Needed)
-Special Mobs v3.0.2
-Spice of Life (Version Needed)
-Statues v2.1.4
-Twilight Forest v2.3.2
-Underground Biomes Constructs (Version Needed)
-WAILA v1.5.4a
-WAWLA v1.0.6
-Weather v2.3.5
-Zombie Awareness (Version Needed)
+- **Admin Command Toolbox** v0.0.2a
+- **Antique Atlas** (Version Needed)
+- **Armor Status HUD** v1.27
+- **Better Foliage** v1.0.1
+- **Better Title Screen** v1.1
+- **BiblioCraft** v1.8.2
+- **BiblioWoods** (BoP) v1.8
+- **BiblioWoods** (Natura) v1.4
+- **Biomes O' Plenty** v2.1.0.991
+- **Carpenter's Blocks** v3.2.8
+- **Chisel** v1.5.7
+- **Custom Ore Gen** (Version Needed)
+- **Damage Indicators Mod** v3.2.0
+- **Dark Menagerie beta** v2.0
+- **Doom-like Dungeon** v1.4.0
+- **Dynamic Lights** v1.7.10
+- **Enviromine** (Version Needed)
+- **Falling Meteors** (Version Needed)
+- **Farlanders** (Version Needed)
+- **Fast Leaf Decay** (Version Needed)
+- **FMPIntegration** v1.2.2
+- **Garden Stuff** v1.2.1
+- **Glenn's Gases** (Version Needed)
+- **Glowstone Wire** v1.0.2.113
+- **Hardcore Ender** Expansion v1.6.2
+- **Hunger Overhaul** (Version Needed)
+- **Iguana's Tweaks** (Version Needed)
+- **Infernal Mobs** v1.5.6
+- **Inventory Tweaks** v1.58 147
+- **Lycanite's Mobs** (Version Needed)
+- **MineTweaker** v3.0.6
+- **ModTweaker** v0.5d
+- **Natura** v2.2.0 b1
+- **Natural Absorption** (Version Needed)
+- **NEI Addons** v1.12.2.9
+- **NEI Plugins** v1.1.0.7
+- **Nether Ores** v2.3.0RC3-84
+- **Not Enough Items** v1.0.3.49
+- **Open Eye** v0.6
+- **Pam's Clay Spawn** v1.7.2a
+- **Ping** v1.0.2.B6
+- **Recurrent Complex** (Version Needed)
+- **Special Mobs** v3.0.2
+- **Spice of Life** (Version Needed)
+- **Statues** v2.1.4
+- **Twilight Forest** v2.3.2
+- **Underground Biomes Constructs** (Version Needed)
+- **WAILA** v1.5.4a
+- **WAWLA** v1.0.6
+- **Weather** v2.3.5
+- **Zombie Awareness** (Version Needed)
