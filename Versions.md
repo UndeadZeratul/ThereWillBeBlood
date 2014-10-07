@@ -35,7 +35,7 @@ Current Mod Versions
 - **Custom Ore Gen** (Version Needed)
 - **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie beta** v2.0
-- **Doom-like Dungeon** v1.4.0
+- **Doom-like Dungeons** v1.4.0
 - **Dynamic Lights** v1.7.10
 - **Enviromine** (Version Needed)
 - **Falling Meteors** (Version Needed)
@@ -63,6 +63,7 @@ Current Mod Versions
 - **Pam's Clay Spawn** v1.7.2a
 - **Ping** v1.0.2.B6
 - **Recurrent Complex** (Version Needed)
+- **Roguelike Dungeons** (Version Needed)
 - **Special Mobs** v3.0.2
 - **Spice of Life** (Version Needed)
 - **Statues** v2.1.4
