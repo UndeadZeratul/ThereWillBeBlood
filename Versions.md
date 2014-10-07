@@ -21,6 +21,7 @@ Current Mod Versions
 =
 
 - **Admin Command Toolbox** v0.0.2a
+- **Alternate Terrain Generation** (Version Needed)
 - **Antique Atlas** (Version Needed)
 - **Armor Status HUD** v1.27
 - **Better Foliage** v1.0.1
