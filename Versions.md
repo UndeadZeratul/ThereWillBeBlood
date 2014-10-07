@@ -44,7 +44,7 @@ Current Mod Versions
 - **Garden Stuff** v1.2.1
 - **Glenn's Gases** (Version Needed)
 - **Glowstone Wire** v1.0.2.113
-- **Hardcore Ender** Expansion v1.6.2
+- **Hardcore Ender Expansion** v1.6.2
 - **Hunger Overhaul** (Version Needed)
 - **Iguana's Tweaks** (Version Needed)
 - **Infernal Mobs** v1.5.6
