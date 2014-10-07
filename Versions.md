@@ -55,6 +55,7 @@ Current Mod Versions
 - **ModTweaker** v0.5d
 - **Natura** v2.2.0 b1
 - **Natural Absorption** (Version Needed)
+- **Nature Overhaul** (Version Needed)
 - **NEI Addons** v1.12.2.9
 - **NEI Plugins** v1.1.0.7
 - **Nether Ores** v2.3.0RC3-84
