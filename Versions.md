@@ -13,7 +13,6 @@ Current API Versions
 - **Glenn's Gases Core** v1.5.2
 - **Glenn's Gases Framework Core** v1.0.6
 - **INPureCore** v1.0.0B1-1
-- **IvToolKit** v1.0
 - **ServerTools-BACKUP** v2.2.0.21
 - **ServerTools-CORE** v2.2.0.72
 
