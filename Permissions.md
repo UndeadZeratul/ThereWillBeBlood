@@ -1,60 +1,177 @@
-- **Admin Command Toolbox**
-- **Antique Atlas**
-- **AppleCore**
-- **Armor Status HUD**
-- **AsieLib**
-- **Better Foliage**
-- **Better Title Screen**
-- **BiblioCraft**
-- **BiblioWoods (BoP)**
-- **Biomes O' Plenty**
-- **bspkrs Core**
-- **Carpenter's Blocks**
-- **Chisel**
-- **CoFHCore**
-- **CoroUtil**
-- **Damage Indicators Mod**
-- **Dark Menagerie**
-- **Deadly World**
-- **Doom-like Dungeons**
-- **Dynamic Lights**
-- **Enviromine**
-- **Falling Meteors**
-- **Fast Leaf Decay**
-- **FMPIntegration**
-- **Forge Multipart**
-- **Garden Stuff**
-- **Glenn's Gases**
-- **Glenn's Gases Core**
-- **Glenn's Gases Framework**
-- **Glenn's Gases Framework Core**
-- **Glowstone Wire**
-- **Hardcore Ender Expansion**
-- **Hunger Overhaul**
-- **Iguana's Tweaks**
-- **Infernal Mobs**
-- **INPureCore**
-- **Inventory Tweaks**
-- **IvToolKit**
-- **Lycanite's Mobs**
-- **MineTweaker**
-- **ModTweaker**
-- **Natural Absorption**
-- **NEI Addons**
-- **NEI Plugins**
-- **Nether Ores**
-- **Not Enough Items**
-- **Open Eye**
-- **Roguelike Dungeons**
-- **ServerTools-BACKUP**
-- **ServerTools-CORE**
-- **Special AI**
-- **Special Mobs**
-- **Spice of Life**
-- **Statues**
-- **Twilight Forest**
-- **Underground Biomes Constructs**
-- **WAILA**
-- **WAWLA**
-- **Weather**
-- **Zombie Awareness**
+- **Admin Command Toolbox** by: *ProfMobius*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet") 
+- **Antique Atlas** by: *Hunternif*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **AppleCore** by: *Squeek502*
+  - **Private Packs**: [Open](https://github.com/squeek502/AppleCore/blob/master/LICENSE)
+  - **Public Packs** : [Open](https://github.com/squeek502/AppleCore/blob/master/LICENSE) 
+- **Armor Status HUD** by: *bspkrs*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **AsieLib** by: *asie*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Better Foliage** by: **
+  - **Private Packs**: [Open](https://github.com/octarine-noise/BetterFoliage/blob/master/LICENSE)
+  - **Public Packs** : [Open](https://github.com/octarine-noise/BetterFoliage/blob/master/LICENSE) 
+- **Better Title Screen** by: *GirafiStudios*
+  - **Private Packs**: [Open](https://github.com/GirafiStudios/BetterTitleScreen/blob/master/LICENSE)
+  - **Public Packs** : [Open](https://github.com/GirafiStudios/BetterTitleScreen/blob/master/LICENSE) 
+- **BiblioCraft** by: *Nuchaz*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **BiblioWoods (BoP)** by: *Nuchaz*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Biomes O' Plenty** by: *TDWP_FTW, Adubbz*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **bspkrs Core** by: *bspkrs*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Carpenter's Blocks** by: *Mineshopper*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Chisel** by: *AUTOMATIC_MAIDEN*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **CoFH Core** by: *CoFH Team*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **CoFH Lib** by: *CoFH Team*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **CoroUtil** by: *Corosauce*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Damage Indicators Mod** by: *rich1051414*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Dark Menagerie** by: *RWTema*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Deadly World** by: *FatherToast*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Doomlike Dungeons** by: *BlackJar72*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Dynamic Lights** by: *AtomicStryker*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : REQUEST NEEDED[]() 
+- **Enviromine** by: *TimbukTato*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Falling Meteors** by: *AlexDGr8r*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Fast Leaf Decay** by: *Olafski*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **FMPIntegration** by: *wasliebob*
+  - **Private Packs**: []()
+  - **Public Packs** : []() 
+- **Forge Multipart** by: *Chickenbones*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Garden Stuff** by: *jaquadro*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Glenn's Gases** by: *Glenn*
+  - **Private Packs**: REQUEST NEEDED[]()
+  - **Public Packs** : REQUEST NEEDED[]() 
+- **Glenn's Gases Core** by: *Glenn*
+  - **Private Packs**: REQUEST NEEDED[]()
+  - **Public Packs** : REQUEST NEEDED[]() 
+- **Glenn's Gases Framework** by: *Glenn*
+  - **Private Packs**: REQUEST NEEDED[]()
+  - **Public Packs** : REQUEST NEEDED[]() 
+- **Glenn's Gases Framework Core** by: *Glenn*
+  - **Private Packs**: REQUEST NEEDED[]()
+  - **Public Packs** : REQUEST NEEDED[]() 
+- **Glowstone Wire** by: *GrygrFlzr*
+  - **Private Packs**: []()
+  - **Public Packs** : []() 
+- **Hardcore Ender Expansion** by: *chylex*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : NOTIFY NEEDED[]() 
+- **Hunger Overhaul** by: *iguana_man*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Iguana's Tweaks** by: *Parker8283*
+  - **Private Packs**: [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE)
+  - **Public Packs** : [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE) 
+- **Infernal Mobs** by: *AtomicStryker*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : REQUEST NEEDED[]() 
+- **INPureCore** by: *denoflionsx*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Inventory Tweaks** by: *Kobata*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Lycanite's Mobs** by: *Lycanite*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **MineTweaker** by: *StanH*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **ModTweaker** by: *joshie*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Natural Absorption** by: *FatherToast*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **NEI Addons** by: *bdew*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **NEI Plugins** by: *mistaqur*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Nether Ores** by: *skyboy026, powercrystals*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Not Enough Items** by: *Chickenbones*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Open Eye** by: *Mikeemoo, boq*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Roguelike Dungeons** by: *Greymerk*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **ServerTools** by: *matthewprenger*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Special AI** by: *FatherToast*
+  - **Private Packs**: [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/specialmobs.png)
+  - **Public Packs** : [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/specialmobs.png) 
+- **Special Mobs** by: *FatherToast*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Spice of Life** by: *Squeek502*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Statues** by: *ATOMIC_MAIDEN*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Twilight Forest** by: *Benimatic*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Underground Biomes Constructs** by: *Grom PE, Exterminator Jeff*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **WAILA** by: *ProfMobius*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **WAWLA** by: *Darkhax*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Weather** by: *Corosauce*
+  - **Private Packs**: [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/zombieawareness.png)
+  - **Public Packs** : [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/zombieawareness.png) 
+- **Zombie Awareness** by: *Corosauce*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
