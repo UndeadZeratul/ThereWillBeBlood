@@ -8,6 +8,7 @@ Current API Versions
 - **AsieLib** v0.3.1
 - **bspkrs Core** v6.14
 - **CoFHCore** v3.0.0B6-32
+- **CoroUtil** v1.0
 - **Forge Multipart** v1.1.0.310
 - **Glenn's Gases Core** v1.5.2
 - **Glenn's Gases Framework Core** v1.0.6
