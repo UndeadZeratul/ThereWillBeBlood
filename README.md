@@ -2,7 +2,7 @@ There Will Be Blood
 ========
 A public repository for all changes to my Hardcore Modpack project.  This modpack focuses on the world around you its inhabitants; namely how much they loathe your existance and want you gone.  Everything in this pack is geared towards giving you a bad time.  You will fight to survive against not only difficult mobs in a similar fashion to the popular "Blood n' Bones" modpack by Eyamaz, but also against the enviroment itself.  You'll need to stay hydrated, regulate your body temperature, and watch out for the occasional pockets of various gases found under the earth.  The deeper you mine, the harder time you'll have breathing, and will need to find cleaner air in order to not suffocate.  Even keeping yourself full might be an issue; as you'll need to eat a varied and balanced diet in order to stay healthy.  You might be thinking, "this sounds insane!" and in a way, you'd be right; as certain mobs, especially those found in The Nether, will cause you to lose a bit of your sanity.
 
-If you think you're up for the challenge, give this pack a try; but be warned, there will be blood.
+If you think you're up for the challenge, give this pack a try; but be warned, _there will be blood_.
 
 Contributing
 ===
