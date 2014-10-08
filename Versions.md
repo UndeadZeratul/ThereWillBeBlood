@@ -56,6 +56,7 @@ Current Mod Versions
 - **Not Enough Items** v1.0.2.15
 - **Open Eye** v0.6
 - **Roguelike Dungeons** v1.3.5
+- **Special AI** v1.0.1
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
 - **Statues** v2.1.4
