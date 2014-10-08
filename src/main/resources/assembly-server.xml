@@ -1,0 +1,33 @@
+<assembly>
+    <id>server</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <fileSets>
+        <fileSet>
+            <directory>bin</directory>
+            <outputDirectory>/bin</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>mods</directory>
+            <outputDirectory>/mods</outputDirectory>
+            <excludes>
+                <exclude>*ArmorStatusHUD*</exclude>
+                <exclude>*DamageIndicators*</exclude>
+                <exclude>*DynamicLights*</exclude>
+                <exclude>*ShadersModCore*</exclude>
+                <exclude>*Shatter*</exclude>
+                <exclude>*VersionChecker*</exclude>
+                <exclude>*BetterTitleScreen*</exclude>
+            </excludes>
+        </fileSet>
+        <fileSet>
+            <directory>config</directory>
+            <outputDirectory>/config</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>servertools</directory>
+            <outputDirectory>/servertools</outputDirectory>
+        </fileSet>
+    </fileSets>
+</assembly>
