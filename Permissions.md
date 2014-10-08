@@ -1,0 +1,60 @@
+- **Admin Command Toolbox**
+- **Antique Atlas**
+- **AppleCore**
+- **Armor Status HUD**
+- **AsieLib**
+- **Better Foliage**
+- **Better Title Screen**
+- **BiblioCraft**
+- **BiblioWoods (BoP)**
+- **Biomes O' Plenty**
+- **bspkrs Core**
+- **Carpenter's Blocks**
+- **Chisel**
+- **CoFHCore**
+- **CoroUtil**
+- **Damage Indicators Mod**
+- **Dark Menagerie**
+- **Deadly World**
+- **Doom-like Dungeons**
+- **Dynamic Lights**
+- **Enviromine**
+- **Falling Meteors**
+- **Fast Leaf Decay**
+- **FMPIntegration**
+- **Forge Multipart**
+- **Garden Stuff**
+- **Glenn's Gases**
+- **Glenn's Gases Core**
+- **Glenn's Gases Framework**
+- **Glenn's Gases Framework Core**
+- **Glowstone Wire**
+- **Hardcore Ender Expansion**
+- **Hunger Overhaul**
+- **Iguana's Tweaks**
+- **Infernal Mobs**
+- **INPureCore**
+- **Inventory Tweaks**
+- **IvToolKit**
+- **Lycanite's Mobs**
+- **MineTweaker**
+- **ModTweaker**
+- **Natural Absorption**
+- **NEI Addons**
+- **NEI Plugins**
+- **Nether Ores**
+- **Not Enough Items**
+- **Open Eye**
+- **Roguelike Dungeons**
+- **ServerTools-BACKUP**
+- **ServerTools-CORE**
+- **Special AI**
+- **Special Mobs**
+- **Spice of Life**
+- **Statues**
+- **Twilight Forest**
+- **Underground Biomes Constructs**
+- **WAILA**
+- **WAWLA**
+- **Weather**
+- **Zombie Awareness**
