@@ -1,0 +1,29 @@
+<assembly>
+    <id>bin</id>
+    <formats>
+        <format>zip</format>
+    </formats>
+    <fileSets>
+        <fileSet>
+            <directory>bin</directory>
+            <outputDirectory>/bin</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>mods</directory>
+            <outputDirectory>/mods</outputDirectory>
+            <excludes>
+                <exclude>*ShadersModCore*</exclude>
+                <exclude>*VersionChecker*</exclude>
+            </excludes>
+        </fileSet>
+        <fileSet>
+            <directory>config</directory>
+            <outputDirectory>/config</outputDirectory>
+            <filtered>true</filtered>
+        </fileSet>
+        <fileSet>
+            <directory>servertools</directory>
+            <outputDirectory>/servertools</outputDirectory>
+        </fileSet>
+    </fileSets>
+</assembly>
