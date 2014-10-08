@@ -23,8 +23,14 @@
   "21": "JUNGLE",
   "20": "MOUNTAINS",
   "22": "JUNGLE_HILLS",
+  "24": "PLAINS",
+  "95": "FOREST",
   "27": "FOREST",
+  "94": "PLAINS",
   "148": "FOREST",
   "-3": "HOUSE",
-  "-2": "FENCE"
+  "-2": "FENCE",
+  "108": "FOREST",
+  "116": "PLAINS",
+  "59": "SWAMP"
 }
