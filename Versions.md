@@ -1,0 +1,68 @@
+Current Forge Version
+=
+**Forge** v10.13.0.1208
+
+Current API Versions
+=
+- **AppleCore** v1.0.0
+- **AsieLib** v0.3.1
+- **bspkrs Core** v6.14
+- **CoFHCore** v3.0.0B6-32
+- **Forge Multipart** v1.1.0.310
+- **Glenn's Gases Core** v1.5.2
+- **Glenn's Gases Framework Core** v1.0.6
+- **INPureCore** v1.0.0B1-1
+- **IvToolKit** v1.0
+- **ServerTools-BACKUP** v2.2.0.21
+- **ServerTools-CORE** v2.2.0.72
+
+Current Mod Versions
+=
+- **Admin Command Toolbox** v0.0.2a
+- **Antique Atlas** v4.0.1a
+- **Armor Status HUD** v1.27
+- **Better Foliage** v1.0.1
+- **Better Title Screen** v1.1
+- **BiblioCraft** v1.8.2
+- **BiblioWoods (BoP)** v1.8
+- **Biomes O' Plenty** v2.1.0.993
+- **Carpenter's Blocks** v3.3.0
+- **Chisel** v1.5.7
+- **Damage Indicators Mod** v3.2.0
+- **Dark Menagerie** beta v2.0
+- **Deadly World** v1.0.2
+- **Doom-like Dungeons** v1.4.0
+- **Dynamic Lights** v1.7.10
+- **Enviromine** v1.2.28
+- **Falling Meteors** v2.13.1
+- **Fast Leaf Decay** v1.0
+- **FMPIntegration** v1.0
+- **Garden Stuff** v1.2.1
+- **Glenn's Gases** v1.5.2
+- **Glenn's Gases Framework** v1.0.6
+- **Glowstone Wire** v1.0.2.113
+- **Hardcore Ender Expansion** v1.6.3
+- **Hunger Overhaul** beta v2
+- **Iguana's Tweaks** beta v19
+- **Infernal Mobs** v1.7.10
+- **Inventory Tweaks** v1.58 147
+- **Lycanite's Mobs** v1.10.1
+- **MineTweaker** v3.0.8B
+- **ModTweaker** v0.5d
+- **Natural Absorption** v1.2.1
+- **NEI Addons** v1.12.2.9
+- **NEI Plugins** v1.1.0.11
+- **Nether Ores** v2.3.0RC3-84
+- **Not Enough Items** v1.0.2.15
+- **Open Eye** v0.6
+- **Roguelike Dungeons** v1.3.5
+- **Special AI** v1.0.1
+- **Special Mobs** v3.0.2
+- **Spice of Life** v1.2.1
+- **Statues** v2.1.4
+- **Twilight Forest** v2.3.2
+- **Underground Biomes Constructs** v0.6h11
+- **WAILA** v1.5.5
+- **WAWLA** v1.0.6
+- **Weather** v2.3.6
+- **Zombie Awareness** v1.9.5
