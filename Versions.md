@@ -12,7 +12,7 @@ Current API Versions
 - **Forge Multipart** v1.1.0.310
 - **Glenn's Gases Core** v1.5.2
 - **Glenn's Gases Framework Core** v1.0.6
-- **INPureCore** v1.0.0B1-1
+- **INPureCore** v1.0.0B2-4
 - **ServerTools-BACKUP** v2.2.0.21
 - **ServerTools-CORE** v2.2.0.72
 
@@ -25,7 +25,8 @@ Current Mod Versions
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.8.2
 - **BiblioWoods (BoP)** v1.8
-- **Biomes O' Plenty** v2.1.0.993
+- **Biomes O' Plenty** v2.1.0.1004
+- **Bow Infinity Fix** rv0
 - **Carpenter's Blocks** v3.3.0
 - **Chisel** v1.5.7
 - **Damage Indicators Mod** v3.2.0
@@ -41,13 +42,13 @@ Current Mod Versions
 - **Glenn's Gases** v1.5.2
 - **Glenn's Gases Framework** v1.0.6
 - **Glowstone Wire** v1.0.2.113
-- **Hardcore Ender Expansion** v1.6.3
+- **Hardcore Ender Expansion** v1.6.4
 - **Hunger Overhaul** beta v2
 - **Iguana's Tweaks** beta v19
 - **Infernal Mobs** v1.7.10
 - **Inventory Tweaks** v1.58 147
-- **Lycanite's Mobs** v1.10.1
-- **MineTweaker** v3.0.8B
+- **Lycanite's Mobs** v1.10.2.2
+- **MineTweaker** v3.0.9
 - **ModTweaker** v0.5d
 - **Natural Absorption** v1.2.1
 - **NEI Addons** v1.12.2.9
@@ -63,6 +64,6 @@ Current Mod Versions
 - **Twilight Forest** v2.3.2
 - **Underground Biomes Constructs** v0.6h11
 - **WAILA** v1.5.5
-- **WAWLA** v1.0.6
+- **WAWLA** v1.0.7
 - **Weather** v2.3.6
 - **Zombie Awareness** v1.9.5
