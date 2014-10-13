@@ -19,6 +19,7 @@
                 <exclude>*Shatter*</exclude>
                 <exclude>*VersionChecker*</exclude>
                 <exclude>*BetterTitleScreen*</exclude>
+                <exclude>*.disabled</exclude>
             </excludes>
         </fileSet>
         <fileSet>
