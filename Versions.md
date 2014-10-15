@@ -8,10 +8,12 @@ Current API Versions
 - **AsieLib** v0.3.1
 - **bspkrs Core** v6.14
 - **CoFHCore** v3.0.0B6-32
+- **CookieCore** v1.3.0
 - **CoroUtil** v1.0
 - **Forge Multipart** v1.1.0.310
 - **Glenn's Gases Core** v1.5.2
 - **Glenn's Gases Framework Core** v1.0.6
+- **Mantle** v0.3.2
 - **INPureCore** v1.0.0B2-4
 - **ServerTools-BACKUP** v2.2.0.21
 - **ServerTools-CORE** v2.2.0.72
@@ -45,6 +47,7 @@ Current Mod Versions
 - **Glowstone Wire** v1.0.2.113
 - **Hardcore Ender Expansion** v1.6.4
 - **Hunger Overhaul** beta v2
+- **Iguana's Tinker Tweaks** v2.0.6
 - **Iguana's Tweaks** beta v19
 - **Infernal Mobs** v1.7.10
 - **Inventory Tweaks** v1.58 147
@@ -61,6 +64,9 @@ Current Mod Versions
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
 - **Statues** v2.1.4
+- **TiCTooltips** v1.1.11b
+- **Tinkers' Construct** v1.7.0d4
+- **Tinkers' Steelworks** v1.0.6
 - **Twilight Forest** v2.3.2
 - **Underground Biomes Constructs** v0.6h11
 - **WAILA** v1.5.5

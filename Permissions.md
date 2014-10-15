@@ -46,6 +46,9 @@
 - **CoFH Lib** by: *CoFH Team*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **CookieCore** by: *Ephys*
+  - **Private Packs**: [Open](http://minecraft.curseforge.com/mc-mods/222908-cookiecore/license "WTFPL")
+  - **Public Packs** : [Open](http://minecraft.curseforge.com/mc-mods/222908-cookiecore/license "WTFPL")
 - **CoroUtil** by: *Corosauce*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -103,9 +106,12 @@
 - **Hunger Overhaul** by: *iguana_man*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Iguana's Tinker Tweaks** by: *Boni*
+  - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855-iguanas-tinker-tweaks-2-0-6 "Creative Commons")
+  - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855-iguanas-tinker-tweaks-2-0-6 "Creative Commons") 
 - **Iguana's Tweaks** by: *Parker8283*
-  - **Private Packs**: [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE)
-  - **Public Packs** : [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE) 
+  - **Private Packs**: [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE "Public Domain")
+  - **Public Packs** : [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE "Public Domain") 
 - **Infernal Mobs** by: *AtomicStryker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : REQUEST NEEDED[]() 
@@ -118,6 +124,9 @@
 - **Lycanite's Mobs** by: *Lycanite*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Mantle** by: *Boni*
+  - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct "Creative Commons")
+  - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct "Creative Commons")
 - **MineTweaker** by: *StanH*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -160,6 +169,15 @@
 - **Statues** by: *ATOMIC_MAIDEN*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **TiCTooltips** by: *Squeek502*
+  - **Private Packs**: [Open](https://github.com/squeek502/TiC-Tooltips/blob/master/LICENSE "Public Domain")
+  - **Public Packs** : [Open](https://github.com/squeek502/TiC-Tooltips/blob/master/LICENSE "Public Domain") 
+- **Tinkers Construct** by: *Boni*
+  - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct "Creative Commons")
+  - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct "Creative Commons")
+- **Tinkers Steelworks** by: *Ephys*
+  - **Private Packs**: [Open](https://github.com/Ephys/TinkersSteelworks#licenses "Creative Commons")
+  - **Public Packs** : [Open](https://github.com/Ephys/TinkersSteelworks#licenses "Creative Commons")
 - **Twilight Forest** by: *Benimatic*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
