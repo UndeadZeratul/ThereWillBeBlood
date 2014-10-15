@@ -16,6 +16,9 @@
 - **Better Foliage** by: **
   - **Private Packs**: [Open](https://github.com/octarine-noise/BetterFoliage/blob/master/LICENSE)
   - **Public Packs** : [Open](https://github.com/octarine-noise/BetterFoliage/blob/master/LICENSE) 
+- **Better Storage** by: *CopyGirl*
+  - **Private Packs**: [Open](http://copy.mcft.net/mc/BetterStorage/)
+  - **Public Packs** : [Open](http://copy.mcft.net/mc/BetterStorage/) 
 - **Better Title Screen** by: *GirafiStudios*
   - **Private Packs**: [Open](https://github.com/GirafiStudios/BetterTitleScreen/blob/master/LICENSE)
   - **Public Packs** : [Open](https://github.com/GirafiStudios/BetterTitleScreen/blob/master/LICENSE) 

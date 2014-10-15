@@ -22,6 +22,7 @@ Current Mod Versions
 - **Antique Atlas** v4.0.1a
 - **Armor Status HUD** v1.27
 - **Better Foliage** v1.0.1
+- **Better Storage** v0.10.3.115
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.8.2
 - **BiblioWoods (BoP)** v1.8
