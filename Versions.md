@@ -56,7 +56,6 @@ Current Mod Versions
 - **Nether Ores** v2.3.0RC3-84
 - **Not Enough Items** v1.0.2.15
 - **Open Eye** v0.6
-- **Roguelike Dungeons** v1.3.5
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
@@ -67,3 +66,7 @@ Current Mod Versions
 - **WAWLA** v1.0.7
 - **Weather** v2.3.6
 - **Zombie Awareness** v1.9.5
+
+Disabled (For Now)
+=
+- **Roguelike Dungeons** (Causes worldgen hangs and server stalling)
