@@ -1,0 +1,98 @@
+{
+    "aluminum": {
+        "template": "normal",
+        "block": [
+            {
+                "name": "TConstruct:SearedBrick",
+                "metadata": 5,
+                "weight": 95
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 2,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 6,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 12,
+                "weight": 1
+            },
+            {
+                "name": "emerald_ore",
+                "metadata": 0,
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 5,
+        "numClusters": 11,
+        "meanHeight": 58,
+        "maxVariance": 6,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"copper": {
+        "template": "normal",
+        "block": [
+            {
+                "name": "TConstruct:SearedBrick",
+                "metadata": 3,
+                "weight": 98
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 10,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 12,
+        "numClusters": 6,
+        "meanHeight": 48,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tin": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 4
+        },
+        "material": "stone",
+        "clusterSize": 6,
+        "numClusters": 6,
+        "meanHeight": 52,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
