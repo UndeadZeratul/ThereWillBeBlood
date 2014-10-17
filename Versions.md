@@ -35,6 +35,7 @@ Current Mod Versions
 - **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie** beta v2.0
 - **Deadly World** v1.0.2
+- **Direction HUD** v1.23
 - **Doom-like Dungeons** v1.4.0
 - **Dynamic Lights** v1.7.10
 - **Enviromine** v1.2.28
@@ -63,6 +64,7 @@ Current Mod Versions
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
+- **Status Effect HUD** v1.26
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
 - **Tinkers' Construct** v1.7.0d4
