@@ -13,6 +13,7 @@ Current API Versions
 - **Forge Multipart** v1.1.0.310
 - **Glenn's Gases Core** v1.5.2
 - **Glenn's Gases Framework Core** v1.0.6
+- **Lunatrius Core** v1.1.2.14
 - **Mantle** v0.3.2
 - **INPureCore** v1.0.0B2-4
 - **ServerTools-BACKUP** v2.2.0.21
@@ -64,6 +65,7 @@ Current Mod Versions
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
+- **Stackie** v1.5.1.28
 - **Status Effect HUD** v1.26
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
