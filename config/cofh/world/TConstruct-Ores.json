@@ -35,7 +35,7 @@
         ],
         "material": "stone",
         "clusterSize": 5,
-        "numClusters": 11,
+        "numClusters": 4,
         "meanHeight": 58,
         "maxVariance": 6,
         "retrogen": "true",
@@ -53,18 +53,18 @@
             {
                 "name": "TConstruct:SearedBrick",
                 "metadata": 3,
-                "weight": 98
+                "weight": 96
             },
             {
                 "name": "BiomesOPlenty:gemOre",
                 "metadata": 10,
-                "weight": 2
+                "weight": 4
             }
         ],
         "material": "stone",
-        "clusterSize": 12,
-        "numClusters": 6,
-        "meanHeight": 48,
+        "clusterSize": 6,
+        "numClusters": 4,
+        "meanHeight": 52,
         "maxVariance": 8,
         "retrogen": "true",
         "biomeRestriction": "none",
@@ -76,15 +76,15 @@
         ]
     },
     "tin": {
-        "template": "uniform",
+        "template": "normal",
         "block": {
             "name": "TConstruct:SearedBrick",
             "metadata": 4
         },
         "material": "stone",
-        "clusterSize": 6,
-        "numClusters": 6,
-        "meanHeight": 52,
+        "clusterSize": 4,
+        "numClusters": 4,
+        "meanHeight": 48,
         "maxVariance": 8,
         "retrogen": "true",
         "biomeRestriction": "none",
