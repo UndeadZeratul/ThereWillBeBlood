@@ -13,7 +13,7 @@
 - **AsieLib** by: *asie*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-- **Better Foliage** by: **
+- **Better Foliage** by: *OctarineNoise*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet") 
 - **Better Storage** by: *CopyGirl*
