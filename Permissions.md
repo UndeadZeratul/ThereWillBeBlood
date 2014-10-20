@@ -124,6 +124,9 @@
 - **Inventory Tweaks** by: *Kobata*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Lunatrius Core** by: *Lunatrius*
+  - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
+  - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
 - **Lycanite's Mobs** by: *Lycanite*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -169,6 +172,9 @@
 - **Spice of Life** by: *Squeek502*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Stackie** by: *Lunatrius*
+  - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
+  - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
 - **Statues** by: *ATOMIC_MAIDEN*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
