@@ -6,11 +6,11 @@ If you think you're up for the challenge, give this pack a try; but be warned, _
 
 Mod List
 ===
-[Current Mod List](Versions.md)
+[Current Mod List](https://github.com/UndeadZeratul/ThereWillBeBlood/blob/master/Versions.md)
 
 Modpack Permissions
 ===
-[Permission List](Permissions.md)
+[Permission List](https://github.com/UndeadZeratul/ThereWillBeBlood/blob/master/Permissions.md)
 
 Contributing
 ===
