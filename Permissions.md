@@ -178,6 +178,9 @@
 - **Stackie** by: *Lunatrius*
   - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
   - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
+- **Stalker Creepers** by: *AtomicStryker*
+  - **Private Packs**: [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/infernalmobs.png "AtomicStryker's Permissions")
+  - **Public Packs** : REQUEST NEEDED[]() 
 - **Statues** by: *ATOMIC_MAIDEN*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")

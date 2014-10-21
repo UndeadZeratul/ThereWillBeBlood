@@ -68,6 +68,7 @@ Current Mod Versions
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
 - **Stackie** v1.5.1.28
+- **Stalker Creepers** v1.7.10
 - **Status Effect HUD** v1.26
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
