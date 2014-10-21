@@ -157,7 +157,10 @@
 - **Open Eye** by: *Mikeemoo, boq*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-- **Roguelike Dungeons** by: *Greymerk*
+- **Pam's HarvestCraft** by: *MatrexsVigil*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Pam's Temperate Plants** by: *MatrexsVigil*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **ServerTools** by: *matthewprenger*

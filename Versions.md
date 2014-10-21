@@ -62,6 +62,8 @@ Current Mod Versions
 - **Nether Ores** v2.3.0RC3-84
 - **Not Enough Items** v1.0.2.15
 - **Open Eye** v0.6
+- **Pam's HarvestCraft** v1.7.10c
+- **Pam's Temperate Plants** v1.7.2b
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1
