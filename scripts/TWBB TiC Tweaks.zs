@@ -28,12 +28,12 @@ var allLargeSwordBlades = <TConstruct:largeSwordBlade:*>;
 var allHammerHeads      = <TConstruct:hammerHead:*>;
 var allArrowHeads       = <TConstruct:arrowhead:*>;
 
-#var cobaltIngot        = ?
-#var arditeIngot        = ?
+var cobaltIngot        = <TConstruct:materials:3>;
+var arditeIngot        = <TConstruct:materials:4>;
 var manyullynIngot      = <TConstruct:materials:5>;
 
-#var cobaltShard        = ?
-#var arditeShard        = ?
+var cobaltShard        = <TConstruct:toolShard:10>;
+var arditeShard        = <TConstruct:toolShard:11>;
 var manyullynShard      = <TConstruct:toolShard:12>;
 
 var moltenManyullyn     = <liquid:manyullyn.molten>;
@@ -64,12 +64,12 @@ furnace.remove(<*>, arditeOre);
 #----------
 
 # Remove Cobalt, Ardite and Manyullyn 
-Smeltery.removeMelting(<TConstruct:materials:3>);
-Smeltery.removeMelting(<TConstruct:materials:4>);
+Smeltery.removeMelting(cobaltIngot);
+Smeltery.removeMelting(arditeIngot);
 Smeltery.removeMelting(manyullynIngot);
 
-Smeltery.removeMelting(<TConstruct:toolShard:10>);
-Smeltery.removeMelting(<TConstruct:toolShard:11>);
+Smeltery.removeMelting(cobaltShard);
+Smeltery.removeMelting(arditeShard);
 Smeltery.removeMelting(manyullynShard);
 
 # Remove re-melting down toolparts
@@ -101,5 +101,5 @@ Smeltery.removeMelting(allArrowHeads);
 Smeltery.removeAlloy(moltenManyullyn);
 
 # Temp Manyullyn Crafting Recipe?
-recipes.addShapeless(manyullynShard, [<TConstruct:materials:3>, <TConstruct:materials:4>]);
+recipes.addShapeless(manyullynShard, [cobaltShard, arditeShard]);
 
