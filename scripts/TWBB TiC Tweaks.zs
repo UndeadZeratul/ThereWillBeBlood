@@ -38,6 +38,28 @@ var manyullynShard      = <TConstruct:toolShard:12>;
 
 var moltenManyullyn     = <liquid:manyullyn.molten>;
 
+var aluminiumOre        = <ore:oreAluminium>;
+var aluminumOre         = <ore:oreAluminum>;
+var copperOre           = <ore:oreCopper>;
+var tinOre              = <ore:oreTin>;
+var ironOre             = <ore:oreIron>;
+var goldOre             = <ore:oreGold>;
+var cobaltOre           = <ore:oreCobalt>;
+var arditeOre           = <ore:oreArdite>;
+
+# FURNACE TWEAKS
+#----------------
+
+# Disable vanilla furnace ore melting
+furnace.remove(<*>, aluminiumOre);
+furnace.remove(<*>, aluminumOre);
+furnace.remove(<*>, copperOre);
+furnace.remove(<*>, tinOre);
+furnace.remove(<*>, ironOre);
+furnace.remove(<*>, goldOre);
+furnace.remove(<*>, cobaltOre);
+furnace.remove(<*>, arditeOre);
+
 # SMELTERY TWEAKS
 #----------
 
