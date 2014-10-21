@@ -7,7 +7,7 @@ var carpentersSlab           = <CarpentersBlocks:blockCarpentersBlock>; // Shoul
 
 var glass                    = <ore:glass>;
 var quartz                   = <minecraft:quartz>;
-var stick                    = <ore:stick>;
+var stick                    = <ore:stickWood>;
 
 # Carpenter's Barrier
 #-------------------------------------------------
