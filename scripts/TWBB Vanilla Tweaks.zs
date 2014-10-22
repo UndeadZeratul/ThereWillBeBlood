@@ -17,6 +17,14 @@ var torchWood       = <minecraft:torch>;
 var torchCarpenters = <CarpentersBlocks:blockCarpentersTorch>;
 var torchStone      = <TConstruct:decoration.stonetorch>;
 
+var quartz          = <minecraft:quartz>;
+var emerald         = <minecraft:emerald>;
+var clayBall        = <minecraft:clay_ball>;
+var clayBlock       = <minecraft:clay>;
+var bucket          = <minecraft:bucket>;
+
+var steelIngot      = <ore:ingotSteel>;
+
 # ITEM LISTS
 #------------
 var torchFuels = [
@@ -42,6 +50,18 @@ anyTorch.add(torchWood);
 anyTorch.add(torchCarpenters);
 anyTorch.add(torchStone);
 
+# FURNACE
+#---------
+furnace.remove(coal);
+furnace.remove(quartz);
+furnace.remove(emerald);
+
+# RECIPE REMOVAL
+#----------------
+recipes.removeShaped(coal, [
+    [<*>,<*>,<*>],
+    [<*>,<*>,<*>],
+    [<*>,<*>,<*>]]);
 
 # Nerf Torch Recipes
 #-------------------------
@@ -67,4 +87,17 @@ for i, handle in torchHandles
     recipes.addShapeless(torch * 2, [torchberries, handle, handle]);
 
 }
+
+# Add Clayball
+#--------------
+recipes.addShapeless(clayBall * 4, [clayBlock]);
+
+# Replace Iron With Steel
+#-------------------------
+
+# Bucket
+recipes.remove(bucket);
+recipes.addShaped(bucket, [
+    [steelIngot, null,       steelIngot],
+    [null,       steelIngot, null      ]]);
 
