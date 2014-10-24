@@ -2,6 +2,7 @@
 	"name": "Dairy",
 	"food": {
 		"oredict": [
+			"foodSmoothie",
 			"foodYogurt",
 			"listAllicecream",
 			"listAllmilk"
