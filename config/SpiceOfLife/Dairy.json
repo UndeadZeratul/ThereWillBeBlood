@@ -1,0 +1,10 @@
+{
+    "name": "Dairy",
+	"food": {
+		"oredict": [
+			"foodYogurt",
+			"listAllicecream",
+			"listAllmilk"
+		],
+	}
+}
