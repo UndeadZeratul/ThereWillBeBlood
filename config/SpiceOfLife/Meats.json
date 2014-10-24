@@ -3,7 +3,9 @@
 	"food": {
 		"oredict": [
 			"listAllmeatraw",
-			"listAllmeatcooked"
+			"listAllmeatcooked",
+			"listAllfishraw",
+			"listAllfishcooked"
 		]
 	}
 }
