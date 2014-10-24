@@ -1,0 +1,9 @@
+{
+	"name": "Meats",
+	"food": {
+		"oredict": [
+			"listAllmeatraw",
+			"listAllmeatcooked"
+		]
+	}
+}
