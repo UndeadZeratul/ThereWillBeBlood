@@ -196,6 +196,9 @@
 - **Tinkers Steelworks** by: *Ephys, Toops*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Too Much Loot** by: *dmillerw*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Twilight Forest** by: *Benimatic*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
