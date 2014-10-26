@@ -13,6 +13,8 @@
             <outputDirectory>/mods</outputDirectory>
             <excludes>
                 <exclude>*ArmorStatusHUD*</exclude>
+                <exclude>*DirectionHUD*</exclude>
+                <exclude>*StatusEffectHUD*</exclude>
                 <exclude>*DamageIndicators*</exclude>
                 <exclude>*DynamicLights*</exclude>
                 <exclude>*ShadersModCore*</exclude>
@@ -20,6 +22,10 @@
                 <exclude>*VersionChecker*</exclude>
                 <exclude>*BetterTitleScreen*</exclude>
                 <exclude>*.disabled</exclude>
+                <exclude>*fastcraft*</exclude>
+                <exclude>*MobiusCore*</exclude>
+                <exclude>*Opis*</exclude>
+                <exclude>*Optifine*</exclude>
             </excludes>
         </fileSet>
         <fileSet>
