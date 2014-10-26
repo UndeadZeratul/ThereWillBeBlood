@@ -41,7 +41,6 @@ Current Mod Versions
 - **Dynamic Lights** v1.7.10
 - **Enviromine** v1.2.28
 - **Falling Meteors** v2.13.1
-- **Fast Leaf Decay** v1.0
 - **FMPIntegration** v1.0
 - **Garden Stuff** v1.2.1
 - **Glenn's Gases** v1.5.2
@@ -64,6 +63,7 @@ Current Mod Versions
 - **Open Eye** v0.6
 - **Pam's HarvestCraft** v1.7.10c
 - **Pam's Temperate Plants** v1.7.2b
+- **Random Things** v2.1.9
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.2
 - **Spice of Life** v1.2.1

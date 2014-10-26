@@ -76,9 +76,6 @@
 - **Falling Meteors** by: *AlexDGr8r*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-- **Fast Leaf Decay** by: *Olafski*
-  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **FMPIntegration** by: *wasliebob*
   - **Private Packs**: [Open](http://www.wasliebob.nl/ "WaslieBob's Official Website")
   - **Public Packs** : [Open](http://www.wasliebob.nl/ "WaslieBob's Official Website")
@@ -161,6 +158,9 @@
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Pam's Temperate Plants** by: *MatrexsVigil*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Random Things** by: *Lumien*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **ServerTools** by: *matthewprenger*
