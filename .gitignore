@@ -14,6 +14,9 @@ reports/
 saves/
 screenshots/
 
+config/mapwriter*
+config/opis*
+
 *.lck
 *.rar
 1213309934
