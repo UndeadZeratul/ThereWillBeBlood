@@ -291,7 +291,7 @@ cake.add(<harvestcraft:redvelvetcakeItem>);
 cake.add(<minecraft:cake>);
 
 # Pancakes
-var pancakes  = <ore:foodPancakes>;
+var pancakes  = <ore:foodPancake>;
 
 pancakes.add(<harvestcraft:blueberrypancakesItem>);
 pancakes.add(<harvestcraft:maplesyruppancakesItem>);
