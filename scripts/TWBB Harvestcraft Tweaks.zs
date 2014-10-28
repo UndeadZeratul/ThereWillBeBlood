@@ -1,7 +1,52 @@
+# MOD IMPORTS
+#-------------
+import minetweaker.item.IItemstack;
+
 # COMMON VARIABLES
 #------------------
 var allSinks   = <harvestcraft:sink:*>;
 var saltOre    = <harvestcraft:salt>;
+var string     = <minecraft:string>;
+var wax        = <harvestcraft:waxItem>; // NOTE: should be ore dictionary, will fix later.
+
+# ITEM LISTS
+#------------
+var candles    = [
+    <harvestcraft:pamcandleDeco1>,
+    <harvestcraft:pamcandleDeco2>,
+    <harvestcraft:pamcandleDeco3>,
+    <harvestcraft:pamcandleDeco4>,
+    <harvestcraft:pamcandleDeco5>,
+    <harvestcraft:pamcandleDeco6>,
+    <harvestcraft:pamcandleDeco7>,
+    <harvestcraft:pamcandleDeco8>,
+    <harvestcraft:pamcandleDeco9>,
+    <harvestcraft:pamcandleDeco10>,
+    <harvestcraft:pamcandleDeco11>,
+    <harvestcraft:pamcandleDeco12>,
+    <harvestcraft:pamcandleDeco13>,
+    <harvestcraft:pamcandleDeco14>,
+    <harvestcraft:pamcandleDeco15>,
+    <harvestcraft:pamcandleDeco16>
+] as IItemStack[];
+var dyes       = [
+    <minecraft:dye:0>,
+    <minecraft:dye:1>,
+    <minecraft:dye:2>,
+    <minecraft:dye:3>,
+    <minecraft:dye:4>,
+    <minecraft:dye:5>,
+    <minecraft:dye:6>,
+    <minecraft:dye:7>,
+    <minecraft:dye:8>,
+    <minecraft:dye:9>,
+    <minecraft:dye:10>,
+    <minecraft:dye:11>,
+    <minecraft:dye:12>,
+    <minecraft:dye:13>,
+    <minecraft:dye:14>,
+    <minecraft:dye:15>
+] as IItemStack[];
 
 # ORE DICTIONARY
 #----------------
@@ -307,3 +352,12 @@ pasta.add(<harvestcraft:spagettiandmeatballsItem>);
 # RECIPE REMOVAL
 #----------------
 recipes.remove(allSinks);
+
+# Nerf Candles
+#--------------
+for i, candle in candles {
+    var dye = dyes[i];
+    
+    recipes.remove(candle);
+    recipes.addShapeless(candle, [string, wax, dye]);
+}
