@@ -843,12 +843,16 @@ Smeltery.addMelting(bucket, moltenSteel * 432, 700, steelBlock);
 # Cobalt, Ardite and Manyullyn require High Oven
 Smeltery.removeMelting(cobaltOre);
 Smeltery.removeMelting(arditeOre);
-Smeltery.removeMelting(cobaltIngot);
-Smeltery.removeMelting(arditeIngot);
-Smeltery.removeMelting(manyullynIngot);
-Smeltery.removeMelting(cobaltShard);
-Smeltery.removeMelting(arditeShard);
-Smeltery.removeMelting(manyullynShard);
+#Smeltery.removeMelting(cobaltIngot);
+#Smeltery.removeMelting(arditeIngot);
+#Smeltery.removeMelting(manyullynIngot);
+#Smeltery.removeMelting(cobaltShard);
+#Smeltery.removeMelting(arditeShard);
+#Smeltery.removeMelting(manyullynShard);
+
+/*
+# To disable re-melting of toolparts, delete the comment above this line,
+# as well as the one below.
 
 # Remove re-melting down toolparts
 for i, shard in metalShards {
@@ -876,6 +880,10 @@ for i, shard in metalShards {
     Smeltery.removeMelting(metalHammerHeads[i]);
     Smeltery.removeMelting(metalArrowheads[i]);
 }
+
+# To disable re-melting of tool parts, delete the comment below this line,
+# as well as the one above.
+*/
 
 # Remove alloying Manyullyn (Disabled for now)
 #Smeltery.removeAlloy(moltenManyullyn);
