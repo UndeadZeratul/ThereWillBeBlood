@@ -1,0 +1,8 @@
+{
+	"name": "Vegetables",
+	"food": {
+		"oredict": [
+			"listAllveggies"
+		]
+	}
+}
