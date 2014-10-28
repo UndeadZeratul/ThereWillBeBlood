@@ -25,6 +25,7 @@ meatCooked.add(<mountainmobs:yalemeatcooked>);
 meatCooked.add(<plainsmobs:makameatcooked>);
 meatCooked.add(<saltwatermobs:ikameatcooked>);
 meatCooked.add(<swampmobs:aspidmeatcooked>);
+meatCooked.add(<TwilightForest:item.meefSteak>);
 
 # Raw Meat
 var meatRaw    = <ore:listAllmeatraw>;
@@ -39,6 +40,8 @@ meatRaw.add(<mountainmobs:yalemeatraw>);
 meatRaw.add(<plainsmobs:makameatraw>);
 meatRaw.add(<saltwatermobs:ikameatraw>);
 meatRaw.add(<swampmobs:aspidmeatraw>);
+meatRaw.add(<TwilightForest:item.meefRaw>);
+meatRaw.add(<TwilightForest:item.hydraChop>);
 
 # Meat Treat
 var meatTreat  = <ore:foodMeatTreat>;
@@ -81,6 +84,7 @@ soup.add(<harvestcraft:gardensoupItem>);
 soup.add(<harvestcraft:oldworldveggiesoupItem>);
 soup.add(<harvestcraft:lambbarleysoupItem>);
 soup.add(<harvestcraft:leekbaconsoupItem>);
+soup.add(<arcticmobs:palesoup>);
 
 # Burger
 var burger     = <ore:foodBurger>;
@@ -95,7 +99,7 @@ burger.add(<harvestcraft:chickensandwichItem>);
 burger.add(<harvestcraft:fishsandwichItem>);
 burger.add(<harvestcraft:leafychickensandwichItem>);
 burger.add(<harvestcraft:leafyfishsandwichItem>);
-burger.add(<harvestcraft:bltItem>);
+burger.add(<plainsmobs:bulwarkburger>);
 
 # Smoothie
 var smoothie   = <ore:foodSmoothie>;
@@ -180,6 +184,7 @@ sandwich.add(<harvestcraft:figjellysandwichItem>);
 sandwich.add(<harvestcraft:grapefruitjellysandwichItem>);
 sandwich.add(<harvestcraft:persimmonjellysandwichItem>);
 sandwich.add(<harvestcraft:pbandjItem>);
+sandwich.add(<harvestcraft:bltItem>);
 
 # Salad
 var salad     = <ore:foodSalad>;
@@ -271,6 +276,33 @@ pie.add(<harvestcraft:sweetpotatopieItem>);
 pie.add(<minecraft:pumpkin_pie>);
 pie.add(<swampmobs:mosspie>);
 pie.add(<TwilightForest:item.experiment115>);
+
+# Cake
+var cake      = <ore:foodCake>;
+
+cake.add(<desertmobs:ambercake>);
+cake.add(<harvestcraft:carrotcakeItem>);
+cake.add(<harvestcraft:cheesecakeItem>);
+cake.add(<harvestcraft:cherrycheesecakeItem>);
+cake.add(<harvestcraft:chocolatesprinklecakeItem>);
+cake.add(<harvestcraft:pineappleupsidedowncakeItem>);
+cake.add(<harvestcraft:potatocakesItem>);
+cake.add(<harvestcraft:redvelvetcakeItem>);
+cake.add(<minecraft:cake>);
+
+# Pancakes
+var pancakes  = <ore:foodPancakes>;
+
+pancakes.add(<harvestcraft:blueberrypancakesItem>);
+pancakes.add(<harvestcraft:maplesyruppancakesItem>);
+pancakes.add(<harvestcraft:pancakesItem>);
+
+# Pasta
+var pasta     = <ore:foodPasta>;
+
+pasta.add(<demonmobs:devillasagna>);
+pasta.add(<harvestcraft:spagettiItem>);
+pasta.add(<harvestcraft:spagettiandmeatballsItem>);
 
 # RECIPE REMOVAL
 #----------------
