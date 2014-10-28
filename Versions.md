@@ -5,19 +5,19 @@ Current Forge Version
 Current API Versions
 =
 - **AppleCore** v1.0.0
-- **AsieLib** v0.3.1
+- **AsieLib** v0.3.2
 - **bspkrs Core** v6.14
 - **CoFHCore** v3.0.0B6-32
 - **CookieCore** v1.3.0
 - **CoroUtil** v1.0
-- **Forge Multipart** v1.1.0.310
+- **Forge Multipart** v1.1.0.311
 - **Glenn's Gases Core** v1.5.2
 - **Glenn's Gases Framework Core** v1.0.6
 - **Lunatrius Core** v1.1.2.14
 - **Mantle** v0.3.2
 - **INPureCore** v1.0.0B2-4
 - **ServerTools-BACKUP** v2.2.0.21
-- **ServerTools-CORE** v2.2.0.72
+- **ServerTools-CORE** v2.2.0.73
 
 Current Mod Versions
 =
@@ -50,13 +50,13 @@ Current Mod Versions
 - **Hunger Overhaul** beta v2
 - **Iguana's Tinker Tweaks** v2.0.6
 - **Iguana's Tweaks** beta v19
-- **Infernal Mobs** v1.7.10
+- **Infernal Mobs** v1.5.9
 - **Inventory Tweaks** v1.58 147
 - **Lycanite's Mobs** v1.10.2.2
-- **MineTweaker** v3.0.9
+- **MineTweaker** v3.0.9b
 - **ModTweaker** v0.5d
 - **Natural Absorption** v1.2.1
-- **NEI Addons** v1.12.2.9
+- **NEI Addons** v1.12.3.11
 - **NEI Plugins** v1.1.0.11
 - **Nether Ores** v2.3.0RC3-84
 - **Not Enough Items** v1.0.2.15
@@ -65,20 +65,20 @@ Current Mod Versions
 - **Pam's Temperate Plants** v1.7.2b
 - **Random Things** v2.1.9
 - **Special AI** v1.0.1
-- **Special Mobs** v3.0.2
-- **Spice of Life** v1.2.1
+- **Special Mobs** v3.0.3
+- **Spice of Life** v1.2.2
 - **Stackie** v1.5.1.28
 - **Stalker Creepers** v1.7.10
 - **Status Effect HUD** v1.26
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
-- **Tinkers' Construct** v1.7.0d4
+- **Tinkers' Construct** v1.7.1c
 - **Tinkers' Steelworks** v1.0.6
 - **Too Much Loot** v3.0.1.B22
 - **Twilight Forest** v2.3.2
 - **Underground Biomes Constructs** v0.6h11
 - **WAILA** v1.5.5
-- **WAWLA** v1.0.7
+- **WAWLA** v1.0.9
 - **Weather** v2.3.6
 - **Zombie Awareness** v1.9.5
 
