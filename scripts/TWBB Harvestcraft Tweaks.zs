@@ -1,18 +1,62 @@
 # COMMON VARIABLES
 #------------------
-var allSinks  = <harvestcraft:sink:*>;
-var saltOre   = <harvestcraft:salt>;
+var allSinks   = <harvestcraft:sink:*>;
+var saltOre    = <harvestcraft:salt>;
 
 # ORE DICTIONARY
 #----------------
 
 # Salt Ore
-var oreSalt   = <ore:oreSalt>;
+var oreSalt    = <ore:oreSalt>;
 
 oreSalt.add(saltOre);
 
+# Cooked Meat
+var meatCooked = <ore:listAllmeatcooked>;
+
+meatCooked.add(<TwilightForest:item.venisonCooked>);
+meatCooked.add(<arcticmobs:yetimeatcooked>);
+meatCooked.add(<demonmobs:pinkymeatcooked>);
+meatCooked.add(<desertmobs:joustmeatcooked>);
+meatCooked.add(<forestmobs:arisaurmeatcooked>);
+meatCooked.add(<infernomobs:cephignismeatcooked>);
+meatCooked.add(<junglemobs:concapedemeatcooked>);
+meatCooked.add(<mountainmobs:yalemeatcooked>);
+meatCooked.add(<plainsmobs:makameatcooked>);
+meatCooked.add(<saltwatermobs:ikameatcooked>);
+meatCooked.add(<swampmobs:aspidmeatcooked>);
+
+# Raw Meat
+var meatRaw    = <ore:listAllmeatraw>;
+
+meatRaw.add(<TwilightForest:item.venisonRaw>);
+meatRaw.add(<arcticmobs:yetimeatraw>);
+meatRaw.add(<demonmobs:pinkymeatraw>);
+meatRaw.add(<desertmobs:joustmeatraw>);
+meatRaw.add(<forestmobs:arisaurmeatraw>);
+meatRaw.add(<junglemobs:concapedemeatraw>);
+meatRaw.add(<mountainmobs:yalemeatraw>);
+meatRaw.add(<plainsmobs:makameatraw>);
+meatRaw.add(<saltwatermobs:ikameatraw>);
+meatRaw.add(<swampmobs:aspidmeatraw>);
+
+# Meat Treat
+var meatTreat  = <ore:foodMeatTreat>;
+
+meatTreat.add(<arcticmobs:arixtreat>);
+meatTreat.add(<demonmobs:cacodemontreat>);
+meatTreat.add(<demonmobs:pinkytreat>);
+meatTreat.add(<desertmobs:crusktreat>);
+meatTreat.add(<desertmobs:erepedetreat>);
+meatTreat.add(<forestmobs:shamblertreat>);
+meatTreat.add(<infernomobs:afrittreat>);
+meatTreat.add(<junglemobs:uvaraptortreat>);
+meatTreat.add(<plainsmobs:ventoraptortreat>);
+meatTreat.add(<swampmobs:eyewigtreat>);
+meatTreat.add(<swampmobs:lurkertreat>);
+
 # Soup
-var soup      = <ore:foodSoup>;
+var soup       = <ore:foodSoup>;
 
 soup.add(<harvestcraft:pumpkinsoupItem>);
 soup.add(<harvestcraft:carrotsoupItem>);
@@ -39,7 +83,7 @@ soup.add(<harvestcraft:lambbarleysoupItem>);
 soup.add(<harvestcraft:leekbaconsoupItem>);
 
 # Burger
-var burger    = <ore:foodBurger>;
+var burger     = <ore:foodBurger>;
 
 burger.add(<harvestcraft:hamburgerItem>);
 burger.add(<harvestcraft:cheeseburgerItem>);
@@ -54,7 +98,7 @@ burger.add(<harvestcraft:leafyfishsandwichItem>);
 burger.add(<harvestcraft:bltItem>);
 
 # Smoothie
-var smoothie  = <ore:foodSmoothie>;
+var smoothie   = <ore:foodSmoothie>;
 
 smoothie.add(<harvestcraft:melonsmoothieItem>);
 smoothie.add(<harvestcraft:strawberrysmoothieItem>);
@@ -78,7 +122,7 @@ smoothie.add(<harvestcraft:grapefruitsmoothieItem>);
 smoothie.add(<harvestcraft:persimmonsmoothieItem>);
 
 # Yogurt
-var yogurt   = <ore:foodYogurt>;
+var yogurt    = <ore:foodYogurt>;
 
 yogurt.add(<harvestcraft:pineappleyogurtItem>);
 yogurt.add(<harvestcraft:papayayogurtItem>);
@@ -112,7 +156,7 @@ yogurt.add(<harvestcraft:persimmonyogurtItem>);
 yogurt.add(<harvestcraft:plainyogurtItem>);
 
 # Sandwich
-var sandwich = <ore:foodSandwich>;
+var sandwich  = <ore:foodSandwich>;
 
 sandwich.add(<harvestcraft:applejellysandwichItem>);
 sandwich.add(<harvestcraft:blackberryjellysandwichItem>);
@@ -138,28 +182,29 @@ sandwich.add(<harvestcraft:persimmonjellysandwichItem>);
 sandwich.add(<harvestcraft:pbandjItem>);
 
 # Salad
-var salad    = <ore:foodSalad>;
+var salad     = <ore:foodSalad>;
 
-salad.add(<harvestcraft:potatosaladItem>);
+salad.add(<harvestcraft:beetsaladItem>);
+salad.add(<harvestcraft:citrussaladItem>);
+salad.add(<harvestcraft:cucumbersaladItem>);
 salad.add(<harvestcraft:eggsaladItem>);
 salad.add(<harvestcraft:fruitsaladItem>);
+salad.add(<harvestcraft:grapesaladItem>);
+salad.add(<harvestcraft:mixedsaladItem>);
+salad.add(<harvestcraft:potatosaladItem>);
 salad.add(<harvestcraft:springsaladItem>);
 salad.add(<harvestcraft:strawberrysaladItem>);
-salad.add(<harvestcraft:grapesaladItem>);
-salad.add(<harvestcraft:cucumbersaladItem>);
-salad.add(<harvestcraft:beetsaladItem>);
 salad.add(<harvestcraft:summerradishsaladItem>);
 salad.add(<harvestcraft:sunflowerbroccolisaladItem>);
-salad.add(<harvestcraft:mixedsaladItem>);
-salad.add(<harvestcraft:citrussaladItem>);
+salad.add(<forestmobs:paleosalad>);
 
 # Juice
-var juice    = <ore:listAlljuice>;
+var juice     = <ore:listAlljuice>;
 
 juice.add(<harvestcraft:grapefruitjuiceItem>);
 
 # Soda
-var soda     = <ore:foodSoda>;
+var soda      = <ore:foodSoda>;
 
 soda.add(<harvestcraft:cherrysodaItem>);
 soda.add(<harvestcraft:colasodaItem>);
@@ -172,7 +217,7 @@ soda.add(<harvestcraft:strawberrysodaItem>);
 soda.add(<harvestcraft:grapefruitsodaItem>);
 
 # Ice Cream
-var iceCream = <ore:listAllicecream>;
+var iceCream  = <ore:listAllicecream>;
 
 iceCream.add(<harvestcraft:icecreamItem>);
 iceCream.add(<harvestcraft:chocolateicecreamItem>);
@@ -184,7 +229,7 @@ iceCream.add(<harvestcraft:strawberryicecreamItem>);
 iceCream.add(<harvestcraft:vanillaicecreamItem>);
 
 # Jelly
-var jelly    = <ore:listAlljelly>;
+var jelly     = <ore:listAlljelly>;
 
 jelly.add(<harvestcraft:grapejellyItem>);
 jelly.add(<harvestcraft:applejellyItem>);
@@ -208,6 +253,24 @@ jelly.add(<harvestcraft:apricotjellyItem>);
 jelly.add(<harvestcraft:figjellyItem>);
 jelly.add(<harvestcraft:grapefruitjellyItem>);
 jelly.add(<harvestcraft:persimmonjellyItem>);
+
+# Pie
+var pie       = <ore:foodPie>;
+
+pie.add(<harvestcraft:applepieItem>);
+pie.add(<harvestcraft:blueberrypieItem>);
+pie.add(<harvestcraft:cherrypieItem>);
+pie.add(<harvestcraft:chickenpotpieItem>);
+pie.add(<harvestcraft:keylimepieItem>);
+pie.add(<harvestcraft:meatpieItem>);
+pie.add(<harvestcraft:pecanpieItem>);
+pie.add(<harvestcraft:raspberrypieItem>);
+pie.add(<harvestcraft:shepardspieItem>);
+pie.add(<harvestcraft:strawberrypieItem>);
+pie.add(<harvestcraft:sweetpotatopieItem>);
+pie.add(<minecraft:pumpkin_pie>);
+pie.add(<swampmobs:mosspie>);
+pie.add(<TwilightForest:item.experiment115>);
 
 # RECIPE REMOVAL
 #----------------
