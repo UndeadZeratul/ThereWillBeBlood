@@ -16,6 +16,7 @@ screenshots/
 
 config/mapwriter*
 config/opis*
+config/versionchecker*
 
 *.lck
 *.rar
@@ -25,6 +26,8 @@ nicknames.json
 options.txt
 optionsshaders.txt
 usercache.json
+usernamecache.json
+optionsof.txt
 
 #################
 ## Eclipse
