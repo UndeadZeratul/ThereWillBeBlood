@@ -22,6 +22,8 @@ var emerald         = <minecraft:emerald>;
 var clayBall        = <minecraft:clay_ball>;
 var clayBlock       = <minecraft:clay>;
 var bucket          = <minecraft:bucket>;
+var flint           = <minecraft:flint>;
+var flintNSteel     = <minecraft:flint_and_steel>;
 
 var steelIngot      = <ore:ingotSteel>;
 
@@ -101,3 +103,7 @@ recipes.addShaped(bucket, [
     [steelIngot, null,       steelIngot],
     [null,       steelIngot, null      ]]);
 
+# Properly Force Flint&Steel to cost steel
+#------------------------------------------
+recipes.remove(flintNSteel);
+recipes.addShapeless(flintNSteel, [flint, steelIngot]);
