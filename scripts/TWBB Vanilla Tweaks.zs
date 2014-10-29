@@ -17,6 +17,7 @@ var torchWood       = <minecraft:torch>;
 var torchCarpenters = <CarpentersBlocks:blockCarpentersTorch>;
 var torchStone      = <TConstruct:decoration.stonetorch>;
 
+var bread           = <minecraft:bread>;
 var quartz          = <minecraft:quartz>;
 var emerald         = <minecraft:emerald>;
 var clayBall        = <minecraft:clay_ball>;
@@ -60,6 +61,7 @@ furnace.remove(emerald);
 
 # RECIPE REMOVAL
 #----------------
+recipes.removeShaped(bread);
 recipes.removeShaped(coal, [
     [<*>,<*>,<*>],
     [<*>,<*>,<*>],
