@@ -1,13 +1,14 @@
 # MOD IMPORTS
 #-------------
-import minetweaker.item.IItemstack;
+import minetweaker.item.IItemStack;
+import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
 var allSinks   = <harvestcraft:sink:*>;
 var saltOre    = <harvestcraft:salt>;
-var string     = <minecraft:string>;
-var wax        = <harvestcraft:waxItem>; // NOTE: should be ore dictionary, will fix later.
+#var string     = <minecraft:string>;
+var wax        = <ore:materialPressedWax>;
 
 # ITEM LISTS
 #------------
@@ -30,23 +31,23 @@ var candles    = [
     <harvestcraft:pamcandleDeco16>
 ] as IItemStack[];
 var dyes       = [
-    <minecraft:dye:0>,
-    <minecraft:dye:1>,
-    <minecraft:dye:2>,
-    <minecraft:dye:3>,
-    <minecraft:dye:4>,
-    <minecraft:dye:5>,
-    <minecraft:dye:6>,
-    <minecraft:dye:7>,
-    <minecraft:dye:8>,
-    <minecraft:dye:9>,
-    <minecraft:dye:10>,
-    <minecraft:dye:11>,
-    <minecraft:dye:12>,
-    <minecraft:dye:13>,
-    <minecraft:dye:14>,
-    <minecraft:dye:15>
-] as IItemStack[];
+    <ore:dyeWhite>,
+    <ore:dyeOrange>,
+    <ore:dyeMagenta>,
+    <ore:dyeLightBlue>,
+    <ore:dyeYellow>,
+    <ore:dyeLime>,
+    <ore:dyePink>,
+    <ore:dyeGray>,
+    <ore:dyeLightGray>,
+    <ore:dyeCyan>,
+    <ore:dyePurple>,
+    <ore:dyeBlue>,
+    <ore:dyeBrown>,
+    <ore:dyeGreen>,
+    <ore:dyeRed>,
+    <ore:dyeBlack>
+] as IIngredient[];
 
 # ORE DICTIONARY
 #----------------
@@ -359,5 +360,5 @@ for i, candle in candles {
     var dye = dyes[i];
     
     recipes.remove(candle);
-    recipes.addShapeless(candle, [string, wax, dye]);
+    recipes.addShapeless(candle, [wax, <minecraft:string>, dye]);
 }
