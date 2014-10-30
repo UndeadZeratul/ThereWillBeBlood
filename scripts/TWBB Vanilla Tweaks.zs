@@ -25,8 +25,9 @@ var clayBlock       = <minecraft:clay>;
 var bucket          = <minecraft:bucket>;
 var flint           = <minecraft:flint>;
 var flintNSteel     = <minecraft:flint_and_steel>;
-
+var anvil           = <minecraft:anvil>;
 var steelIngot      = <ore:ingotSteel>;
+var steelBlock      = <ore:blockSteel>;
 
 # ITEM LISTS
 #------------
@@ -105,7 +106,13 @@ recipes.addShaped(bucket, [
     [steelIngot, null,       steelIngot],
     [null,       steelIngot, null      ]]);
 
-# Properly Force Flint&Steel to cost steel
-#------------------------------------------
+# Flint & Steel
 recipes.remove(flintNSteel);
 recipes.addShapeless(flintNSteel, [flint, steelIngot]);
+
+# Anvil
+recipes.remove(anvil);
+recipes.addShaped(anvil, [
+    [steelBlock, steelBlock, steelBlock],
+    [null,       steelIngot, null      ],
+    [steelIngot, steelIngot, steelIngot]]);

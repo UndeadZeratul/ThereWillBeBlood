@@ -514,14 +514,20 @@ var steelFullGuard            = <TConstruct:fullGuard:16>;
 var blueSlimeFullGuard        = <TConstruct:fullGuard:17>;
 var pigIronFullGuard          = <TConstruct:fullGuard:18>;
 
-var cobaltIngot               = <TConstruct:materials:3>;
-var arditeIngot               = <TConstruct:materials:4>;
-var manyullynIngot            = <TConstruct:materials:5>;
+# Ingots
+var aluminumIngot             = <ore:ingotAluminum>;
+var copperIngot               = <ore:ingotCopper>;
+var tinIngot                  = <ore:ingotTin>;
+var zincIngot                 = <ore:ingotZinc>;
+var ironIngot                 = <ore:ingotIron>;
+var goldIngot                 = <ore:ingotGold>;
+var cobaltIngot               = <ore:ingotCobalt>;
+var arditeIngot               = <ore:ingotArdite>;
+var manyullynIngot            = <ore:ingotManyullyn>;
 
 var moltenSteel               = <liquid:steel.molten>;
 var moltenManyullyn           = <liquid:manyullyn.molten>;
 
-var aluminiumOre              = <ore:oreAluminium>;
 var aluminumOre               = <ore:oreAluminum>;
 var copperOre                 = <ore:oreCopper>;
 var tinOre                    = <ore:oreTin>;
@@ -529,6 +535,10 @@ var ironOre                   = <ore:oreIron>;
 var goldOre                   = <ore:oreGold>;
 var cobaltOre                 = <ore:oreCobalt>;
 var arditeOre                 = <ore:oreArdite>;
+var netherCopperOre           = <ore:oreNetherCopper>;
+var netherTinOre              = <ore:oreNetherTin>;
+var netherIronOre             = <ore:oreNetherIron>;
+var netherGoldOre             = <ore:oreNetherGold>;
 
 # ITEM LISTS
 #------------
@@ -825,14 +835,15 @@ var metalArrowheads           = [
 #----------------
 
 # Disable vanilla furnace ore melting
-furnace.remove(<*>, aluminiumOre);
-furnace.remove(<*>, aluminumOre);
-furnace.remove(<*>, copperOre);
-furnace.remove(<*>, tinOre);
-furnace.remove(<*>, ironOre);
-furnace.remove(<*>, goldOre);
-furnace.remove(<*>, cobaltOre);
-furnace.remove(<*>, arditeOre);
+furnace.remove(aluminumIngot);
+furnace.remove(copperIngot);
+furnace.remove(tinIngot);
+furnace.remove(ironIngot);
+furnace.remove(goldIngot);
+furnace.remove(copperOre);
+furnace.remove(tinOre);
+furnace.remove(ironOre);
+furnace.remove(goldOre);
 
 # SMELTERY TWEAKS
 #----------
@@ -840,7 +851,11 @@ furnace.remove(<*>, arditeOre);
 # Bucket Melts to Steel
 Smeltery.addMelting(bucket, moltenSteel * 432, 700, steelBlock);
 
-# Cobalt, Ardite and Manyullyn require High Oven
+# Disable Smeltery Melting to Require High Oven
+Smeltery.removeMelting(netherCopperOre);
+Smeltery.removeMelting(netherTinOre);
+Smeltery.removeMelting(netherIronOre);
+Smeltery.removeMelting(netherGoldOre);
 Smeltery.removeMelting(cobaltOre);
 Smeltery.removeMelting(arditeOre);
 #Smeltery.removeMelting(cobaltIngot);
