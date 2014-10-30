@@ -166,6 +166,9 @@
 - **ServerTools** by: *matthewprenger*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Sound Filters** by: *Tmtravlr*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Special AI** by: *FatherToast*
   - **Private Packs**: [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/specialmobs.png)
   - **Public Packs** : [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/specialmobs.png) 

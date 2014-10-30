@@ -64,6 +64,7 @@ Current Mod Versions
 - **Pam's HarvestCraft** v1.7.10c
 - **Pam's Temperate Plants** v1.7.2b
 - **Random Things** v2.1.9
+- **Sound Filters** v0.7
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.3
 - **Spice of Life** v1.2.2
