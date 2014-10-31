@@ -69,7 +69,7 @@
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Dynamic Lights** by: *AtomicStryker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : Request granted, screenshot pending.[]() 
+  - **Public Packs** : [Permission Granted](https://www.dropbox.com/s/hww0huz13rw9kxp/AtomicStryker%20TWBB%20Permissions.png?dl=0) 
 - **Enviromine** by: *TimbukTato*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -114,7 +114,7 @@
   - **Public Packs** : [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE "Public Domain") 
 - **Infernal Mobs** by: *AtomicStryker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : Request granted, screenshot pending.[]() 
+  - **Public Packs** : [Permission Granted](https://www.dropbox.com/s/hww0huz13rw9kxp/AtomicStryker%20TWBB%20Permissions.png?dl=0) 
 - **INPureCore** by: *denoflionsx*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -183,7 +183,7 @@
   - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
 - **Stalker Creepers** by: *AtomicStryker*
   - **Private Packs**: [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/infernalmobs.png "AtomicStryker's Permissions")
-  - **Public Packs** : Request granted, screenshot pending.[]() 
+  - **Public Packs** : [Permission Granted](https://www.dropbox.com/s/hww0huz13rw9kxp/AtomicStryker%20TWBB%20Permissions.png?dl=0) 
 - **Statues** by: *ATOMIC_MAIDEN*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
