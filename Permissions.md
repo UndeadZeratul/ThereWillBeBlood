@@ -102,7 +102,7 @@
   - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280347-glowstone-wire-v1-0-2-113 "MCF Thread")
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : Notification sent, screenshot pending.[]() 
+  - **Public Packs** : [Notified](https://www.dropbox.com/s/xgp8zkwvspaqqat/Chylex%20TWBB%20Notification.png?dl=0) 
 - **Hunger Overhaul** by: *iguana_man*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
