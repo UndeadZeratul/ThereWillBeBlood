@@ -69,7 +69,7 @@
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Dynamic Lights** by: *AtomicStryker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : REQUEST NEEDED[]() 
+  - **Public Packs** : Request granted, screenshot pending.[]() 
 - **Enviromine** by: *TimbukTato*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -86,23 +86,23 @@
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Glenn's Gases** by: *Glenn*
-  - **Private Packs**: REQUEST NEEDED[]()
-  - **Public Packs** : REQUEST NEEDED[]() 
+  - **Private Packs**: Request sent, awaiting response.[]()
+  - **Public Packs** : Request sent, awaiting response.[]() 
 - **Glenn's Gases Core** by: *Glenn*
-  - **Private Packs**: REQUEST NEEDED[]()
-  - **Public Packs** : REQUEST NEEDED[]() 
-- **Glenn's Gases Framework** by: *Glenn*
-  - **Private Packs**: REQUEST NEEDED[]()
-  - **Public Packs** : REQUEST NEEDED[]() 
-- **Glenn's Gases Framework Core** by: *Glenn*
-  - **Private Packs**: REQUEST NEEDED[]()
-  - **Public Packs** : REQUEST NEEDED[]() 
+  - **Private Packs**: Request sent, awaiting response.[]()
+  - **Public Packs** : Request sent, awaiting response.[]() 
+- **Gases Framework** by: *Glenn*
+  - **Private Packs**: Request sent, awaiting response.[]()
+  - **Public Packs** : Request sent, awaiting response.[]() 
+- **Gases Framework Core** by: *Glenn*
+  - **Private Packs**: Request sent, awaiting response.[]()
+  - **Public Packs** : Request sent, awaiting response.[]() 
 - **Glowstone Wire** by: *GrygrFlzr*
   - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280347-glowstone-wire-v1-0-2-113 "MCF Thread")
   - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280347-glowstone-wire-v1-0-2-113 "MCF Thread")
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : NOTIFY NEEDED[]() 
+  - **Public Packs** : Notification sent, screenshot pending.[]() 
 - **Hunger Overhaul** by: *iguana_man*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -114,7 +114,7 @@
   - **Public Packs** : [Open](https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE "Public Domain") 
 - **Infernal Mobs** by: *AtomicStryker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : REQUEST NEEDED[]() 
+  - **Public Packs** : Request granted, screenshot pending.[]() 
 - **INPureCore** by: *denoflionsx*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -183,7 +183,7 @@
   - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods "MCF Thread")
 - **Stalker Creepers** by: *AtomicStryker*
   - **Private Packs**: [Open](https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/infernalmobs.png "AtomicStryker's Permissions")
-  - **Public Packs** : REQUEST NEEDED[]() 
+  - **Public Packs** : Request granted, screenshot pending.[]() 
 - **Statues** by: *ATOMIC_MAIDEN*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
