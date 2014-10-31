@@ -85,16 +85,16 @@
 - **Garden Stuff** by: *jaquadro*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-- **Glenn's Gases** by: *Glenn*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]() 
-- **Glenn's Gases Core** by: *Glenn*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]() 
 - **Gases Framework** by: *Glenn*
   - **Private Packs**: Request sent, awaiting response.[]()
   - **Public Packs** : Request sent, awaiting response.[]() 
 - **Gases Framework Core** by: *Glenn*
+  - **Private Packs**: Request sent, awaiting response.[]()
+  - **Public Packs** : Request sent, awaiting response.[]() 
+- **Glenn's Gases** by: *Glenn*
+  - **Private Packs**: Request sent, awaiting response.[]()
+  - **Public Packs** : Request sent, awaiting response.[]() 
+- **Glenn's Gases Core** by: *Glenn*
   - **Private Packs**: Request sent, awaiting response.[]()
   - **Public Packs** : Request sent, awaiting response.[]() 
 - **Glowstone Wire** by: *GrygrFlzr*
