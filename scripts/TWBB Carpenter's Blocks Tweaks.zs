@@ -3,7 +3,6 @@
 var carpentersBlock          = <CarpentersBlocks:blockCarpentersBlock>;
 var carpentersDaylightSensor = <CarpentersBlocks:blockCarpentersDaylightSensor>;
 var carpentersFence          = <CarpentersBlocks:blockCarpentersBarrier>;
-var carpentersSlab           = <CarpentersBlocks:blockCarpentersBlock>; // Should be slab, full block is only temporary.
 
 var glass                    = <ore:glass>;
 var quartz                   = <minecraft:quartz>;
@@ -21,14 +20,14 @@ recipes.addShaped(carpentersFence * 3, [
     [carpentersBlock, stick, carpentersBlock]]);
 
 # Carpenter's Daylight Sensor
-#----------------------------------------------------------
-# [ Glass,            Glass,            Glass            ]
-# [ Nether Quartz,    Nether Quartz,    Nether Quartz    ]
-# [ Carpenter's Slab, Carpenter's Slab, Carpenter's Slab ]
-#----------------------------------------------------------
+#-------------------------------------------------------------
+# [ Glass,             Glass,             Glass             ]
+# [ Nether Quartz,     Nether Quartz,     Nether Quartz     ]
+# [ Carpenter's Block, Carpenter's Block, Carpenter's Block ]
+#-------------------------------------------------------------
 recipes.remove(carpentersDaylightSensor);
 
 recipes.addShaped(carpentersDaylightSensor, [
-    [glass,          glass,          glass],
-    [quartz,         quartz,         quartz],
-    [carpentersSlab, carpentersSlab, carpentersSlab]]);
+    [glass,           glass,           glass],
+    [quartz,          quartz,          quartz],
+    [carpentersBlock, carpentersBlock, carpentersBlock]]);
