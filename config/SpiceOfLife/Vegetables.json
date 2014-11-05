@@ -2,7 +2,7 @@
 	"name": "Vegetables",
 	"food": {
 		"oredict": [
-			"listAllveggies"
+			"listAllveggie"
 		]
 	}
 }
