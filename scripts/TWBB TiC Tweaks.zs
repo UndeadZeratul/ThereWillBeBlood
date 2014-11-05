@@ -6,8 +6,12 @@ import mods.tconstruct.Smeltery;
 
 # COMMON VARIABLES
 #------------------
+var cobblestone               = <ore:cobblestone>;
+var stone                     = <ore:stone>;
 var bucket                    = <minecraft:bucket>;
+
 var steelBlock                = <TConstruct:MetalBlock:9>;
+var stoneBlock                = <minecraft:stone>;
 
 # Tool Rods
 var woodToolRod               = <TConstruct:toolRod:0>;
@@ -527,6 +531,7 @@ var manyullynIngot            = <ore:ingotManyullyn>;
 
 var moltenSteel               = <liquid:steel.molten>;
 var moltenManyullyn           = <liquid:manyullyn.molten>;
+var moltenSearedStone         = <liquid:stone.molten>;
 
 var aluminumOre               = <ore:oreAluminum>;
 var copperOre                 = <ore:oreCopper>;
@@ -542,6 +547,38 @@ var netherGoldOre             = <ore:oreNetherGold>;
 
 # ITEM LISTS
 #------------
+var stoneHalfToolParts        = [
+    stoneShard,
+    stoneToolRod,
+    stoneBinding,
+    stoneWideGuard,
+    stoneHandGuard,
+    stoneCrossbar,
+    stoneKnifeBlade,
+    stoneFullGuard,
+    stoneArrowHead
+] as IIngredient[];
+var stoneFullToolParts        = [
+    cobblestone,
+    stone,
+    stonePickHead,
+    stoneShovelHead,
+    stoneHatchetHead,
+    stoneSwordBlade,
+    stoneFryingPanHead,
+    stoneSignHead,
+    stoneChiselHead,
+    stoneScytheBlade
+] as IIngredient[];
+var stoneHeavyToolParts       = [
+    stoneToughBinding,
+    stoneToughRod,
+    stoneHeavyPlate,
+    stoneBroadAxeHead,
+    stoneExcavatorHead,
+    stoneLargeSwordBlade,
+    stoneHammerHead
+] as IIngredient[];
 var metalShards               = [
     ironShard,
     obsidianShard,
@@ -847,6 +884,25 @@ furnace.remove(goldOre);
 
 # SMELTERY TWEAKS
 #----------
+
+# Nerf Stone to Seared Stone Melting
+for i, toolPart in stoneHalfToolParts {
+    Smeltery.removeMelting(toolPart);
+    
+    Smeltery.addMelting(toolPart, moltenSearedStone * 1, 50, stoneBlock);
+}
+
+for i, toolPart in stoneFullToolParts {
+    Smeltery.removeMelting(toolPart);
+    
+    Smeltery.addMelting(toolPart, moltenSearedStone * 2, 100, stoneBlock);
+}
+
+for i, toolPart in stoneHeavyToolParts {
+    Smeltery.removeMelting(toolPart);
+    
+    Smeltery.addMelting(toolPart, moltenSearedStone * 16, 800, stoneBlock);
+}
 
 # Bucket Melts to Steel
 Smeltery.addMelting(bucket, moltenSteel * 432, 700, steelBlock);
