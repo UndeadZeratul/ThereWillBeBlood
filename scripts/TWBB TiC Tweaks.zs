@@ -11,7 +11,6 @@ var stone                     = <ore:stone>;
 var bucket                    = <minecraft:bucket>;
 
 var steelBlock                = <TConstruct:MetalBlock:9>;
-var stoneBlock                = <minecraft:stone>;
 
 # Tool Rods
 var woodToolRod               = <TConstruct:toolRod:0>;
@@ -531,7 +530,7 @@ var manyullynIngot            = <ore:ingotManyullyn>;
 
 var moltenSteel               = <liquid:steel.molten>;
 var moltenManyullyn           = <liquid:manyullyn.molten>;
-var moltenSearedStone         = <liquid:stone.molten>;
+var moltenSearedStone         = <liquid:stone.seared>;
 
 var aluminumOre               = <ore:oreAluminum>;
 var copperOre                 = <ore:oreCopper>;
@@ -555,30 +554,30 @@ var stoneHalfToolParts        = [
     stoneHandGuard,
     stoneCrossbar,
     stoneKnifeBlade,
-    stoneFullGuard,
-    stoneArrowHead
-] as IIngredient[];
-var stoneFullToolParts        = [
-    cobblestone,
-    stone,
+    stoneChiselHead,
+    stoneArrowhead
+] as IItemStack[];
+var stoneSingleToolParts      = [
     stonePickHead,
     stoneShovelHead,
     stoneHatchetHead,
     stoneSwordBlade,
     stoneFryingPanHead,
-    stoneSignHead,
-    stoneChiselHead,
-    stoneScytheBlade
-] as IIngredient[];
-var stoneHeavyToolParts       = [
-    stoneToughBinding,
+    stoneSignHead
+] as IItemStack[];
+var stoneTripleToolParts      = [
+    stoneFullGuard,
     stoneToughRod,
+    stoneToughBinding,
+] as IItemStack[];
+var stoneOctupleToolParts     = [
     stoneHeavyPlate,
     stoneBroadAxeHead,
     stoneExcavatorHead,
     stoneLargeSwordBlade,
-    stoneHammerHead
-] as IIngredient[];
+    stoneHammerHead,
+    stoneScytheBlade
+] as IItemStack[];
 var metalShards               = [
     ironShard,
     obsidianShard,
@@ -886,22 +885,40 @@ furnace.remove(goldOre);
 #----------
 
 # Nerf Stone to Seared Stone Melting
+for stoneBlock in stone.items {
+    Smeltery.removeMelting(stoneBlock);
+    
+    Smeltery.addMelting(stoneBlock, moltenSearedStone * 2, 100, stoneBlock);
+}
+
+for cobblestoneBlock in cobblestone.items {
+    Smeltery.removeMelting(cobblestoneBlock);
+    
+    Smeltery.addMelting(cobblestoneBlock, moltenSearedStone * 2, 100, cobblestoneBlock);
+}
+
 for i, toolPart in stoneHalfToolParts {
     Smeltery.removeMelting(toolPart);
     
-    Smeltery.addMelting(toolPart, moltenSearedStone * 1, 50, stoneBlock);
+    Smeltery.addMelting(toolPart, moltenSearedStone * 1, 50, <minecraft:stone>);
 }
 
-for i, toolPart in stoneFullToolParts {
+for i, toolPart in stoneSingleToolParts {
     Smeltery.removeMelting(toolPart);
     
-    Smeltery.addMelting(toolPart, moltenSearedStone * 2, 100, stoneBlock);
+    Smeltery.addMelting(toolPart, moltenSearedStone * 2, 100, <minecraft:stone>);
 }
 
-for i, toolPart in stoneHeavyToolParts {
+for i, toolPart in stoneTripleToolParts {
     Smeltery.removeMelting(toolPart);
     
-    Smeltery.addMelting(toolPart, moltenSearedStone * 16, 800, stoneBlock);
+    Smeltery.addMelting(toolPart, moltenSearedStone * 6, 300, <minecraft:stone>);
+}
+
+for i, toolPart in stoneOctupleToolParts {
+    Smeltery.removeMelting(toolPart);
+    
+    Smeltery.addMelting(toolPart, moltenSearedStone * 16, 800, <minecraft:stone>);
 }
 
 # Bucket Melts to Steel
