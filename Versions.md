@@ -4,7 +4,7 @@ Current Forge Version
 
 Current API Versions
 =
-- **AppleCore** v1.0.0
+- **AppleCore** v1.0.1
 - **AsieLib** v0.3.2
 - **bspkrs Core** v6.14
 - **CoFHCore** v3.0.0B6-32
@@ -24,11 +24,11 @@ Current Mod Versions
 - **Admin Command Toolbox** v0.0.2a
 - **Antique Atlas** v4.0.1a
 - **Armor Status HUD** v1.27
-- **Better Foliage** v1.0.1
+- **Better Foliage** v1.0.3
 - **Better Storage** v0.10.3.115
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.8.2
-- **BiblioWoods (BoP)** v1.8
+- **BiblioWoods (BoP)** v1.9
 - **Biomes O' Plenty** v2.1.0.1004
 - **Bow Infinity Fix** rv0
 - **Carpenter's Blocks** v3.3.0
@@ -39,7 +39,7 @@ Current Mod Versions
 - **Direction HUD** v1.23
 - **Doom-like Dungeons** v1.4.0
 - **Dynamic Lights** v1.7.10
-- **Enviromine** v1.2.28
+- **Enviromine** v1.3.38
 - **Falling Meteors** v2.13.1
 - **FMPIntegration** v1.0
 - **Garden Stuff** v1.2.1
