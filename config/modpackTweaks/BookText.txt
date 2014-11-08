@@ -1,0 +1,1 @@
+Default file, please make sure the correct file, BookText.txt, exists in the modpackTweaks config directory before launching next time!

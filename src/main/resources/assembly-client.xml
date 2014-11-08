@@ -12,13 +12,13 @@
             <directory>mods</directory>
             <outputDirectory>/mods</outputDirectory>
             <excludes>
-                <exclude>*ShadersModCore*</exclude>
-                <exclude>*VersionChecker*</exclude>
+                <exclude>VersionChecker*</exclude>
                 <exclude>*.disabled</exclude>
-                <exclude>*fastcraft*</exclude>
-                <exclude>*MobiusCore*</exclude>
-                <exclude>*Opis*</exclude>
-                <exclude>*Optifine*</exclude>
+                <exclude>fastcraft*</exclude>
+                <exclude>MobiusCore*</exclude>
+                <exclude>Opis*</exclude>
+                <exclude>OptiFine*</exclude>
+				<exclude>gases*</exclude>
             </excludes>
         </fileSet>
         <fileSet>

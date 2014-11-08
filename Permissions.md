@@ -76,6 +76,9 @@
 - **Falling Meteors** by: *AlexDGr8r*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **FastCraft (Optional)** by: *Player*
+  - **Private Packs**: Manual Download via Modpack Tweaks.
+  - **Public Packs** : Manual Download via Modpack Tweaks.
 - **FMPIntegration** by: *wasliebob*
   - **Private Packs**: [Open](http://www.wasliebob.nl/ "WaslieBob's Official Website")
   - **Public Packs** : [Open](http://www.wasliebob.nl/ "WaslieBob's Official Website")
@@ -86,17 +89,17 @@
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Gases Framework** by: *Glenn*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]() 
+  - **Private Packs**: Manual Download via Modpack Tweaks.
+  - **Public Packs** : Manual Download via Modpack Tweaks. 
 - **Gases Framework Core** by: *Glenn*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]() 
+  - **Private Packs**: Manual Download via Modpack Tweaks.
+  - **Public Packs** : Manual Download via Modpack Tweaks.
 - **Glenn's Gases** by: *Glenn*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]() 
+  - **Private Packs**: Manual Download via Modpack Tweaks.
+  - **Public Packs** : Manual Download via Modpack Tweaks.
 - **Glenn's Gases Core** by: *Glenn*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]() 
+  - **Private Packs**: Manual Download via Modpack Tweaks.
+  - **Public Packs** : Manual Download via Modpack Tweaks.
 - **Glowstone Wire** by: *GrygrFlzr*
   - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280347-glowstone-wire-v1-0-2-113 "MCF Thread")
   - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280347-glowstone-wire-v1-0-2-113 "MCF Thread")
@@ -133,6 +136,9 @@
 - **MineTweaker** by: *StanH*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Modpack Tweaks** by: *tterrag*
+  - **Private Packs**: [Open](https://github.com/TPPIDev/Modpack-Tweaks/blob/master/LICENSE "GNU General Public License")
+  - **Public Packs** : [Open](https://github.com/TPPIDev/Modpack-Tweaks/blob/master/LICENSE "GNU General Public License")
 - **ModTweaker** by: *joshie*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")

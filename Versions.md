@@ -54,6 +54,7 @@ Current Mod Versions
 - **Inventory Tweaks** v1.58 147
 - **Lycanite's Mobs** v1.10.2.2
 - **MineTweaker** v3.0.9b
+- **Modpack Tweaks** v1.2.0-21
 - **ModTweaker** v0.5d
 - **Natural Absorption** v1.2.1
 - **NEI Addons** v1.12.3.11
