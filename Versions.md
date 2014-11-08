@@ -11,8 +11,6 @@ Current API Versions
 - **CookieCore** v1.3.0
 - **CoroUtil** v1.0
 - **Forge Multipart** v1.1.0.311
-- **Gases Framework Core** v1.0.6
-- **Glenn's Gases Core** v1.5.2
 - **Lunatrius Core** v1.1.2.14
 - **Mantle** v0.3.2
 - **INPureCore** v1.0.0B2-4
@@ -43,8 +41,6 @@ Current Mod Versions
 - **Falling Meteors** v2.13.1
 - **FMPIntegration** v1.0
 - **Garden Stuff** v1.2.1
-- **Gases Framework** v1.0.6
-- **Glenn's Gases** v1.5.2
 - **Glowstone Wire** v1.0.2.113
 - **Hardcore Ender Expansion** v1.6.4
 - **Hunger Overhaul** beta v2
