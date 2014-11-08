@@ -357,8 +357,8 @@ recipes.remove(allSinks);
 # Nerf Candles
 #--------------
 for i, candle in candles {
-    var dye = dyes[i];
+    #var dye = dyes[i];
     
     recipes.remove(candle);
-    recipes.addShapeless(candle, [wax, <minecraft:string>, dye]);
+    #recipes.addShapeless(candle, [wax, <minecraft:string>, dye]);
 }
