@@ -38,13 +38,13 @@ var torchFuels = [
 ] as IIngredient[];
 var torchHandles = [
     stick,
-    carpentersBlock,
-    stoneRod
+#    carpentersBlock,
+#    stoneRod
 ] as IIngredient[];
 var torches = [
     torchWood,
-    torchCarpenters,
-    torchStone
+#    torchCarpenters,
+#    torchStone
 ] as IItemStack[];
 
 # ORE DICTIONARY
@@ -70,6 +70,10 @@ recipes.removeShaped(coal, [
 
 # Nerf Torch Recipes
 #-------------------------
+
+recipes.remove(torchCarpenters);
+recipes.remove(torchStone);
+
 for i, handle in torchHandles
 {
     var torch = torches[i];
