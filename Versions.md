@@ -36,6 +36,7 @@ Current Mod Versions
 - **Deadly World** v1.0.2
 - **Direction HUD** v1.23
 - **Doom-like Dungeons** v1.4.0
+- **Drowning Overhaul** v1.0
 - **Dynamic Lights** v1.7.10
 - **Enviromine** v1.3.38
 - **Falling Meteors** v2.13.1
