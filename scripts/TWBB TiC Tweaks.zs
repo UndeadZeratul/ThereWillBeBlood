@@ -884,6 +884,9 @@ furnace.remove(goldOre);
 # SMELTERY TWEAKS
 #----------
 
+/*
+# DISABLING FOR NOW UNTIL BUG WITH SMELTERY MELTING IS FIXED
+
 # Nerf Stone to Seared Stone Melting
 for stoneBlock in stone.items {
     Smeltery.removeMelting(stoneBlock);
@@ -920,9 +923,13 @@ for i, toolPart in stoneOctupleToolParts {
     
     Smeltery.addMelting(toolPart, moltenSearedStone * 16, 800, <minecraft:stone>);
 }
+*/
 
 # Bucket Melts to Steel
 Smeltery.addMelting(bucket, moltenSteel * 432, 700, steelBlock);
+
+/*
+# DISABLING FOR NOW UNTIL BUG WITH SMELTERY MELTING IS FIXED
 
 # Disable Smeltery Melting to Require High Oven
 Smeltery.removeMelting(netherCopperOre);
@@ -937,6 +944,7 @@ Smeltery.removeMelting(arditeOre);
 #Smeltery.removeMelting(cobaltShard);
 #Smeltery.removeMelting(arditeShard);
 #Smeltery.removeMelting(manyullynShard);
+*/
 
 /*
 # To disable re-melting of toolparts, delete the comment above this line,
