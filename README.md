@@ -12,6 +12,10 @@ Modpack Permissions
 ===
 [Permission List](https://github.com/UndeadZeratul/ThereWillBeBlood/blob/master/Permissions.md)
 
+Istallation
+===
+This modpack is currently hosted on the Technic Launcher, with plans to bring it to the FTB and AT Launchers in the future.  For now, go to [the pack's webpage](http://www.technicpack.net/modpack/details/there-will-be-blood.511723) and copy the **Platform URL**.  Open up the Technic Launcher, click on the "Add New Pack" button, and paste the **Platform URL** into the textfield.  When you're done, select the modpack, and click play!
+
 Contributing
 ===
 I love getting outside contributions, however doing so can be a little complex for some.
