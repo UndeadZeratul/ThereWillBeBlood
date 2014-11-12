@@ -18,6 +18,7 @@ var travelWings               = <TConstruct:travelWings>;
 var travelBoots               = <TConstruct:travelBoots>;
 var travelGlove               = <TConstruct:travelGlove>;
 var travelBelt                = <Tconstruct:travelBelt>;
+var knapsack                  = <TConstruct:knapsack>;
 
 # Tool Rods
 var woodToolRod               = <TConstruct:toolRod:0>;
@@ -884,6 +885,9 @@ var travelArmor               = [
 
 # RECIPE TWEAKS
 #---------------
+
+# Disable Knapsack
+recipes.remove(knapsack);
 
 # Disable Traveller's Armor
 for i, armor in travelArmor {
