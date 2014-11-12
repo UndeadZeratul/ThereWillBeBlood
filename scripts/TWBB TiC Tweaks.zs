@@ -12,6 +12,13 @@ var bucket                    = <minecraft:bucket>;
 
 var steelBlock                = <TConstruct:MetalBlock:9>;
 
+var travelGoggles             = <TConstruct:travelGoggles>;
+var travelVest                = <TConstruct:travelVest>;
+var travelWings               = <TConstruct:travelWings>;
+var travelBoots               = <TConstruct:travelBoots>;
+var travelGlove               = <TConstruct:travelGlove>;
+var travelBelt                = <Tconstruct:travelBelt>;
+
 # Tool Rods
 var woodToolRod               = <TConstruct:toolRod:0>;
 var stoneToolRod              = <TConstruct:toolRod:1>;
@@ -866,6 +873,22 @@ var metalArrowheads           = [
     steelArrowhead,
     pigIronArrowhead,
 ] as IItemStack[];
+var travelArmor               = [
+    travelGoggles,
+    travelVest,
+    travelWings,
+    travelBoots,
+    travelGlove,
+    travelBelt
+] as IItemStack[];
+
+# RECIPE TWEAKS
+#---------------
+
+# Disable Traveller's Armor
+for i, armor in travelArmor {
+    recipes.remove(armor);
+}
 
 # FURNACE TWEAKS
 #----------------
