@@ -19,7 +19,7 @@
                 <exclude>MobiusCore*</exclude>
                 <exclude>Opis*</exclude>
                 <exclude>OptiFine*</exclude>
-				<exclude>gases*</exclude>
+                <exclude>gases*</exclude>
             </excludes>
         </fileSet>
         <fileSet>
