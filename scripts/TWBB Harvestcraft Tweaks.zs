@@ -131,6 +131,7 @@ soup.add(<harvestcraft:oldworldveggiesoupItem>);
 soup.add(<harvestcraft:lambbarleysoupItem>);
 soup.add(<harvestcraft:leekbaconsoupItem>);
 soup.add(<arcticmobs:palesoup>);
+soup.add(<TwilightForest:meefStroganoff>);
 
 # Burger
 var burger     = <ore:foodBurger>;
