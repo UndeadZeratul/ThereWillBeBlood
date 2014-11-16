@@ -17,8 +17,16 @@ var travelVest                = <TConstruct:travelVest>;
 var travelWings               = <TConstruct:travelWings>;
 var travelBoots               = <TConstruct:travelBoots>;
 var travelGlove               = <TConstruct:travelGlove>;
-var travelBelt                = <Tconstruct:travelBelt>;
+var travelBelt                = <TConstruct:travelBelt>;
 var knapsack                  = <TConstruct:knapsack>;
+
+var canisterEmpty             = <TConstruct:heartCanister:0>;
+var miniRedHeart              = <TConstruct:heartCanister:1>;
+var canisterRedHeart          = <TConstruct:heartCanister:2>;
+var miniYellowHeart           = <TConstruct:heartCanister:3>;
+var canisterYellowHeart       = <TConstruct:heartCanister:4>;
+var miniGreenHeart            = <TConstruct:heartCanister:5>;
+var canisterGreenHeart        = <TConstruct:heartCanister:6>;
 
 # Tool Rods
 var woodToolRod               = <TConstruct:toolRod:0>;
