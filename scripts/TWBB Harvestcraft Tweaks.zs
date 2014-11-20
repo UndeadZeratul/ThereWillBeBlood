@@ -89,6 +89,18 @@ meatRaw.add(<swampmobs:aspidmeatraw>);
 meatRaw.add(<TwilightForest:item.meefRaw>);
 meatRaw.add(<TwilightForest:item.hydraChop>);
 
+# Jerky
+var jerky      = <ore:foodJerky>;
+
+jerky.add(<TConstruct:jerky:0>);
+jerky.add(<TConstruct:jerky:1>);
+jerky.add(<TConstruct:jerky:2>);
+jerky.add(<TConstruct:jerky:3>);
+jerky.add(<TConstruct:jerky:4>);
+jerky.add(<TConstruct:jerky:5>);
+jerky.add(<harvestcraft:beefjerkyItem>);
+jerky.add(<harvestcraft:zombiejerkyItem>);
+
 # Soup
 var soup       = <ore:foodSoup>;
 
