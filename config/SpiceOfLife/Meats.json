@@ -2,6 +2,7 @@
 	"name": "Meats",
 	"food": {
 		"oredict": [
+			"foodJerky",
 			"listAllbeefraw",
 			"listAllbeefcooked",
 			"listAllmeatraw",
