@@ -128,7 +128,6 @@ soup.add(<harvestcraft:oldworldveggiesoupItem>);
 soup.add(<harvestcraft:lambbarleysoupItem>);
 soup.add(<harvestcraft:leekbaconsoupItem>);
 soup.add(<arcticmobs:palesoup>);
-soup.add(<TwilightForest:meefStroganoff>);
 
 # Burger
 var burger     = <ore:foodBurger>;
@@ -347,6 +346,7 @@ var pasta     = <ore:foodPasta>;
 pasta.add(<demonmobs:devillasagna>);
 pasta.add(<harvestcraft:spagettiItem>);
 pasta.add(<harvestcraft:spagettiandmeatballsItem>);
+pasta.add(<TwilightForest:meefStroganoff>);
 
 # RECIPE REMOVAL
 #----------------
