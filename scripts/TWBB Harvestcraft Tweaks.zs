@@ -89,21 +89,6 @@ meatRaw.add(<swampmobs:aspidmeatraw>);
 meatRaw.add(<TwilightForest:item.meefRaw>);
 meatRaw.add(<TwilightForest:item.hydraChop>);
 
-# Meat Treat
-var meatTreat  = <ore:foodMeatTreat>;
-
-meatTreat.add(<arcticmobs:arixtreat>);
-meatTreat.add(<demonmobs:cacodemontreat>);
-meatTreat.add(<demonmobs:pinkytreat>);
-meatTreat.add(<desertmobs:crusktreat>);
-meatTreat.add(<desertmobs:erepedetreat>);
-meatTreat.add(<forestmobs:shamblertreat>);
-meatTreat.add(<infernomobs:afrittreat>);
-meatTreat.add(<junglemobs:uvaraptortreat>);
-meatTreat.add(<plainsmobs:ventoraptortreat>);
-meatTreat.add(<swampmobs:eyewigtreat>);
-meatTreat.add(<swampmobs:lurkertreat>);
-
 # Soup
 var soup       = <ore:foodSoup>;
 
