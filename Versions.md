@@ -25,8 +25,9 @@ Current Mod Versions
 - **Better Foliage** v1.0.3
 - **Better Storage** v0.10.3.115
 - **Better Title Screen** v1.1
-- **BiblioCraft** v1.8.2
+- **BiblioCraft** v1.9.0
 - **BiblioWoods (BoP)** v1.9
+- **BiblioWoods (Natura)** v1.5
 - **Biomes O' Plenty** v2.1.0.1004
 - **Bow Infinity Fix** rv0
 - **Carpenter's Blocks** v3.3.0
@@ -39,6 +40,7 @@ Current Mod Versions
 - **Drowning Overhaul** v1.0
 - **Dynamic Lights** v1.7.10
 - **Enviromine** v1.3.38
+- **ExtraTiC** v1.0.3
 - **Falling Meteors** v2.13.1
 - **FMPIntegration** v1.0
 - **Garden Stuff** v1.2.1
@@ -53,6 +55,7 @@ Current Mod Versions
 - **MineTweaker** v3.0.9b
 - **Modpack Tweaks** v1.2.0-21
 - **ModTweaker** v0.5d
+- **Natura** v2.2.0.1
 - **Natural Absorption** v1.2.1
 - **NEI Addons** v1.12.3.11
 - **NEI Plugins** v1.1.0.11

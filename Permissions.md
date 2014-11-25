@@ -28,6 +28,9 @@
 - **BiblioWoods (BoP)** by: *Nuchaz*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **BiblioWoods (Natura)** by: *Nuchaz*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Biomes O' Plenty** by: *TDWP_FTW, Adubbz*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
@@ -74,6 +77,9 @@
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Permission Granted](https://www.dropbox.com/s/hww0huz13rw9kxp/AtomicStryker%20TWBB%20Permissions.png?dl=0) 
 - **Enviromine** by: *TimbukTato*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **ExtraTiC** by: *Glassmaker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Falling Meteors** by: *AlexDGr8r*
@@ -131,6 +137,9 @@
   - **Private Packs**: [Open](https://github.com/TPPIDev/Modpack-Tweaks/blob/master/LICENSE "GNU General Public License")
   - **Public Packs** : [Open](https://github.com/TPPIDev/Modpack-Tweaks/blob/master/LICENSE "GNU General Public License")
 - **ModTweaker** by: *joshie*
+  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **Natura** by: *mDiyo, progwm16*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Natural Absorption** by: *FatherToast*
