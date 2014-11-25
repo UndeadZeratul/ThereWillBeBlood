@@ -26,6 +26,7 @@
                 <exclude>Opis*</exclude>
                 <exclude>OptiFine*</exclude>
                 <exclude>gases*</exclude>
+                <exclude>airoverhaul*</exclude>
             </excludes>
         </fileSet>
         <fileSet>
