@@ -902,6 +902,9 @@ for i, armor in travelArmor {
     recipes.remove(armor);
 }
 
+# Remove Downgrade Recipe
+recipes.remove(miniRedHeart);
+
 # FURNACE TWEAKS
 #----------------
 
