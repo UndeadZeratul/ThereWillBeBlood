@@ -346,7 +346,7 @@ var pasta     = <ore:foodPasta>;
 pasta.add(<demonmobs:devillasagna>);
 pasta.add(<harvestcraft:spagettiItem>);
 pasta.add(<harvestcraft:spagettiandmeatballsItem>);
-pasta.add(<TwilightForest:meefStroganoff>);
+pasta.add(<TwilightForest:item.meefStroganoff>);
 
 # RECIPE REMOVAL
 #----------------
