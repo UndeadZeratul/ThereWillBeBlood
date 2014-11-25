@@ -5,13 +5,13 @@ Current Forge Version
 Current API Versions
 =
 - **AppleCore** v1.0.1
-- **AsieLib** v0.3.2
+- **AsieLib** v0.3.4
 - **bspkrs Core** v6.14
 - **CoFHCore** v3.0.0B6-32
 - **CookieCore** v1.3.0
 - **CoroUtil** v1.0
-- **Forge Multipart** v1.1.0.311
-- **Lunatrius Core** v1.1.2.14
+- **Forge Multipart** v1.1.0.314
+- **Lunatrius Core** v1.1.2.16
 - **Mantle** v0.3.2
 - **INPureCore** v1.0.0B2-4
 - **ServerTools-BACKUP** v2.2.0.21
@@ -21,31 +21,31 @@ Current Mod Versions
 =
 - **Admin Command Toolbox** v0.0.2a
 - **Antique Atlas** v4.0.1a
-- **Armor Status HUD** v1.27
+- **Armor Status HUD** v1.28
 - **Better Foliage** v1.0.3
 - **Better Storage** v0.10.3.115
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.9.0
-- **BiblioWoods (BoP)** v1.9
-- **BiblioWoods (Natura)** v1.5
+- **BiblioWoods (BoP)** v1.9.0
+- **BiblioWoods (Natura)** v1.5.0
 - **Biomes O' Plenty** v2.1.0.1004
 - **Bow Infinity Fix** rv0
-- **Carpenter's Blocks** v3.3.0
+- **Carpenter's Blocks** v3.3.2
 - **Chisel** v1.5.7
 - **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie** beta v2.0
 - **Deadly World** v1.0.2
-- **Direction HUD** v1.23
+- **Direction HUD** v1.24
 - **Doom-like Dungeons** v1.4.0
 - **Drowning Overhaul** v1.0
 - **Dynamic Lights** v1.7.10
-- **Enviromine** v1.3.38
+- **Enviromine** v1.3.50
 - **ExtraTiC** v1.0.3
 - **Falling Meteors** v2.13.1
 - **FMPIntegration** v1.0
 - **Garden Stuff** v1.2.1
 - **Glowstone Wire** v1.0.2.113
-- **Hardcore Ender Expansion** v1.6.4
+- **Hardcore Ender Expansion** v1.6.5
 - **Hunger Overhaul** beta v2
 - **Iguana's Tinker Tweaks** v2.0.6
 - **Iguana's Tweaks** beta v19
@@ -64,14 +64,14 @@ Current Mod Versions
 - **Open Eye** v0.6
 - **Pam's HarvestCraft** v1.7.10c
 - **Pam's Temperate Plants** v1.7.2b
-- **Random Things** v2.1.9
+- **Random Things** v2.2.1
 - **Sound Filters** v0.7
 - **Special AI** v1.0.1
 - **Special Mobs** v3.0.3
 - **Spice of Life** v1.2.2
-- **Stackie** v1.5.1.28
+- **Stackie** v1.5.1.30
 - **Stalker Creepers** v1.7.10
-- **Status Effect HUD** v1.26
+- **Status Effect HUD** v1.27
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
 - **Tinkers' Construct** v1.7.1c
