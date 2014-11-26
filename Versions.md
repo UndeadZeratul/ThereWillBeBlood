@@ -58,7 +58,7 @@ Current Mod Versions
 - **Natura** v2.2.0.1
 - **Natural Absorption** v1.2.1
 - **NEI Addons** v1.12.3.11
-- **NEI Plugins** v1.1.0.11
+- **NEI Integration** v1.0.1
 - **Nether Ores** v2.3.0RC3-84
 - **Not Enough Items** v1.0.2.15
 - **Open Eye** v0.6

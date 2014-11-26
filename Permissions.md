@@ -148,9 +148,9 @@
 - **NEI Addons** by: *bdew*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-- **NEI Plugins** by: *mistaqur*
-  - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
-  - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
+- **NEI Integration** by: *Tonius*
+  - **Private Packs**: [Open](https://www.dropbox.com/s/umy1t8jv4jwpd9y/Tonius%20Permissions.png?dl=0 "Tonius' Permission")
+  - **Public Packs** : [Open](https://www.dropbox.com/s/umy1t8jv4jwpd9y/Tonius%20Permissions.png?dl=0 "Tonius' Permission")
 - **Nether Ores** by: *skyboy026, powercrystals*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
