@@ -29,7 +29,6 @@ Current Mod Versions
 - **BiblioWoods (BoP)** v1.9.0
 - **BiblioWoods (Natura)** v1.5.0
 - **Biomes O' Plenty** v2.1.0.1004
-- **Bow Infinity Fix** rv0
 - **Carpenter's Blocks** v3.3.2
 - **Chisel** v1.5.7
 - **Damage Indicators Mod** v3.2.0
@@ -47,6 +46,7 @@ Current Mod Versions
 - **Glowstone Wire** v1.0.2.113
 - **Hardcore Ender Expansion** v1.6.5
 - **Hunger Overhaul** beta v2
+- **Infinibows** v1.3.0.20
 - **Iguana's Tinker Tweaks** v2.0.6
 - **Iguana's Tweaks** beta v19
 - **Infernal Mobs** v1.5.9
