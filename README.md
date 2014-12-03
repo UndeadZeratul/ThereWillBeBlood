@@ -14,7 +14,9 @@ Modpack Permissions
 
 Installation
 ===
-This modpack is currently hosted on the Technic Launcher, with plans to bring it to the FTB and AT Launchers in the future.  For now, go to [the pack's webpage](http://www.technicpack.net/modpack/details/there-will-be-blood.511723) and copy the **Platform URL**.  Open up the Technic Launcher, click on the "Add New Pack" button, and paste the **Platform URL** into the textfield.  When you're done, select the modpack, and click play!
+This modpack is currently hosted on the Technic Launcher as well as the Feed The Beast Launcher, with plans to bring it to the ATLauncher in the future.
+* For Technic, go to [the pack's webpage](http://www.technicpack.net/modpack/details/there-will-be-blood.511723) and copy the **Platform URL**.  Open up the Technic Launcher, click on the "Add New Pack" button, and paste the **Platform URL** into the textfield.  When you're done, select the modpack, and click play!
+* For FTB, go to the **Third Party Packs** tab, and click the **Pack Codes** button.  type in the pack code **TWBB** into the textfield.  When you're done, select the modpack, and click launch!
 
 Contributing
 ===
