@@ -71,8 +71,8 @@
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
 - **Drowning Overhaul** by: *Mark719*
-  - **Private Packs**: Request sent, awaiting response.[]()
-  - **Public Packs** : Request sent, awaiting response.[]()
+  - **Private Packs**: [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more?comment=45 "MCF Thread")
+  - **Public Packs** : [Open](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more?comment=45 "MCF Thread")
 - **Dynamic Lights** by: *AtomicStryker*
   - **Private Packs**: [Open](http://1drv.ms/1kbLNMM "FTB Permission Spreadsheet")
   - **Public Packs** : [Permission Granted](https://www.dropbox.com/s/hww0huz13rw9kxp/AtomicStryker%20TWBB%20Permissions.png?dl=0) 
