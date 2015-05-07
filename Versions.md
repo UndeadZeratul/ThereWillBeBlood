@@ -21,8 +21,6 @@ Current Mod Versions
 =
 - **Admin Command Toolbox** v0.0.2a
 - **Antique Atlas** v4.0.1a
-- **Armor Status HUD** v1.28
-- **Better Foliage** v1.0.3
 - **Better Storage** v0.10.3.115
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.9.0
@@ -31,13 +29,10 @@ Current Mod Versions
 - **Biomes O' Plenty** v2.1.0.1004
 - **Carpenter's Blocks** v3.3.2
 - **Chisel** v1.5.7
-- **Damage Indicators Mod** v3.2.0
 - **Dark Menagerie** beta v2.0
 - **Deadly World** v1.0.2
-- **Direction HUD** v1.24
 - **Doom-like Dungeons** v1.4.0
 - **Drowning Overhaul** v1.0
-- **Dynamic Lights** v1.7.10
 - **Enviromine** v1.3.50
 - **ExtraTiC** v1.0.3
 - **Falling Meteors** v2.13.1
@@ -71,7 +66,6 @@ Current Mod Versions
 - **Spice of Life** v1.2.2
 - **Stackie** v1.5.1.30
 - **Stalker Creepers** v1.7.10
-- **Status Effect HUD** v1.27
 - **Statues** v2.1.4
 - **TiCTooltips** v1.1.11b
 - **Tinkers' Construct** v1.7.1c
@@ -83,6 +77,16 @@ Current Mod Versions
 - **WAWLA** v1.0.9
 - **Weather** v2.3.6
 - **Zombie Awareness** v1.9.5
+
+Optional Client Mod Versions
+=
+- **Armor Status HUD** v1.28
+- **Better Foliage** v1.0.3
+- **Damage Indicators Mod** v3.2.0
+- **Direction HUD** v1.24
+- **Dynamic Lights** v1.7.10
+- **Status Effect HUD** v1.27
+
 
 Disabled (For Now)
 =
