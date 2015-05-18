@@ -22,7 +22,7 @@ Contributing
 ===
 I love getting outside contributions, however doing so can be a little complex for some.
 
-First a note: If you are going to contribute, please make your contributions to the ___master___ branch.
+First a note: If you are going to contribute, please make your contributions to the ___develop___ branch.
 
 Also, if you are just planning on making a one-line change, or anything that just alters one file, you can simply find the file and press "edit", and github will do the rest.
 
