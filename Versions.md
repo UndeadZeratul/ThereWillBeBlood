@@ -20,7 +20,7 @@ Current API Versions
 Current Mod Versions
 =
 - **Admin Command Toolbox** v0.0.2a
-- **Antique Atlas** v4.0.1a
+- **Antique Atlas** v4.2.2
 - **Better Storage** v0.13.1.126
 - **Better Title Screen** v1.1
 - **BiblioCraft** v1.10.4
@@ -29,18 +29,18 @@ Current Mod Versions
 - **Biomes O' Plenty** v2.1.0.1062
 - **Carpenter's Blocks** v3.3.6
 - **Chisel** v2.3.5.31
-- **Dark Menagerie** beta v2.0
+- **Dark Menagerie** beta v3.0
 - **Deadly World** v1.0.2
 - **Doom-like Dungeons** v1.7.6
 - **Drowning Overhaul** v1.0
-- **Enviromine** v1.3.50
+- **Enviromine** v1.3.117
 - **ExtraTiC** v1.4.4
 - **Falling Meteors** v2.14.2
 - **FMPIntegration** v1.2.2
 - **Garden Stuff** v1.6.2
 - **Glowstone Wire** v1.0.2.113
 - **Hardcore Ender Expansion** v1.6.7
-- **Hunger Overhaul** beta v2
+- **Hunger Overhaul** v1.0.0
 - **Infinibows** v1.3.0.20
 - **Iguana's Tinker Tweaks** v2.1.5
 - **Iguana's Tweaks** beta v2A
