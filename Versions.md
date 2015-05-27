@@ -43,7 +43,7 @@ Current Mod Versions
 - **Hunger Overhaul** v1.0.0
 - **Infinibows** v1.3.0.20
 - **Iguana's Tinker Tweaks** v2.1.5
-- **Iguana's Tweaks** beta v2A
+- **Iguana's Tweaks** beta v2B Snapshot 3
 - **Infernal Mobs** v1.6.1
 - **Inventory Tweaks** v1.58-147
 - **Lycanite's Mobs** v1.10.2.2
