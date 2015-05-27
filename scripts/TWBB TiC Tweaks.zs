@@ -922,9 +922,6 @@ furnace.remove(goldOre);
 # SMELTERY TWEAKS
 #----------
 
-/*
-# DISABLING FOR NOW UNTIL BUG WITH SMELTERY MELTING IS FIXED
-
 # Nerf Stone to Seared Stone Melting
 for stoneBlock in stone.items {
     Smeltery.removeMelting(stoneBlock);
@@ -961,13 +958,9 @@ for i, toolPart in stoneOctupleToolParts {
     
     Smeltery.addMelting(toolPart, moltenSearedStone * 16, 800, <minecraft:stone>);
 }
-*/
 
 # Bucket Melts to Steel
 Smeltery.addMelting(bucket, moltenSteel * 432, 700, steelBlock);
-
-/*
-# DISABLING FOR NOW UNTIL BUG WITH SMELTERY MELTING IS FIXED
 
 # Disable Smeltery Melting to Require High Oven
 Smeltery.removeMelting(netherCopperOre);
@@ -982,11 +975,6 @@ Smeltery.removeMelting(arditeOre);
 #Smeltery.removeMelting(cobaltShard);
 #Smeltery.removeMelting(arditeShard);
 #Smeltery.removeMelting(manyullynShard);
-*/
-
-/*
-# To disable re-melting of toolparts, delete the comment above this line,
-# as well as the one below.
 
 # Remove re-melting down toolparts
 for i, shard in metalShards {
@@ -1015,12 +1003,8 @@ for i, shard in metalShards {
     Smeltery.removeMelting(metalArrowheads[i]);
 }
 
-# To disable re-melting of tool parts, delete the comment below this line,
-# as well as the one above.
-*/
-
 # Remove alloying Manyullyn (Disabled for now)
-#Smeltery.removeAlloy(moltenManyullyn);
+#Smeltery.removeAlloy(moltenManyullyn * 16);
 
 # Manyullyn Crafting Recipe (Disabled for now)
 #recipes.addShapeless(manyullynShard, [cobaltIngot, arditeIngot]);

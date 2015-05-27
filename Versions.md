@@ -49,7 +49,7 @@ Current Mod Versions
 - **Lycanite's Mobs** v1.10.2.2
 - **MineTweaker** v3.0.9C
 - **Modpack Tweaks** v1.2.0-21
-- **ModTweaker** v2.0.7
+- **ModTweaker** v0.8.1
 - **Natura** v2.2.0-b1
 - **Natural Absorption** v1.2.1
 - **NEI Integration** v1.0.9
