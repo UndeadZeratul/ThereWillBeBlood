@@ -10,6 +10,7 @@ Current API Versions
 - **CoFHCore** v3.0.2-262
 - **CookieCore** v1.3.0
 - **CoroUtil** v1.1.1
+- **CreativeCore** v1.1.2
 - **Forge Multipart** v1.2.0.344
 - **Lunatrius Core** v1.1.2.21
 - **Mantle** v0.3.2
@@ -20,6 +21,7 @@ Current API Versions
 Current Mod Versions
 =
 - **Admin Command Toolbox** v0.0.2a
+- **Alternate Terrain Generation** v0.12.0
 - **Antique Atlas** v4.2.2
 - **Better Storage** v0.13.1.126
 - **Better Title Screen** v1.1
@@ -58,6 +60,7 @@ Current Mod Versions
 - **Open Eye** v0.6
 - **Pam's HarvestCraft** v1.7.10h
 - **Pam's Temperate Plants** v1.7.2b
+- **Primitive Mobs** v1.0c
 - **Random Things** v2.2.4
 - **Special AI** v1.1.1
 - **Special Mobs** v3.1.1
@@ -83,5 +86,6 @@ Optional Client Mod Versions
 - **Damage Indicators Mod** v3.2.3
 - **Direction HUD** v1.24
 - **Dynamic Lights** v1.3.8
+- **Item Physic Lite v1.1.5
 - **Sound Filters** v0.7
 - **Status Effect HUD** v1.27
