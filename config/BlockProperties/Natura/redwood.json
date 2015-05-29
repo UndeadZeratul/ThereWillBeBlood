@@ -1,0 +1,20 @@
+{
+  "_name": "Natura:redwood",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 10.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe"
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

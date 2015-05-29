@@ -1,0 +1,16 @@
+{
+  "_name": "chisel:ice_stairs.4",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.5,
+    "resistance": 2.5,
+    "sound": "glass",
+    "slipperiness": 0.98,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

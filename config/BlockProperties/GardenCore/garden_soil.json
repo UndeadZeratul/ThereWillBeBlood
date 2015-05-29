@@ -1,0 +1,16 @@
+{
+  "_name": "GardenCore:garden_soil",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.5,
+    "resistance": 2.5,
+    "sound": "grass",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

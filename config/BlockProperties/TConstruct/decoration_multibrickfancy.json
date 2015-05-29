@@ -1,0 +1,15 @@
+{
+  "_name": "TConstruct:decoration.multibrickfancy",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "resistance": 15.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

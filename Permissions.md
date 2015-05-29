@@ -9,6 +9,9 @@
 - **Admin Command Toolbox** by: *ProfMobius*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Alternate Terrain Generation** by: *TTFTCUTS*
+  - **Private Packs**: Open: [FTB Permission Spreadsheet]
+  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Antique Atlas** by: *Hunternif*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -42,6 +45,9 @@
 - **Biomes O' Plenty** by: *TDWP_FTW, Adubbz*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Block Properties** by: *FatherToast*
+  - **Private Packs**: Open: [FatherToast's MCF Thread]
+  - **Public Packs** : Open: [FatherToast's MCF Thread]
 - **bspkrs Core** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -129,6 +135,9 @@
 - **Inventory Tweaks** by: *Kobata*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Item Physic Lite** by: *CreativeMD*
+  - **Private Packs**: Notification Needed
+  - **Public Packs** : Notification Needed
 - **Lunatrius Core** by: *Lunatrius*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -141,6 +150,9 @@
 - **MineTweaker** by: *StanH*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Mob Properties** by: *FatherToast*
+  - **Private Packs**: Open: [FatherToast's MCF Thread]
+  - **Public Packs** : Open: [FatherToast's MCF Thread]
 - **Modpack Tweaks** by: *tterrag*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -172,6 +184,9 @@
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Pam's Temperate Plants** by: *MatrexsVigil*
+  - **Private Packs**: Open: [FTB Permission Spreadsheet]
+  - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Primitive Mobs** by: *Davetx0*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Random Things** by: *Lumien*

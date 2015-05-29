@@ -1,0 +1,16 @@
+{
+  "_name": "chisel:limestone_stairs.7",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 30.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

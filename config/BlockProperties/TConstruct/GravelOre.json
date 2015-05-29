@@ -1,0 +1,46 @@
+{
+  "_name": "TConstruct:GravelOre",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "resistance": 0.0,
+    "sound": "gravel",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "shovel",
+        "level": 1
+      },
+      {
+        "_meta": 1,
+        "tool": "shovel",
+        "level": 2
+      },
+      {
+        "_meta": 2,
+        "tool": "shovel",
+        "level": 1
+      },
+      {
+        "_meta": 3,
+        "tool": "shovel",
+        "level": 1
+      },
+      {
+        "_meta": 4,
+        "tool": "shovel",
+        "level": 1
+      },
+      {
+        "_meta": 5,
+        "tool": "shovel",
+        "level": 4
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

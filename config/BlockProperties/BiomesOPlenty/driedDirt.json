@@ -1,0 +1,21 @@
+{
+  "_name": "BiomesOPlenty:driedDirt",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.1,
+    "resistance": 0.5,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

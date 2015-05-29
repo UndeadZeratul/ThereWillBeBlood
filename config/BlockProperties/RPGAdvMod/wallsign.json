@@ -1,0 +1,42 @@
+{
+  "_name": "RPGAdvMod:wallsign",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 15.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "axe",
+        "level": 1
+      },
+      {
+        "_meta": 1,
+        "tool": "axe",
+        "level": 1
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 3,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 4,
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

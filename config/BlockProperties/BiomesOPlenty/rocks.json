@@ -1,0 +1,31 @@
+{
+  "_name": "BiomesOPlenty:rocks",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "resistance": 0.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 4,
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

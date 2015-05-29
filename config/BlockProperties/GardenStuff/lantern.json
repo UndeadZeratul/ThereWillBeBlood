@@ -1,0 +1,16 @@
+{
+  "_name": "GardenStuff:lantern",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 2.5,
+    "resistance": 15.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

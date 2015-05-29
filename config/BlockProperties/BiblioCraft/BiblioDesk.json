@@ -1,0 +1,15 @@
+{
+  "_name": "BiblioCraft:BiblioDesk",
+  "stats": {
+    "opacity": 0,
+    "brightness": 7,
+    "resistance": 0.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

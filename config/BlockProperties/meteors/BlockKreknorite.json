@@ -1,0 +1,21 @@
+{
+  "_name": "meteors:BlockKreknorite",
+  "stats": {
+    "opacity": 255,
+    "brightness": 10,
+    "hardness": 11.0,
+    "resistance": 1050.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

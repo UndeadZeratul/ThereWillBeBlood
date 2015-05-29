@@ -1,0 +1,22 @@
+{
+  "_name": "BiomesOPlenty:hardIce",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.75,
+    "resistance": 3.75,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 7,
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

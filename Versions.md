@@ -10,6 +10,7 @@ Current API Versions
 - **CoFHCore** v3.0.2-262
 - **CookieCore** v1.3.0
 - **CoroUtil** v1.1.1
+- **CreativeCore** v1.1.2
 - **Forge Multipart** v1.2.0.344
 - **Lunatrius Core** v1.1.2.21
 - **Mantle** v0.3.2
@@ -19,10 +20,12 @@ Current API Versions
 
 Current Mod Versions
 =
+- **Alternate Terrain Generation** v0.12.0
 - **Antique Atlas** v4.2.2
 - **Better Storage** v0.13.1.126
 - **Better Title Screen** v1.1
 - **Biomes O' Plenty** v2.1.0.1062
+- **Block Properties** v0.1.0
 - **Dark Menagerie** beta v3.0
 - **Deadly World** v1.0.2
 - **Doom-like Dungeons** v1.7.6
@@ -39,6 +42,7 @@ Current Mod Versions
 - **Inventory Tweaks** v1.58-147
 - **Lycanite's Mobs** v1.10.2.2
 - **MineTweaker** v3.0.9C
+- **Mob Properties** v0.4.0
 - **Modpack Tweaks** v1.2.0-21
 - **ModTweaker** v0.8.1
 - **Natura** v2.2.0-b1
@@ -49,6 +53,7 @@ Current Mod Versions
 - **Open Eye** v0.6
 - **Pam's HarvestCraft** v1.7.10h
 - **Pam's Temperate Plants** v1.7.2b
+- **Primitive Mobs** v1.0c
 - **Random Things** v2.2.4
 - **Special AI** v1.1.1
 - **Special Mobs** v3.1.1
@@ -73,5 +78,6 @@ Optional Client Mod Versions
 - **Damage Indicators Mod** v3.2.3
 - **Direction HUD** v1.24
 - **Dynamic Lights** v1.3.8
+- **Item Physic Lite v1.1.5
 - **Sound Filters** v0.7
 - **Status Effect HUD** v1.27

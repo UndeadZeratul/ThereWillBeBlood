@@ -1,0 +1,20 @@
+{
+  "_name": "Natura:tree",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 1.5,
+    "resistance": 15.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe"
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

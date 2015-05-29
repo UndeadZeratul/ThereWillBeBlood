@@ -1,0 +1,16 @@
+{
+  "_name": "TConstruct:FurnaceSlab",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 3.5,
+    "resistance": 17.5,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

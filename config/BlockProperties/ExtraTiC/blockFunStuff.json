@@ -1,0 +1,32 @@
+{
+  "_name": "ExtraTiC:blockFunStuff",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 5.0,
+    "resistance": 30.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 4
+      },
+      {
+        "_meta": 1,
+        "tool": "pickaxe",
+        "level": 4
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 4
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

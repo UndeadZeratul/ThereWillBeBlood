@@ -1,0 +1,16 @@
+{
+  "_name": "TwilightForest:tile.TFBurntThorns",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.01,
+    "resistance": 0.0,
+    "sound": "sand",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

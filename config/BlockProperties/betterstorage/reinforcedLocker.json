@@ -1,0 +1,20 @@
+{
+  "_name": "betterstorage:reinforcedLocker",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 60.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
