@@ -10,11 +10,9 @@ var charcoal        = <minecraft:coal:1>;
 var torchberries    = <TwilightForest:item.torchberries>;
 
 var stick           = <ore:stickWood>;
-var carpentersBlock = <CarpentersBlocks:blockCarpentersBlock>;
 var stoneRod        = <ore:rodStone>;
 
 var torchWood       = <minecraft:torch>;
-var torchCarpenters = <CarpentersBlocks:blockCarpentersTorch>;
 var torchStone      = <TConstruct:decoration.stonetorch>;
 
 var bread           = <minecraft:bread>;
@@ -31,27 +29,22 @@ var steelBlock      = <ore:blockSteel>;
 
 # ITEM LISTS
 #------------
-var torchFuels = [
+var torchFuels      = [
     coal,
     charcoal,
     torchberries
 ] as IIngredient[];
-var torchHandles = [
-    stick,
-#    carpentersBlock,
-#    stoneRod
+var torchHandles    = [
+    stick
 ] as IIngredient[];
-var torches = [
-    torchWood,
-#    torchCarpenters,
-#    torchStone
+var torches         = [
+    torchWood
 ] as IItemStack[];
 
 # ORE DICTIONARY
 #----------------
 var anyTorch = <ore:anyTorch>;
 anyTorch.add(torchWood);
-anyTorch.add(torchCarpenters);
 anyTorch.add(torchStone);
 
 # FURNACE
@@ -71,7 +64,6 @@ recipes.removeShaped(coal, [
 # Nerf Torch Recipes
 #-------------------------
 
-recipes.remove(torchCarpenters);
 recipes.remove(torchStone);
 
 for i, handle in torchHandles
