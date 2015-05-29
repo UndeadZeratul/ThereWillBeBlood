@@ -78,6 +78,6 @@ Optional Client Mod Versions
 - **Damage Indicators Mod** v3.2.3
 - **Direction HUD** v1.24
 - **Dynamic Lights** v1.3.8
-- **Item Physic Lite v1.1.5
+- **Item Physic Lite** v1.1.5
 - **Sound Filters** v0.7
 - **Status Effect HUD** v1.27
