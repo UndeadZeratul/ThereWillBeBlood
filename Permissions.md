@@ -45,6 +45,9 @@
 - **Biomes O' Plenty** by: *TDWP_FTW, Adubbz*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Block Properties** by: *FatherToast*
+  - **Private Packs**: Open: [FatherToast's MCF Thread]
+  - **Public Packs** : Open: [FatherToast's MCF Thread]
 - **bspkrs Core** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -147,6 +150,9 @@
 - **MineTweaker** by: *StanH*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **Mob Properties** by: *FatherToast*
+  - **Private Packs**: Open: [FatherToast's MCF Thread]
+  - **Public Packs** : Open: [FatherToast's MCF Thread]
 - **Modpack Tweaks** by: *tterrag*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]

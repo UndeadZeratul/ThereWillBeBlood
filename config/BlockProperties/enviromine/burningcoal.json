@@ -1,0 +1,16 @@
+{
+  "_name": "enviromine:burningcoal",
+  "stats": {
+    "opacity": 255,
+    "brightness": 9,
+    "hardness": 3.0,
+    "resistance": 15.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

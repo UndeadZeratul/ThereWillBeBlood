@@ -1,0 +1,20 @@
+{
+  "_name": "TConstruct:CraftedSoil",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 3.0,
+    "resistance": 15.0,
+    "sound": "gravel",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "shovel"
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

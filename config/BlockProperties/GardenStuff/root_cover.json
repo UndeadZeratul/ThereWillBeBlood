@@ -1,0 +1,16 @@
+{
+  "_name": "GardenStuff:root_cover",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 1.5,
+    "resistance": 7.5,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,16 @@
+{
+  "_name": "minecraft:dragon_egg",
+  "stats": {
+    "opacity": 0,
+    "brightness": 1,
+    "hardness": -1.0,
+    "resistance": 6000.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,16 @@
+{
+  "_name": "chisel:cloud",
+  "stats": {
+    "opacity": 3,
+    "brightness": 0,
+    "hardness": 0.2,
+    "resistance": 30.0,
+    "sound": "cloth",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

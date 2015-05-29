@@ -1,0 +1,16 @@
+{
+  "_name": "chisel:glowstone",
+  "stats": {
+    "opacity": 255,
+    "brightness": 15,
+    "hardness": 0.3,
+    "resistance": 30.0,
+    "sound": "glass",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

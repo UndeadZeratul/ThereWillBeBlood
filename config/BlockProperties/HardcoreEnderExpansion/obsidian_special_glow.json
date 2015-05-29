@@ -1,0 +1,21 @@
+{
+  "_name": "HardcoreEnderExpansion:obsidian_special_glow",
+  "stats": {
+    "opacity": 255,
+    "brightness": 15,
+    "hardness": 28.0,
+    "resistance": 6000.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

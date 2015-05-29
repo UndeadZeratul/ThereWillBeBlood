@@ -1,0 +1,15 @@
+{
+  "_name": "BiomesOPlenty:stoneDoubleSlab",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "resistance": 0.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

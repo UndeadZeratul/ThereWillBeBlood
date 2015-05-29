@@ -1,0 +1,21 @@
+{
+  "_name": "meteors:BlockFrezarite",
+  "stats": {
+    "opacity": 255,
+    "brightness": 3,
+    "hardness": 8.5,
+    "resistance": 450.0,
+    "sound": "glass",
+    "slipperiness": 0.98,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

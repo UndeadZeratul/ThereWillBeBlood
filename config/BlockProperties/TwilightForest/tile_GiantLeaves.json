@@ -1,0 +1,16 @@
+{
+  "_name": "TwilightForest:tile.GiantLeaves",
+  "stats": {
+    "opacity": 1,
+    "brightness": 0,
+    "hardness": 12.8,
+    "resistance": 64.0,
+    "sound": "grass",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

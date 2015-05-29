@@ -1,0 +1,16 @@
+{
+  "_name": "meteors:BlockSlipperyTwo",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 1.0,
+    "resistance": 5.0,
+    "sound": "glass",
+    "slipperiness": 1.03,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

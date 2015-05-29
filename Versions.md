@@ -29,6 +29,7 @@ Current Mod Versions
 - **BiblioWoods (BoP)** v1.9
 - **BiblioWoods (Natura)** v1.5
 - **Biomes O' Plenty** v2.1.0.1062
+- **Block Properties** v0.1.0
 - **Carpenter's Blocks** v3.3.6
 - **Chisel** v2.3.5.31
 - **Dark Menagerie** beta v3.0
@@ -50,6 +51,7 @@ Current Mod Versions
 - **Inventory Tweaks** v1.58-147
 - **Lycanite's Mobs** v1.10.2.2
 - **MineTweaker** v3.0.9C
+- **Mob Properties** v0.4.0
 - **Modpack Tweaks** v1.2.0-21
 - **ModTweaker** v0.8.1
 - **Natura** v2.2.0-b1
