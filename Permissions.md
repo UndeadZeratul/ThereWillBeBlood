@@ -6,9 +6,6 @@
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
 [Underground Biomes License]:https://www.dropbox.com/s/45yeaokdmr7wcbm/Underground%20Biomes%20Construct%20Permissions.png?dl=0
 
-- **Admin Command Toolbox** by: *ProfMobius*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Alternate Terrain Generation** by: *TTFTCUTS*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -33,15 +30,6 @@
 - **Better Title Screen** by: *GirafiStudios*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **BiblioCraft** by: *Nuchaz*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **BiblioWoods (BoP)** by: *Nuchaz*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **BiblioWoods (Natura)** by: *Nuchaz*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Biomes O' Plenty** by: *TDWP_FTW, Adubbz*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
@@ -49,12 +37,6 @@
   - **Private Packs**: Open: [FatherToast's MCF Thread]
   - **Public Packs** : Open: [FatherToast's MCF Thread]
 - **bspkrs Core** by: *bspkrs*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **Carpenter's Blocks** by: *Mineshopper*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **Chisel** by: *AUTOMATIC_MAIDEN*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **CoFH Core** by: *CoFH Team*
@@ -102,18 +84,9 @@
 - **FastCraft (Optional)** by: *Player*
   - **Private Packs**: Manual Download via Modpack Tweaks.
   - **Public Packs** : Manual Download via Modpack Tweaks.
-- **FMPIntegration** by: *wasliebob*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Forge Multipart** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **Garden Stuff** by: *jaquadro*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
-- **Glowstone Wire** by: *GrygrFlzr*
-  - **Private Packs**: Open: [Glowstone Wire MCF Thread]
-  - **Public Packs** : Open: [Glowstone Wire MCF Thread]
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : [Notified](https://www.dropbox.com/s/xgp8zkwvspaqqat/Chylex%20TWBB%20Notification.png?dl=0)
@@ -213,9 +186,6 @@
 - **Stalker Creepers** by: *AtomicStryker*
   - **Private Packs**: Open: [AtomicStryker's License]
   - **Public Packs** : Open: [AtomicStryker's License]
-- **Statues** by: *ATOMIC_MAIDEN*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Status Effect HUD** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
