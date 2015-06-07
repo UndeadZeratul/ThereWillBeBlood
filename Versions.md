@@ -14,6 +14,7 @@ Current API Versions
 - **Forge Multipart** v1.2.0.344
 - **Lunatrius Core** v1.1.2.21
 - **Mantle** v0.3.2
+- **Metallurgy Core** v4.0.4.18
 - **INPureCore** v1.0.0B7-19
 - **ServerTools-BACKUP** v2.2.0.23
 - **ServerTools-CORE** v2.2.0.79
@@ -41,6 +42,7 @@ Current Mod Versions
 - **Infernal Mobs** v1.6.1
 - **Inventory Tweaks** v1.58-147
 - **Lycanite's Mobs** v1.10.2.2
+- **Metallurgy** v4.0.6.80
 - **MineTweaker** v3.0.9C
 - **Mob Properties** v0.4.0
 - **Modpack Tweaks** v1.2.0-21
