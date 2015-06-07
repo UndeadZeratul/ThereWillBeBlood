@@ -60,6 +60,7 @@ Current Mod Versions
 - **Spice of Life** v1.2.3
 - **Stackie** v1.6.0.35
 - **Stalker Creepers** v1.0.9
+- **Thermal Foundation** v1.0.0-81
 - **TiCTooltips** v1.2.4
 - **Tinkers' Construct** v1.8.5
 - **Tinkers' Steelworks** v1.0.7
