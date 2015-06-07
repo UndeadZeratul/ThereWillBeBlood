@@ -1,0 +1,16 @@
+{
+  "_name": "thebetweenlands:weedwoodBush",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.35,
+    "resistance": 1.75,
+    "sound": "grass",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
