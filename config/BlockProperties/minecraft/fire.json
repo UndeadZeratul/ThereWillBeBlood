@@ -35,11 +35,6 @@
         "spread": 15
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersSlope",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "minecraft:wool",
         "flammability": 60,
         "spread": 30
@@ -75,11 +70,6 @@
         "spread": 5
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersBarrier",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "BiomesOPlenty:willowStairs",
         "flammability": 20,
         "spread": 5
@@ -91,11 +81,6 @@
       },
       {
         "_name": "BiomesOPlenty:etherealStairs",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersStairs",
         "flammability": 20,
         "spread": 5
       },
@@ -128,11 +113,6 @@
         "_name": "TwilightForest:tile.TFLeaves",
         "flammability": 60,
         "spread": 30
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersLadder",
-        "flammability": 20,
-        "spread": 5
       },
       {
         "_name": "minecraft:oak_stairs",
@@ -195,11 +175,6 @@
         "spread": 5
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersBed",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "TSteelworks:blockCharcoal",
         "flammability": 30,
         "spread": 15
@@ -235,27 +210,7 @@
         "spread": 5
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersDaylightSensor",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersGarageDoor",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersFlowerPot",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "BiomesOPlenty:mahoganyStairs",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersDoor",
         "flammability": 20,
         "spread": 5
       },
@@ -268,11 +223,6 @@
         "_name": "minecraft:bookshelf",
         "flammability": 20,
         "spread": 30
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersButton",
-        "flammability": 20,
-        "spread": 5
       },
       {
         "_name": "BiomesOPlenty:planks",
@@ -305,22 +255,7 @@
         "spread": 60
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersPressurePlate",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "BiomesOPlenty:redwoodStairs",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersTorch",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersLever",
         "flammability": 20,
         "spread": 5
       },
@@ -355,22 +290,12 @@
         "spread": 5
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersHatch",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "minecraft:tallgrass",
         "flammability": 100,
         "spread": 60
       },
       {
         "_name": "minecraft:spruce_stairs",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersCollapsibleBlock",
         "flammability": 20,
         "spread": 5
       },
@@ -390,19 +315,9 @@
         "spread": 5
       },
       {
-        "_name": "CarpentersBlocks:blockCarpentersBlock",
-        "flammability": 20,
-        "spread": 5
-      },
-      {
         "_name": "BiomesOPlenty:plants",
         "flammability": 100,
         "spread": 60
-      },
-      {
-        "_name": "CarpentersBlocks:blockCarpentersGate",
-        "flammability": 20,
-        "spread": 5
       }
     ]
   },
