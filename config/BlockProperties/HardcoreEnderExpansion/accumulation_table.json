@@ -1,10 +1,10 @@
 {
-  "_name": "HardcoreEnderExpansion:soul_charm",
+  "_name": "HardcoreEnderExpansion:accumulation_table",
   "stats": {
-    "opacity": 0,
+    "opacity": 255,
     "brightness": 0,
-    "hardness": -1.0,
-    "resistance": 1.8E7,
+    "hardness": 4.0,
+    "resistance": 6000.0,
     "sound": "stone",
     "slipperiness": 0.6,
     "tool_data": []

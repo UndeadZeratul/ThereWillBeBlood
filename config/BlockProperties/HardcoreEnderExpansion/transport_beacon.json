@@ -1,8 +1,8 @@
 {
-  "_name": "HardcoreEnderExpansion:biome_core",
+  "_name": "HardcoreEnderExpansion:transport_beacon",
   "stats": {
-    "opacity": 255,
-    "brightness": 0,
+    "opacity": 0,
+    "brightness": 15,
     "hardness": -1.0,
     "resistance": 1.8E7,
     "sound": "stone",
