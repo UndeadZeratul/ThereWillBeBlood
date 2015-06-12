@@ -84,6 +84,9 @@
 - **FastCraft (Optional)** by: *Player*
   - **Private Packs**: Manual Download via Modpack Tweaks.
   - **Public Packs** : Manual Download via Modpack Tweaks.
+- **Flaxbeard's Steam Power** by: *Flaxbeard, Esteemed Innovation*
+  - **Private Packs**: Open: [FTB Permission Spreadsheet]
+  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Forge Multipart** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]

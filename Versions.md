@@ -33,6 +33,7 @@ Current Mod Versions
 - **Enviromine** v1.3.117
 - **ExtraTiC** v1.4.4
 - **Falling Meteors** v2.14.2
+- **Flaxbeard's Steam Power** v0.28.7
 - **Hardcore Ender Expansion** v1.8.1
 - **Hunger Overhaul** v1.0.0
 - **Infinibows** v1.3.0.20
