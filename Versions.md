@@ -67,6 +67,7 @@ Current Mod Versions
 - **TiCTooltips** v1.2.4
 - **Tinkers' Construct** v1.8.5
 - **Tinkers' Steelworks** v1.0.7
+- **TNT Utils** v0.3-alpha
 - **Too Much Loot** v3.0.1.B22
 - **Twilight Forest** v2.3.7
 - **Underground Biomes Constructs** v0.7
