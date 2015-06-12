@@ -1,0 +1,16 @@
+{
+  "_name": "ThermalFoundation:FluidPyrotheum",
+  "stats": {
+    "opacity": 1,
+    "brightness": 0,
+    "hardness": 1000.0,
+    "resistance": 5000.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
