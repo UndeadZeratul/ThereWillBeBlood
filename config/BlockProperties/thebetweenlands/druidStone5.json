@@ -1,0 +1,21 @@
+{
+  "_name": "thebetweenlands:druidStone5",
+  "stats": {
+    "opacity": 0,
+    "brightness": 12,
+    "hardness": 1.5,
+    "resistance": 30.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
