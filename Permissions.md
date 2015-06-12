@@ -4,6 +4,7 @@
 [FTB Permission Spreadsheet]:http://1drv.ms/1kbLNMM
 [Glowstone Wire MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280347-glowstone-wire-v1-0-2-113
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
+[TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
 [Underground Biomes License]:https://www.dropbox.com/s/45yeaokdmr7wcbm/Underground%20Biomes%20Construct%20Permissions.png?dl=0
 
 - **Alternate Terrain Generation** by: *TTFTCUTS*
@@ -210,6 +211,9 @@
 - **Tinkers Steelworks** by: *Ephys, Toops*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
+- **TNTUtils** by: *ljfa*
+  - **Private Packs**: Open: [TNTUtils MCF Thread]
+  - **Public Packs** : Open: [TNTUtils MCF Thread]
 - **Too Much Loot** by: *dmillerw*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
