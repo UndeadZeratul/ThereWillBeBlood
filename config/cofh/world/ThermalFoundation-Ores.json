@@ -16,7 +16,7 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     },
     "tin": {
         "template": "uniform",
@@ -35,7 +35,7 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     },
     "silver": {
         "template": "uniform",
@@ -57,7 +57,7 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     },
     "lead": {
         "template": "uniform",
@@ -79,7 +79,7 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     },
     "nickel": {
         "template": "uniform",
@@ -98,7 +98,7 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     },
     "platinum": {
         "template": "uniform",
@@ -121,7 +121,7 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     },
     "copperHigh": {
         "template": "uniform",
@@ -140,6 +140,6 @@
             -1,
             1
         ],
-        enabled: false
+        "enabled": false
     }
 }
