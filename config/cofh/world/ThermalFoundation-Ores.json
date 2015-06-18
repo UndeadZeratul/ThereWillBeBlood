@@ -15,7 +15,8 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     },
     "tin": {
         "template": "uniform",
@@ -33,7 +34,8 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     },
     "silver": {
         "template": "uniform",
@@ -54,7 +56,8 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     },
     "lead": {
         "template": "uniform",
@@ -75,7 +78,8 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     },
     "nickel": {
         "template": "uniform",
@@ -93,7 +97,8 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     },
     "platinum": {
         "template": "uniform",
@@ -115,7 +120,8 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     },
     "copperHigh": {
         "template": "uniform",
@@ -133,6 +139,7 @@
         "dimensions": [
             -1,
             1
-        ]
+        ],
+        enabled: false
     }
 }
