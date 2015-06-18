@@ -275,6 +275,8 @@ iceCream.add(<harvestcraft:caramelicecreamItem>);
 iceCream.add(<harvestcraft:mintchocolatechipicemcreamItem>);
 iceCream.add(<harvestcraft:strawberryicecreamItem>);
 iceCream.add(<harvestcraft:vanillaicecreamItem>);
+iceCream.add(<meteors:VanillaICream>);
+iceCream.add(<meteors:ChocolateICream>);
 
 # Jelly
 var jelly     = <ore:listAlljelly>;
