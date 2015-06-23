@@ -21,6 +21,7 @@ Current API Versions
 
 Current Mod Versions
 =
+- **Agricraft** v1.3.1
 - **Alternate Terrain Generation** v0.12.0
 - **Antique Atlas** v4.2.2
 - **Better Storage** v0.13.1.126

@@ -1,0 +1,21 @@
+{
+  "_name": "AgriCraft:sprinkler",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 15.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
