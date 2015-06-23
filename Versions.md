@@ -9,7 +9,7 @@ Current API Versions
 - **bspkrs Core** v6.16
 - **CoFHCore** v3.0.2-262
 - **CookieCore** v1.3.0
-- **CoroUtil** v1.1.1
+- **CoroUtil** v1.1.2
 - **CreativeCore** v1.1.2
 - **Forge Multipart** v1.2.0.344
 - **Lunatrius Core** v1.1.2.21
