@@ -41,6 +41,9 @@
 - **Block Properties** by: *FatherToast*
   - **Private Packs**: Open: [FatherToast's MCF Thread]
   - **Public Packs** : Open: [FatherToast's MCF Thread]
+- **Blood Magic** by: *WayOfTime*
+  - **Private Packs**: Open: [FTB Permission Spreadsheet]
+  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **bspkrs Core** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]

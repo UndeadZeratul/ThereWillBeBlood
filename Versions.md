@@ -28,6 +28,7 @@ Current Mod Versions
 - **Better Title Screen** v1.1
 - **Biomes O' Plenty** v2.1.0.1062
 - **Block Properties** v0.1.0
+- **Blood Magic** v1.3.3.4
 - **Dark Menagerie** beta v3.0
 - **Deadly World** v1.0.2
 - **Doom-like Dungeons** v1.7.6
