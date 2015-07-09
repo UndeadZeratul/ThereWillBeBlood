@@ -1,3 +1,4 @@
+[Agricraft's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2306730-agricraft-agricultural-farming-extended
 [AtomicStryker's License]:https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/advancedmachinesatomicstryker.png
 [Drowning Overhaul MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more?comment=45
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob
@@ -7,6 +8,9 @@
 [TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
 [Underground Biomes License]:https://www.dropbox.com/s/45yeaokdmr7wcbm/Underground%20Biomes%20Construct%20Permissions.png?dl=0
 
+- **Agricraft** by: *InfinityRaider
+  - **Private Packs**: Open: [Agricraft's MCF Thread]
+  - **Public Packs** : Open: [Agricraft's MCF Thread]
 - **Alternate Terrain Generation** by: *TTFTCUTS*
   - **Private Packs**: Open: [FTB Permission Spreadsheet]
   - **Public Packs** : Open: [FTB Permission Spreadsheet]
