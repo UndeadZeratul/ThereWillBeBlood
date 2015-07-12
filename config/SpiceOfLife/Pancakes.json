@@ -2,7 +2,7 @@
 	"name": "Pancakes",
 	"food": {
 		"oredict": [
-			"foodPancake"
+			"foodPancakes"
 		]
 	}
 }

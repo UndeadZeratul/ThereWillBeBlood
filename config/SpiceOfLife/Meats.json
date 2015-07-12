@@ -2,13 +2,27 @@
 	"name": "Meats",
 	"food": {
 		"oredict": [
+			"foodClamCooked",
+			"foodClamRaw",
+			"foodCrabCooked",
+			"foodCrabRaw",
+			"foodFrogCooked",
+			"foodFrogRaw",
 			"foodJerky",
-			"listAllbeefraw",
+			"foodTurtleCooked",
+			"foodTurtleRaw",
 			"listAllbeefcooked",
-			"listAllmeatraw",
-			"listAllmeatcooked",
+			"listAllbeefraw",
+			"listAllchickencooked",
+			"listAllchickenraw",
+			"listAllfishcooked",
 			"listAllfishraw",
-			"listAllfishcooked"
+			"listAllmeatcooked",
+			"listAllmeatraw",
+			"listAllmuttoncooked",
+			"listAllmuttonraw",
+			"listAllporkcooked",
+			"listAllporkraw"
 		]
 	}
 }
