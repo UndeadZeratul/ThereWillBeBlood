@@ -5,70 +5,82 @@ import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
+var anvil           = <minecraft:anvil>;
+var bread           = <minecraft:bread>;
+var bucket          = <minecraft:bucket>;
+var clayBlock       = <minecraft:clay>;
+var clayBall        = <minecraft:clay_ball>;
 var coal            = <minecraft:coal:0>;
 var charcoal        = <minecraft:coal:1>;
-var torchberries    = <TwilightForest:item.torchberries>;
-
-var stick           = <ore:stickWood>;
-var stoneRod        = <ore:rodStone>;
-
-var torchWood       = <minecraft:torch>;
-var torchStone      = <TConstruct:decoration.stonetorch>;
-
-var bread           = <minecraft:bread>;
-var quartz          = <minecraft:quartz>;
 var emerald         = <minecraft:emerald>;
-var clayBall        = <minecraft:clay_ball>;
-var clayBlock       = <minecraft:clay>;
-var bucket          = <minecraft:bucket>;
 var flint           = <minecraft:flint>;
 var flintNSteel     = <minecraft:flint_and_steel>;
-var anvil           = <minecraft:anvil>;
-var steelIngot      = <ore:ingotSteel>;
-var steelBlock      = <ore:blockSteel>;
+var gunpowder       = <minecraft:gunpowder>;
+var quartz          = <minecraft:quartz>;
+var torchWood       = <minecraft:torch>;
+var torchStone      = <TConstruct:decoration.stonetorch>;
+var torchberries    = <TwilightForest:item.torchberries>;
+
+# ORE DICTIONARY
+#----------------
+var anyWoodenStick  = <ore:stickWood>;
+var anyStoneRod     = <ore:rodStone>;
+
+# Ingots
+var anySteelIngot   = <ore:ingotSteel>;
+
+# Dusts
+var anySulfurDust   = <ore:dustSulfur>;
+
+# Blocks
+var anySteelBlock   = <ore:blockSteel>;
+
+anySulfurDust.add(<thebetweenlands:null:24>);
+anySulfurDust.add(<Natura:barleyFood:4>);
 
 # ITEM LISTS
 #------------
-var torchFuels      = [
+var allTorchFuels   = [
     coal,
     charcoal,
     torchberries
 ] as IIngredient[];
-var torchHandles    = [
-    stick
+var allTorchHandles = [
+    anyWoodenStick
 ] as IIngredient[];
-var torches         = [
+var allTorches      = [
     torchWood
 ] as IItemStack[];
 
-# ORE DICTIONARY
+# FURNACE TWEAKS
 #----------------
-var anyTorch = <ore:anyTorch>;
-anyTorch.add(torchWood);
-anyTorch.add(torchStone);
-
-# FURNACE
-#---------
 furnace.remove(coal);
 furnace.remove(quartz);
 furnace.remove(emerald);
 
-# RECIPE REMOVAL
-#----------------
+# RECIPE TWEAKS
+#---------------
+
+# Enforce Baking Bread
 recipes.removeShaped(bread);
+
+# Remove Easy Coal Recipe
 recipes.removeShaped(coal, [
     [<*>,<*>,<*>],
     [<*>,<*>,<*>],
     [<*>,<*>,<*>]]);
 
-# Nerf Torch Recipes
-#-------------------------
+# Remove Sulfur -> Gunpowder
+recipes.removeShaped(gunpowder, [
+    [<*>, <*>],
+    [<*>, <*>]]);
 
+# Nerf Torch Recipes
 recipes.remove(torchStone);
 
-for i, handle in torchHandles
+for i, handle in allTorchHandles
 {
-    var torch = torches[i];
+    var torch = allTorches[i];
     recipes.remove(torch);
 
     # Coal
@@ -86,29 +98,24 @@ for i, handle in torchHandles
         [torchberries],
         [handle]]);
     recipes.addShapeless(torch * 2, [torchberries, handle, handle]);
-
 }
 
 # Add Clayball
-#--------------
 recipes.addShapeless(clayBall * 4, [clayBlock]);
 
-# Replace Iron With Steel
-#-------------------------
-
-# Bucket
+# Bucket Costs Steel
 recipes.remove(bucket);
 recipes.addShaped(bucket, [
-    [steelIngot, null,       steelIngot],
-    [null,       steelIngot, null      ]]);
+    [anySteelIngot, null,          anySteelIngot],
+    [null,          anySteelIngot, null]]);
 
-# Flint & Steel
+# Flint & Steel Costs Steel
 recipes.remove(flintNSteel);
-recipes.addShapeless(flintNSteel, [flint, steelIngot]);
+recipes.addShapeless(flintNSteel, [flint, anySteelIngot]);
 
-# Anvil
+# Anvil Costs Steel
 recipes.remove(anvil);
 recipes.addShaped(anvil, [
-    [steelBlock, steelBlock, steelBlock],
-    [null,       steelIngot, null      ],
-    [steelIngot, steelIngot, steelIngot]]);
+    [anySteelBlock, anySteelBlock, anySteelBlock],
+    [null,          anySteelIngot, null],
+    [anySteelIngot, anySteelIngot, anySteelIngot]]);
