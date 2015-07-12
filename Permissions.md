@@ -3,6 +3,7 @@
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
+[Tinkers' Defense Curseforge Page]:http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense
 [TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
 [Underground Biomes License]:https://www.dropbox.com/s/45yeaokdmr7wcbm/Underground%20Biomes%20Construct%20Permissions.png?dl=0
 
@@ -141,6 +142,9 @@
 - **MineTweaker** by: *StanH*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Mine & Blade Battlegear 2** by: *Mine_and_Blade_Admin*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Mob Properties** by: *FatherToast*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -213,9 +217,12 @@
 - **TiCTooltips** by: *Squeek502*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Tinkers Construct** by: *Boni, mDiyo*
+- **Tinkers' Construct** by: *Boni, mDiyo*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Tinkers' Defense** by: *Lance5057*
+  - **Private Packs**: Open: [Tinkers' Defense Curseforge Page]
+  - **Public Packs** : Open: [Tinkers' Defense Curseforge Page]
 - **Tinkers Steelworks** by: *Ephys, Toops*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]

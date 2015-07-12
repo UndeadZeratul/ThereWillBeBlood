@@ -46,6 +46,7 @@ Current Mod Versions
 - **Inventory Tweaks** v1.58-147-645ca10
 - **Lycanites Mobs** v1.10.2.2 - MC 1.7.10
 - **Metallurgy 4** v4.0.6 by Team Metallurgy
+- **Mine & Blade Battlegear 2 - Bullseye** v1.7.10 by nerd-boy, GotoLink, coolAlias
 - **MineTweaker 3** v3.0.9B by Stan Hebben
 - **Mob Properties** v0.4.0 by FatherToast
 - **Mod Tweaker 2** v0.8.2 by Jaredlll08
@@ -72,6 +73,7 @@ Current Mod Versions
 - **TiC Tooltips** v1.2.4 by squeek
 - **Tinkers' Construct** v1.7.10-1.8.5.build957 by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
 - **Tinkers' Steelworks** v1.7.10-1.0.7 by Toops, Ephys
+- **Tinkers' Defense** v1.2 by Sir Lance
 - **TNTUtils** v0.3-alpha by ljfa
 - **TooMuchLoot** v3.0.1
 - **Underground Biomes Constructs** v0.7
