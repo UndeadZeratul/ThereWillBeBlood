@@ -94,7 +94,7 @@ meatRaw.add(<TwilightForest:item.hydraChop>);
 var fishCooked  = <ore:listAllfishcooked>;
 
 fishCooked.add(<harvestcraft:crayfishcookedItem>);
-fishCooked.add(<minecraft:cooked_fish:1>);
+fishCooked.add(<minecraft:cooked_fished:1>);
 fishCooked.add(<Steamcraft:steamedFish>);
 fishCooked.add(<thebetweenlands:anglerMeatCooked>);
 fishCooked.add(<thebetweenlands:snailFleshCooked>);
@@ -120,9 +120,9 @@ frogRaw.add(<thebetweenlands:frogLegsRaw>);
 # Fruit
 var fruit       = <ore:listAllfruit>;
 
-fruit.add(BiomesOPlenty:food:8>);
-fruit.add(Natura:saguaro.fruit>);
-fruit.add(thebetweenlands:middleFruit>);
+fruit.add(<BiomesOPlenty:food:8>);
+fruit.add(<Natura:saguaro.fruit>);
+fruit.add(<thebetweenlands:middleFruit>);
 
 # Berry
 var berry       = <ore:listAllberry>;
@@ -201,7 +201,7 @@ soup.add(<harvestcraft:oldworldveggiesoupItem>);
 soup.add(<harvestcraft:lambbarleysoupItem>);
 soup.add(<harvestcraft:leekbaconsoupItem>);
 soup.add(<minecraft:mushroom_stew>);
-soup.add(<Natura:natura.stewbown>);
+soup.add(<Natura:natura.stewbowl>);
 soup.add(<thebetweenlands:nettleSoup>);
 
 # Burger
@@ -307,9 +307,9 @@ sandwich.add(<harvestcraft:bltItem>);
 # Salad
 var salad      = <ore:foodSalad>;
 
-salad.add(BiomesOPlenty:food:4>);
-salad.add(BiomesOPlenty:food:5>);
-salad.add(BiomesOPlenty:food:6>);
+salad.add(<BiomesOPlenty:food:4>);
+salad.add(<BiomesOPlenty:food:5>);
+salad.add(<BiomesOPlenty:food:6>);
 salad.add(<harvestcraft:beetsaladItem>);
 salad.add(<harvestcraft:ceasarsaladItem>);
 salad.add(<harvestcraft:citrussaladItem>);

@@ -83,7 +83,7 @@ for rubyBlock in anyRubyBlock.items {
 
 # Apprentice Blood Orb
 Altar.removeRecipe(apprenticeBloodOrb);
-for rubraciumBlock in anyRubraciumBlock.tems {
+for rubraciumBlock in anyRubraciumBlock.items {
     Altar.addRecipe(apprenticeBloodOrb, rubraciumBlock, 2, 5000);
 }
 
