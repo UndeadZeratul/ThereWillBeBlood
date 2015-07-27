@@ -5,50 +5,51 @@ import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
-var anvil           = <minecraft:anvil>;
-var bread           = <minecraft:bread>;
-var bucket          = <minecraft:bucket>;
-var clayBlock       = <minecraft:clay>;
-var clayBall        = <minecraft:clay_ball>;
-var coal            = <minecraft:coal:0>;
-var charcoal        = <minecraft:coal:1>;
-var emerald         = <minecraft:emerald>;
-var flint           = <minecraft:flint>;
-var flintNSteel     = <minecraft:flint_and_steel>;
-var gunpowder       = <minecraft:gunpowder>;
-var quartz          = <minecraft:quartz>;
-var torchWood       = <minecraft:torch>;
-var torchStone      = <TConstruct:decoration.stonetorch>;
-var torchberries    = <TwilightForest:item.torchberries>;
+var anvil             = <minecraft:anvil>;
+var bread             = <minecraft:bread>;
+var bucket            = <minecraft:bucket>;
+var clayBlock         = <minecraft:clay>;
+var clayBall          = <minecraft:clay_ball>;
+var coal              = <minecraft:coal:0>;
+var charcoal          = <minecraft:coal:1>;
+var emerald           = <minecraft:emerald>;
+var flint             = <minecraft:flint>;
+var flintNSteel       = <minecraft:flint_and_steel>;
+var gunpowder         = <minecraft:gunpowder>;
+var quartz            = <minecraft:quartz>;
+var torchWood         = <minecraft:torch>;
+var torchStone        = <TConstruct:decoration.stonetorch>;
+var torchberries      = <TwilightForest:item.torchberries>;
 
 # ORE DICTIONARY
 #----------------
-var anyWoodenStick  = <ore:stickWood>;
-var anyStoneRod     = <ore:rodStone>;
+var anyWoodenStick    = <ore:stickWood>;
+var anyStoneRod       = <ore:rodStone>;
 
 # Ingots
-var anySteelIngot   = <ore:ingotSteel>;
+var anySteelIngot     = <ore:ingotSteel>;
 
 # Dusts
-var anySulfurDust   = <ore:dustSulfur>;
+var anyPhosphorusDust = <ore:dustPhosphorus>;
+var anySulfurDust     = <ore:dustSulfur>;
 
 # Blocks
-var anySteelBlock   = <ore:blockSteel>;
+var anySteelBlock     = <ore:blockSteel>;
 
 anySulfurDust.add(<thebetweenlands:null:24>);
 anySulfurDust.add(<Natura:barleyFood:4>);
 
 # ITEM LISTS
 #------------
-var allTorchFuels   = [
+var allTorchFuels     = [
     coal,
     charcoal,
     torchberries
 ] as IIngredient[];
-var allTorchHandles = [
+var allTorchHandles   = [
     anyWoodenStick
 ] as IIngredient[];
-var allTorches      = [
+var allTorches        = [
     torchWood
 ] as IItemStack[];
 
@@ -93,6 +94,11 @@ for i, handle in allTorchHandles
         [charcoal],
         [handle]]);
 
+    # Phosphorus Dust
+    recipes.addShaped(torch, [
+        [anyPhosphorusDust],
+        [handle]]);
+
     # Torchberries
     recipes.addShaped(torch, [
         [torchberries],
@@ -100,7 +106,7 @@ for i, handle in allTorchHandles
     recipes.addShapeless(torch * 2, [torchberries, handle, handle]);
 }
 
-# Add Clayball
+# Clay Block -> Clay Balls
 recipes.addShapeless(clayBall * 4, [clayBlock]);
 
 # Bucket Costs Steel
