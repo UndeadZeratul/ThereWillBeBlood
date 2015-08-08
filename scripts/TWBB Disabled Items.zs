@@ -1,6 +1,6 @@
 # MOD IMPORTS
 #-------------
-import minetweaker.item.IItemStack;
+import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
@@ -36,7 +36,7 @@ var allDisabledItems   = [
     <Steamcraft:shovelBrass>,
     <Steamcraft:hoeBrass>,
     <Steamcraft:swordBrass>
-] as IItemStack[];
+] as IIngredient[];
 
 # RECIPE TWEAKS
 #---------------
