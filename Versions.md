@@ -9,7 +9,7 @@ Current API Versions
 - **bspkrsCore** v6.16 by DaftPVF, bspkrs
 - **CodeChicken Core** v1.0.6.44 by ChickenBones
 - **CoFH Core** v1.7.10R3.0.2 by Team CoFH
-- **Cookie Core** v1.3.0 by Ephys
+- **Cookie Core** v1.3.1 by Ephys
 - **CreativeCore** v1.0
 - **Forge Microblocks** v1.2.0.344
 - **Forge Multipart** v1.2.0.344
@@ -24,6 +24,7 @@ Current Mod Versions
 - **AgriCraft** v1.7.10-1.3.1 by InfinityRaider
 - **Air Overhaul** v1.7.10_1.0 by Mark719
 - **Alternate Terrain Generation** v0.10.0
+- **Another One Bites The Dust** v2.7.1 by ganymedes01
 - **Antique Atlas** v4.2.2-1.7.10
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
 - **BetterStorage** v0.13.1.126 by copygirl, Vic Nightfall
@@ -34,7 +35,6 @@ Current Mod Versions
 - **Deadly World** v1.0.2 by FatherToast
 - **Doomlike Dungeons** v1.7.6
 - **EnviroMine** v1.3.117 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
-- **ExtraTiC** v1.4.4 by Glassmaker
 - **Falling Meteors** v2.14.2
 - **Flaxbeard's Steam Power** v0.28.7 by SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
 - **Hardcore Ender Expansion** v1.8.1 by chylex | http://hee.chylex.com/authors
@@ -49,7 +49,7 @@ Current Mod Versions
 - **Mine & Blade Battlegear 2 - Bullseye** v1.7.10 by nerd-boy, GotoLink, coolAlias
 - **MineTweaker 3** v3.0.9B by Stan Hebben
 - **Mob Properties** v0.4.0 by FatherToast
-- **Mod Tweaker 2** v0.8.2 by Jaredlll08
+- **Mod Tweaker 2** v0.9.1 by Jaredlll08
 - **ModpackTweaks** v1.2.0
 - **Natura** v2.2.0
 - **Natural Absorption** v1.2.1 by FatherToast
@@ -70,10 +70,8 @@ Current Mod Versions
 - **The Spice of Life** v1.2.3 by squeek
 - **The Twilight Forest** v2.3.7
 - **Thermal Foundation** v1.7.10R1.0.0 by Team CoFH
-- **TiC Tooltips** v1.2.4 by squeek
 - **Tinkers' Construct** v1.7.10-1.8.5.build957 by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
-- **Tinkers' Steelworks** v1.7.10-1.0.7 by Toops, Ephys
-- **Tinkers' Defense** v1.2 by Sir Lance
+- **Tinkers' Steelworks** v1.7.10-1.1.0 by Toops, Ephys
 - **TNTUtils** v0.3-alpha by ljfa
 - **TooMuchLoot** v3.0.1
 - **Underground Biomes Constructs** v0.7
