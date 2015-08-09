@@ -898,6 +898,72 @@ var blueSlimeFullGuard        = <TConstruct:fullGuard:17>;
 var pigIronFullGuard          = <TConstruct:fullGuard:18>;
 var stringFullGuard           = <TConstruct:fullGuard:40>;
 
+# Bow Limbs
+var woodBowLimb               = <TConstruct:BowLimbPart:0>;
+var stoneBowLimb              = <TConstruct:BowLimbPart:1>;
+var ironBowLimb               = <TConstruct:BowLimbPart:2>;
+var flintBowLimb              = <TConstruct:BowLimbPart:3>;
+var cactusBowLimb             = <TConstruct:BowLimbPart:4>;
+var boneBowLimb               = <TConstruct:BowLimbPart:5>;
+var obsidianBowLimb           = <TConstruct:BowLimbPart:6>;
+var netherrackBowLimb         = <TConstruct:BowLimbPart:7>;
+var greenSlimeBowLimb         = <TConstruct:BowLimbPart:8>;
+var paperBowLimb              = <TConstruct:BowLimbPart:9>;
+var cobaltBowLimb             = <TConstruct:BowLimbPart:10>;
+var arditeBowLimb             = <TConstruct:BowLimbPart:11>;
+var manyullynBowLimb          = <TConstruct:BowLimbPart:12>;
+var copperBowLimb             = <TConstruct:BowLimbPart:13>;
+var bronzeBowLimb             = <TConstruct:BowLimbPart:14>;
+var alumiteBowLimb            = <TConstruct:BowLimbPart:15>;
+var steelBowLimb              = <TConstruct:BowLimbPart:16>;
+var blueSlimeBowLimb          = <TConstruct:BowLimbPart:17>;
+var pigIronBowLimb            = <TConstruct:BowLimbPart:18>;
+var stringBowLimb             = <TConstruct:BowLimbPart:40>;
+
+# Crossbow Limbs
+var woodCrossbowLimb          = <TConstruct:CrossbowLimbPart:0>;
+var stoneCrossbowLimb         = <TConstruct:CrossbowLimbPart:1>;
+var ironCrossbowLimb          = <TConstruct:CrossbowLimbPart:2>;
+var flintCrossbowLimb         = <TConstruct:CrossbowLimbPart:3>;
+var cactusCrossbowLimb        = <TConstruct:CrossbowLimbPart:4>;
+var boneCrossbowLimb          = <TConstruct:CrossbowLimbPart:5>;
+var obsidianCrossbowLimb      = <TConstruct:CrossbowLimbPart:6>;
+var netherrackCrossbowLimb    = <TConstruct:CrossbowLimbPart:7>;
+var greenSlimeCrossbowLimb    = <TConstruct:CrossbowLimbPart:8>;
+var paperCrossbowLimb         = <TConstruct:CrossbowLimbPart:9>;
+var cobaltCrossbowLimb        = <TConstruct:CrossbowLimbPart:10>;
+var arditeCrossbowLimb        = <TConstruct:CrossbowLimbPart:11>;
+var manyullynCrossbowLimb     = <TConstruct:CrossbowLimbPart:12>;
+var copperCrossbowLimb        = <TConstruct:CrossbowLimbPart:13>;
+var bronzeCrossbowLimb        = <TConstruct:CrossbowLimbPart:14>;
+var alumiteCrossbowLimb       = <TConstruct:CrossbowLimbPart:15>;
+var steelCrossbowLimb         = <TConstruct:CrossbowLimbPart:16>;
+var blueSlimeCrossbowLimb     = <TConstruct:CrossbowLimbPart:17>;
+var pigIronCrossbowLimb       = <TConstruct:CrossbowLimbPart:18>;
+var stringCrossbowLimb        = <TConstruct:CrossbowLimbPart:40>;
+
+# Crossbow Bodies
+var woodCrossbowBody          = <TConstruct:CrossbowBodyPart:0>;
+var stoneCrossbowBody         = <TConstruct:CrossbowBodyPart:1>;
+var ironCrossbowBody          = <TConstruct:CrossbowBodyPart:2>;
+var flintCrossbowBody         = <TConstruct:CrossbowBodyPart:3>;
+var cactusCrossbowBody        = <TConstruct:CrossbowBodyPart:4>;
+var boneCrossbowBody          = <TConstruct:CrossbowBodyPart:5>;
+var obsidianCrossbowBody      = <TConstruct:CrossbowBodyPart:6>;
+var netherrackCrossbowBody    = <TConstruct:CrossbowBodyPart:7>;
+var greenSlimeCrossbowBody    = <TConstruct:CrossbowBodyPart:8>;
+var paperCrossbowBody         = <TConstruct:CrossbowBodyPart:9>;
+var cobaltCrossbowBody        = <TConstruct:CrossbowBodyPart:10>;
+var arditeCrossbowBody        = <TConstruct:CrossbowBodyPart:11>;
+var manyullynCrossbowBody     = <TConstruct:CrossbowBodyPart:12>;
+var copperCrossbowBody        = <TConstruct:CrossbowBodyPart:13>;
+var bronzeCrossbowBody        = <TConstruct:CrossbowBodyPart:14>;
+var alumiteCrossbowBody       = <TConstruct:CrossbowBodyPart:15>;
+var steelCrossbowBody         = <TConstruct:CrossbowBodyPart:16>;
+var blueSlimeCrossbowBody     = <TConstruct:CrossbowBodyPart:17>;
+var pigIronCrossbowBody       = <TConstruct:CrossbowBodyPart:18>;
+var stringCrossbowBody        = <TConstruct:CrossbowBodyPart:40>;
+
 # Liquids
 var moltenAdamantine          = <liquid:adamantine>;
 var moltenAluminum            = <liquid:aluminum.molten>;
@@ -1431,6 +1497,42 @@ var metalHammerHeads          = [
     steelHammerHead,
     pigIronHammerHead
 ] as IItemStack[];
+var metalBowLimbs             = [
+    ironBowLimb,
+    obsidianBowLimb,
+    cobaltBowLimb,
+    arditeBowLimb,
+    manyullynBowLimb,
+    copperBowLimb,
+    bronzeBowLimb,
+    alumiteBowLimb,
+    steelBowLimb,
+    pigIronBowLimb
+] as IItemStack[];
+var metalCrossbowLimbs        = [
+    ironCrossbowLimb,
+    obsidianCrossbowLimb,
+    cobaltCrossbowLimb,
+    arditeCrossbowLimb,
+    manyullynCrossbowLimb,
+    copperCrossbowLimb,
+    bronzeCrossbowLimb,
+    alumiteCrossbowLimb,
+    steelCrossbowLimb,
+    pigIronCrossbowLimb
+] as IItemStack[];
+var metalCrossbowBodies       = [
+    ironCrossbowBody,
+    obsidianCrossbowBody,
+    cobaltCrossbowBody,
+    arditeCrossbowBody,
+    manyullynCrossbowBody,
+    copperCrossbowBody,
+    bronzeCrossbowBody,
+    alumiteCrossbowBody,
+    steelCrossbowBody,
+    pigIronCrossbowBody
+] as IItemStack[];
 var travelArmor               = [
     travelGoggles,
     travelVest,
@@ -1634,6 +1736,9 @@ for i, shard in metalShards {
     Smeltery.removeMelting(metalExcavatorHeads[i]);
     Smeltery.removeMelting(metalLargeSwordBlades[i]);
     Smeltery.removeMelting(metalHammerHeads[i]);
+    Smeltery.removeMelting(metalBowLimbs[i]);
+    Smeltery.removeMelting(metalCrossbowLimbs[i]);
+    Smeltery.removeMelting(metalCrossbowBodies[i]);
 
     Casting.removeTableRecipe(metalToolRods[i]);
     Casting.removeTableRecipe(metalPickHeads[i]);
@@ -1657,6 +1762,9 @@ for i, shard in metalShards {
     Casting.removeTableRecipe(metalExcavatorHeads[i]);
     Casting.removeTableRecipe(metalLargeSwordBlades[i]);
     Casting.removeTableRecipe(metalHammerHeads[i]);
+    Casting.removeTableRecipe(metalBowLimbs[i]);
+    Casting.removeTableRecipe(metalCrossbowLimbs[i]);
+    Casting.removeTableRecipe(metalCrossbowBodies[i]);
 }
 
 #--------------------------------------
