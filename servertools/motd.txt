@@ -1,3 +1,0 @@
-Hello, $PLAYER$!
-This is the default MOTD. In order to change it,
-edit the motd.txt in the servertools directory
