@@ -16,6 +16,9 @@
 - **Alternate Terrain Generation** by: *TTFTCUTS*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Another One Bites The Dust** by: *Ganymedes01*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Antique Atlas** by: *Hunternif*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
