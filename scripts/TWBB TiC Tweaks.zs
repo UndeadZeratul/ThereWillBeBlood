@@ -898,6 +898,28 @@ var blueSlimeFullGuard        = <TConstruct:fullGuard:17>;
 var pigIronFullGuard          = <TConstruct:fullGuard:18>;
 var stringFullGuard           = <TConstruct:fullGuard:40>;
 
+# Arrowheads
+var woodArrowhead             = <TConstruct:Arrowhead:0>;
+var stoneArrowhead            = <TConstruct:Arrowhead:1>;
+var ironArrowhead             = <TConstruct:Arrowhead:2>;
+var flintArrowhead            = <TConstruct:Arrowhead:3>;
+var cactusArrowhead           = <TConstruct:Arrowhead:4>;
+var boneArrowhead             = <TConstruct:Arrowhead:5>;
+var obsidianArrowhead         = <TConstruct:Arrowhead:6>;
+var netherrackArrowhead       = <TConstruct:Arrowhead:7>;
+var greenSlimeArrowhead       = <TConstruct:Arrowhead:8>;
+var paperArrowhead            = <TConstruct:Arrowhead:9>;
+var cobaltArrowhead           = <TConstruct:Arrowhead:10>;
+var arditeArrowhead           = <TConstruct:Arrowhead:11>;
+var manyullynArrowhead        = <TConstruct:Arrowhead:12>;
+var copperArrowhead           = <TConstruct:Arrowhead:13>;
+var bronzeArrowhead           = <TConstruct:Arrowhead:14>;
+var alumiteArrowhead          = <TConstruct:Arrowhead:15>;
+var steelArrowhead            = <TConstruct:Arrowhead:16>;
+var blueSlimeArrowhead        = <TConstruct:Arrowhead:17>;
+var pigIronArrowhead          = <TConstruct:Arrowhead:18>;
+var stringArrowhead           = <TConstruct:Arrowhead:40>;
+
 # Bow Limbs
 var woodBowLimb               = <TConstruct:BowLimbPart:0>;
 var stoneBowLimb              = <TConstruct:BowLimbPart:1>;
@@ -1497,6 +1519,18 @@ var metalHammerHeads          = [
     steelHammerHead,
     pigIronHammerHead
 ] as IItemStack[];
+var metalArrowheads           = [
+    ironArrowhead,
+    obsidianArrowhead,
+    cobaltArrowhead,
+    arditeArrowhead,
+    manyullynArrowhead,
+    copperArrowhead,
+    bronzeArrowhead,
+    alumiteArrowhead,
+    steelArrowhead,
+    pigIronArrowhead
+] as IItemStack[];
 var metalBowLimbs             = [
     ironBowLimb,
     obsidianBowLimb,
@@ -1736,6 +1770,7 @@ for i, shard in metalShards {
     Smeltery.removeMelting(metalExcavatorHeads[i]);
     Smeltery.removeMelting(metalLargeSwordBlades[i]);
     Smeltery.removeMelting(metalHammerHeads[i]);
+    Smeltery.removeMelting(metalArrowheads[i]);
     Smeltery.removeMelting(metalBowLimbs[i]);
     Smeltery.removeMelting(metalCrossbowLimbs[i]);
     Smeltery.removeMelting(metalCrossbowBodies[i]);
@@ -1762,6 +1797,7 @@ for i, shard in metalShards {
     Casting.removeTableRecipe(metalExcavatorHeads[i]);
     Casting.removeTableRecipe(metalLargeSwordBlades[i]);
     Casting.removeTableRecipe(metalHammerHeads[i]);
+    Casting.removeTableRecipe(metalArrowheads[i]);
     Casting.removeTableRecipe(metalBowLimbs[i]);
     Casting.removeTableRecipe(metalCrossbowLimbs[i]);
     Casting.removeTableRecipe(metalCrossbowBodies[i]);
