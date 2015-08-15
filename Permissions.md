@@ -3,6 +3,7 @@
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
+[Item Physics Notification]:https://i.imgur.com/SruHzlI.png
 [Somnia's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291170
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
 [Tinkers' Defense Curseforge Page]:http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense
@@ -133,8 +134,8 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Item Physic Lite** by: *CreativeMD*
-  - **Private Packs**: Notification Needed
-  - **Public Packs** : Notification Needed
+  - **Private Packs**: Notified: [Item Physics Notification]
+  - **Public Packs** : Notified: [Item Physics Notification]
 - **Lunatrius Core** by: *Lunatrius*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
