@@ -57,7 +57,6 @@ var leadOre                   = <ThermalFoundation:Ore:3>;
 var nickelOre                 = <ThermalFoundation:Ore:4>;
 
 # Ingots
-var angmallenIngot            = <Metallurgy:angmallen.ingot>;
 var blackSteelIngot           = <Metallurgy:black.steel.ingot>;
 var brassIngot                = <Metallurgy:brass.ingot>;
 var desichalkosIngot          = <Metallurgy:desichalkos.ingot>;
@@ -68,7 +67,6 @@ var copperBlock               = <Metallurgy:base.block:0>;
 var tinBlock                  = <Metallurgy:base.block:1>;
 var bronzeBlock               = <Metallurgy:base.block:3>;
 var hepatizonBlock            = <Metallurgy:base.block:4>;
-var angmallenBlock            = <Metallurgy:base.block:6>;
 var steelBlock                = <Metallurgy:base.block:7>;
 var eximiteBlock              = <Metallurgy:ender.block:0>;
 var meutoiteBlock             = <Metallurgy:ender.block:1>;
@@ -130,7 +128,6 @@ var goldHelmet                = <minecraft:golden_helmet>;
 var copperHelmet              = <Metallurgy:metallurgy.copper.helmet>;
 var bronzeHelmet              = <Metallurgy:metallurgy.bronze.helmet>;
 var hepatizonHelmet           = <Metallurgy:metallurgy.hepatizon.helmet>;
-var angmallenHelmet           = <Metallurgy:metallurgy.angmallen.helmet>;
 var steelHelmet               = <Metallurgy:metallurgy.steel.helmet>;
 var eximiteHelmet             = <Metallurgy:metallurgy.eximite.helmet>;
 var desichalkosHelmet         = <Metallurgy:metallurgy.desichalkos.helmet>;
@@ -153,7 +150,6 @@ var goldChestplate            = <minecraft:golden_chestplate>;
 var copperChestplate          = <Metallurgy:metallurgy.copper.chestplate>;
 var bronzeChestplate          = <Metallurgy:metallurgy.bronze.chestplate>;
 var hepatizonChestplate       = <Metallurgy:metallurgy.hepatizon.chestplate>;
-var angmallenChestplate       = <Metallurgy:metallurgy.angmallen.chestplate>;
 var steelChestplate           = <Metallurgy:metallurgy.steel.chestplate>;
 var eximiteChestplate         = <Metallurgy:metallurgy.eximite.chestplate>;
 var desichalkosChestplate     = <Metallurgy:metallurgy.desichalkos.chestplate>;
@@ -176,7 +172,6 @@ var goldLeggings              = <minecraft:golden_leggings>;
 var copperLeggings            = <Metallurgy:metallurgy.copper.leggings>;
 var bronzeLeggings            = <Metallurgy:metallurgy.bronze.leggings>;
 var hepatizonLeggings         = <Metallurgy:metallurgy.hepatizon.leggings>;
-var angmallenLeggings         = <Metallurgy:metallurgy.angmallen.leggings>;
 var steelLeggings             = <Metallurgy:metallurgy.steel.leggings>;
 var eximiteLeggings           = <Metallurgy:metallurgy.eximite.leggings>;
 var desichalkosLeggings       = <Metallurgy:metallurgy.desichalkos.leggings>;
@@ -199,7 +194,6 @@ var goldBoots                 = <minecraft:golden_boots>;
 var copperBoots               = <Metallurgy:metallurgy.copper.boots>;
 var bronzeBoots               = <Metallurgy:metallurgy.bronze.boots>;
 var hepatizonBoots            = <Metallurgy:metallurgy.hepatizon.boots>;
-var angmallenBoots            = <Metallurgy:metallurgy.angmallen.boots>;
 var steelBoots                = <Metallurgy:metallurgy.steel.boots>;
 var eximiteBoots              = <Metallurgy:metallurgy.eximite.boots>;
 var desichalkosBoots          = <Metallurgy:metallurgy.desichalkos.boots>;
@@ -221,7 +215,6 @@ var goldPickaxe               = <minecraft:golden_pickaxe>;
 var copperPickaxe             = <Metallurgy:copper.pickaxe>;
 var bronzePickaxe             = <Metallurgy:bronze.pickaxe>;
 var hepatizonPickaxe          = <Metallurgy:hepatizon.pickaxe>;
-var angmallenPickaxe          = <Metallurgy:angmallen.pickaxe>;
 var steelPickaxe              = <Metallurgy:steel.pickaxe>;
 var eximitePickaxe            = <Metallurgy:eximite.pickaxe>;
 var desichalkosPickaxe        = <Metallurgy:desichalkos.pickaxe>;
@@ -243,7 +236,6 @@ var goldSword                 = <minecraft:golden_sword>;
 var copperSword               = <Metallurgy:copper.sword>;
 var bronzeSword               = <Metallurgy:bronze.sword>;
 var hepatizonSword            = <Metallurgy:hepatizon.sword>;
-var angmallenSword            = <Metallurgy:angmallen.sword>;
 var steelSword                = <Metallurgy:steel.sword>;
 var eximiteSword              = <Metallurgy:eximite.sword>;
 var desichalkosSword          = <Metallurgy:desichalkos.sword>;
@@ -265,7 +257,6 @@ var goldAxe                   = <minecraft:golden_axe>;
 var copperAxe                 = <Metallurgy:copper.axe>;
 var bronzeAxe                 = <Metallurgy:bronze.axe>;
 var hepatizonAxe              = <Metallurgy:hepatizon.axe>;
-var angmallenAxe              = <Metallurgy:angmallen.axe>;
 var steelAxe                  = <Metallurgy:steel.axe>;
 var eximiteAxe                = <Metallurgy:eximite.axe>;
 var desichalkosAxe            = <Metallurgy:desichalkos.axe>;
@@ -287,7 +278,6 @@ var goldShovel                = <minecraft:golden_shovel>;
 var copperShovel              = <Metallurgy:copper.shovel>;
 var bronzeShovel              = <Metallurgy:bronze.shovel>;
 var hepatizonShovel           = <Metallurgy:hepatizon.shovel>;
-var angmallenShovel           = <Metallurgy:angmallen.shovel>;
 var steelShovel               = <Metallurgy:steel.shovel>;
 var eximiteShovel             = <Metallurgy:eximite.shovel>;
 var desichalkosShovel         = <Metallurgy:desichalkos.shovel>;
@@ -309,7 +299,6 @@ var goldHoe                   = <minecraft:golden_hoe>;
 var copperHoe                 = <Metallurgy:copper.hoe>;
 var bronzeHoe                 = <Metallurgy:bronze.hoe>;
 var hepatizonHoe              = <Metallurgy:hepatizon.hoe>;
-var angmallenHoe              = <Metallurgy:angmallen.hoe>;
 var steelHoe                  = <Metallurgy:steel.hoe>;
 var eximiteHoe                = <Metallurgy:eximite.hoe>;
 var desichalkosHoe            = <Metallurgy:desichalkos.hoe>;
@@ -991,7 +980,6 @@ var moltenAdamantine          = <liquid:adamantine>;
 var moltenAluminum            = <liquid:aluminum.molten>;
 var moltenAluminumBrass       = <liquid:aluminumbrass.molten>;
 var moltenAlumite             = <liquid:alumite.molten>;
-var moltenAngmallen           = <liquid:angmallen.molten>;
 var moltenArdite              = <liquid:ardite.molten>;
 var moltenBlackSteel          = <liquid:black.steel.molten>;
 var moltenBrass               = <liquid:brass.molten>;
@@ -1061,7 +1049,6 @@ var anyZincOre                = <ore:oreZinc>;
 var anyAdamantineDust         = <ore:dustAdamantine>;
 var anyAluminumDust           = <ore:dustAluminum>;
 var anyAluminumBrassDust      = <ore:dustAluminumBrass>;
-var anyAngmallenDust          = <ore:dustAngmallen>;
 var anyArditeDust             = <ore:dustArdite>;
 var anyBlackSteelDust         = <ore:dustBlackSteel>;
 var anyBrassDust              = <ore:dustBrass>;
@@ -1091,7 +1078,6 @@ var anyZincDust               = <ore:dustZinc>;
 var anyAdamantineIngot        = <ore:ingotAdamantine>;
 var anyAluminumIngot          = <ore:ingotAluminum>;
 var anyAluminumBrassIngot     = <ore:ingotAluminumBrass>;
-var anyAngmallenIngot         = <ore:ingotAngmallen>;
 var anyArditeIngot            = <ore:ingotArdite>;
 var anyBlackSteelIngot        = <ore:ingotBlackSteel>;
 var anyBrassIngot             = <ore:ingotBrass>;
@@ -1121,7 +1107,6 @@ var anyZincIngot              = <ore:ingotZinc>;
 var anyAdamantineNugget       = <ore:nuggetAdamantine>;
 var anyAluminumNugget         = <ore:nuggetAluminum>;
 var anyAluminumBrassNugget    = <ore:nuggetAluminumBrass>;
-var anyAngmallenNugget        = <ore:nuggetAngmallen>;
 var anyArditeNugget           = <ore:nuggetArdite>;
 var anyBlackSteelNugget       = <ore:nuggetBlackSteel>;
 var anyBrassNugget            = <ore:nuggetBrass>;
@@ -1150,7 +1135,6 @@ var anyZincNugget             = <ore:nuggetZinc>;
 var anyAdamantineBlock        = <ore:blockAdamantine>;
 var anyAluminumBlock          = <ore:blockAluminum>;
 var anyAluminumBrassBlock     = <ore:blockAluminumBrass>;
-var anyAngmallenBlock         = <ore:blockAngmallen>;
 var anyArditeBlock            = <ore:blockArdite>;
 var anyBlackSteelBlock        = <ore:blockBlackSteel>;
 var anyBrassBlock             = <ore:blockBrass>;
@@ -1209,7 +1193,6 @@ var allIngots                 = [
     anySteelIngot,
     anyInvarIngot,
     anyElectrumIngot,
-    anyAngmallenIngot,
     anyHepatizonIngot,
     anyBrassIngot,
     anyAluminumBrassIngot,
@@ -1235,7 +1218,6 @@ var moltenMetals              = [
     moltenSteel,
     moltenInvar,
     moltenElectrum,
-    moltenAngmallen,
     moltenHepatizon,
     moltenBrass,
     moltenAluminumBrass,
@@ -1978,17 +1960,6 @@ Smeltery.addMelting(copperShears,      moltenCopper * 288,  1080, copperBlock);
 Smeltery.addMelting(copperFishingPole, moltenCopper * 288,  1080, copperBlock);
 Smeltery.addMelting(copperBow,         moltenCopper * 288,  1080, copperBlock);
 
-# Angmallen: 1190*C
-Smeltery.addMelting(anyAngmallenIngot,   moltenAngmallen * 144,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenHelmet,     moltenAngmallen * 720,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenChestplate, moltenAngmallen * 1152, 1190, angmallenBlock);
-Smeltery.addMelting(angmallenLeggings,   moltenAngmallen * 1008, 1190, angmallenBlock);
-Smeltery.addMelting(angmallenBoots,      moltenAngmallen * 576,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenPickaxe,    moltenAngmallen * 432,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenSword,      moltenAngmallen * 288,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenAxe,        moltenAngmallen * 288,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenShovel,     moltenAngmallen * 144,  1190, angmallenBlock);
-Smeltery.addMelting(angmallenHoe,        moltenAngmallen * 288,  1190, angmallenBlock);
 
 # Black Steel: 1400*C
 Smeltery.addMelting(anyBlackSteelIngot,   moltenBlackSteel * 144,  1400, blackSteelBlock);
@@ -2165,8 +2136,6 @@ Smeltery.addMelting(desichalkosShovel,     moltenDesichalkos * 144,  3750, desic
 Smeltery.removeAlloy(moltenAluminumBrass * 64);
 Smeltery.addAlloy(moltenAluminumBrass * 1296, [moltenCopper * 1152, moltenAluminum * 144]);
 
-# Angmallen: 3 Gold, 2 Iron
-Smeltery.addAlloy(moltenAngmallen * 720, [moltenGold * 432, moltenIron * 288]);
 
 # Black Steel: 3 Steel, 1 Hepatizon, 1 Nickel
 Smeltery.addAlloy(moltenBlackSteel * 720, [moltenSteel * 432, moltenHepatizon * 144, moltenNickel * 144]);
@@ -2187,9 +2156,6 @@ Smeltery.addAlloy(moltenHepatizon * 1296, [moltenCopper * 1152, moltenElectrum *
 
 # Add Missing Casting Recipes
 
-# Angmallen
-Casting.addTableRecipe(angmallenIngot, moltenAngmallen * 144, ingotCast, false, 40);
-Casting.addBasinRecipe(angmallenBlock, moltenAngmallen * 1296, null, false, 40);
 
 # Black Steel
 Casting.addTableRecipe(blackSteelIngot, moltenBlackSteel * 144, ingotCast, false, 40);
