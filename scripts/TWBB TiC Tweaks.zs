@@ -899,26 +899,26 @@ var pigIronFullGuard          = <TConstruct:fullGuard:18>;
 var stringFullGuard           = <TConstruct:fullGuard:40>;
 
 # Arrowheads
-var woodArrowhead             = <TConstruct:Arrowhead:0>;
-var stoneArrowhead            = <TConstruct:Arrowhead:1>;
-var ironArrowhead             = <TConstruct:Arrowhead:2>;
-var flintArrowhead            = <TConstruct:Arrowhead:3>;
-var cactusArrowhead           = <TConstruct:Arrowhead:4>;
-var boneArrowhead             = <TConstruct:Arrowhead:5>;
-var obsidianArrowhead         = <TConstruct:Arrowhead:6>;
-var netherrackArrowhead       = <TConstruct:Arrowhead:7>;
-var greenSlimeArrowhead       = <TConstruct:Arrowhead:8>;
-var paperArrowhead            = <TConstruct:Arrowhead:9>;
-var cobaltArrowhead           = <TConstruct:Arrowhead:10>;
-var arditeArrowhead           = <TConstruct:Arrowhead:11>;
-var manyullynArrowhead        = <TConstruct:Arrowhead:12>;
-var copperArrowhead           = <TConstruct:Arrowhead:13>;
-var bronzeArrowhead           = <TConstruct:Arrowhead:14>;
-var alumiteArrowhead          = <TConstruct:Arrowhead:15>;
-var steelArrowhead            = <TConstruct:Arrowhead:16>;
-var blueSlimeArrowhead        = <TConstruct:Arrowhead:17>;
-var pigIronArrowhead          = <TConstruct:Arrowhead:18>;
-var stringArrowhead           = <TConstruct:Arrowhead:40>;
+var woodArrowhead             = <TConstruct:arrowhead:0>;
+var stoneArrowhead            = <TConstruct:arrowhead:1>;
+var ironArrowhead             = <TConstruct:arrowhead:2>;
+var flintArrowhead            = <TConstruct:arrowhead:3>;
+var cactusArrowhead           = <TConstruct:arrowhead:4>;
+var boneArrowhead             = <TConstruct:arrowhead:5>;
+var obsidianArrowhead         = <TConstruct:arrowhead:6>;
+var netherrackArrowhead       = <TConstruct:arrowhead:7>;
+var greenSlimeArrowhead       = <TConstruct:arrowhead:8>;
+var paperArrowhead            = <TConstruct:arrowhead:9>;
+var cobaltArrowhead           = <TConstruct:arrowhead:10>;
+var arditeArrowhead           = <TConstruct:arrowhead:11>;
+var manyullynArrowhead        = <TConstruct:arrowhead:12>;
+var copperArrowhead           = <TConstruct:arrowhead:13>;
+var bronzeArrowhead           = <TConstruct:arrowhead:14>;
+var alumiteArrowhead          = <TConstruct:arrowhead:15>;
+var steelArrowhead            = <TConstruct:arrowhead:16>;
+var blueSlimeArrowhead        = <TConstruct:arrowhead:17>;
+var pigIronArrowhead          = <TConstruct:arrowhead:18>;
+var stringArrowhead           = <TConstruct:arrowhead:40>;
 
 # Bow Limbs
 var woodBowLimb               = <TConstruct:BowLimbPart:0>;
