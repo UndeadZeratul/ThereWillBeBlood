@@ -2,6 +2,7 @@
 [AtomicStryker's License]:https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/advancedmachinesatomicstryker.png
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
+[Somnia's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291170
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
 [Tinkers' Defense Curseforge Page]:http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense
 [TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
@@ -199,6 +200,9 @@
 - **ServerTools** by: *matthewprenger*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Somnia** by: *Kingrunes*
+  - **Private Packs**: Open: [Somnia's MCF Thread]
+  - **Public Packs** : Open: [Somnia's MCF Thread]
 - **Sound Filters** by: *Tmtravlr*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
