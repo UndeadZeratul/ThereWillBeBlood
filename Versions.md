@@ -25,6 +25,7 @@ Current Mod Versions
 - **Air Overhaul** v1.7.10_1.0 by Mark719
 - **Alternate Terrain Generation** v0.10.0
 - **Another One Bites The Dust** v2.7.1 by ganymedes01
+- **Another One Bites The Dust: Berry Bushes** v1.0.5 by ganymedes01
 - **Antique Atlas** v4.2.2-1.7.10
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
 - **BetterStorage** v0.13.1.126 by copygirl, Vic Nightfall
