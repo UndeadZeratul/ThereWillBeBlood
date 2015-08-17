@@ -31,8 +31,8 @@ Current Mod Versions
 - **BetterStorage** v0.13.1.126 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v0.1.0 by FatherToast
-- **Blood Magic: Alchemical Wizardry** vv1.3.3 by WayofTime
 - **Dark Menagerie** v1.0
+- **Blood Magic: Alchemical Wizardry** v1.3.3 by WayofTime
 - **Deadly World** v1.0.2 by FatherToast
 - **Dense Ores** v1.0
 - **Doomlike Dungeons** v1.7.6
@@ -78,9 +78,9 @@ Current Mod Versions
 - **TNTUtils** v0.3-alpha by ljfa
 - **TooMuchLoot** v3.0.1
 - **Waila** v1.5.10
-- **weather2** vv2.3.6
+- **weather2** v2.3.6
 - **What Are We Looking At** v1.2.1 by Darkhax
-- **Zombie Awareness** vv1.9.5
+- **Zombie Awareness** v1.9.5
 
 Optional Client Mod Versions
 =
