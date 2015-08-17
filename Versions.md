@@ -67,6 +67,8 @@ Current Mod Versions
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
 - **RPGAdvMod** v1.0.0
+- **Somnia** v-au by Kingrunes
+- **SomniaCore** v1.3.1.1 by Kingrunes
 - **Special AI** v1.1.1 by FatherToast
 - **Special Mobs** v3.1.1 by FatherToast
 - **Stackie** v1.6.0.35 by Lunatrius
