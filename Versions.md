@@ -34,6 +34,7 @@ Current Mod Versions
 - **Blood Magic: Alchemical Wizardry** vv1.3.3 by WayofTime
 - **Dark Menagerie** v1.0
 - **Deadly World** v1.0.2 by FatherToast
+- **Dense Ores** v1.0
 - **Doomlike Dungeons** v1.7.6
 - **EnviroMine** v1.3.117 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
 - **Falling Meteors** v2.14.2

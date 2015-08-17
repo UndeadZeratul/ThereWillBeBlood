@@ -1,0 +1,1614 @@
+{
+    "poorCoalVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "enviromine:flammablecoal",
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_coal_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 96,
+        "chunkChance": 128,
+        "minHeight": 48,
+        "veinHeight": 16,
+        "veinDiameter": 96,
+        "verticalDensity": 96,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalCoalVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "enviromine:flammablecoal",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_coal_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 96,
+        "chunkChance": 128,
+        "minHeight": 48,
+        "veinHeight": 16,
+        "veinDiameter": 96,
+        "verticalDensity": 96,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseCoalVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "enviromine:flammablecoal",
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_coal_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 96,
+        "chunkChance": 128,
+        "minHeight": 48,
+        "veinHeight": 16,
+        "veinDiameter": 96,
+        "verticalDensity": 96,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorIronVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "iron_ore",
+                "weight": 685
+            },
+            {
+                "name": "PoorOres:poor_iron_ore",
+                "weight": 300
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 4,
+                "weight": 5
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 5
+            },
+            {
+                "name": "Metallurgy:base.ore",
+                "metadata": 2,
+                "weight": 5
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 64,
+        "numClusters": 128,
+        "chunkChance": 512,
+        "minHeight": 24,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalIronVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "iron_ore",
+                "weight": 885
+            },
+            {
+                "name": "PoorOres:poor_iron_ore",
+                "weight": 100
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 4,
+                "weight": 5
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 5
+            },
+            {
+                "name": "Metallurgy:base.ore",
+                "metadata": 2,
+                "weight": 5
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 512,
+        "minHeight": 24,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseIronVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "iron_ore",
+                "weight": 975
+            },
+            {
+                "name": "PoorOres:poor_iron_ore",
+                "weight": 10
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 4,
+                "weight": 5
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 5
+            },
+            {
+                "name": "Metallurgy:base.ore",
+                "metadata": 2,
+                "weight": 5
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 8192,
+        "minHeight": 16,
+        "veinHeight": 24,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorGoldVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "gold_ore",
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_gold_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 64,
+        "numClusters": 128,
+        "chunkChance": 512,
+        "minHeight": 16,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalGoldVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "gold_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_gold_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 512,
+        "minHeight": 16,
+        "veinHeight": 16,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseGoldVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "gold_ore",
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_gold_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 8192,
+        "minHeight": 16,
+        "veinHeight": 16,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorRedstoneVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "redstone_ore",
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_redstone_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 80,
+        "numClusters": 96,
+        "chunkChance": 384,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 4,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalRedstoneVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "redstone_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_redstone_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 384,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 4,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseRedstoneVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "redstone_ore",
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_redstone_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 6144,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 4,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorLapisVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "lapis_ore",
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_lapis_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 80,
+        "numClusters": 96,
+        "chunkChance": 384,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalLapisVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "lapis_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_lapis_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 384,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseLapisVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "lapis_ore",
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_lapis_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 6144,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "quartzGeodes": {
+        "template": {
+            "type": "uniform",
+            "generator": "geode"
+        },
+        "crust": [
+            {
+                "name": "quartz_ore",
+                "weight": 10
+            },
+            {
+                "name": "PoorOres:poor_quartz_ore",
+                "weight": 90
+            }
+        ],
+        "material": "netherrack",
+        "hollow": true,
+        "filler": "air",
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 127,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ],
+        "enabled": false
+    },
+    "poorQuartzVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "quartz_ore",
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_quartz_ore",
+                "weight": 30
+            }
+        ],
+        "material": "netherrack",
+        "clusterSize": 96,
+        "numClusters": 64,
+        "chunkChance": 256,
+        "minHeight": 32,
+        "veinHeight": 64,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "normalQuartzVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "quartz_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_quartz_ore",
+                "weight": 10
+            }
+        ],
+        "material": "netherrack",
+        "clusterSize": 48,
+        "numClusters": 32,
+        "chunkChance": 256,
+        "minHeight": 32,
+        "veinHeight": 64,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "denseQuartzVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "quartz_ore",
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_quartz_ore",
+                "weight": 1
+            }
+        ],
+        "material": "netherrack",
+        "clusterSize": 48,
+        "numClusters": 32,
+        "chunkChance": 4096,
+        "minHeight": 32,
+        "veinHeight": 64,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "diamondGeodes": {
+        "template": {
+            "type": "uniform",
+            "generator": "geode"
+        },
+        "crust": [
+            {
+                "name": "diamond_ore",
+                "weight": 10
+            },
+            {
+                "name": "PoorOres:poor_diamond_ore",
+                "weight": 90
+            }
+        ],
+        "material": "stone",
+        "hollow": true,
+        "filler": "air",
+        "numClusters": 1,
+        "minHeight": 1,
+        "maxHeight": 32,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ],
+        "enabled": false
+    },
+    "poorDiamondVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "diamond_ore",
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_diamond_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 192,
+        "chunkChance": 768,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalDiamondVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "diamond_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_diamond_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 16,
+        "numClusters": 96,
+        "chunkChance": 768,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseDiamondVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "diamond_ore",
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_diamond_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 16,
+        "numClusters": 96,
+        "chunkChance": 12288,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorAluminumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "TConstruct:SearedBrick",
+                "metadata": 5,
+                "weight": 65
+            },
+            {
+                "name": "PoorOres:poor_aluminum_ore",
+                "weight": 30
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 2,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 6,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 12,
+                "weight": 1
+            },
+            {
+                "name": "emerald_ore",
+                "metadata": 0,
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 96,
+        "numClusters": 64,
+        "chunkChance": 256,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalAluminumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "TConstruct:SearedBrick",
+                "metadata": 5,
+                "weight": 85
+            },
+            {
+                "name": "PoorOres:poor_aluminum_ore",
+                "weight": 10
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 2,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 6,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 12,
+                "weight": 1
+            },
+            {
+                "name": "emerald_ore",
+                "metadata": 0,
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 32,
+        "chunkChance": 256,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseAluminumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "TConstruct:SearedBrick",
+                "metadata": 5,
+                "weight": 94
+            },
+            {
+                "name": "PoorOres:poor_aluminum_ore",
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 2,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 6,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 8,
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 12,
+                "weight": 1
+            },
+            {
+                "name": "emerald_ore",
+                "metadata": 0,
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 32,
+        "chunkChance": 4096,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorCopperVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 0,
+                "weight": 68
+            },
+            {
+                "name": "PoorOres:poor_copper_ore",
+                "weight": 30
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 10,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 80,
+        "numClusters": 96,
+        "chunkChance": 384,
+        "minHeight": 32,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalCopperVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 0,
+                "weight": 88
+            },
+            {
+                "name": "PoorOres:poor_copper_ore",
+                "weight": 10
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 10,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 48,
+        "chunkChance": 384,
+        "minHeight": 32,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseCopperVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 0,
+                "weight": 97
+            },
+            {
+                "name": "PoorOres:poor_copper_ore",
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 10,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 6144,
+        "minHeight": 32,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorTinVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 1,
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_tin_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 80,
+        "numClusters": 96,
+        "chunkChance": 384,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalTinVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 1,
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_tin_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 384,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseTinVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 1,
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_tin_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 6144,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorSilverLeadVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 2,
+                "weight": 30
+            },
+            {
+                "name": "PoorOres:poor_silver_ore",
+                "weight": 15
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 3,
+                "weight": 30
+            },
+            {
+                "name": "PoorOres:poor_lead_ore",
+                "weight": 15
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 80,
+        "numClusters": 96,
+        "chunkChance": 384,
+        "minHeight": 32,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalSilverLeadVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 2,
+                "weight": 45
+            },
+            {
+                "name": "PoorOres:poor_silver_ore",
+                "weight": 5
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 3,
+                "weight": 45
+            },
+            {
+                "name": "PoorOres:poor_lead_ore",
+                "weight": 5
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 384,
+        "minHeight": 32,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseSilverLeadVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 2,
+                "weight": 455
+            },
+            {
+                "name": "PoorOres:poor_silver_ore",
+                "weight": 5
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 3,
+                "weight": 455
+            },
+            {
+                "name": "PoorOres:poor_lead_ore",
+                "weight": 5
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 40,
+        "numClusters": 48,
+        "chunkChance": 6144,
+        "minHeight": 32,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorNickelPlatinumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 4,
+                "weight": 630
+            },
+            {
+                "name": "PoorOres:poor_nickel_ore",
+                "weight": 270
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 5,
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_platinum_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 160,
+        "chunkChance": 640,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalNickelPlatinumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 4,
+                "weight": 810
+            },
+            {
+                "name": "PoorOres:poor_nickel_ore",
+                "weight": 90
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 5,
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_platinum_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 24,
+        "numClusters": 80,
+        "chunkChance": 640,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseNickelPlatinumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 4,
+                "weight": 891
+            },
+            {
+                "name": "PoorOres:poor_nickel_ore",
+                "weight": 9
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 5,
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_platinum_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 24,
+        "numClusters": 80,
+        "chunkChance": 10240,
+        "minHeight": 1,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorZincVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+                "metadata": 0,
+                "weight": 70
+            },
+            {
+                "name": "PoorOres:poor_zinc_ore",
+                "weight": 30
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 64,
+        "numClusters": 128,
+        "chunkChance": 512,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalZincVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+                "metadata": 0,
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_zinc_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 512,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseZincVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "Metallurgy:precious.ore",
+                "metadata": 0,
+                "weight": 99
+            },
+            {
+                "name": "PoorOres:poor_zinc_ore",
+                "weight": 1
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 8192,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "poorMagnesiumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+                "metadata": 3,
+                "weight": 68
+            },
+            {
+                "name": "PoorOres:poor_magnesium_ore",
+                "weight": 30
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 4,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 96,
+        "numClusters": 64,
+        "chunkChance": 256,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "normalMagnesiumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+                "metadata": 3,
+                "weight": 88
+            },
+            {
+                "name": "PoorOres:poor_magnesium_ore",
+                "weight": 10
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 4,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 32,
+        "chunkChance": 256,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "denseMagnesiumVeins": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+                "metadata": 3,
+                "weight": 97
+            },
+            {
+                "name": "PoorOres:poor_magnesium_ore",
+                "weight": 1
+            },
+            {
+                "name": "BiomesOPlenty:gemOre",
+                "metadata": 4,
+                "weight": 2
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 48,
+        "numClusters": 32,
+        "chunkChance": 4096,
+        "minHeight": 48,
+        "veinHeight": 32,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "bitumenUnderOil": {
+        "template": "underfluid",
+        "block": [
+            {
+                "name": "Metallurgy:utility.ore",
+                "metadata": 4,
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_bitumen_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "genFluid": "oil",
+        "clusterSize": 4,
+        "numClusters": 16,
+        "minHeight": 1,
+        "maxHeight": 32,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    }
+}

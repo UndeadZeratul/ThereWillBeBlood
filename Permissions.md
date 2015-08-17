@@ -85,6 +85,9 @@
 - **Deadly World** by: *FatherToast*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Dense Ores** by: *RWTema*
+  - **Private Packs**: Open: [FTB Permission Spreadsheet]
+  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **Direction HUD** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -196,6 +199,9 @@
 - **Pam's Temperate Plants** by: *MatrexsVigil*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **PoorOres** by: *Xexanos*
+  - **Private Packs**: Open: [PoorOres Curseforge Page]
+  - **Public Packs** : Open: [PoorOres Curseforge Page]
 - **Primitive Mobs** by: *Davetx0*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
