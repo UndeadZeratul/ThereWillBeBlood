@@ -5,6 +5,7 @@ Current Forge Version
 Current API Versions
 =
 - **AppleCore** v1.1.0 by squeek
+- **Aroma1997Core** v1.0.2.14 by Aroma1997, Schillaa
 - **asielib** v0.4.0 by asiekierka, Vexatos
 - **bspkrsCore** v6.16 by DaftPVF, bspkrs
 - **CodeChicken Core** v1.0.6.44 by ChickenBones
@@ -27,6 +28,7 @@ Current Mod Versions
 - **Another One Bites The Dust** v2.7.1 by ganymedes01
 - **Another One Bites The Dust: Berry Bushes** v1.0.5 by ganymedes01
 - **Antique Atlas** v4.2.2-1.7.10
+- **AromaBackup** v0.0.0.5
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
 - **BetterStorage** v0.13.1.126 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
