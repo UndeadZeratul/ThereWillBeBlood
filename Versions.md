@@ -63,6 +63,7 @@ Current Mod Versions
 - **OpenEye** v0.6 by boq, Mikee
 - **Pam's HarvestCraft** v1.7.10g by Pamela Collins
 - **Pam's Temperate Plants** v1.7.2b
+- **PneumaticCraft** v1.9.12-100
 - **PoorOres** v1.7.10-1.4.8 by Xexanos
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien

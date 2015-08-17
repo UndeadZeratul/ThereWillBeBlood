@@ -198,6 +198,9 @@
 - **Pam's Temperate Plants** by: *MatrexsVigil*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **PneumaticCraft** by: *MineMaarten*
+  - **Private Packs**: Open: [FTB Permission Spreadsheet]
+  - **Public Packs** : Open: [FTB Permission Spreadsheet]
 - **PoorOres** by: *Xexanos*
   - **Private Packs**: Open: [PoorOres Curseforge Page]
   - **Public Packs** : Open: [PoorOres Curseforge Page]
