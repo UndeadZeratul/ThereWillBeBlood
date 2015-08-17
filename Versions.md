@@ -11,7 +11,7 @@ Current API Versions
 - **CodeChicken Core** v1.0.6.44 by ChickenBones
 - **CoFH Core** v1.7.10R3.0.2 by Team CoFH
 - **Cookie Core** v1.3.1 by Ephys
-- **CreativeCore** v1.0
+- **CreativeCore** v1.0 by CreativeMD
 - **Forge Microblocks** v1.2.0.344
 - **Forge Multipart** v1.2.0.344
 - **INpureCore** v1.7.10R1.0.0B7
@@ -33,10 +33,10 @@ Current Mod Versions
 - **BetterStorage** v0.13.1.126 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v0.1.0 by FatherToast
-- **Dark Menagerie** v1.0
+- **Dark Menagerie** v1.0 ny RWTema
 - **Blood Magic: Alchemical Wizardry** v1.3.3 by WayofTime
 - **Deadly World** v1.0.2 by FatherToast
-- **Dense Ores** v1.0
+- **Dense Ores** v1.0 by RWTema
 - **Doomlike Dungeons** v1.7.6
 - **EnviroMine** v1.3.117 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
 - **Falling Meteors** v2.14.2
@@ -89,7 +89,7 @@ Current Mod Versions
 Optional Client Mod Versions
 =
 - **ArmorStatusHUD** v1.28 by bspkrs
-- **Better Foliage** v1.0.12 by octarine-noise (code), Meringue (textures)
+- **Better Foliage** v1.0.12 by octarine-noise, Meringue
 - **Damage Indicators** v3.2.3
 - **DirectionHUD** v1.24 by bspkrs
 - **Dynamic Lights** v1.3.8 by AtomicStryker
