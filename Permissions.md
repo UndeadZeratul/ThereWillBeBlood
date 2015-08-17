@@ -8,7 +8,6 @@
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
 [Tinkers' Defense Curseforge Page]:http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense
 [TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
-[Underground Biomes License]:https://www.dropbox.com/s/45yeaokdmr7wcbm/Underground%20Biomes%20Construct%20Permissions.png?dl=0
 
 - **Agricraft** by: *InfinityRaider
   - **Private Packs**: Open: [FTB Permission Website]
@@ -259,9 +258,6 @@
 - **Twilight Forest** by: *Benimatic*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Underground Biomes Constructs** by: *Zeno410, Grom PE, Exterminator Jeff*
-  - **Private Packs**: Open: [Underground Biomes License]
-  - **Public Packs** : Open: [Underground Biomes License]
 - **WAILA** by: *ProfMobius*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]

@@ -77,7 +77,6 @@ Current Mod Versions
 - **Tinkers' Steelworks** v1.7.10-1.1.0 by Toops, Ephys
 - **TNTUtils** v0.3-alpha by ljfa
 - **TooMuchLoot** v3.0.1
-- **Underground Biomes Constructs** v0.7
 - **Waila** v1.5.10
 - **weather2** vv2.3.6
 - **What Are We Looking At** v1.2.1 by Darkhax
