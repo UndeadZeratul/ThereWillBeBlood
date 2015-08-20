@@ -10,6 +10,9 @@ import mods.bloodmagic.Binding;
 var bloodAltar           = <AWWayofTime:Altar>;
 var emptySocket          = <AWWayofTime:emptySocket>;
 var weakBloodShard       = <AWWayofTime:weakBloodShard>;
+var carminite            = <TwilightForest:item.carminite>;
+var lifeCrystal          = <thebetweenlands:null:11>;
+var sanguiniteIngot      = <Metallurgy:sanguinite.ingot>;
 
 # Blood Orbs
 var weakBloodOrb         = <AWWayofTime:weakBloodOrb>;
@@ -48,12 +51,11 @@ var sanguiniteTools      = [
 
 # ORE DICTIONARY
 #----------------
-var anyCarmotIngot       = <ore:ingotCarmot>;
+var anyElectrumIngot     = <ore:ingotElectrum>;
 var anyGlassBlock        = <ore:blockGlass>;
 var anyRubraciumBlock    = <ore:ingotRubracium>;
 var anyRuby              = <ore:gemRuby>;
 var anyRubyBlock         = <ore:blockRuby>;
-var anySanguiniteBlock   = <ore:blockSanguinite>;
 var anyStoneBlock        = <ore:stone>;
 
 # RECIPE TWEAKS
@@ -62,9 +64,9 @@ var anyStoneBlock        = <ore:stone>;
 # Blood Altar
 recipes.removeShaped(bloodAltar);
 recipes.addShaped(bloodAltar, [
-    [anyStoneBlock,  null,          anyStoneBlock],
-    [anyStoneBlock,  anyStoneBlock, anyStoneBlock],
-    [anyCarmotIngot, anyRuby,       anyCarmotIngot]]);
+    [anyStoneBlock,    null,          anyStoneBlock],
+    [anyStoneBlock,    anyStoneBlock, anyStoneBlock],
+    [anyElectrumIngot, anyRubyBlock,  anyElectrumIngot]]);
 
 # Empty Socket
 recipes.remove(emptySocket);
@@ -77,21 +79,22 @@ recipes.addShaped(emptySocket, [
 
 # Weak Blood Orb
 Altar.removeRecipe(weakBloodOrb);
-for rubyBlock in anyRubyBlock.items {
-    Altar.addRecipe(weakBloodOrb, rubyBlock, 1, 2000);
+for ruby in anyRuby.items {
+    Altar.addRecipe(weakBloodOrb, ruby, 1, 2000);
 }
 
 # Apprentice Blood Orb
 Altar.removeRecipe(apprenticeBloodOrb);
-for rubraciumBlock in anyRubraciumBlock.items {
-    Altar.addRecipe(apprenticeBloodOrb, rubraciumBlock, 2, 5000);
-}
+Altar.addRecipe(apprenticeBloodOrb, lifeCrystal, 2, 5000);
 
 # Magician's Blood Orb
 Altar.removeRecipe(magicianBloodOrb);
 for block in anySanguiniteBlock.items {
     Altar.addRecipe(magicianBloodOrb, block, 3, 25000);
 }
+
+# Carminite -> Sanguinite
+Altar.addRecipe(sanguiniteIngot, carminite, 3, 20000);
 
 # RITUAL OF BINDING TWEAKS
 #--------------------------
