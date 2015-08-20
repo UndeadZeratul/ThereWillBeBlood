@@ -57,7 +57,7 @@ Current Mod Versions
 - **ModpackTweaks** v1.2.0
 - **Natura** v2.2.0
 - **Natural Absorption** v1.2.1 by FatherToast
-- **NEI Integration** v1.0.9 by tonius11
+- **NEI Integration** v1.0.12 by tonius11
 - **Nether Ores** v1.7.10R2.3.0 by PowerCrystals, TehKrush, AtomicStryker, skyboy026
 - **Not Enough Items** v1.0.4.107 by ChickenBones
 - **OpenEye** v0.6 by boq, Mikee
