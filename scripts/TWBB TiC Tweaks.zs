@@ -1,7 +1,7 @@
 # MOD IMPORTS
 #-------------
-import minetweaker.item.IItemStack;
 import minetweaker.item.IIngredient;
+import minetweaker.item.IItemStack;
 import minetweaker.liquid.ILiquidStack;
 import mods.tconstruct.Casting;
 import mods.tconstruct.Smeltery;
@@ -1161,6 +1161,24 @@ var anySteelBlock             = <ore:blockSteel>;
 var anyTinBlock               = <ore:blockTin>;
 var anyZincBlock              = <ore:blockZinc>;
 
+# Oreberries
+var anyAdamantineOreberry     = <ore:oreberryAdamantine>;
+var anyAluminumOreberry       = <ore:oreberryAluminum>;
+var anyArditeOreberry         = <ore:oreberryArdite>;
+var anyCobaltOreberry         = <ore:oreberryCobalt>;
+var anyCopperOreberry         = <ore:oreberryCopper>;
+var anyEximiteOreberry        = <ore:oreberryEximite>;
+var anyGoldOreberry           = <ore:oreberryGold>;
+var anyIronOreberry           = <ore:oreberryIron>;
+var anyLeadOreberry           = <ore:oreberryLead>;
+var anyMeutoiteOreberry       = <ore:oreberryMeutoite>;
+var anyNickelOreberry         = <ore:oreberryNickel>;
+var anyPlatinumOreberry       = <ore:oreberryPlatinum>;
+var anySanguiniteOreberry     = <ore:oreberrySanguinite>;
+var anySilverOreberry         = <ore:oreberrySilver>;
+var anyTinOreberry            = <ore:oreberryTin>;
+var anyZincOreberry           = <ore:oreberryZinc>;
+
 # Gears
 var anyBronzeGear             = <ore:gearBronze>;
 var anyCopperGear             = <ore:gearCopper>;
@@ -1176,6 +1194,22 @@ var anyTinGear                = <ore:gearTin>;
 
 # ITEM LISTS
 #------------
+var allNuggets                = [
+    anyIronNugget,
+    anyCopperNugget,
+    anyAluminumNugget,
+    anyTinNugget,
+    anyZincNugget,
+    anyNickelNugget,
+    anyLeadNugget,
+    anySilverNugget,
+    anyGoldNugget,
+    anyPlatinumNugget,
+    anyEximiteNugget,
+    anyMeutoiteNugget,
+    anyAdamantineNugget,
+    anySanguiniteNugget
+] as IIngredient[];
 var allIngots                 = [
     anyIronIngot,
     anyCopperIngot,
@@ -1200,6 +1234,49 @@ var allIngots                 = [
     anyBlackSteelIngot,
     anySanguiniteIngot,
     anyDesichalkosIngot
+] as IIngredient[];
+var allBlocks                 = [
+    anyIronBlock,
+    anyCopperBlock,
+    anyAluminumBlock,
+    anyTinBlock,
+    anyZincBlock,
+    anyNickelBlock,
+    anyLeadBlock,
+    anySilverBlock,
+    anyGoldBlock,
+    anyPlatinumBlock,
+    anyEximiteBlock,
+    anyMeutoiteBlock,
+    anyAdamantineBlock,
+    anyBronzeBlock,
+    anySteelBlock,
+    anyInvarBlock,
+    anyElectrumBlock,
+    anyHepatizonBlock,
+    anyBrassBlock,
+    anyAluminumBrassBlock,
+    anyBlackSteelBlock,
+    anySanguiniteBlock,
+    anyDesichalkosBlock
+] as IIngredient[];
+var allOreberries             = [
+    anyAdamantineOreberry,
+    anyAluminumOreberry,
+    anyArditeOreberry,
+    anyCobaltOreberry,
+    anyCopperOreberry,
+    anyEximiteOreberry,
+    anyGoldOreberry,
+    anyIronOreberry,
+    anyLeadOreberry,
+    anyMeutoiteOreberry,
+    anyNickelOreberry,
+    anyPlatinumOreberry,
+    anySanguiniteOreberry,
+    anySilverOreberry,
+    anyTinOreberry,
+    anyZincOreberry
 ] as IIngredient[];
 var moltenMetals              = [
     moltenIron,
@@ -1621,6 +1698,9 @@ var smelteryRemovals          = [
     anySilverNugget,
     anyGoldNugget,
     anyPlatinumNugget,
+    anyEximiteNugget,
+    anyMeutoiteNugget,
+    anyAdamantineNugget,
     anyBronzeNugget,
     anySteelNugget,
     anyInvarNugget,
@@ -1829,10 +1909,25 @@ recipes.remove(anyToolForge);
 # Remove Downgrade Recipe
 recipes.remove(miniRedHeart);
 
+# Remove Easy Storage Recipes
+for anyIngot in allIngots {
+    for ingot in anyIngot.items {
+        recipes.remove(ingot);
+    }
+}
+for anyBlock in allBlocks {
+    for block in anyBlock.items {
+        recipes.remove(block);
+    }
+}
+
 # FURNACE TWEAKS
 #----------------
 
 # Disable vanilla furnace ore melting
+for nugget in allNuggets {
+	furnace.remove(nugget);
+}
 for ingot in allIngots {
     furnace.remove(ingot);
 }
@@ -2612,6 +2707,7 @@ highoven.addMeltable(platinumBow,         false, moltenPlatinum * 288,  1750);
 
 # Sanguinite: 2500*C
 Smeltery.addMelting(anySanguiniteIngot,   moltenSanguinite * 144,  2500, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteNugget,  moltenSanguinite * 16,   2500, sanguiniteBlock);
 Smeltery.addMelting(sanguiniteHelmet,     moltenSanguinite * 720,  2500, sanguiniteBlock);
 Smeltery.addMelting(sanguiniteChestplate, moltenSanguinite * 1152, 2500, sanguiniteBlock);
 Smeltery.addMelting(sanguiniteLeggings,   moltenSanguinite * 1008, 2500, sanguiniteBlock);
@@ -2624,6 +2720,7 @@ Smeltery.addMelting(sanguiniteHoe,        moltenSanguinite * 288,  2500, sanguin
 
 # Adamantine: 3000*C
 Smeltery.addMelting(anyAdamantineOre,     moltenAdamantine * 144,  3000, adamantineOre);
+Smeltery.addMelting(anyAdamantineNugget,  moltenAdamantine * 16,   3000, adamantineBlock);
 Smeltery.addMelting(anyAdamantineIngot,   moltenAdamantine * 144,  3000, adamantineBlock);
 Smeltery.addMelting(adamantineHelmet,     moltenAdamantine * 720,  3000, adamantineBlock);
 Smeltery.addMelting(adamantineChestplate, moltenAdamantine * 1152, 3000, adamantineBlock);
@@ -2637,6 +2734,7 @@ Smeltery.addMelting(adamantineHoe,        moltenAdamantine * 288,  3000, adamant
 
 # Eximite: 3500*C
 Smeltery.addMelting(anyEximiteOre,     moltenEximite * 144,  3500, eximiteOre);
+Smeltery.addMelting(anyEximiteNugget,  moltenEximite * 16,   3500, eximiteBlock);
 Smeltery.addMelting(anyEximiteIngot,   moltenEximite * 144,  3500, eximiteBlock);
 Smeltery.addMelting(eximiteHelmet,     moltenEximite * 720,  3500, eximiteBlock);
 Smeltery.addMelting(eximiteChestplate, moltenEximite * 1152, 3500, eximiteBlock);
@@ -2649,8 +2747,9 @@ Smeltery.addMelting(eximiteShovel,     moltenEximite * 144,  3500, eximiteBlock)
 Smeltery.addMelting(eximiteHoe,        moltenEximite * 288,  3500, eximiteBlock);
 
 # Meutoite: 3500*C
-Smeltery.addMelting(anyMeutoiteOre,   moltenMeutoite * 144, 3500, meutoiteOre);
-Smeltery.addMelting(anyMeutoiteIngot, moltenMeutoite * 144, 3500, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteOre,    moltenMeutoite * 144, 3500, meutoiteOre);
+Smeltery.addMelting(anyMeutoiteNugget, moltenMeutoite * 16,  3500, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteIngot,  moltenMeutoite * 144, 3500, meutoiteBlock);
 
 # Desichalkos: 3750*C
 Smeltery.addMelting(anyDesichalkosIngot,   moltenDesichalkos * 144,  3750, desichalkosBlock);
