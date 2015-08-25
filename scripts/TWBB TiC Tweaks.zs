@@ -1635,6 +1635,45 @@ var travelArmor               = [
     travelGlove,
     travelBelt
 ] as IItemStack[];
+var allFurnaceRemovals        = [
+    anyIronNugget,
+    anyCopperNugget,
+    #anyAluminumNugget,
+    #anyTinNugget,
+    #anyZincNugget,
+    anyNickelNugget,
+    #anyLeadNugget,
+    anySilverNugget,
+    anyGoldNugget,
+    anyPlatinumNugget,
+    anyEximiteNugget,
+    anyMeutoiteNugget,
+    anyAdamantineNugget,
+    anySanguiniteNugget,
+    anyIronIngot,
+    anyCopperIngot,
+    #anyAluminumIngot,
+    #anyTinIngot,
+    #anyZincIngot,
+    anyNickelIngot,
+    #anyLeadIngot,
+    anySilverIngot,
+    anyGoldIngot,
+    anyPlatinumIngot,
+    anyEximiteIngot,
+    anyMeutoiteIngot,
+    anyAdamantineIngot,
+    anyBronzeIngot,
+    anySteelIngot,
+    anyInvarIngot,
+    anyElectrumIngot,
+    anyHepatizonIngot,
+    anyBrassIngot,
+    anyAluminumBrassIngot,
+    anyBlackSteelIngot,
+    anySanguiniteIngot,
+    anyDesichalkosIngot
+] as IIngredient[];
 var smelteryRemovals          = [
     anyIronOre,
     anyCopperOre,
@@ -1925,11 +1964,8 @@ for anyBlock in allBlocks {
 #----------------
 
 # Disable vanilla furnace ore melting
-for nugget in allNuggets {
-	furnace.remove(nugget);
-}
-for ingot in allIngots {
-    furnace.remove(ingot);
+for input in allFurnaceRemovals {
+	furnace.remove(input);
 }
 
 # SMELTERY TWEAKS
