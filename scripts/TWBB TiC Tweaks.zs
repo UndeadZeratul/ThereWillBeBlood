@@ -62,6 +62,7 @@ var blackSteelIngot           = <Metallurgy:black.steel.ingot>;
 var brassIngot                = <Metallurgy:brass.ingot>;
 var desichalkosIngot          = <Metallurgy:desichalkos.ingot>;
 var hepatizonIngot            = <Metallurgy:hepatizon.ingot>;
+var searedBrick               = <TConstruct:materials:2>;
 
 # Blocks
 var copperBlock               = <Metallurgy:base.block:0>;
@@ -1971,7 +1972,9 @@ for input in allFurnaceRemovals {
 # SMELTERY TWEAKS
 #-----------------
 
-# Bucket Melts to Steel
+# Fix Seared Brick Cost
+Casting.removeTableRecipe(searedBrick);
+Casting.addTableRecipe(searedBrick, moltenSearedStone * 144, ingotCast, false, 40);
 
 # Disable Smeltery Melting to Require High Oven
 Smeltery.removeMelting(anyNetherCopperOre);
