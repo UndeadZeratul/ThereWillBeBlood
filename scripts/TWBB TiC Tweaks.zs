@@ -57,12 +57,60 @@ var aluminumOre               = <TConstruct:SearedBrick:5>;
 var leadOre                   = <ThermalFoundation:Ore:3>;
 var nickelOre                 = <ThermalFoundation:Ore:4>;
 
+# Nuggets
+var sanguiniteNugget          = <aobd:nuggetSanguinite>;
+var goldNugget                = <minecraft:gold_nugget>;
+var adamantineNugget          = <PoorOres:adamantine_nugget>;
+var eximiteNugget             = <PoorOres:eximite_nugget>;
+var meutoiteNugget            = <PoorOres:meutoite_nugget>;
+var copperNugget              = <Steamcraft:steamcraftNugget:0>;
+var zincNugget                = <Steamcraft:steamcraftNugget:1>;
+var ironNugget                = <Steamcraft:steamcraftNugget:2>;
+var brassNugget               = <Steamcraft:steamcraftNugget:3>;
+var aluminumNugget            = <TConstruct:materials:22>;
+var bronzeNugget              = <TConstruct:materials:31>;
+var aluminumBrassNugget       = <TConstruct:materials:24>;
+var steelNugget               = <TConstruct:materials:33>;
+var tinNugget                 = <ThermalFoundation:material:97>;
+var silverNugget              = <ThermalFoundation:material:98>;
+var leadNugget                = <ThermalFoundation:material:99>;
+var nickelNugget              = <ThermalFoundation:material:100>;
+var platinumNugget            = <ThermalFoundation:material:101>;
+var electrumNugget            = <ThermalFoundation:material:103>;
+var invarNugget               = <ThermalFoundation:material:104>;
+
 # Ingots
+var adamantineIngot           = <Metallurgy:adamantine.ingot>;
 var blackSteelIngot           = <Metallurgy:black.steel.ingot>;
-var brassIngot                = <Metallurgy:brass.ingot>;
 var desichalkosIngot          = <Metallurgy:desichalkos.ingot>;
+var eximiteIngot              = <Metallurgy:eximite.ingot>;
 var hepatizonIngot            = <Metallurgy:hepatizon.ingot>;
-var searedBrick               = <TConstruct:materials:2>;
+var meutoiteIngot             = <Metallurgy:meutoite.ingot>;
+var platinumIngot             = <Metallurgy:platinum.ingot>;
+var sanguiniteIngot           = <Metallurgy:sanguinite.ingot>;
+var tinIngot                  = <Metallurgy:tin.ingot>;
+var goldIngot                 = <minecraft:gold_ingot>;
+var ironIngot                 = <minecraft:iron_ingot>;
+var zincIngot                 = <Steamcraft:steamcraftIngot:1>;
+var brassIngot                = <Steamcraft:steamcraftIngot:2>;
+var aluminumIngot             = <TConstruct:materials:11>;
+var bronzeIngot               = <TConstruct:materials:13>;
+var aluminumBrassIngot        = <TConstruct:materials:14>;
+var steelIngot                = <TConstruct:materials:16>;
+var copperIngot               = <ThermalFoundation:material:64>;
+var silverIngot               = <ThermalFoundation:material:66>;
+var leadIngot                 = <ThermalFoundation:material:67>;
+var nickelIngot               = <ThermalFoundation:material:68>;
+var electrumIngot             = <ThermalFoundation:material:71>;
+var invarIngot                = <ThermalFoundation:material:72>;
+
+# Plates
+var copperPlate               = <Steamcraft:steamcraftPlate:0>;
+var zincPlate                 = <Steamcraft:steamcraftPlate:1>;
+var ironPlate                 = <Steamcraft:steamcraftPlate:2>;
+var goldPlate                 = <Steamcraft:steamcraftPlate:3>;
+var brassPlate                = <Steamcraft:steamcraftPlate:4>;
+var leadPlate                 = <Steamcraft:steamcraftPlate:9>;
 
 # Blocks
 var copperBlock               = <Metallurgy:base.block:0>;
@@ -93,9 +141,17 @@ var invarBlock                = <ThermalFoundation:Storage:8>;
 var anyToolStation            = <TConstruct:ToolStationBlock:*>;
 var anyToolForge              = <TConstruct:ToolForgeBlock:*>;
 
+# Molds
+var blankMold                 = <Steamcraft:blankMold>;
+var ingotMold                 = <Steamcraft:ingotMold>;
+var nuggetMold                = <Steamcraft:nuggetMold>;
+var plateMold                 = <Steamcraft:plateMold>;
+
 # Casts
+var anyBlankCast              = <TConstruct:blankPattern:*>;
 var aluminumBrassBlankCast    = <TConstruct:blankPattern:1>;
 var goldBlankCast             = <TConstruct:blankPattern:2>;
+var anyCast                   = <TConstruct:metalPattern:*>;
 var ingotCast                 = <TConstruct:metalPattern:0>;
 var toolRodCast               = <TConstruct:metalPattern:1>;
 var pickHeadCast              = <TConstruct:metalPattern:2>;
@@ -1105,6 +1161,14 @@ var anySteelIngot             = <ore:ingotSteel>;
 var anyTinIngot               = <ore:ingotTin>;
 var anyZincIngot              = <ore:ingotZinc>;
 
+# Plates
+var anyBrassPlate             = <ore:plateSteamcraftBrass>;
+var anyCopperPlate            = <ore:plateSteamcraftCopper>;
+var anyGoldPlate              = <ore:plateSteamcraftGold>;
+var anyIronPlate              = <ore:plateSteamcraftIron>;
+var anyLeadPlate              = <ore:plateSteamcraftLead>;
+var anyZincPlate              = <ore:plateSteamcraftZinc>;
+
 # Nuggets
 var anyAdamantineNugget       = <ore:nuggetAdamantine>;
 var anyAluminumNugget         = <ore:nuggetAluminum>;
@@ -1639,11 +1703,11 @@ var travelArmor               = [
 var allFurnaceRemovals        = [
     anyIronNugget,
     anyCopperNugget,
-    #anyAluminumNugget,
-    #anyTinNugget,
-    #anyZincNugget,
+    anyAluminumNugget,
+    anyTinNugget,
+    anyZincNugget,
     anyNickelNugget,
-    #anyLeadNugget,
+    anyLeadNugget,
     anySilverNugget,
     anyGoldNugget,
     anyPlatinumNugget,
@@ -1653,11 +1717,11 @@ var allFurnaceRemovals        = [
     anySanguiniteNugget,
     anyIronIngot,
     anyCopperIngot,
-    #anyAluminumIngot,
-    #anyTinIngot,
-    #anyZincIngot,
+    anyAluminumIngot,
+    anyTinIngot,
+    anyZincIngot,
     anyNickelIngot,
-    #anyLeadIngot,
+    anyLeadIngot,
     anySilverIngot,
     anyGoldIngot,
     anyPlatinumIngot,
@@ -1950,6 +2014,11 @@ recipes.remove(anyToolForge);
 recipes.remove(miniRedHeart);
 
 # Remove Easy Storage Recipes
+for anyNugget in allNuggets {
+    for nugget in anyNugget.items {
+        recipes.remove(nugget);
+    }
+}
 for anyIngot in allIngots {
     for ingot in anyIngot.items {
         recipes.remove(ingot);
@@ -1971,6 +2040,13 @@ for input in allFurnaceRemovals {
 
 # SMELTERY TWEAKS
 #-----------------
+
+# Disable TiC Metal Casts in favor of FSP Ceramic Molds
+Casting.removeTableRecipe(anyBlankCast);
+Casting.removeTableRecipe(anyCast);
+
+# Enforce Ingot Casts Made From Aluminum Brass and a Brick
+Casting.addTableRecipe(ingotCast, moltenAluminumBrass * 144, brick, true, 40);
 
 # Fix Seared Brick Cost
 Casting.removeTableRecipe(searedBrick);
@@ -2808,7 +2884,6 @@ Smeltery.addMelting(desichalkosShovel,     moltenDesichalkos * 144,  3750, desic
 Smeltery.removeAlloy(moltenAluminumBrass * 64);
 Smeltery.addAlloy(moltenAluminumBrass * 1296, [moltenCopper * 1152, moltenAluminum * 144]);
 
-
 # Black Steel: 3 Steel, 1 Hepatizon, 1 Nickel
 Smeltery.addAlloy(moltenBlackSteel * 720, [moltenSteel * 432, moltenHepatizon * 144, moltenNickel * 144]);
 
@@ -2828,23 +2903,110 @@ Smeltery.addAlloy(moltenHepatizon * 1296, [moltenCopper * 1152, moltenElectrum *
 
 # Add Missing Casting Recipes
 
+# Tin
+Casting.addTableRecipe(tinIngot,  moltenTin * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(tinNugget, moltenTin * 16,  nuggetMold, true, 40);
 
-# Black Steel
-Casting.addTableRecipe(blackSteelIngot, moltenBlackSteel * 144, ingotCast, false, 40);
-Casting.addBasinRecipe(blackSteelBlock, moltenBlackSteel * 1296, null, false, 40);
+# Lead
+Casting.addTableRecipe(leadIngot,  moltenLead * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(leadNugget, moltenLead * 16,  nuggetMold, true, 40);
+Casting.addTableRecipe(leadPlate,  moltenLead * 96,  plateMold,  true, 40);
+
+# Zinc
+Casting.addTableRecipe(zincIngot,  moltenZinc * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(zincNugget, moltenZinc * 16,  nuggetMold, true, 40);
+Casting.addTableRecipe(zincPlate,  moltenZinc * 96,  plateMold,  true, 40);
+
+# Aluminum
+Casting.addTableRecipe(aluminumIngot,  moltenAluminum * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(aluminumNugget, moltenAluminum * 16,  nuggetMold, true, 40);
 
 # Brass
+Casting.addTableRecipe(brassIngot,  moltenBrass * 144,  ingotMold,  true,  40);
+Casting.addTableRecipe(brassNugget, moltenBrass * 16,   nuggetMold, true,  40);
+Casting.addTableRecipe(brassPlate,  moltenBrass * 96,   plateMold,  true,  40);
+
 Casting.addTableRecipe(brassIngot, moltenBrass * 144, ingotCast, false, 40);
+Casting.addTableRecipe(brassNugget, moltenBrass * 16,   nuggetCast, false, 40);
 Casting.addTableRecipe(brassBlock, moltenBrass * 1296, null, false, 40);
 
-# Desichalkos
-Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144, ingotCast, false, 40);
-Casting.addBasinRecipe(desichalkosBlock, moltenDesichalkos * 1296, null, false, 40);
+# Aluminum Brass
+Casting.addTableRecipe(aluminumBrassIngot,  moltenAluminumBrass * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(aluminumBrassNugget, moltenAluminumBrass * 16,  nuggetMold, true, 40);
+
+# Bronze
+Casting.addTableRecipe(bronzeIngot,  moltenBronze * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(bronzeNugget, moltenBronze * 16,  nuggetMold, true, 40);
+
+# Silver
+Casting.addTableRecipe(silverIngot,  moltenSilver * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(silverNugget, moltenSilver * 16,  nuggetMold, true, 40);
+
+# Electrum
+Casting.addTableRecipe(electrumIngot,  moltenElectrum * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(electrumNugget, moltenElectrum * 16,  nuggetMold, true, 40);
+
+# Gold
+Casting.addTableRecipe(goldIngot,  moltenGold * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(goldNugget, moltenGold * 16,  nuggetMold, true, 40);
+Casting.addTableRecipe(goldPlate,  moltenGold * 96,  plateMold,  true, 40);
 
 # Hepatizon
+Casting.addTableRecipe(hepatizonIngot, moltenHepatizon * 144,  ingotMold, true,  40);
+
 Casting.addTableRecipe(hepatizonIngot, moltenHepatizon * 144, ingotCast, false, 40);
 Casting.addBasinRecipe(hepatizonBlock, moltenHepatizon * 1296, null, false, 40);
 
+# Copper
+Casting.addTableRecipe(copperIngot,  moltenCopper * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(copperNugget, moltenCopper * 16,  nuggetMold, true, 40);
+Casting.addTableRecipe(copperPlate,  moltenCopper * 96,  plateMold,  true, 40);
 
-# Enforce Ingot Casts Made From Non-Metal Bricks
-Casting.addTableRecipe(ingotCast, moltenAluminumBrass * 144, brick, false, 40);
+# Black Steel
+Casting.addTableRecipe(blackSteelIngot, moltenBlackSteel * 144,  ingotMold, true,  40);
+
+Casting.addTableRecipe(blackSteelIngot, moltenBlackSteel * 144,  ingotCast, false, 40);
+Casting.addBasinRecipe(blackSteelBlock, moltenBlackSteel * 1296, null,      false, 40);
+
+# Iron
+Casting.addTableRecipe(ironIngot,  moltenIron * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(ironNugget, moltenIron * 16,  nuggetMold, true, 40);
+Casting.addTableRecipe(ironPlate,  moltenIron * 96,  plateMold,  true, 40);
+
+# Invar
+Casting.addTableRecipe(invarIngot,  moltenInvar * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(invarNugget, moltenInvar * 16,  nuggetMold, true, 40);
+
+# Nickel
+Casting.addTableRecipe(nickelIngot,  moltenNickel * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(nickelNugget, moltenNickel * 16,  nuggetMold, true, 40);
+
+# Steel
+Casting.addTableRecipe(steelIngot,  moltenSteel * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(steelNugget, moltenSteel * 16,  nuggetMold, true, 40);
+
+# Platinum
+Casting.addTableRecipe(platinumIngot,  moltenPlatinum * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(platinumNugget, moltenPlatinum * 16,  nuggetMold, true, 40);
+
+# Sanguinite
+Casting.addTableRecipe(sanguiniteIngot,  moltenSanguinite * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(sanguiniteNugget, moltenSanguinite * 16,  nuggetMold, true, 40);
+
+# Adamantine
+Casting.addTableRecipe(adamantineIngot,  moltenAdamantine * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(adamantineNugget, moltenAdamantine * 16,  nuggetMold, true, 40);
+
+# Eximite
+Casting.addTableRecipe(eximiteIngot,  moltenEximite * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(eximiteNugget, moltenEximite * 16,  nuggetMold, true, 40);
+
+# Meutoite
+Casting.addTableRecipe(meutoiteIngot,  moltenMeutoite * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(meutoiteNugget, moltenMeutoite * 16,  nuggetMold, true, 40);
+
+# Desichalkos
+Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotMold, true,  40);
+
+Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotCast, false, 40);
+Casting.addBasinRecipe(desichalkosBlock, moltenDesichalkos * 1296, null,      false, 40);
