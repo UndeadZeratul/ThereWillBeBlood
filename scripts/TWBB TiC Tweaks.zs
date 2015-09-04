@@ -140,6 +140,7 @@ var invarBlock                = <ThermalFoundation:Storage:8>;
 # Tool Stations
 var anyToolStation            = <TConstruct:ToolStationBlock:*>;
 var anyToolForge              = <TConstruct:ToolForgeBlock:*>;
+var toolForgeSlab             = <TConstruct:CraftingSlab:5>;
 
 # Molds
 var blankMold                 = <Steamcraft:blankMold>;
@@ -2009,6 +2010,7 @@ for i, armor in travelArmor {
 # Disable TiC Tool Crafting Tables
 recipes.remove(anyToolStation);
 recipes.remove(anyToolForge);
+recipes.remove(toolForgeSlab);
 
 # Remove Downgrade Recipe
 recipes.remove(miniRedHeart);
