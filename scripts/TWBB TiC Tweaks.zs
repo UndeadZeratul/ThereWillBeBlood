@@ -38,8 +38,13 @@ var minecart                  = <minecraft:minecart>;
 var rail                      = <minecraft:rail>;
 var glisteringMelon           = <minecraft:speckled_melon>;
 
+var itemCanister              = <Steamcraft:canister>;
+
 var ironBrick                 = <TConstruct:decoration.multibrick:4>;
 var fancyIronBrick            = <TConstruct:decoration.multibrickfancy:4>;
+var diamondApple              = <TConstruct:diamondApple>;
+var searedBrick               = <TConstruct:materials:2>;
+var necroticBone              = <TConstruct:materials:8>;
 
 # Ores
 var copperOre                 = <Metallurgy:base.ore:0>;
@@ -2032,6 +2037,15 @@ for anyBlock in allBlocks {
     }
 }
 
+# Heart Canisters
+recipes.remove(canisterEmpty);
+recipes.remove(canisterRedHeart);
+recipes.remove(canisterYellowHeart);
+
+recipes.addShapeless(canisterRedHeart, [diamondApple, necroticBone, itemCanister, miniRedHeart]);
+recipes.addShapeless(canisterYellowHeart, [canisterRedHeart, miniYellowHeart, goldenNotchApple]);
+#recipes.addShapeless(canisterGreenHeart, [canisterYellowHeart, miniGreenHeart, ]);
+
 # FURNACE TWEAKS
 #----------------
 
@@ -2928,9 +2942,9 @@ Casting.addTableRecipe(brassIngot,  moltenBrass * 144,  ingotMold,  true,  40);
 Casting.addTableRecipe(brassNugget, moltenBrass * 16,   nuggetMold, true,  40);
 Casting.addTableRecipe(brassPlate,  moltenBrass * 96,   plateMold,  true,  40);
 
-Casting.addTableRecipe(brassIngot, moltenBrass * 144, ingotCast, false, 40);
+Casting.addTableRecipe(brassIngot,  moltenBrass * 144,  ingotCast,  false, 40);
 Casting.addTableRecipe(brassNugget, moltenBrass * 16,   nuggetCast, false, 40);
-Casting.addTableRecipe(brassBlock, moltenBrass * 1296, null, false, 40);
+Casting.addTableRecipe(brassBlock,  moltenBrass * 1296, null,       false, 40);
 
 # Aluminum Brass
 Casting.addTableRecipe(aluminumBrassIngot,  moltenAluminumBrass * 144, ingotMold,  true, 40);
@@ -2956,8 +2970,8 @@ Casting.addTableRecipe(goldPlate,  moltenGold * 96,  plateMold,  true, 40);
 # Hepatizon
 Casting.addTableRecipe(hepatizonIngot, moltenHepatizon * 144,  ingotMold, true,  40);
 
-Casting.addTableRecipe(hepatizonIngot, moltenHepatizon * 144, ingotCast, false, 40);
-Casting.addBasinRecipe(hepatizonBlock, moltenHepatizon * 1296, null, false, 40);
+Casting.addTableRecipe(hepatizonIngot, moltenHepatizon * 144,  ingotCast, false, 40);
+Casting.addBasinRecipe(hepatizonBlock, moltenHepatizon * 1296, null,      false, 40);
 
 # Copper
 Casting.addTableRecipe(copperIngot,  moltenCopper * 144, ingotMold,  true, 40);
