@@ -28,6 +28,7 @@ var allDisabledItems   = [
     <ore:gearPlatinum>,
     <ore:gearSilver>,
     <ore:gearTin>,
+    <ore:oreCopper>,
     <Steamcraft:helmBrass>,
     <Steamcraft:chestBrass>,
     <Steamcraft:legsBrass>,
