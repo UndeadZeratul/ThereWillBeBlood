@@ -151,6 +151,17 @@ recipes.addShaped(itemCanister, [
     [anyAluminumIngot, null,             anyAluminumIngot],
     [null,             anyAluminumIngot, null]]);
 
+# Item Mortar
+recipes.removeShaped(itemMortar);
+recipes.addShaped(itemMortar, [
+    [anyBrassIngot,  null,           anyBrassIngot],
+    [anyBrassIngot,  brassPiston,    anyBrassIngot],
+    [anyBronzeIngot, anyBronzeIngot, anyBronzeIngot]]);
+recipes.addShaped(itemMortar, [
+    [anyBrassPlate,  null,           anyBrassPlate],
+    [anyBrassPlate,  brassPiston,    anyBrassPlate],
+    [anyBronzeIngot, anyBronzeIngot, anyBronzeIngot]]);
+
 # Steamcraft Book
 recipes.remove(steamcraftBook);
 Casting.addTableRecipe(steamcraftBook, moltenBrass * 144, book, true, 40);
