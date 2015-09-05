@@ -151,16 +151,6 @@ recipes.addShaped(itemCanister, [
     [anyAluminumIngot, null,             anyAluminumIngot],
     [null,             anyAluminumIngot, null]]);
 
-/*
-# Rupture Disc
-recipes.remove(ruptureDisc);
-recipes.addShaped(ruptureDisc, [
-    [null,           anyBrassNugget,   null],
-    [anyBrassNugget, anyAluminumIngot, anyBrassNugget],
-    [null,           anyBrassNugget,   null]]);
-recipes.addShapeless(ruptureDisc, [anyAluminumIngot, ruptureDiscBurst]);
-*/
-
 # Steamcraft Book
 recipes.remove(steamcraftBook);
 Casting.addTableRecipe(steamcraftBook, moltenBrass * 144, book, true, 40);
