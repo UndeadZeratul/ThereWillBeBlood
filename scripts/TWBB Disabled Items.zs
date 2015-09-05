@@ -38,7 +38,17 @@ var allDisabledItems   = [
     <Steamcraft:axeBrass>,
     <Steamcraft:shovelBrass>,
     <Steamcraft:hoeBrass>,
-    <Steamcraft:swordBrass>
+    <Steamcraft:swordBrass>,
+    <TConstruct:CraftingSlab:5>,
+    <TConstruct:knapsack>,
+    <TConstruct:ToolForgeBlock:*>,
+    <TConstruct:ToolStationBlock:*>,
+    <TConstruct:travelGoggles>,
+    <TConstruct:travelVest>,
+    <TConstruct:travelWings>,
+    <TConstruct:travelBoots>,
+    <TConstruct:travelGlove>,
+    <TConstruct:travelBelt>
 ] as IIngredient[];
 
 # RECIPE TWEAKS

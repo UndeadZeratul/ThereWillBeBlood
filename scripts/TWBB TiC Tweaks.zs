@@ -142,11 +142,6 @@ var leadBlock                 = <ThermalFoundation:Storage:3>;
 var nickelBlock               = <ThermalFoundation:Storage:4>;
 var invarBlock                = <ThermalFoundation:Storage:8>;
 
-# Tool Stations
-var anyToolStation            = <TConstruct:ToolStationBlock:*>;
-var anyToolForge              = <TConstruct:ToolForgeBlock:*>;
-var toolForgeSlab             = <TConstruct:CraftingSlab:5>;
-
 # Molds
 var blankMold                 = <Steamcraft:blankMold>;
 var ingotMold                 = <Steamcraft:ingotMold>;
@@ -1698,14 +1693,6 @@ var metalCrossbowBodies       = [
     steelCrossbowBody,
     pigIronCrossbowBody
 ] as IItemStack[];
-var travelArmor               = [
-    travelGoggles,
-    travelVest,
-    travelWings,
-    travelBoots,
-    travelGlove,
-    travelBelt
-] as IItemStack[];
 var allFurnaceRemovals        = [
     anyIronNugget,
     anyCopperNugget,
@@ -2003,19 +1990,6 @@ var highOvenItemStackRemovals = [
 
 # RECIPE TWEAKS
 #---------------
-
-# Disable Knapsack
-recipes.remove(knapsack);
-
-# Disable Traveller's Armor
-for i, armor in travelArmor {
-    recipes.remove(armor);
-}
-
-# Disable TiC Tool Crafting Tables
-recipes.remove(anyToolStation);
-recipes.remove(anyToolForge);
-recipes.remove(toolForgeSlab);
 
 # Remove Downgrade Recipe
 recipes.remove(miniRedHeart);
