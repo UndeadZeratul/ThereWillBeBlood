@@ -1093,9 +1093,13 @@ var anyIronOre                = <ore:oreIron>;
 var anyLeadOre                = <ore:oreLead>;
 var anyMeutoiteOre            = <ore:oreMeutoite>;
 var anyNetherCopperOre        = <ore:oreNetherCopper>;
-var anyNetherTinOre           = <ore:oreNetherTin>;
-var anyNetherIronOre          = <ore:oreNetherIron>;
 var anyNetherGoldOre          = <ore:oreNetherGold>;
+var anyNetherIronOre          = <ore:oreNetherIron>;
+var anyNetherLeadOre          = <ore:oreNetherLead>;
+var anyNetherNickelOre        = <ore:oreNetherNickel>;
+var anyNetherPlatinumOre      = <ore:oreNetherPlatinum>;
+var anyNetherSilverOre        = <ore:oreNetherSilver>;
+var anyNetherTinOre           = <ore:oreNetherTin>;
 var anyNickelOre              = <ore:oreNickel>;
 var anyOctineOre              = <ore:oreOctine>;
 var anyPlatinumOre            = <ore:orePlatinum>;
@@ -1858,7 +1862,20 @@ var smelteryRemovals          = [
     goldenCarrot,
     goldHorseArmor,
     goldPressurePlate,
-    ironPressurePlate
+    ironPressurePlate,
+    anyNetherCopperOre,
+    anyNetherGoldOre,
+    anyNetherIronOre,
+    anyNetherLeadOre,
+    anyNetherNickelOre,
+    anyNetherPlatinumOre,
+    anyNetherSilverOre,
+    anyNetherTinOre,
+    anyCobaltOre,
+    anyArditeOre,
+    anyCobaltIngot,
+    anyArditeIngot,
+    anyManyullynIngot
 ] as IIngredient[];
 var highOvenOreDictRemovals   = [
     anyIronOre,
@@ -2042,22 +2059,9 @@ Casting.addTableRecipe(ingotCast, moltenAluminumBrass * 144, brick, true, 40);
 Casting.removeTableRecipe(searedBrick);
 Casting.addTableRecipe(searedBrick, moltenSearedStone * 144, ingotCast, false, 40);
 
-# Disable Smeltery Melting to Require High Oven
-Smeltery.removeMelting(anyNetherCopperOre);
-Smeltery.removeMelting(anyNetherTinOre);
-Smeltery.removeMelting(anyNetherIronOre);
-Smeltery.removeMelting(anyNetherGoldOre);
-Smeltery.removeMelting(anyCobaltOre);
-Smeltery.removeMelting(anyArditeOre);
-Smeltery.removeMelting(anyCobaltIngot);
-Smeltery.removeMelting(anyArditeIngot);
-Smeltery.removeMelting(anyManyullynIngot);
-Smeltery.removeMelting(cobaltShard);
-Smeltery.removeMelting(arditeShard);
-Smeltery.removeMelting(manyullynShard);
-
 # Remove re-melting down toolparts
 for i, shard in metalShards {
+    Smeltery.removeMelting(shard);
     Smeltery.removeMelting(metalToolRods[i]);
     Smeltery.removeMelting(metalPickHeads[i]);
     Smeltery.removeMelting(metalShovelHeads[i]);
