@@ -29,6 +29,8 @@ var allDisabledItems   = [
     <ore:gearSilver>,
     <ore:gearTin>,
     <ore:oreCopper>,
+    <PneumaticCraft:fluxCompressor>,
+    <PneumaticCraft:pneumaticDynamo>,
     <Steamcraft:mold>,
     <Steamcraft:helmBrass>,
     <Steamcraft:chestBrass>,
