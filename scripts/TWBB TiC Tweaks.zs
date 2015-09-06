@@ -1875,7 +1875,16 @@ var smelteryRemovals          = [
     anyArditeOre,
     anyCobaltIngot,
     anyArditeIngot,
-    anyManyullynIngot
+    anyManyullynIngot,
+    ironShard,
+    obsidianShard,
+    cobaltShard,
+    arditeShard,
+    manyullynShard,
+    copperShard,
+    bronzeShard,
+    alumiteShard,
+    steelShard
 ] as IIngredient[];
 var highOvenOreDictRemovals   = [
     anyIronOre,
@@ -2061,7 +2070,6 @@ Casting.addTableRecipe(searedBrick, moltenSearedStone * 144, ingotCast, false, 4
 
 # Remove re-melting down toolparts
 for i, shard in metalShards {
-    Smeltery.removeMelting(shard);
     Smeltery.removeMelting(metalToolRods[i]);
     Smeltery.removeMelting(metalPickHeads[i]);
     Smeltery.removeMelting(metalShovelHeads[i]);
