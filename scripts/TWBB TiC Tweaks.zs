@@ -58,7 +58,6 @@ var eximiteOre                = <Metallurgy:ender.ore:0>;
 var meutoiteOre               = <Metallurgy:ender.ore:1>;
 var adamantineOre             = <Metallurgy:fantasy.ore:13>;
 var sanguiniteOre             = <Metallurgy:nether.ore:9>;
-var zincOre                   = <Metallurgy:precious.ore:0>;
 var silverOre                 = <Metallurgy:precious.ore:1>;
 var platinumOre               = <Metallurgy:precious.ore:2>;
 var meteorOre                 = <meteors:BlockMeteor>;
@@ -74,6 +73,7 @@ var netherSilverOre           = <NetherOres:tile.netherores.ore.0:9>;
 var netherLeadOre             = <NetherOres:tile.netherores.ore.0:10>;
 var netherPlatinumOre         = <NetherOres:tile.netherores.ore.1:0>;
 var netherNickelOre           = <NetherOres:tile.netherores.ore.1:1>;
+var zincOre                   = <Steamcraft:steamcraftOre:1>;
 var aluminumOre               = <TConstruct:SearedBrick:5>;
 var octineOre                 = <thebetweenlands:octineOre>;
 var leadOre                   = <ThermalFoundation:Ore:3>;
@@ -1123,6 +1123,10 @@ var pigIronShuriken           = <TConstruct:ShurikenPart:18>;
 var stringShuriken            = <TConstruct:ShurikenPart:40>;
 
 # Liquids
+var diesel                    = <liquid:diesel>;
+var fuel                      = <liquid:fuel>;
+var kerosene                  = <liquid:kerosene>;
+var lava                      = <liquid:lava>;
 var moltenAdamantine          = <liquid:adamantine>;
 var moltenAluminum            = <liquid:aluminum.molten>;
 var moltenAluminumBrass       = <liquid:aluminumbrass.molten>;
@@ -1166,6 +1170,7 @@ var moltenSilver              = <liquid:silver.molten>;
 var moltenSteel               = <liquid:steel.molten>;
 var moltenTin                 = <liquid:tin.molten>;
 var moltenZinc                = <liquid:zinc>;
+var oil                       = <liquid:oil>;
 
 # ORE DICTIONARY
 #----------------
@@ -2213,6 +2218,10 @@ var highOvenItemStackRemovals = [
     ironShovel,
     ironSword
 ] as IItemStack[];
+var fuelRemovals              = [
+    lava,
+    moltenPyrotheum
+] as ILiquidStack[];
 
 # RECIPE TWEAKS
 #---------------
@@ -2256,6 +2265,32 @@ for input in allFurnaceRemovals {
 
 # SMELTERY TWEAKS
 #-----------------
+
+# Tweak Fuels
+
+# Remove Existing
+for fuel in fuelRemovals {
+	Smeltery.removeFuel(fuel);
+}
+
+# Lava: 800*C
+Smeltery.addFuel(lava, 800, 160);
+
+# Oil: 1000*C
+Smeltery.addFuel(oil, 1000, 80);
+
+# Diesel: 1250*C
+Smeltery.addFuel(diesel, 1250, 100);
+
+# Kerosene: 1500*C
+Smeltery.addFuel(kerosene, 1500, 120);
+
+# Gasoline: 2000*C
+Smeltery.addFuel(fuel, 2000, 140);
+
+# Pyrotheum: 3000*C
+Smeltery.addFuel(moltenPyrotheum, 3000, 80);
+
 
 # Disable TiC Metal Casts in favor of FSP Ceramic Molds
 Casting.removeTableRecipe(anyBlankCast);
@@ -2345,7 +2380,7 @@ Smeltery.removeAlloy(moltenSignalum * 576);
 # 0 -  800: Lava-Fueled Smeltery                #
 # 0 - 1000: Gasoline-Fueled Smeltery            #
 # 0 - 2000: High Oven, Kerosene-Fueled Smeltery #
-# 0 - 4000: Pyrotheum-Fueled Smeltery           #
+# 0 - 3000: Pyrotheum-Fueled Smeltery           #
 #-------------------------------------------------
 
 # Remove Existing Values
