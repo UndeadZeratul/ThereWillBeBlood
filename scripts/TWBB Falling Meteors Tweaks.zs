@@ -8,4 +8,6 @@ var anyMeteorOre      = <ore:oreMeteorite>;
 var anyMeteorBlock    = <ore:blockMeteorite>;
 
 anyMeteorOre.add(<meteors:BlockMeteor>);
+anyMeteorOre.add(<meteors:MeteorChips>);
+
 anyMeteorBlock.add(<meteors:BlockMeteorDecoration>);
