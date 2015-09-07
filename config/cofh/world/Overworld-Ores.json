@@ -926,7 +926,7 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
+                "name": "Metallurgy:base.ore",
                 "metadata": 0,
                 "weight": 68
             },
@@ -963,7 +963,7 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
+                "name": "Metallurgy:base.ore",
                 "metadata": 0,
                 "weight": 88
             },
@@ -1000,7 +1000,7 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
+                "name": "Metallurgy:base.ore",
                 "metadata": 0,
                 "weight": 97
             },
@@ -1037,7 +1037,7 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
+                "name": "Metallurgy:base.ore",
                 "metadata": 1,
                 "weight": 70
             },
@@ -1069,7 +1069,7 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
+                "name": "Metallurgy:base.ore",
                 "metadata": 1,
                 "weight": 90
             },
@@ -1101,7 +1101,7 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
+                "name": "Metallurgy:base.ore",
                 "metadata": 1,
                 "weight": 99
             },
@@ -1133,8 +1133,8 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
-                "metadata": 2,
+                "name": "Metallurgy:precious.ore",
+                "metadata": 1,
                 "weight": 30
             },
             {
@@ -1174,8 +1174,8 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
-                "metadata": 2,
+                "name": "Metallurgy:precious.ore",
+                "metadata": 1,
                 "weight": 45
             },
             {
@@ -1215,8 +1215,8 @@
         "template": "fractal",
         "block": [
             {
-                "name": "ThermalFoundation:Ore",
-                "metadata": 2,
+                "name": "Metallurgy:precious.ore",
+                "metadata": 1,
                 "weight": 455
             },
             {
@@ -1265,8 +1265,8 @@
                 "weight": 270
             },
             {
-                "name": "ThermalFoundation:Ore",
-                "metadata": 5,
+                "name": "Metallurgy:precious.ore",
+                "metadata": 2,
                 "weight": 70
             },
             {
@@ -1306,8 +1306,8 @@
                 "weight": 90
             },
             {
-                "name": "ThermalFoundation:Ore",
-                "metadata": 5,
+                "name": "Metallurgy:precious.ore",
+                "metadata": 2,
                 "weight": 90
             },
             {
@@ -1347,8 +1347,8 @@
                 "weight": 9
             },
             {
-                "name": "ThermalFoundation:Ore",
-                "metadata": 5,
+                "name": "Metallurgy:precious.ore",
+                "metadata": 2,
                 "weight": 99
             },
             {
