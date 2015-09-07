@@ -2378,10 +2378,13 @@ Smeltery.removeAlloy(moltenSignalum * 576);
 #-------------------------------------------------
 # Adjust Metal Melting Points                   #
 # 0 -  800: Lava-Fueled Smeltery                #
-# 0 - 1000: Gasoline-Fueled Smeltery            #
-# 0 - 2000: High Oven, Kerosene-Fueled Smeltery #
+# 0 - 1000: Crude Oil-Fueled Smeltery           #
+# 0 - 1250: Diesel-Fueled Smeltery              #
+# 0 - 1500: Kerosene-Fueled Smeltery            #
+# 0 - 2000: Gasoline-Fueled Smeltery, High Oven #
 # 0 - 3000: Pyrotheum-Fueled Smeltery           #
 #-------------------------------------------------
+
 
 # Remove Existing Values
 for input in smelteryRemovals {
@@ -3250,83 +3253,83 @@ highoven.addMeltable(platinumShears,      false, moltenPlatinum * 288,  1750);
 highoven.addMeltable(platinumFishingPole, false, moltenPlatinum * 288,  1750);
 highoven.addMeltable(platinumBow,         false, moltenPlatinum * 288,  1750);
 
-# Sanguinite: 2500*C
-Smeltery.addMelting(anySanguiniteIngot,    moltenSanguinite * 144,  2500, sanguiniteBlock);
-Smeltery.addMelting(anySanguiniteNugget,   moltenSanguinite * 16,   2500, sanguiniteBlock);
-Smeltery.addMelting(anySanguiniteOreberry, moltenSanguinite * 16,   2500, sanguiniteBlock);
-Smeltery.addMelting(anySanguiniteBlock,    moltenSanguinite * 1296, 2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteHelmet,      moltenSanguinite * 720,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteChestplate,  moltenSanguinite * 1152, 2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteLeggings,    moltenSanguinite * 1008, 2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteBoots,       moltenSanguinite * 576,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguinitePickaxe,     moltenSanguinite * 432,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteSword,       moltenSanguinite * 288,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteAxe,         moltenSanguinite * 288,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteShovel,      moltenSanguinite * 144,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteHoe,         moltenSanguinite * 288,  2500, sanguiniteBlock);
+# Sanguinite: 2250*C
+Smeltery.addMelting(anySanguiniteIngot,    moltenSanguinite * 144,  2250, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteNugget,   moltenSanguinite * 16,   2250, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteOreberry, moltenSanguinite * 16,   2250, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteBlock,    moltenSanguinite * 1296, 2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteHelmet,      moltenSanguinite * 720,  2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteChestplate,  moltenSanguinite * 1152, 2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteLeggings,    moltenSanguinite * 1008, 2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteBoots,       moltenSanguinite * 576,  2250, sanguiniteBlock);
+Smeltery.addMelting(sanguinitePickaxe,     moltenSanguinite * 432,  2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteSword,       moltenSanguinite * 288,  2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteAxe,         moltenSanguinite * 288,  2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteShovel,      moltenSanguinite * 144,  2250, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteHoe,         moltenSanguinite * 288,  2250, sanguiniteBlock);
 
-# Adamantine: 3000*C
-Smeltery.addMelting(anyAdamantineOre,      moltenAdamantine * 144,  3000, adamantineOre);
-Smeltery.addMelting(anyDenseAdamantineOre, moltenAdamantine * 432,  3000, denseAdamantineOre);
-Smeltery.addMelting(anyAdamantineNugget,   moltenAdamantine * 16,   3000, adamantineBlock);
-Smeltery.addMelting(anyAdamantineOreberry, moltenAdamantine * 16,   3000, adamantineBlock);
-Smeltery.addMelting(anyAdamantineIngot,    moltenAdamantine * 144,  3000, adamantineBlock);
-Smeltery.addMelting(anyAdamantineBlock,    moltenAdamantine * 1296, 3000, adamantineBlock);
-Smeltery.addMelting(adamantineHelmet,      moltenAdamantine * 720,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineChestplate,  moltenAdamantine * 1152, 3000, adamantineBlock);
-Smeltery.addMelting(adamantineLeggings,    moltenAdamantine * 1008, 3000, adamantineBlock);
-Smeltery.addMelting(adamantineBoots,       moltenAdamantine * 576,  3000, adamantineBlock);
-Smeltery.addMelting(adamantinePickaxe,     moltenAdamantine * 432,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineSword,       moltenAdamantine * 288,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineAxe,         moltenAdamantine * 288,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineShovel,      moltenAdamantine * 144,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineHoe,         moltenAdamantine * 288,  3000, adamantineBlock);
+# Adamantine: 2500*C
+Smeltery.addMelting(anyAdamantineOre,      moltenAdamantine * 144,  2500, adamantineOre);
+Smeltery.addMelting(anyDenseAdamantineOre, moltenAdamantine * 432,  2500, denseAdamantineOre);
+Smeltery.addMelting(anyAdamantineNugget,   moltenAdamantine * 16,   2500, adamantineBlock);
+Smeltery.addMelting(anyAdamantineOreberry, moltenAdamantine * 16,   2500, adamantineBlock);
+Smeltery.addMelting(anyAdamantineIngot,    moltenAdamantine * 144,  2500, adamantineBlock);
+Smeltery.addMelting(anyAdamantineBlock,    moltenAdamantine * 1296, 2500, adamantineBlock);
+Smeltery.addMelting(adamantineHelmet,      moltenAdamantine * 720,  2500, adamantineBlock);
+Smeltery.addMelting(adamantineChestplate,  moltenAdamantine * 1152, 2500, adamantineBlock);
+Smeltery.addMelting(adamantineLeggings,    moltenAdamantine * 1008, 2500, adamantineBlock);
+Smeltery.addMelting(adamantineBoots,       moltenAdamantine * 576,  2500, adamantineBlock);
+Smeltery.addMelting(adamantinePickaxe,     moltenAdamantine * 432,  2500, adamantineBlock);
+Smeltery.addMelting(adamantineSword,       moltenAdamantine * 288,  2500, adamantineBlock);
+Smeltery.addMelting(adamantineAxe,         moltenAdamantine * 288,  2500, adamantineBlock);
+Smeltery.addMelting(adamantineShovel,      moltenAdamantine * 144,  2500, adamantineBlock);
+Smeltery.addMelting(adamantineHoe,         moltenAdamantine * 288,  2500, adamantineBlock);
 
-# Endium: 3000*C
-Smeltery.addMelting(anyEndiumOre,      moltenEndium * 144,  3000, endiumOre);
-Smeltery.addMelting(anyEndiumNugget,   moltenEndium * 16,   3000, endiumBlock);
-Smeltery.addMelting(anyEndiumOreberry, moltenEndium * 16,   3000, endiumBlock);
-Smeltery.addMelting(anyEndiumIngot,    moltenEndium * 144,  3000, endiumBlock);
-Smeltery.addMelting(anyEndiumBlock,    moltenEndium * 1296, 3000, endiumBlock);
+# Endium: 2500*C
+Smeltery.addMelting(anyEndiumOre,      moltenEndium * 144,  2500, endiumOre);
+Smeltery.addMelting(anyEndiumNugget,   moltenEndium * 16,   2500, endiumBlock);
+Smeltery.addMelting(anyEndiumOreberry, moltenEndium * 16,   2500, endiumBlock);
+Smeltery.addMelting(anyEndiumIngot,    moltenEndium * 144,  2500, endiumBlock);
+Smeltery.addMelting(anyEndiumBlock,    moltenEndium * 1296, 2500, endiumBlock);
 
 
-# Eximite: 3500*C
-Smeltery.addMelting(anyEximiteOre,      moltenEximite * 144,  3500, eximiteOre);
-Smeltery.addMelting(anyDenseEximiteOre, moltenEximite * 432,  3500, denseEximiteOre);
-Smeltery.addMelting(anyEximiteNugget,   moltenEximite * 16,   3500, eximiteBlock);
-Smeltery.addMelting(anyEximiteOreberry, moltenEximite * 16,   3500, eximiteBlock);
-Smeltery.addMelting(anyEximiteIngot,    moltenEximite * 144,  3500, eximiteBlock);
-Smeltery.addMelting(anyEximiteBlock,    moltenEximite * 1296, 3500, eximiteBlock);
-Smeltery.addMelting(eximiteHelmet,      moltenEximite * 720,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteChestplate,  moltenEximite * 1152, 3500, eximiteBlock);
-Smeltery.addMelting(eximiteLeggings,    moltenEximite * 1008, 3500, eximiteBlock);
-Smeltery.addMelting(eximiteBoots,       moltenEximite * 576,  3500, eximiteBlock);
-Smeltery.addMelting(eximitePickaxe,     moltenEximite * 432,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteSword,       moltenEximite * 288,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteAxe,         moltenEximite * 288,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteShovel,      moltenEximite * 144,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteHoe,         moltenEximite * 288,  3500, eximiteBlock);
+# Eximite: 2750*C
+Smeltery.addMelting(anyEximiteOre,      moltenEximite * 144,  2750, eximiteOre);
+Smeltery.addMelting(anyDenseEximiteOre, moltenEximite * 432,  2750, denseEximiteOre);
+Smeltery.addMelting(anyEximiteNugget,   moltenEximite * 16,   2750, eximiteBlock);
+Smeltery.addMelting(anyEximiteOreberry, moltenEximite * 16,   2750, eximiteBlock);
+Smeltery.addMelting(anyEximiteIngot,    moltenEximite * 144,  2750, eximiteBlock);
+Smeltery.addMelting(anyEximiteBlock,    moltenEximite * 1296, 2750, eximiteBlock);
+Smeltery.addMelting(eximiteHelmet,      moltenEximite * 720,  2750, eximiteBlock);
+Smeltery.addMelting(eximiteChestplate,  moltenEximite * 1152, 2750, eximiteBlock);
+Smeltery.addMelting(eximiteLeggings,    moltenEximite * 1008, 2750, eximiteBlock);
+Smeltery.addMelting(eximiteBoots,       moltenEximite * 576,  2750, eximiteBlock);
+Smeltery.addMelting(eximitePickaxe,     moltenEximite * 432,  2750, eximiteBlock);
+Smeltery.addMelting(eximiteSword,       moltenEximite * 288,  2750, eximiteBlock);
+Smeltery.addMelting(eximiteAxe,         moltenEximite * 288,  2750, eximiteBlock);
+Smeltery.addMelting(eximiteShovel,      moltenEximite * 144,  2750, eximiteBlock);
+Smeltery.addMelting(eximiteHoe,         moltenEximite * 288,  2750, eximiteBlock);
 
-# Meutoite: 3500*C
-Smeltery.addMelting(anyMeutoiteOre,      moltenMeutoite * 144,  3500, meutoiteOre);
-Smeltery.addMelting(anyDenseMeutoiteOre, moltenMeutoite * 432,  3500, denseMeutoiteOre);
-Smeltery.addMelting(anyMeutoiteNugget,   moltenMeutoite * 16,   3500, meutoiteBlock);
-Smeltery.addMelting(anyMeutoiteOreberry, moltenMeutoite * 16,   3500, meutoiteBlock);
-Smeltery.addMelting(anyMeutoiteIngot,    moltenMeutoite * 144,  3500, meutoiteBlock);
-Smeltery.addMelting(anyMeutoiteBlock,    moltenMeutoite * 1296, 3500, meutoiteBlock);
+# Meutoite: 2750*C
+Smeltery.addMelting(anyMeutoiteOre,      moltenMeutoite * 144,  2750, meutoiteOre);
+Smeltery.addMelting(anyDenseMeutoiteOre, moltenMeutoite * 432,  2750, denseMeutoiteOre);
+Smeltery.addMelting(anyMeutoiteNugget,   moltenMeutoite * 16,   2750, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteOreberry, moltenMeutoite * 16,   2750, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteIngot,    moltenMeutoite * 144,  2750, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteBlock,    moltenMeutoite * 1296, 2750, meutoiteBlock);
 
-# Desichalkos: 3750*C
-Smeltery.addMelting(anyDesichalkosIngot,   moltenDesichalkos * 144,  3750, desichalkosBlock);
-Smeltery.addMelting(anyDesichalkosBlock,   moltenDesichalkos * 1296, 3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosHelmet,     moltenDesichalkos * 720,  3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosChestplate, moltenDesichalkos * 1152, 3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosLeggings,   moltenDesichalkos * 1008, 3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosBoots,      moltenDesichalkos * 576,  3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosPickaxe,    moltenDesichalkos * 432,  3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosSword,      moltenDesichalkos * 288,  3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosAxe,        moltenDesichalkos * 288,  3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosShovel,     moltenDesichalkos * 144,  3750, desichalkosBlock);
-Smeltery.addMelting(desichalkosHoe,        moltenDesichalkos * 288,  3750, desichalkosBlock);
+# Desichalkos: 3000*C
+Smeltery.addMelting(anyDesichalkosIngot,   moltenDesichalkos * 144,  3000, desichalkosBlock);
+Smeltery.addMelting(anyDesichalkosBlock,   moltenDesichalkos * 1296, 3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosHelmet,     moltenDesichalkos * 720,  3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosChestplate, moltenDesichalkos * 1152, 3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosLeggings,   moltenDesichalkos * 1008, 3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosBoots,      moltenDesichalkos * 576,  3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosPickaxe,    moltenDesichalkos * 432,  3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosSword,      moltenDesichalkos * 288,  3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosAxe,        moltenDesichalkos * 288,  3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosShovel,     moltenDesichalkos * 144,  3000, desichalkosBlock);
+Smeltery.addMelting(desichalkosHoe,        moltenDesichalkos * 288,  3000, desichalkosBlock);
 
 
 # Adjust Alloy Ratios
