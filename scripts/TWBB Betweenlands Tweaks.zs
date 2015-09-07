@@ -9,14 +9,20 @@ var sulfurTorch       = <thebetweenlands:sulfurTorch>;
 
 # ORE DICTIONARY
 #----------------
-var anyLimestoneBlock = <ore:blockLimestone>;
 var anyWoodenStick    = <ore:stickWood>;
+
+# Dusts
 var anySulfurDust     = <ore:dustSulfur>;
 
+# Blocks
+var anyLimestoneBlock = <ore:blockLimestone>;
+var anyOctineBlock    = <ore:blockOctine>;
+
 anyLimestoneBlock.add(<thebetweenlands:limestone>);
+anyOctineBlock.add(<thebetweenlands:octineBlock>);
 
 # RECIPE TWEAKS
-#----------------
+#---------------
 
 # Nerf Sulfur Torches
 recipes.removeShapeless(sulfurTorch);
