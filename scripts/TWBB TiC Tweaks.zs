@@ -51,6 +51,7 @@ var necroticBone              = <TConstruct:materials:8>;
 var enderBlock                = <TConstruct:MetalBlock:10>;
 
 # Ores
+var endiumOre                 = <HardcoreEnderExpansion:endium_ore>;
 var copperOre                 = <Metallurgy:base.ore:0>;
 var tinOre                    = <Metallurgy:base.ore:1>;
 var eximiteOre                = <Metallurgy:ender.ore:0>;
@@ -60,6 +61,7 @@ var sanguiniteOre             = <Metallurgy:nether.ore:9>;
 var zincOre                   = <Metallurgy:precious.ore:0>;
 var silverOre                 = <Metallurgy:precious.ore:1>;
 var platinumOre               = <Metallurgy:precious.ore:2>;
+var meteorOre                 = <meteors:BlockMeteor>;
 var goldOre                   = <minecraft:gold_ore>;
 var ironOre                   = <minecraft:iron_ore>;
 var redstoneOre               = <minecraft:redstone_ore>;
@@ -73,10 +75,30 @@ var netherLeadOre             = <NetherOres:tile.netherores.ore.0:10>;
 var netherPlatinumOre         = <NetherOres:tile.netherores.ore.1:0>;
 var netherNickelOre           = <NetherOres:tile.netherores.ore.1:1>;
 var aluminumOre               = <TConstruct:SearedBrick:5>;
+var octineOre                 = <thebetweenlands:octineOre>;
 var leadOre                   = <ThermalFoundation:Ore:3>;
 var nickelOre                 = <ThermalFoundation:Ore:4>;
 
+# Dense Ores
+var denseIronOre           = <denseores:block0:0>;
+var denseGoldOre           = <denseores:block0:0>;
+var denseZincOre           = <denseores:block0:8>;
+var denseCopperOre         = <denseores:block0:15>;
+var denseTinOre            = <denseores:block1:0>;
+var denseSilverOre         = <denseores:block1:1>;
+var denseLeadOre           = <denseores:block1:2>;
+var denseNickelOre         = <denseores:block1:3>;
+var densePlatinumOre       = <denseores:block1:4>;
+var denseAluminumOre       = <denseores:block1:5>;
+var denseEximiteOre        = <denseores:block1:6>;
+var denseMeutoiteOre       = <denseores:block1:7>;
+var denseAdamantineOre     = <denseores:block1:8>;
+var denseOctineOre         = <denseores:block1:11>;
+
 # Nuggets
+var endiumNugget              = <aobd:nuggetHeeEndium>;
+var meteorNugget              = <aobd:nuggetMeteorite>;
+var octineNugget              = <aobd:nuggetOctine>;
 var sanguiniteNugget          = <aobd:nuggetSanguinite>;
 var goldNugget                = <minecraft:gold_nugget>;
 var adamantineNugget          = <PoorOres:adamantine_nugget>;
@@ -99,6 +121,7 @@ var electrumNugget            = <ThermalFoundation:material:103>;
 var invarNugget               = <ThermalFoundation:material:104>;
 
 # Ingots
+var endiumIngot               = <HardcoreEnderExpansion:endium_ingot>;
 var adamantineIngot           = <Metallurgy:adamantine.ingot>;
 var blackSteelIngot           = <Metallurgy:black.steel.ingot>;
 var desichalkosIngot          = <Metallurgy:desichalkos.ingot>;
@@ -108,6 +131,7 @@ var meutoiteIngot             = <Metallurgy:meutoite.ingot>;
 var platinumIngot             = <Metallurgy:platinum.ingot>;
 var sanguiniteIngot           = <Metallurgy:sanguinite.ingot>;
 var tinIngot                  = <Metallurgy:tin.ingot>;
+var meteorIngot               = <meteors:MeteoriteIngot>;
 var goldIngot                 = <minecraft:gold_ingot>;
 var ironIngot                 = <minecraft:iron_ingot>;
 var zincIngot                 = <Steamcraft:steamcraftIngot:1>;
@@ -116,6 +140,7 @@ var aluminumIngot             = <TConstruct:materials:11>;
 var bronzeIngot               = <TConstruct:materials:13>;
 var aluminumBrassIngot        = <TConstruct:materials:14>;
 var steelIngot                = <TConstruct:materials:16>;
+var octineIngot               = <thebetweenlands:null:17>;
 var copperIngot               = <ThermalFoundation:material:64>;
 var silverIngot               = <ThermalFoundation:material:66>;
 var leadIngot                 = <ThermalFoundation:material:67>;
@@ -132,6 +157,7 @@ var brassPlate                = <Steamcraft:steamcraftPlate:4>;
 var leadPlate                 = <Steamcraft:steamcraftPlate:9>;
 
 # Blocks
+var endiumBlock               = <HardcoreEnderExpansion:endium_block>;
 var copperBlock               = <Metallurgy:base.block:0>;
 var tinBlock                  = <Metallurgy:base.block:1>;
 var bronzeBlock               = <Metallurgy:base.block:3>;
@@ -148,11 +174,13 @@ var silverBlock               = <Metallurgy:precious.block:1>;
 var platinumBlock             = <Metallurgy:precious.block:2>;
 var brassBlock                = <Metallurgy:precious.block:3>;
 var electrumBlock             = <Metallurgy:precious.block:4>;
+var meteorBlock               = <meteors:BlockMeteorDecoration>;
 var goldBlock                 = <minecraft:gold_block>;
 var ironBlock                 = <minecraft:iron_block>;
 var redstoneBlock             = <minecraft:redstone_block>;
 var aluminumBlock             = <TConstruct:MetalBlock:6>;
 var aluminumBrassBlock        = <TConstruct:MetalBlock:7>;
+var octineBlock               = <thebetweenlands:octineBlock>;
 var leadBlock                 = <ThermalFoundation:Storage:3>;
 var nickelBlock               = <ThermalFoundation:Storage:4>;
 var invarBlock                = <ThermalFoundation:Storage:8>;
@@ -218,6 +246,8 @@ var silverHelmet              = <Metallurgy:metallurgy.silver.helmet>;
 var platinumHelmet            = <Metallurgy:metallurgy.platinum.helmet>;
 var brassHelmet               = <Metallurgy:metallurgy.brass.helmet>;
 var electrumHelmet            = <Metallurgy:metallurgy.electrum.helmet>;
+var meteorHelmet              = <meteors:MetHelm>;
+var octineHelmet              = <thebetweenlands:octineHelmet>;
 var tinHelmet                 = <ThermalFoundation:armor.helmetTin>;
 var leadHelmet                = <ThermalFoundation:armor.helmetLead>;
 var nickelHelmet              = <ThermalFoundation:armor.helmetNickel>;
@@ -240,6 +270,8 @@ var silverChestplate          = <Metallurgy:metallurgy.silver.chestplate>;
 var platinumChestplate        = <Metallurgy:metallurgy.platinum.chestplate>;
 var brassChestplate           = <Metallurgy:metallurgy.brass.chestplate>;
 var electrumChestplate        = <Metallurgy:metallurgy.electrum.chestplate>;
+var meteorChestplate          = <meteors:MetBody>;
+var octineChestplate          = <thebetweenlands:octineChestplate>;
 var tinChestplate             = <ThermalFoundation:armor.plateTin>;
 var leadChestplate            = <ThermalFoundation:armor.plateLead>;
 var nickelChestplate          = <ThermalFoundation:armor.plateNickel>;
@@ -262,6 +294,8 @@ var silverLeggings            = <Metallurgy:metallurgy.silver.leggings>;
 var platinumLeggings          = <Metallurgy:metallurgy.platinum.leggings>;
 var brassLeggings             = <Metallurgy:metallurgy.brass.leggings>;
 var electrumLeggings          = <Metallurgy:metallurgy.electrum.leggings>;
+var meteorLeggings            = <meteors:MetLegs>;
+var octineLeggings            = <thebetweenlands:octineLeggings>;
 var tinLeggings               = <ThermalFoundation:armor.legsTin>;
 var leadLeggings              = <ThermalFoundation:armor.legsLead>;
 var nickelLeggings            = <ThermalFoundation:armor.legsNickel>;
@@ -284,6 +318,8 @@ var silverBoots               = <Metallurgy:metallurgy.silver.boots>;
 var platinumBoots             = <Metallurgy:metallurgy.platinum.boots>;
 var brassBoots                = <Metallurgy:metallurgy.brass.boots>;
 var electrumBoots             = <Metallurgy:metallurgy.electrum.boots>;
+var meteorBoots               = <meteors:MetBoots>;
+var octineBoots               = <thebetweenlands:octineBoots>;
 var tinBoots                  = <ThermalFoundation:armor.bootsTin>;
 var leadBoots                 = <ThermalFoundation:armor.bootsLead>;
 var nickelBoots               = <ThermalFoundation:armor.bootsNickel>;
@@ -305,6 +341,8 @@ var silverPickaxe             = <Metallurgy:silver.pickaxe>;
 var platinumPickaxe           = <Metallurgy:platinum.pickaxe>;
 var brassPickaxe              = <Metallurgy:brass.pickaxe>;
 var electrumPickaxe           = <Metallurgy:electrum.pickaxe>;
+var meteorPickaxe             = <meteors:MetPick>;
+var octinePickaxe             = <thebetweenlands:octinePickaxe>;
 var tinPickaxe                = <ThermalFoundation:tool.pickaxeTin>;
 var leadPickaxe               = <ThermalFoundation:tool.pickaxeLead>;
 var nickelPickaxe             = <ThermalFoundation:tool.pickaxeNickel>;
@@ -326,6 +364,8 @@ var silverSword               = <Metallurgy:silver.sword>;
 var platinumSword             = <Metallurgy:platinum.sword>;
 var brassSword                = <Metallurgy:brass.sword>;
 var electrumSword             = <Metallurgy:electrum.sword>;
+var meteorSword               = <meteors:MetSword>;
+var octineSword               = <thebetweenlands:octineSword>;
 var tinSword                  = <ThermalFoundation:tool.swordTin>;
 var leadSword                 = <ThermalFoundation:tool.swordLead>;
 var nickelSword               = <ThermalFoundation:tool.swordNickel>;
@@ -347,6 +387,8 @@ var silverAxe                 = <Metallurgy:silver.axe>;
 var platinumAxe               = <Metallurgy:platinum.axe>;
 var brassAxe                  = <Metallurgy:brass.axe>;
 var electrumAxe               = <Metallurgy:electrum.axe>;
+var meteorAxe                 = <meteors:MetAxe>;
+var octineAxe                 = <thebetweenlands:octineSword>;
 var tinAxe                    = <ThermalFoundation:tool.axeTin>;
 var leadAxe                   = <ThermalFoundation:tool.axeLead>;
 var nickelAxe                 = <ThermalFoundation:tool.axeNickel>;
@@ -368,6 +410,8 @@ var silverShovel              = <Metallurgy:silver.shovel>;
 var platinumShovel            = <Metallurgy:platinum.shovel>;
 var brassShovel               = <Metallurgy:brass.shovel>;
 var electrumShovel            = <Metallurgy:electrum.shovel>;
+var meteorShovel              = <meteors:MetSpade>;
+var octineShovel              = <thebetweenlands:octineShovel>;
 var tinShovel                 = <ThermalFoundation:tool.shovelTin>;
 var leadShovel                = <ThermalFoundation:tool.shovelLead>;
 var nickelShovel              = <ThermalFoundation:tool.shovelNickel>;
@@ -389,6 +433,7 @@ var silverHoe                 = <Metallurgy:silver.hoe>;
 var platinumHoe               = <Metallurgy:platinum.hoe>;
 var brassHoe                  = <Metallurgy:brass.hoe>;
 var electrumHoe               = <Metallurgy:electrum.hoe>;
+var meteorHoe                 = <meteors:MetHoe>;
 var tinHoe                    = <ThermalFoundation:tool.hoeTin>;
 var leadHoe                   = <ThermalFoundation:tool.hoeLead>;
 var nickelHoe                 = <ThermalFoundation:tool.hoeNickel>;
@@ -1105,7 +1150,7 @@ var moltenLead                = <liquid:lead.molten>;
 var moltenLimestone           = <liquid:limestone.molten>;
 var moltenLumium              = <liquid:lumium.molten>;
 var moltenManyullyn           = <liquid:manyullyn.molten>;
-var moltenMeteorite           = <liquid:meteorite>;
+var moltenMeteor              = <liquid:meteorite>;
 var moltenMeutoite            = <liquid:meutoite>;
 var moltenNickel              = <liquid:nickel.molten>;
 var moltenObsidian            = <liquid:obsidian.molten>;
@@ -1133,10 +1178,12 @@ var anyAluminumOre            = <ore:oreAluminum>;
 var anyArditeOre              = <ore:oreArdite>;
 var anyCobaltOre              = <ore:oreCobalt>;
 var anyCopperOre              = <ore:oreCopper>;
+var anyEndiumOre              = <ore:oreHeeEndium>;
 var anyEximiteOre             = <ore:oreEximite>;
 var anyGoldOre                = <ore:oreGold>;
 var anyIronOre                = <ore:oreIron>;
 var anyLeadOre                = <ore:oreLead>;
+var anyMeteorOre              = <ore:oreMeteorite>;
 var anyMeutoiteOre            = <ore:oreMeutoite>;
 var anyNetherCopperOre        = <ore:oreNetherCopper>;
 var anyNetherGoldOre          = <ore:oreNetherGold>;
@@ -1154,6 +1201,22 @@ var anySilverOre              = <ore:oreSilver>;
 var anyTinOre                 = <ore:oreTin>;
 var anyZincOre                = <ore:oreZinc>;
 
+# Dense Ores
+var anyDenseAdamantineOre     = <ore:denseoreAdamantine>;
+var anyDenseAluminumOre       = <ore:denseoreAluminum>;
+var anyDenseCopperOre         = <ore:denseoreCopper>;
+var anyDenseEximiteOre        = <ore:denseoreEximite>;
+var anyDenseGoldOre           = <ore:denseoreGold>;
+var anyDenseIronOre           = <ore:denseoreIron>;
+var anyDenseLeadOre           = <ore:denseoreLead>;
+var anyDenseMeutoiteOre       = <ore:denseoreMeutoite>;
+var anyDenseNickelOre         = <ore:denseoreNickel>;
+var anyDenseOctineOre         = <ore:denseoreOctine>;
+var anyDensePlatinumOre       = <ore:denseorePlatinum>;
+var anyDenseSilverOre         = <ore:denseoreSilver>;
+var anyDenseTinOre            = <ore:denseoreTin>;
+var anyDenseZincOre           = <ore:denseoreZinc>;
+
 # Dusts
 var anyAdamantineDust         = <ore:dustAdamantine>;
 var anyAluminumDust           = <ore:dustAluminum>;
@@ -1166,6 +1229,7 @@ var anyCobaltDust             = <ore:dustCobalt>;
 var anyCopperDust             = <ore:dustCopper>;
 var anyDesichalkosDust        = <ore:dustDesichalkos>;
 var anyElectrumDust           = <ore:dustElectrum>;
+var anyEndiumDust             = <ore:dustHeeEndium>;
 var anyEximiteDust            = <ore:dustEximite>;
 var anyGoldDust               = <ore:dustGold>;
 var anyHepatizonDust          = <ore:dustHepatizon>;
@@ -1173,6 +1237,7 @@ var anyInvarDust              = <ore:dustInvar>;
 var anyIronDust               = <ore:dustIron>;
 var anyLeadDust               = <ore:dustLead>;
 var anyManyullynDust          = <ore:dustManyullyn>;
+var anyMeteorDust             = <ore:dustMeteorite>;
 var anyMeutoiteDust           = <ore:dustMeutoite>;
 var anyNickelDust             = <ore:dustNickel>;
 var anyOctineDust             = <ore:dustOctine>;
@@ -1195,6 +1260,7 @@ var anyCobaltIngot            = <ore:ingotCobalt>;
 var anyCopperIngot            = <ore:ingotCopper>;
 var anyDesichalkosIngot       = <ore:ingotDesichalkos>;
 var anyElectrumIngot          = <ore:ingotElectrum>;
+var anyEndiumIngot            = <ore:ingotHeeEndium>;
 var anyEximiteIngot           = <ore:ingotEximite>;
 var anyGoldIngot              = <ore:ingotGold>;
 var anyHepatizonIngot         = <ore:ingotHepatizon>;
@@ -1202,6 +1268,7 @@ var anyInvarIngot             = <ore:ingotInvar>;
 var anyIronIngot              = <ore:ingotIron>;
 var anyLeadIngot              = <ore:ingotLead>;
 var anyManyullynIngot         = <ore:ingotManyullyn>;
+var anyMeteorIngot            = <ore:ingotMeteorite>;
 var anyMeutoiteIngot          = <ore:ingotMeutoite>;
 var anyNickelIngot            = <ore:ingotNickel>;
 var anyOctineIngot            = <ore:ingotOctine>;
@@ -1232,6 +1299,7 @@ var anyCobaltNugget           = <ore:nuggetCobalt>;
 var anyCopperNugget           = <ore:nuggetCopper>;
 var anyDesichalkosNugget      = <ore:nuggetDesichalkos>;
 var anyElectrumNugget         = <ore:nuggetElectrum>;
+var anyEndiumNugget           = <ore:nuggetHeeEndium>;
 var anyEximiteNugget          = <ore:nuggetEximite>;
 var anyGoldNugget             = <ore:nuggetGold>;
 var anyHepatizonNugget        = <ore:nuggetHepatizon>;
@@ -1239,8 +1307,10 @@ var anyInvarNugget            = <ore:nuggetInvar>;
 var anyIronNugget             = <ore:nuggetIron>;
 var anyLeadNugget             = <ore:nuggetLead>;
 var anyManyullynNugget        = <ore:nuggetManyullyn>;
+var anyMeteorNugget           = <ore:nuggetMeteorite>;
 var anyMeutoiteNugget         = <ore:nuggetMeutoite>;
 var anyNickelNugget           = <ore:nuggetNickel>;
+var anyOctineNugget           = <ore:nuggetOctine>;
 var anyPlatinumNugget         = <ore:nuggetPlatinum>;
 var anySanguiniteNugget       = <ore:nuggetSanguinite>;
 var anySilverNugget           = <ore:nuggetSilver>;
@@ -1261,6 +1331,7 @@ var anyCopperBlock            = <ore:blockCopper>;
 var anyDesichalkosBlock       = <ore:blockDesichalkos>;
 var anyElectrumBlock          = <ore:blockElectrum>;
 var anyEnderBlock             = <ore:blockEnder>;
+var anyEndiumBlock            = <ore:blockHeeEndium>;
 var anyEximiteBlock           = <ore:blockEximite>;
 var anyGoldBlock              = <ore:blockGold>;
 var anyHepatizonBlock         = <ore:blockHepatizon>;
@@ -1268,6 +1339,7 @@ var anyInvarBlock             = <ore:blockInvar>;
 var anyIronBlock              = <ore:blockIron>;
 var anyLeadBlock              = <ore:blockLead>;
 var anyManyullynBlock         = <ore:blockManyullyn>;
+var anyMeteorBlock            = <ore:blockMeteorite>;
 var anyMeutoiteBlock          = <ore:blockMeutoite>;
 var anyNickelBlock            = <ore:blockNickel>;
 var anyOctineBlock            = <ore:blockOctine>;
@@ -1284,12 +1356,15 @@ var anyAluminumOreberry       = <ore:oreberryAluminum>;
 var anyArditeOreberry         = <ore:oreberryArdite>;
 var anyCobaltOreberry         = <ore:oreberryCobalt>;
 var anyCopperOreberry         = <ore:oreberryCopper>;
+var anyEndiumOreberry         = <ore:oreberryHeeEndium>;
 var anyEximiteOreberry        = <ore:oreberryEximite>;
 var anyGoldOreberry           = <ore:oreberryGold>;
 var anyIronOreberry           = <ore:oreberryIron>;
 var anyLeadOreberry           = <ore:oreberryLead>;
+var anyMeteorOreberry         = <ore:oreberryMeteorite>;
 var anyMeutoiteOreberry       = <ore:oreberryMeutoite>;
 var anyNickelOreberry         = <ore:oreberryNickel>;
+var anyOctineOreberry         = <ore:oreberryOctine>;
 var anyPlatinumOreberry       = <ore:oreberryPlatinum>;
 var anySanguiniteOreberry     = <ore:oreberrySanguinite>;
 var anySilverOreberry         = <ore:oreberrySilver>;
@@ -1312,70 +1387,79 @@ var anyTinGear                = <ore:gearTin>;
 # ITEM LISTS
 #------------
 var allNuggets                = [
-    anyIronNugget,
-    anyCopperNugget,
-    anyAluminumNugget,
-    anyTinNugget,
-    anyZincNugget,
-    anyNickelNugget,
-    anyLeadNugget,
-    anySilverNugget,
-    anyGoldNugget,
-    anyPlatinumNugget,
-    anyEximiteNugget,
-    anyMeutoiteNugget,
     anyAdamantineNugget,
-    anySanguiniteNugget
+    anyAluminumNugget,
+    anyCopperNugget,
+    anyEndiumNugget,
+    anyEximiteNugget,
+    anyGoldNugget,
+    anyIronNugget,
+    anyLeadNugget,
+    anyMeteorNugget,
+    anyMeutoiteNugget,
+    anyNickelNugget,
+    anyOctineNugget,
+    anyPlatinumNugget,
+    anySanguiniteNugget,
+    anySilverNugget,
+    anyTinNugget,
+    anyZincNugget
 ] as IIngredient[];
 var allIngots                 = [
-    anyIronIngot,
-    anyCopperIngot,
-    anyAluminumIngot,
-    anyTinIngot,
-    anyZincIngot,
-    anyNickelIngot,
-    anyLeadIngot,
-    anySilverIngot,
-    anyGoldIngot,
-    anyPlatinumIngot,
-    anyEximiteIngot,
-    anyMeutoiteIngot,
     anyAdamantineIngot,
-    anyBronzeIngot,
-    anySteelIngot,
-    anyInvarIngot,
-    anyElectrumIngot,
-    anyHepatizonIngot,
-    anyBrassIngot,
     anyAluminumBrassIngot,
+    anyAluminumIngot,
     anyBlackSteelIngot,
+    anyBrassIngot,
+    anyBronzeIngot,
+    anyCopperIngot,
+    anyDesichalkosIngot,
+    anyElectrumIngot,
+    anyEndiumIngot,
+    anyEximiteIngot,
+    anyGoldIngot,
+    anyHepatizonIngot,
+    anyInvarIngot,
+    anyIronIngot,
+    anyLeadIngot,
+    anyMeteorIngot,
+    anyMeutoiteIngot,
+    anyNickelIngot,
+    anyOctineIngot,
+    anyPlatinumIngot,
     anySanguiniteIngot,
-    anyDesichalkosIngot
+    anySilverIngot,
+    anySteelIngot,
+    anyTinIngot,
+    anyZincIngot
 ] as IIngredient[];
 var allBlocks                 = [
-    anyIronBlock,
-    anyCopperBlock,
-    anyAluminumBlock,
-    anyTinBlock,
-    anyZincBlock,
-    anyNickelBlock,
-    anyLeadBlock,
-    anySilverBlock,
-    anyGoldBlock,
-    anyPlatinumBlock,
-    anyEximiteBlock,
-    anyMeutoiteBlock,
     anyAdamantineBlock,
-    anyBronzeBlock,
-    anySteelBlock,
-    anyInvarBlock,
-    anyElectrumBlock,
-    anyHepatizonBlock,
-    anyBrassBlock,
+    anyAluminumBlock,
     anyAluminumBrassBlock,
     anyBlackSteelBlock,
+    anyBrassBlock,
+    anyBronzeBlock,
+    anyCopperBlock,
+    anyDesichalkosBlock,
+    anyElectrumBlock,
+    anyEndiumBlock,
+    anyEximiteBlock,
+    anyGoldBlock,
+    anyHepatizonBlock,
+    anyInvarBlock,
+    anyIronBlock,
+    anyLeadBlock,
+    anyMeteorBlock,
+    anyMeutoiteBlock,
+    anyNickelBlock,
+    anyOctineBlock,
+    anyPlatinumBlock,
     anySanguiniteBlock,
-    anyDesichalkosBlock
+    anySilverBlock,
+    anySteelBlock,
+    anyTinBlock,
+    anyZincBlock
 ] as IIngredient[];
 var allOreberries             = [
     anyAdamantineOreberry,
@@ -1383,12 +1467,15 @@ var allOreberries             = [
     anyArditeOreberry,
     anyCobaltOreberry,
     anyCopperOreberry,
+    anyEndiumOreberry,
     anyEximiteOreberry,
     anyGoldOreberry,
     anyIronOreberry,
     anyLeadOreberry,
+    anyMeteorOreberry,
     anyMeutoiteOreberry,
     anyNickelOreberry,
+    anyOctineOreberry,
     anyPlatinumOreberry,
     anySanguiniteOreberry,
     anySilverOreberry,
@@ -1418,6 +1505,9 @@ var moltenMetals              = [
     moltenAluminumBrass,
     moltenBlackSteel,
     moltenSanguinite,
+    moltenOctine,
+    moltenEndium,
+    moltenMeteor,
     moltenDesichalkos
 ] as ILiquidStack[];
 var metalShards               = [
@@ -1757,171 +1847,138 @@ var metalShurikens            = [
     pigIronShuriken
 ] as IItemStack[];
 var allFurnaceRemovals        = [
-    anyIronNugget,
-    anyCopperNugget,
-    anyAluminumNugget,
-    anyTinNugget,
-    anyZincNugget,
-    anyNickelNugget,
-    anyLeadNugget,
-    anySilverNugget,
-    anyGoldNugget,
-    anyPlatinumNugget,
-    anyEximiteNugget,
-    anyMeutoiteNugget,
-    anyAdamantineNugget,
-    anySanguiniteNugget,
-    anyIronIngot,
-    anyCopperIngot,
-    anyAluminumIngot,
-    anyTinIngot,
-    anyZincIngot,
-    anyNickelIngot,
-    anyLeadIngot,
-    anySilverIngot,
-    anyGoldIngot,
-    anyPlatinumIngot,
-    anyEximiteIngot,
-    anyMeutoiteIngot,
     anyAdamantineIngot,
-    anyBronzeIngot,
-    anySteelIngot,
-    anyInvarIngot,
-    anyElectrumIngot,
-    anyHepatizonIngot,
-    anyBrassIngot,
+    anyAdamantineNugget,
     anyAluminumBrassIngot,
+    anyAluminumIngot,
+    anyAluminumNugget,
     anyBlackSteelIngot,
+    anyBrassIngot,
+    anyBronzeIngot,
+    anyCopperIngot,
+    anyCopperNugget,
+    anyDesichalkosIngot,
+    anyElectrumIngot,
+    anyEndiumIngot,
+    anyEndiumNugget,
+    anyEximiteIngot,
+    anyEximiteNugget,
+    anyGoldIngot,
+    anyGoldNugget,
+    anyHepatizonIngot,
+    anyInvarIngot,
+    anyIronIngot,
+    anyIronNugget,
+    anyLeadIngot,
+    anyLeadNugget,
+    anyMeteorIngot,
+    anyMeteorNugget,
+    anyMeutoiteIngot,
+    anyMeutoiteNugget,
+    anyNickelIngot,
+    anyNickelNugget,
+    anyOctineIngot,
+    anyOctineNugget,
+    anyPlatinumIngot,
+    anyPlatinumNugget,
     anySanguiniteIngot,
-    anyDesichalkosIngot
+    anySanguiniteNugget,
+    anySilverIngot,
+    anySilverNugget,
+    anySteelIngot,
+    anyTinIngot,
+    anyTinNugget,
+    anyZincIngot,
+    anyZincNugget
 ] as IIngredient[];
 var smelteryRemovals          = [
-    anyIronOre,
-    anyCopperOre,
-    anyAluminumOre,
-    anyTinOre,
-    anyZincOre,
-    anyNickelOre,
-    anyLeadOre,
-    anySilverOre,
-    anyGoldOre,
-    anyPlatinumOre,
-    anyEximiteOre,
-    anyMeutoiteOre,
-    anyAdamantineOre,
-    anySanguiniteOre,
-    anyIronDust,
-    anyCopperDust,
-    anyAluminumDust,
-    anyTinDust,
-    anyZincDust,
-    anyNickelDust,
-    anyLeadDust,
-    anySilverDust,
-    anyGoldDust,
-    anyPlatinumDust,
-    anyEximiteDust,
-    anyMeutoiteDust,
-    anyAdamantineDust,
-    anyBronzeDust,
-    anySteelDust,
-    anyInvarDust,
-    anyElectrumDust,
-    anyAluminumBrassDust,
-    anySanguiniteDust,
-    anyIronIngot,
-    anyCopperIngot,
-    anyAluminumIngot,
-    anyTinIngot,
-    anyZincIngot,
-    anyNickelIngot,
-    anyLeadIngot,
-    anySilverIngot,
-    anyGoldIngot,
-    anyPlatinumIngot,
-    anyEximiteIngot,
-    anyMeutoiteIngot,
-    anyAdamantineIngot,
-    anyBronzeIngot,
-    anySteelIngot,
-    anyInvarIngot,
-    anyElectrumIngot,
-    anyAluminumBrassIngot,
-    anySanguiniteIngot,
-    anyIronNugget,
-    anyCopperNugget,
-    anyAluminumNugget,
-    anyTinNugget,
-    anyZincNugget,
-    anyNickelNugget,
-    anyLeadNugget,
-    anySilverNugget,
-    anyGoldNugget,
-    anyPlatinumNugget,
-    anyEximiteNugget,
-    anyMeutoiteNugget,
-    anyAdamantineNugget,
-    anyBronzeNugget,
-    anySteelNugget,
-    anyInvarNugget,
-    anyElectrumNugget,
-    anyAluminumBrassNugget,
-    anyIronBlock,
-    anyCopperBlock,
-    anyAluminumBlock,
-    anyTinBlock,
-    anyZincBlock,
-    anyNickelBlock,
-    anyLeadBlock,
-    anySilverBlock,
-    anyGoldBlock,
-    anyPlatinumBlock,
-    anyEximiteBlock,
-    anyMeutoiteBlock,
+    alumiteShard,
     anyAdamantineBlock,
-    anyBronzeBlock,
-    anySteelBlock,
-    anyInvarBlock,
-    anyElectrumBlock,
+    anyAdamantineDust,
+    anyAdamantineIngot,
+    anyAdamantineNugget,
+    anyAdamantineOre,
+    anyAluminumBlock,
     anyAluminumBrassBlock,
-    anySanguiniteBlock,
-    chainHelmet,
-    ironHelmet,
-    goldHelmet,
-    chainChestplate,
-    ironChestplate,
-    goldChestplate,
-    chainLeggings,
-    ironLeggings,
-    goldLeggings,
-    chainBoots,
-    ironBoots,
-    goldBoots,
-    ironPickaxe,
-    goldPickaxe,
-    ironSword,
-    goldSword,
-    ironAxe,
-    goldAxe,
-    ironShovel,
-    goldShovel,
-    ironHoe,
-    goldHoe,
-    anyIronGear,
-    anyCopperGear,
-    anyTinGear,
-    anyNickelGear,
-    anyLeadGear,
-    anySilverGear,
-    anyGoldGear,
-    anyPlatinumGear,
+    anyAluminumBrassDust,
+    anyAluminumBrassIngot,
+    anyAluminumBrassNugget,
+    anyAluminumDust,
+    anyAluminumIngot,
+    anyAluminumNugget,
+    anyAluminumOre,
+    anyArditeIngot,
+    anyArditeOre,
+    anyBronzeBlock,
+    anyBronzeDust,
     anyBronzeGear,
-    anyInvarGear,
+    anyBronzeIngot,
+    anyBronzeNugget,
+    anyCobaltIngot,
+    anyCobaltOre,
+    anyCopperBlock,
+    anyCopperDust,
+    anyCopperGear,
+    anyCopperIngot,
+    anyCopperNugget,
+    anyCopperOre,
+    anyDenseAluminumOre,
+    anyDenseCopperOre,
+    anyDenseGoldOre,
+    anyDenseIronOre,
+    anyDenseLeadOre,
+    anyDenseNickelOre,
+    anyDensePlatinumOre,
+    anyDenseSilverOre,
+    anyDenseTinOre,
+    anyElectrumBlock,
+    anyElectrumDust,
     anyElectrumGear,
-    goldenCarrot,
-    goldHorseArmor,
-    goldPressurePlate,
-    ironPressurePlate,
+    anyElectrumIngot,
+    anyElectrumNugget,
+    anyEndiumBlock,
+    anyEndiumDust,
+    anyEndiumIngot,
+    anyEndiumNugget,
+    anyEximiteBlock,
+    anyEximiteDust,
+    anyEximiteIngot,
+    anyEximiteNugget,
+    anyEximiteOre,
+    anyGoldBlock,
+    anyGoldDust,
+    anyGoldGear,
+    anyGoldIngot,
+    anyGoldNugget,
+    anyGoldOre,
+    anyInvarBlock,
+    anyInvarDust,
+    anyInvarGear,
+    anyInvarIngot,
+    anyInvarNugget,
+    anyIronBlock,
+    anyIronDust,
+    anyIronGear,
+    anyIronIngot,
+    anyIronNugget,
+    anyIronOre,
+    anyLeadBlock,
+    anyLeadDust,
+    anyLeadGear,
+    anyLeadIngot,
+    anyLeadNugget,
+    anyLeadOre,
+    anyManyullynIngot,
+    anyMeteorBlock,
+    anyMeteorDust,
+    anyMeteorIngot,
+    anyMeteorNugget,
+    anyMeteorOre,
+    anyMeutoiteBlock,
+    anyMeutoiteDust,
+    anyMeutoiteIngot,
+    anyMeutoiteNugget,
+    anyMeutoiteOre,
     anyNetherCopperOre,
     anyNetherGoldOre,
     anyNetherIronOre,
@@ -1930,121 +1987,154 @@ var smelteryRemovals          = [
     anyNetherPlatinumOre,
     anyNetherSilverOre,
     anyNetherTinOre,
-    anyCobaltOre,
-    anyArditeOre,
-    anyCobaltIngot,
-    anyArditeIngot,
-    anyManyullynIngot,
-    ironShard,
-    obsidianShard,
-    cobaltShard,
+    anyNickelBlock,
+    anyNickelDust,
+    anyNickelGear,
+    anyNickelIngot,
+    anyNickelNugget,
+    anyNickelOre,
+    anyOctineBlock,
+    anyOctineDust,
+    anyOctineIngot,
+    anyOctineNugget,
+    anyPlatinumBlock,
+    anyPlatinumDust,
+    anyPlatinumGear,
+    anyPlatinumIngot,
+    anyPlatinumNugget,
+    anyPlatinumOre,
+    anySanguiniteBlock,
+    anySanguiniteDust,
+    anySanguiniteIngot,
+    anySanguiniteOre,
+    anySilverBlock,
+    anySilverDust,
+    anySilverGear,
+    anySilverIngot,
+    anySilverNugget,
+    anySilverOre,
+    anySteelBlock,
+    anySteelDust,
+    anySteelIngot,
+    anySteelNugget,
+    anyTinBlock,
+    anyTinDust,
+    anyTinGear,
+    anyTinIngot,
+    anyTinNugget,
+    anyTinOre,
+    anyZincBlock,
+    anyZincDust,
+    anyZincIngot,
+    anyZincNugget,
+    anyZincOre,
     arditeShard,
-    manyullynShard,
-    copperShard,
     bronzeShard,
-    alumiteShard,
-    steelShard,
+    chainBoots,
+    chainChestplate,
+    chainHelmet,
+    chainLeggings,
+    cobaltShard,
+    copperShard,
+    enderBlock,
     enderPearl,
-    enderBlock
+    goldAxe,
+    goldBoots,
+    goldChestplate,
+    goldenCarrot,
+    goldHelmet,
+    goldHoe,
+    goldHorseArmor,
+    goldLeggings,
+    goldPickaxe,
+    goldPressurePlate,
+    goldShovel,
+    goldSword,
+    ironAxe,
+    ironBoots,
+    ironChestplate,
+    ironHelmet,
+    ironHoe,
+    ironLeggings,
+    ironPickaxe,
+    ironPressurePlate,
+    ironShard,
+    ironShovel,
+    ironSword,
+    manyullynShard,
+    obsidianShard,
+    steelShard
 ] as IIngredient[];
 var highOvenOreDictRemovals   = [
-    anyIronOre,
-    anyCopperOre,
-    anyAluminumOre,
-    anyTinOre,
-    anyZincOre,
-    anyNickelOre,
-    anyLeadOre,
-    anySilverOre,
-    anyGoldOre,
-    anyPlatinumOre,
-    anyEximiteOre,
-    anyMeutoiteOre,
-    anyAdamantineOre,
-    anySanguiniteOre,
-    anyIronDust,
-    anyCopperDust,
-    anyAluminumDust,
-    anyTinDust,
-    anyZincDust,
-    anyNickelDust,
-    anyLeadDust,
-    anySilverDust,
-    anyGoldDust,
-    anyPlatinumDust,
-    anyEximiteDust,
-    anyMeutoiteDust,
-    anyAdamantineDust,
-    anyBronzeDust,
-    anySteelDust,
-    anyInvarDust,
-    anyElectrumDust,
-    anyAluminumBrassDust,
-    anySanguiniteDust,
-    anyIronIngot,
-    anyCopperIngot,
-    anyAluminumIngot,
-    anyTinIngot,
-    anyZincIngot,
-    anyNickelIngot,
-    anyLeadIngot,
-    anySilverIngot,
-    anyGoldIngot,
-    anyPlatinumIngot,
-    anyEximiteIngot,
-    anyMeutoiteIngot,
-    anyAdamantineIngot,
-    anyBronzeIngot,
-    anySteelIngot,
-    anyInvarIngot,
-    anyElectrumIngot,
-    anyAluminumBrassIngot,
-    anySanguiniteIngot,
-    anyIronNugget,
-    anyCopperNugget,
-    anyAluminumNugget,
-    anyTinNugget,
-    anyZincNugget,
-    anyNickelNugget,
-    anyLeadNugget,
-    anySilverNugget,
-    anyGoldNugget,
-    anyPlatinumNugget,
-    anyBronzeNugget,
-    anySteelNugget,
-    anyInvarNugget,
-    anyElectrumNugget,
-    anyAluminumBrassNugget,
-    anyIronBlock,
-    anyCopperBlock,
-    anyAluminumBlock,
-    anyTinBlock,
-    anyZincBlock,
-    anyNickelBlock,
-    anyLeadBlock,
-    anySilverBlock,
-    anyGoldBlock,
-    anyPlatinumBlock,
-    anyEximiteBlock,
-    anyMeutoiteBlock,
     anyAdamantineBlock,
-    anyBronzeBlock,
-    anySteelBlock,
-    anyInvarBlock,
-    anyElectrumBlock,
+    anyAdamantineDust,
+    anyAdamantineIngot,
+    anyAdamantineOre,
+    anyAluminumBlock,
     anyAluminumBrassBlock,
-    anySanguiniteBlock,
-    anyIronGear,
-    anyCopperGear,
-    anyTinGear,
-    anyNickelGear,
-    anyLeadGear,
-    anySilverGear,
-    anyGoldGear,
-    anyPlatinumGear,
+    anyAluminumBrassDust,
+    anyAluminumBrassIngot,
+    anyAluminumBrassNugget,
+    anyAluminumDust,
+    anyAluminumIngot,
+    anyAluminumNugget,
+    anyAluminumOre,
+    anyBronzeBlock,
+    anyBronzeDust,
     anyBronzeGear,
-    anyInvarGear,
+    anyBronzeIngot,
+    anyBronzeNugget,
+    anyCopperBlock,
+    anyCopperDust,
+    anyCopperGear,
+    anyCopperIngot,
+    anyCopperNugget,
+    anyCopperOre,
+    anyElectrumBlock,
+    anyElectrumDust,
     anyElectrumGear,
+    anyElectrumIngot,
+    anyElectrumNugget,
+    anyEndiumBlock,
+    anyEndiumDust,
+    anyEndiumIngot,
+    anyEndiumNugget,
+    anyEximiteBlock,
+    anyEximiteDust,
+    anyEximiteIngot,
+    anyEximiteOre,
+    anyGoldBlock,
+    anyGoldDust,
+    anyGoldGear,
+    anyGoldIngot,
+    anyGoldNugget,
+    anyGoldOre,
+    anyInvarBlock,
+    anyInvarDust,
+    anyInvarGear,
+    anyInvarIngot,
+    anyInvarNugget,
+    anyIronBlock,
+    anyIronDust,
+    anyIronGear,
+    anyIronIngot,
+    anyIronNugget,
+    anyIronOre,
+    anyLeadBlock,
+    anyLeadDust,
+    anyLeadGear,
+    anyLeadIngot,
+    anyLeadNugget,
+    anyLeadOre,
+    anyMeteorBlock,
+    anyMeteorDust,
+    anyMeteorIngot,
+    anyMeteorNugget,
+    anyMeteorOre,
+    anyMeutoiteBlock,
+    anyMeutoiteDust,
+    anyMeutoiteIngot,
+    anyMeutoiteOre,
     anyNetherCopperOre,
     anyNetherGoldOre,
     anyNetherIronOre,
@@ -2052,35 +2142,76 @@ var highOvenOreDictRemovals   = [
     anyNetherNickelOre,
     anyNetherPlatinumOre,
     anyNetherSilverOre,
-    anyNetherTinOre
+    anyNetherTinOre,
+    anyNickelBlock,
+    anyNickelDust,
+    anyNickelGear,
+    anyNickelIngot,
+    anyNickelNugget,
+    anyNickelOre,
+    anyOctineBlock,
+    anyOctineDust,
+    anyOctineIngot,
+    anyOctineNugget,
+    anyPlatinumBlock,
+    anyPlatinumDust,
+    anyPlatinumGear,
+    anyPlatinumIngot,
+    anyPlatinumNugget,
+    anyPlatinumOre,
+    anySanguiniteBlock,
+    anySanguiniteDust,
+    anySanguiniteIngot,
+    anySanguiniteOre,
+    anySilverBlock,
+    anySilverDust,
+    anySilverGear,
+    anySilverIngot,
+    anySilverNugget,
+    anySilverOre,
+    anySteelBlock,
+    anySteelDust,
+    anySteelIngot,
+    anySteelNugget,
+    anyTinBlock,
+    anyTinDust,
+    anyTinGear,
+    anyTinIngot,
+    anyTinNugget,
+    anyTinOre,
+    anyZincBlock,
+    anyZincDust,
+    anyZincIngot,
+    anyZincNugget,
+    anyZincOre
 ] as IIngredient[];
 var highOvenItemStackRemovals = [
-    chainHelmet,
-    ironHelmet,
-    goldHelmet,
-    chainChestplate,
-    ironChestplate,
-    goldChestplate,
-    chainLeggings,
-    ironLeggings,
-    goldLeggings,
     chainBoots,
-    ironBoots,
+    chainChestplate,
+    chainHelmet,
+    chainLeggings,
+    goldAxe,
     goldBoots,
-    ironPickaxe,
+    goldChestplate,
+    goldenCarrot,
+    goldHelmet,
+    goldHoe,
+    goldHorseArmor,
+    goldLeggings,
     goldPickaxe,
-    ironSword,
+    goldPressurePlate,
+    goldShovel,
     goldSword,
     ironAxe,
-    goldAxe,
-    ironShovel,
-    goldShovel,
+    ironBoots,
+    ironChestplate,
+    ironHelmet,
     ironHoe,
-    goldHoe,
-    goldenCarrot,
-    goldHorseArmor,
-    goldPressurePlate,
-    ironPressurePlate
+    ironLeggings,
+    ironPickaxe,
+    ironPressurePlate,
+    ironShovel,
+    ironSword
 ] as IItemStack[];
 
 # RECIPE TWEAKS
@@ -2198,7 +2329,7 @@ for i, shard in metalShards {
     Casting.removeTableRecipe(metalShurikens[i]);
 }
 
-# Remove Various Alloys
+# Remove Unused Alloys
 
 # Enderium
 Smeltery.removeAlloy(moltenEnderium * 576);
@@ -2209,12 +2340,13 @@ Smeltery.removeAlloy(moltenLumium * 576);
 # Signalum
 Smeltery.removeAlloy(moltenSignalum * 576);
 
-#--------------------------------------
-# Adjust Metal Melting Points         #
-# 0 -  800: Lava-Fueled Smeltery      #
-# 0 - 2000: High Oven                 #
-# 0 - 4000: Pyrotheum-Fueled Smeltery #
-#--------------------------------------
+#-------------------------------------------------
+# Adjust Metal Melting Points                   #
+# 0 -  800: Lava-Fueled Smeltery                #
+# 0 - 1000: Gasoline-Fueled Smeltery            #
+# 0 - 2000: High Oven, Kerosene-Fueled Smeltery #
+# 0 - 4000: Pyrotheum-Fueled Smeltery           #
+#-------------------------------------------------
 
 # Remove Existing Values
 for input in smelteryRemovals {
@@ -2235,7 +2367,9 @@ for input in highOvenOreDictRemovals {
 # Tin: 230*C
 Smeltery.addMelting(anyTinOre,       moltenTin * 144,  230, tinOre);
 Smeltery.addMelting(anyNetherTinOre, moltenTin * 288,  230, netherTinOre);
+Smeltery.addMelting(anyDenseTinOre,  moltenTin * 432,  230, denseTinOre);
 Smeltery.addMelting(anyTinNugget,    moltenTin * 16,   230, tinBlock);
+Smeltery.addMelting(anyTinOreberry,  moltenTin * 16,   230, tinBlock);
 Smeltery.addMelting(anyTinIngot,     moltenTin * 144,  230, tinBlock);
 Smeltery.addMelting(anyTinBlock,     moltenTin * 1296, 230, tinBlock);
 Smeltery.addMelting(tinHelmet,       moltenTin * 720,  230, tinBlock);
@@ -2251,19 +2385,22 @@ Smeltery.addMelting(tinShears,       moltenTin * 288,  230, tinBlock);
 Smeltery.addMelting(tinFishingPole,  moltenTin * 288,  230, tinBlock);
 Smeltery.addMelting(tinBow,          moltenTin * 288,  230, tinBlock);
 for ore in anyTinOre.items {
-    highoven.addMeltable(ore,      true,  moltenTin * 144,  230);
+    highoven.addMeltable(ore,    true,  moltenTin * 144,  230);
 }
 for ore in anyNetherTinOre.items {
-    highoven.addMeltable(ore,      true,  moltenTin * 288,  230);
+    highoven.addMeltable(ore,    true,  moltenTin * 288,  230);
+}
+for ore in anyDenseTinOre.items {
+    highoven.addMeltable(ore,    true,  moltenTin * 432,  230);
 }
 for nugget in anyTinNugget.items {
-    highoven.addMeltable(nugget,   false, moltenTin * 16,   230);
+    highoven.addMeltable(nugget, false, moltenTin * 16,   230);
 }
 for ingot in anyTinIngot.items {
-    highoven.addMeltable(ingot,    false, moltenTin * 144,  230);
+    highoven.addMeltable(ingot,  false, moltenTin * 144,  230);
 }
 for block in anyTinBlock.items {
-    highoven.addMeltable(block,    false, moltenTin * 1296, 230);
+    highoven.addMeltable(block,  false, moltenTin * 1296, 230);
 }
 highoven.addMeltable(tinHelmet,      false, moltenTin * 720,  230);
 highoven.addMeltable(tinChestplate,  false, moltenTin * 1152, 230);
@@ -2281,7 +2418,9 @@ highoven.addMeltable(tinBow,         false, moltenTin * 288,  230);
 # Lead: 375*C
 Smeltery.addMelting(anyLeadOre,       moltenLead * 144,  375, leadOre);
 Smeltery.addMelting(anyNetherLeadOre, moltenLead * 288,  375, netherLeadOre);
+Smeltery.addMelting(anyDenseLeadOre,  moltenLead * 432,  375, denseLeadOre);
 Smeltery.addMelting(anyLeadNugget,    moltenLead * 16,   375, leadBlock);
+Smeltery.addMelting(anyLeadOreberry,  moltenLead * 16,   375, leadBlock);
 Smeltery.addMelting(anyLeadPlate,     moltenLead * 96,   375, leadBlock);
 Smeltery.addMelting(anyLeadIngot,     moltenLead * 144,  375, leadBlock);
 Smeltery.addMelting(anyLeadBlock,     moltenLead * 1296, 375, leadBlock);
@@ -2298,22 +2437,25 @@ Smeltery.addMelting(leadShears,       moltenLead * 288,  375, leadBlock);
 Smeltery.addMelting(leadFishingPole,  moltenLead * 288,  375, leadBlock);
 Smeltery.addMelting(leadBow,          moltenLead * 288,  375, leadBlock);
 for ore in anyLeadOre.items {
-    highoven.addMeltable(ore,      true,  moltenLead * 144,  375);
+    highoven.addMeltable(ore,    true,  moltenLead * 144,  375);
 }
 for ore in anyNetherLeadOre.items {
-    highoven.addMeltable(ore,      true,  moltenLead * 288,  375);
+    highoven.addMeltable(ore,    true,  moltenLead * 288,  375);
+}
+for ore in anyDenseLeadOre.items {
+    highoven.addMeltable(ore,    true,  moltenLead * 432,  375);
 }
 for nugget in anyLeadNugget.items {
-    highoven.addMeltable(nugget,   false, moltenLead * 16,   375);
+    highoven.addMeltable(nugget, false, moltenLead * 16,   375);
 }
 for plate in anyLeadPlate.items {
-    highoven.addMeltable(plate,    false, moltenLead * 96,   375);
+    highoven.addMeltable(plate,  false, moltenLead * 96,   375);
 }
 for ingot in anyLeadIngot.items {
-    highoven.addMeltable(ingot,    false, moltenLead * 144,  375);
+    highoven.addMeltable(ingot,  false, moltenLead * 144,  375);
 }
 for block in anyLeadBlock.items {
-    highoven.addMeltable(block,    false, moltenLead * 1296, 375);
+    highoven.addMeltable(block,  false, moltenLead * 1296, 375);
 }
 highoven.addMeltable(leadHelmet,      false, moltenLead * 720,  375);
 highoven.addMeltable(leadChestplate,  false, moltenLead * 1152, 375);
@@ -2329,70 +2471,80 @@ highoven.addMeltable(leadFishingPole, false, moltenLead * 288,  375);
 highoven.addMeltable(leadBow,         false, moltenLead * 288,  375);
 
 # Zinc: 420*C
-Smeltery.addMelting(anyZincOre,    moltenZinc * 144,  420, zincOre);
-Smeltery.addMelting(anyZincNugget, moltenZinc * 16,   420, zincBlock);
-Smeltery.addMelting(anyZincPlate,  moltenZinc * 96,   420, zincBlock);
-Smeltery.addMelting(anyZincIngot,  moltenZinc * 144,  420, zincBlock);
-Smeltery.addMelting(anyZincBlock,  moltenZinc * 1296, 420, zincBlock);
+Smeltery.addMelting(anyZincOre,      moltenZinc * 144,  420, zincOre);
+Smeltery.addMelting(anyDenseZincOre, moltenZinc * 432,  420, denseZincOre);
+Smeltery.addMelting(anyZincNugget,   moltenZinc * 16,   420, zincBlock);
+Smeltery.addMelting(anyZincOreberry, moltenZinc * 16,   420, zincBlock);
+Smeltery.addMelting(anyZincPlate,    moltenZinc * 96,   420, zincBlock);
+Smeltery.addMelting(anyZincIngot,    moltenZinc * 144,  420, zincBlock);
+Smeltery.addMelting(anyZincBlock,    moltenZinc * 1296, 420, zincBlock);
 for ore in anyZincOre.items {
-    highoven.addMeltable(ore,      true,  moltenZinc * 144,  420);
+    highoven.addMeltable(ore,    true,  moltenZinc * 144,  420);
+}
+for ore in anyDenseZincOre.items {
+    highoven.addMeltable(ore,    true,  moltenZinc * 432,  420);
 }
 for nugget in anyZincNugget.items {
-    highoven.addMeltable(nugget,   false, moltenZinc * 16,   420);
+    highoven.addMeltable(nugget, false, moltenZinc * 16,   420);
 }
 for plate in anyZincPlate.items {
-    highoven.addMeltable(plate,    false, moltenZinc * 96,   420);
+    highoven.addMeltable(plate,  false, moltenZinc * 96,   420);
 }
 for ingot in anyZincIngot.items {
-    highoven.addMeltable(ingot,    false, moltenZinc * 144,  420);
+    highoven.addMeltable(ingot,  false, moltenZinc * 144,  420);
 }
 for block in anyZincBlock.items {
-    highoven.addMeltable(block,    false, moltenZinc * 1296, 420);
+    highoven.addMeltable(block,  false, moltenZinc * 1296, 420);
 }
 
 # Aluminum: 660*C
-Smeltery.addMelting(anyAluminumOre,    moltenAluminum * 144,  660, aluminumOre);
-Smeltery.addMelting(anyAluminumNugget, moltenAluminum * 16,   660, aluminumBlock);
-Smeltery.addMelting(anyAluminumIngot,  moltenAluminum * 144,  660, aluminumBlock);
-Smeltery.addMelting(anyAluminumBlock,  moltenAluminum * 1296, 660, aluminumBlock);
+Smeltery.addMelting(anyAluminumOre,      moltenAluminum * 144,  660, aluminumOre);
+Smeltery.addMelting(anyDenseAluminumOre, moltenAluminum * 432,  660, denseAluminumOre);
+Smeltery.addMelting(anyAluminumNugget,   moltenAluminum * 16,   660, aluminumBlock);
+Smeltery.addMelting(anyAluminumOreberry, moltenAluminum * 16,   660, aluminumBlock);
+Smeltery.addMelting(anyAluminumIngot,    moltenAluminum * 144,  660, aluminumBlock);
+Smeltery.addMelting(anyAluminumBlock,    moltenAluminum * 1296, 660, aluminumBlock);
 for ore in anyAluminumOre.items {
-    highoven.addMeltable(ore,      true,  moltenAluminum * 144,  660);
+    highoven.addMeltable(ore,    true,  moltenAluminum * 144,  660);
+}
+for ore in anyDenseAluminumOre.items {
+    highoven.addMeltable(ore,    true,  moltenAluminum * 432,  660);
 }
 for nugget in anyAluminumNugget.items {
-    highoven.addMeltable(nugget,   false, moltenAluminum * 16,   660);
+    highoven.addMeltable(nugget, false, moltenAluminum * 16,   660);
 }
 for ingot in anyAluminumIngot.items {
-    highoven.addMeltable(ingot,    false, moltenAluminum * 144,  660);
+    highoven.addMeltable(ingot,  false, moltenAluminum * 144,  660);
 }
 for block in anyAluminumBlock.items {
-    highoven.addMeltable(block,    false, moltenAluminum * 1296, 660);
+    highoven.addMeltable(block,  false, moltenAluminum * 1296, 660);
 }
 
 # Brass: 925*C
-Smeltery.addMelting(anyBrassNugget,  moltenBrass * 16,   925, brassBlock);
-Smeltery.addMelting(anyBrassPlate,   moltenBrass * 96,   925, brassBlock);
-Smeltery.addMelting(anyBrassIngot,   moltenBrass * 144,  925, brassBlock);
-Smeltery.addMelting(anyBrassBlock,   moltenBrass * 1296, 925, brassBlock);
-Smeltery.addMelting(brassHelmet,     moltenBrass * 720,  925, brassBlock);
-Smeltery.addMelting(brassChestplate, moltenBrass * 1152, 925, brassBlock);
-Smeltery.addMelting(brassLeggings,   moltenBrass * 1008, 925, brassBlock);
-Smeltery.addMelting(brassBoots,      moltenBrass * 576,  925, brassBlock);
-Smeltery.addMelting(brassPickaxe,    moltenBrass * 432,  925, brassBlock);
-Smeltery.addMelting(brassSword,      moltenBrass * 288,  925, brassBlock);
-Smeltery.addMelting(brassAxe,        moltenBrass * 288,  925, brassBlock);
-Smeltery.addMelting(brassShovel,     moltenBrass * 144,  925, brassBlock);
-Smeltery.addMelting(brassHoe,        moltenBrass * 288,  925, brassBlock);
+Smeltery.addMelting(anyBrassNugget,   moltenBrass * 16,   925, brassBlock);
+Smeltery.addMelting(anyBrassPlate,    moltenBrass * 96,   925, brassBlock);
+Smeltery.addMelting(anyBrassIngot,    moltenBrass * 144,  925, brassBlock);
+Smeltery.addMelting(anyBrassBlock,    moltenBrass * 1296, 925, brassBlock);
+Smeltery.addMelting(brassHelmet,      moltenBrass * 720,  925, brassBlock);
+Smeltery.addMelting(brassChestplate,  moltenBrass * 1152, 925, brassBlock);
+Smeltery.addMelting(brassLeggings,    moltenBrass * 1008, 925, brassBlock);
+Smeltery.addMelting(brassBoots,       moltenBrass * 576,  925, brassBlock);
+Smeltery.addMelting(brassPickaxe,     moltenBrass * 432,  925, brassBlock);
+Smeltery.addMelting(brassSword,       moltenBrass * 288,  925, brassBlock);
+Smeltery.addMelting(brassAxe,         moltenBrass * 288,  925, brassBlock);
+Smeltery.addMelting(brassShovel,      moltenBrass * 144,  925, brassBlock);
+Smeltery.addMelting(brassHoe,         moltenBrass * 288,  925, brassBlock);
 for nugget in anyBrassNugget.items {
-    highoven.addMeltable(nugget,   false, moltenBrass * 16,   925);
+    highoven.addMeltable(nugget, false, moltenBrass * 16,   925);
 }
 for plate in anyBrassPlate.items {
-    highoven.addMeltable(plate,    false, moltenBrass * 96,   925);
+    highoven.addMeltable(plate,  false, moltenBrass * 96,   925);
 }
 for ingot in anyBrassIngot.items {
-    highoven.addMeltable(ingot,    false, moltenBrass * 144,  925);
+    highoven.addMeltable(ingot,  false, moltenBrass * 144,  925);
 }
 for block in anyBrassBlock.items {
-    highoven.addMeltable(block,    false, moltenBrass * 1296, 925);
+    highoven.addMeltable(block,  false, moltenBrass * 1296, 925);
 }
 highoven.addMeltable(brassHelmet,     false, moltenBrass * 720,  925);
 highoven.addMeltable(brassChestplate, false, moltenBrass * 1152, 925);
@@ -2409,13 +2561,13 @@ Smeltery.addMelting(anyAluminumBrassNugget, moltenAluminumBrass * 16,   950, alu
 Smeltery.addMelting(anyAluminumBrassIngot,  moltenAluminumBrass * 144,  950, aluminumBrassBlock);
 Smeltery.addMelting(anyAluminumBrassBlock,  moltenAluminumBrass * 1296, 950, aluminumBrassBlock);
 for nugget in anyAluminumBrassNugget.items {
-    highoven.addMeltable(nugget,   false, moltenAluminumBrass * 16,   950);
+    highoven.addMeltable(nugget, false, moltenAluminumBrass * 16,   950);
 }
 for ingot in anyAluminumBrassIngot.items {
-    highoven.addMeltable(ingot,    false, moltenAluminumBrass * 144,  950);
+    highoven.addMeltable(ingot,  false, moltenAluminumBrass * 144,  950);
 }
 for block in anyAluminumBrassBlock.items {
-    highoven.addMeltable(block,    false, moltenAluminumBrass * 1296, 950);
+    highoven.addMeltable(block,  false, moltenAluminumBrass * 1296, 950);
 }
 
 # Bronze: 950*C
@@ -2435,13 +2587,13 @@ Smeltery.addMelting(bronzeShears,      moltenBronze * 288,  950, bronzeBlock);
 Smeltery.addMelting(bronzeFishingPole, moltenBronze * 288,  950, bronzeBlock);
 Smeltery.addMelting(bronzeBow,         moltenBronze * 288,  950, bronzeBlock);
 for nugget in anyBronzeNugget.items {
-    highoven.addMeltable(nugget,   false, moltenBronze * 16,   950);
+    highoven.addMeltable(nugget, false, moltenBronze * 16,   950);
 }
 for ingot in anyBronzeIngot.items {
-    highoven.addMeltable(ingot,    false, moltenBronze * 144,  950);
+    highoven.addMeltable(ingot,  false, moltenBronze * 144,  950);
 }
 for block in anyBronzeBlock.items {
-    highoven.addMeltable(block,    false, moltenBronze * 1296, 950);
+    highoven.addMeltable(block,  false, moltenBronze * 1296, 950);
 }
 highoven.addMeltable(bronzeHelmet,      false, moltenBronze * 720,  950);
 highoven.addMeltable(bronzeChestplate,  false, moltenBronze * 1152, 950);
@@ -2459,7 +2611,9 @@ highoven.addMeltable(bronzeBow,         false, moltenBronze * 288,  950);
 # Silver: 950*C
 Smeltery.addMelting(anySilverOre,       moltenSilver * 144,  950, silverOre);
 Smeltery.addMelting(anyNetherSilverOre, moltenSilver * 288,  950, netherSilverOre);
+Smeltery.addMelting(anyDenseSilverOre,  moltenSilver * 432,  950, denseSilverOre);
 Smeltery.addMelting(anySilverNugget,    moltenSilver * 16,   950, silverBlock);
+Smeltery.addMelting(anySilverOreberry,  moltenSilver * 16,   950, silverBlock);
 Smeltery.addMelting(anySilverIngot,     moltenSilver * 144,  950, silverBlock);
 Smeltery.addMelting(anySilverBlock,     moltenSilver * 1296, 950, silverBlock);
 Smeltery.addMelting(silverHelmet,       moltenSilver * 720,  950, silverBlock);
@@ -2475,19 +2629,22 @@ Smeltery.addMelting(silverShears,       moltenSilver * 288,  950, silverBlock);
 Smeltery.addMelting(silverFishingPole,  moltenSilver * 288,  950, silverBlock);
 Smeltery.addMelting(silverBow,          moltenSilver * 288,  950, silverBlock);
 for ore in anySilverOre.items {
-    highoven.addMeltable(ore,      true,  moltenSilver * 144,  950);
+    highoven.addMeltable(ore,    true,  moltenSilver * 144,  950);
 }
 for ore in anyNetherSilverOre.items {
-    highoven.addMeltable(ore,      true,  moltenSilver * 288,  950);
+    highoven.addMeltable(ore,    true,  moltenSilver * 288,  950);
+}
+for ore in anyDenseSilverOre.items {
+    highoven.addMeltable(ore,    true,  moltenSilver * 432,  950);
 }
 for nugget in anySilverNugget.items {
-    highoven.addMeltable(nugget,   false, moltenSilver * 16,   950);
+    highoven.addMeltable(nugget, false, moltenSilver * 16,   950);
 }
 for ingot in anySilverIngot.items {
-    highoven.addMeltable(ingot,    false, moltenSilver * 144,  950);
+    highoven.addMeltable(ingot,  false, moltenSilver * 144,  950);
 }
 for block in anySilverBlock.items {
-    highoven.addMeltable(block,    false, moltenSilver * 1296, 950);
+    highoven.addMeltable(block,  false, moltenSilver * 1296, 950);
 }
 highoven.addMeltable(silverHelmet,      false, moltenSilver * 720,  950);
 highoven.addMeltable(silverChestplate,  false, moltenSilver * 1152, 950);
@@ -2519,13 +2676,13 @@ Smeltery.addMelting(electrumShears,      moltenElectrum * 288,  1000, electrumBl
 Smeltery.addMelting(electrumFishingPole, moltenElectrum * 288,  1000, electrumBlock);
 Smeltery.addMelting(electrumBow,         moltenElectrum * 288,  1000, electrumBlock);
 for nugget in anyElectrumNugget.items {
-    highoven.addMeltable(nugget,   false, moltenElectrum * 16,   1000);
+    highoven.addMeltable(nugget, false, moltenElectrum * 16,   1000);
 }
 for ingot in anyElectrumIngot.items {
-    highoven.addMeltable(ingot,    false, moltenElectrum * 144,  1000);
+    highoven.addMeltable(ingot,  false, moltenElectrum * 144,  1000);
 }
 for block in anyElectrumBlock.items {
-    highoven.addMeltable(block,    false, moltenElectrum * 1296, 1000);
+    highoven.addMeltable(block,  false, moltenElectrum * 1296, 1000);
 }
 highoven.addMeltable(electrumHelmet,      false, moltenElectrum * 720,  1000);
 highoven.addMeltable(electrumChestplate,  false, moltenElectrum * 1152, 1000);
@@ -2543,7 +2700,9 @@ highoven.addMeltable(electrumBow,         false, moltenElectrum * 288,  1000);
 # Gold: 1050*C
 Smeltery.addMelting(anyGoldOre,        moltenGold * 144,   1050, goldOre);
 Smeltery.addMelting(anyNetherGoldOre,  moltenGold * 288,   1050, netherGoldOre);
+Smeltery.addMelting(anyDenseGoldOre,   moltenGold * 432,   1050, denseGoldOre);
 Smeltery.addMelting(anyGoldNugget,     moltenGold * 16,    1050, goldBlock);
+Smeltery.addMelting(anyGoldOreberry,   moltenGold * 16,    1050, goldBlock);
 Smeltery.addMelting(anyGoldIngot,      moltenGold * 144,   1050, goldBlock);
 Smeltery.addMelting(anyGoldBlock,      moltenGold * 1296,  1050, goldBlock);
 Smeltery.addMelting(goldHelmet,        moltenGold * 720,   1050, goldBlock);
@@ -2563,19 +2722,22 @@ Smeltery.addMelting(goldHorseArmor,    moltenGold * 1152,  1050, goldBlock);
 Smeltery.addMelting(goldPressurePlate, moltenGold * 288,   1050, goldBlock);
 Smeltery.addMelting(glisteringMelon,   moltenGold * 128,   1050, goldBlock);
 for ore in anyGoldOre.items {
-    highoven.addMeltable(ore,      true,  moltenGold * 144,  1050);
+    highoven.addMeltable(ore,    true,  moltenGold * 144,  1050);
 }
 for ore in anyNetherGoldOre.items {
-    highoven.addMeltable(ore,      true,  moltenGold * 288,  1050);
+    highoven.addMeltable(ore,    true,  moltenGold * 288,  1050);
+}
+for ore in anyDenseGoldOre.items {
+    highoven.addMeltable(ore,    true,  moltenGold * 432,  1050);
 }
 for nugget in anyGoldNugget.items {
-    highoven.addMeltable(nugget,   false, moltenGold * 16,   1050);
+    highoven.addMeltable(nugget, false, moltenGold * 16,   1050);
 }
 for ingot in anyGoldIngot.items {
-    highoven.addMeltable(ingot,    false, moltenGold * 144,  1050);
+    highoven.addMeltable(ingot,  false, moltenGold * 144,  1050);
 }
 for block in anyGoldBlock.items {
-    highoven.addMeltable(block,    false, moltenGold * 1296, 1050);
+    highoven.addMeltable(block,  false, moltenGold * 1296, 1050);
 }
 highoven.addMeltable(goldHelmet,        false, moltenGold * 720,   1050);
 highoven.addMeltable(goldChestplate,    false, moltenGold * 1152,  1050);
@@ -2607,10 +2769,10 @@ Smeltery.addMelting(hepatizonAxe,        moltenHepatizon * 288,  1075, hepatizon
 Smeltery.addMelting(hepatizonShovel,     moltenHepatizon * 144,  1075, hepatizonBlock);
 Smeltery.addMelting(hepatizonHoe,        moltenHepatizon * 288,  1075, hepatizonBlock);
 for ingot in anyHepatizonIngot.items {
-    highoven.addMeltable(ingot,    false, moltenHepatizon * 144,  1075);
+    highoven.addMeltable(ingot, false, moltenHepatizon * 144,  1075);
 }
 for block in anyHepatizonBlock.items {
-    highoven.addMeltable(block,    false, moltenHepatizon * 1296, 1075);
+    highoven.addMeltable(block, false, moltenHepatizon * 1296, 1075);
 }
 highoven.addMeltable(hepatizonHelmet,     false, moltenHepatizon * 720,  1075);
 highoven.addMeltable(hepatizonChestplate, false, moltenHepatizon * 1152, 1075);
@@ -2625,7 +2787,9 @@ highoven.addMeltable(hepatizonHoe,        false, moltenHepatizon * 288,  1075);
 # Copper: 1080*C
 Smeltery.addMelting(anyCopperOre,       moltenCopper * 144,  1080, copperOre);
 Smeltery.addMelting(anyNetherCopperOre, moltenCopper * 288,  1080, netherCopperOre);
+Smeltery.addMelting(anyDenseCopperOre,  moltenCopper * 432,  1080, denseCopperOre);
 Smeltery.addMelting(anyCopperNugget,    moltenCopper * 16,   1080, copperBlock);
+Smeltery.addMelting(anyCopperOreberry,  moltenCopper * 16,   1080, copperBlock);
 Smeltery.addMelting(anyCopperPlate,     moltenCopper * 96,   1080, copperBlock);
 Smeltery.addMelting(anyCopperIngot,     moltenCopper * 144,  1080, copperBlock);
 Smeltery.addMelting(anyCopperBlock,     moltenCopper * 1296, 1080, copperBlock);
@@ -2642,22 +2806,25 @@ Smeltery.addMelting(copperShears,       moltenCopper * 288,  1080, copperBlock);
 Smeltery.addMelting(copperFishingPole,  moltenCopper * 288,  1080, copperBlock);
 Smeltery.addMelting(copperBow,          moltenCopper * 288,  1080, copperBlock);
 for ore in anyCopperOre.items {
-    highoven.addMeltable(ore,      true,  moltenCopper * 144,  1080);
+    highoven.addMeltable(ore,    true,  moltenCopper * 144,  1080);
 }
 for ore in anyNetherCopperOre.items {
-    highoven.addMeltable(ore,      true,  moltenCopper * 288,  1080);
+    highoven.addMeltable(ore,    true,  moltenCopper * 288,  1080);
+}
+for ore in anyDenseCopperOre.items {
+    highoven.addMeltable(ore,    true,  moltenCopper * 432,  1080);
 }
 for nugget in anyCopperNugget.items {
-    highoven.addMeltable(nugget,   false, moltenCopper * 16,   1080);
+    highoven.addMeltable(nugget, false, moltenCopper * 16,   1080);
 }
 for plate in anyCopperPlate.items {
-    highoven.addMeltable(plate,    false, moltenCopper * 96,   1080);
+    highoven.addMeltable(plate,  false, moltenCopper * 96,   1080);
 }
 for ingot in anyCopperIngot.items {
-    highoven.addMeltable(ingot,    false, moltenCopper * 144,  1080);
+    highoven.addMeltable(ingot,  false, moltenCopper * 144,  1080);
 }
 for block in anyCopperBlock.items {
-    highoven.addMeltable(block,    false, moltenCopper * 1296, 1080);
+    highoven.addMeltable(block,  false, moltenCopper * 1296, 1080);
 }
 highoven.addMeltable(copperHelmet,      false, moltenCopper * 720,  1080);
 highoven.addMeltable(copperChestplate,  false, moltenCopper * 1152, 1080);
@@ -2672,6 +2839,46 @@ highoven.addMeltable(copperShears,      false, moltenCopper * 288,  1080);
 highoven.addMeltable(copperFishingPole, false, moltenCopper * 288,  1080);
 highoven.addMeltable(copperBow,         false, moltenCopper * 288,  1080);
 
+# Octine: 1280*C
+Smeltery.addMelting(anyOctineOre,      moltenOctine * 144,  1280, octineOre);
+Smeltery.addMelting(anyDenseOctineOre, moltenOctine * 432,  1280, denseOctineOre);
+Smeltery.addMelting(anyOctineNugget,   moltenOctine * 16,   1280, octineBlock);
+Smeltery.addMelting(anyOctineOreberry, moltenOctine * 16,   1280, octineBlock);
+Smeltery.addMelting(anyOctineIngot,    moltenOctine * 144,  1280, octineBlock);
+Smeltery.addMelting(anyOctineBlock,    moltenOctine * 1296, 1280, octineBlock);
+Smeltery.addMelting(octineHelmet,      moltenOctine * 720,  1280, octineBlock);
+Smeltery.addMelting(octineChestplate,  moltenOctine * 1152, 1280, octineBlock);
+Smeltery.addMelting(octineLeggings,    moltenOctine * 1008, 1280, octineBlock);
+Smeltery.addMelting(octineBoots,       moltenOctine * 576,  1280, octineBlock);
+Smeltery.addMelting(octinePickaxe,     moltenOctine * 432,  1280, octineBlock);
+Smeltery.addMelting(octineSword,       moltenOctine * 288,  1280, octineBlock);
+Smeltery.addMelting(octineAxe,         moltenOctine * 288,  1280, octineBlock);
+Smeltery.addMelting(octineShovel,      moltenOctine * 144,  1280, octineBlock);
+for ore in anyOctineOre.items {
+    highoven.addMeltable(ore,    true,  moltenOctine * 144,  1280);
+}
+for ore in anyDenseOctineOre.items {
+    highoven.addMeltable(ore,    true,  moltenOctine * 432,  1280);
+}
+for nugget in anyOctineNugget.items {
+    highoven.addMeltable(nugget, false, moltenOctine * 16,   1280);
+}
+for ingot in anyOctineIngot.items {
+    highoven.addMeltable(ingot,  false, moltenOctine * 144,  1280);
+}
+for block in anyOctineBlock.items {
+    highoven.addMeltable(block,  false, moltenOctine * 1296, 1280);
+}
+highoven.addMeltable(octineHelmet,     false, moltenOctine * 720,  1280);
+highoven.addMeltable(octineChestplate, false, moltenOctine * 1152, 1280);
+highoven.addMeltable(octineLeggings,   false, moltenOctine * 1008, 1280);
+highoven.addMeltable(octineBoots,      false, moltenOctine * 576,  1280);
+highoven.addMeltable(octinePickaxe,    false, moltenOctine * 432,  1280);
+highoven.addMeltable(octineSword,      false, moltenOctine * 288,  1280);
+highoven.addMeltable(octineAxe,        false, moltenOctine * 288,  1280);
+highoven.addMeltable(octineShovel,     false, moltenOctine * 144,  1280);
+
+
 # Black Steel: 1400*C
 Smeltery.addMelting(anyBlackSteelIngot,   moltenBlackSteel * 144,  1400, blackSteelBlock);
 Smeltery.addMelting(anyBlackSteelBlock,   moltenBlackSteel * 1296, 1400, blackSteelBlock);
@@ -2685,10 +2892,10 @@ Smeltery.addMelting(blackSteelAxe,        moltenBlackSteel * 288,  1400, blackSt
 Smeltery.addMelting(blackSteelShovel,     moltenBlackSteel * 144,  1400, blackSteelBlock);
 Smeltery.addMelting(blackSteelHoe,        moltenBlackSteel * 288,  1400, blackSteelBlock);
 for ingot in anyBlackSteelIngot.items {
-    highoven.addMeltable(ingot,    false, moltenBlackSteel * 144,  1400);
+    highoven.addMeltable(ingot, false, moltenBlackSteel * 144,  1400);
 }
 for block in anyBlackSteelBlock.items {
-    highoven.addMeltable(block,    false, moltenBlackSteel * 1296, 1400);
+    highoven.addMeltable(block, false, moltenBlackSteel * 1296, 1400);
 }
 highoven.addMeltable(blackSteelHelmet,     false, moltenBlackSteel * 720,  1400);
 highoven.addMeltable(blackSteelChestplate, false, moltenBlackSteel * 1152, 1400);
@@ -2703,7 +2910,9 @@ highoven.addMeltable(blackSteelHoe,        false, moltenBlackSteel * 288,  1400)
 # Iron: 1400*C
 Smeltery.addMelting(anyIronOre,        moltenIron * 144,  1400, ironOre);
 Smeltery.addMelting(anyNetherIronOre,  moltenIron * 288,  1400, netherIronOre);
+Smeltery.addMelting(anyDenseIronOre,   moltenIron * 432,  1400, denseIronOre);
 Smeltery.addMelting(anyIronNugget,     moltenIron * 16,   1400, ironBlock);
+Smeltery.addMelting(anyIronOreberry,   moltenIron * 16,   1400, ironBlock);
 Smeltery.addMelting(anyIronIngot,      moltenIron * 144,  1400, ironBlock);
 Smeltery.addMelting(anyIronBlock,      moltenIron * 1296, 1400, ironBlock);
 Smeltery.addMelting(chainHelmet,       moltenIron * 480,  1400, ironBlock);
@@ -2738,19 +2947,22 @@ Smeltery.addMelting(cauldron,          moltenIron * 1008, 1400, ironBlock);
 Smeltery.addMelting(ironPressurePlate, moltenIron * 288,  1400, ironBlock);
 Smeltery.addMelting(chain,             moltenIron * 96,   1400, ironBlock);
 for ore in anyIronOre.items {
-    highoven.addMeltable(ore,      true,  moltenIron * 144,  1400);
+    highoven.addMeltable(ore,    true,  moltenIron * 144,  1400);
 }
 for ore in anyNetherIronOre.items {
-    highoven.addMeltable(ore,      true,  moltenIron * 288,  1400);
+    highoven.addMeltable(ore,    true,  moltenIron * 288,  1400);
+}
+for ore in anyDenseIronOre.items {
+    highoven.addMeltable(ore,    true,  moltenIron * 432,  1400);
 }
 for nugget in anyIronNugget.items {
-    highoven.addMeltable(nugget,   false, moltenIron * 16,   1400);
+    highoven.addMeltable(nugget, false, moltenIron * 16,   1400);
 }
 for ingot in anyIronIngot.items {
-    highoven.addMeltable(ingot,    false, moltenIron * 144,  1400);
+    highoven.addMeltable(ingot,  false, moltenIron * 144,  1400);
 }
 for block in anyIronBlock.items {
-    highoven.addMeltable(block,    false, moltenIron * 1296, 1400);
+    highoven.addMeltable(block,  false, moltenIron * 1296, 1400);
 }
 highoven.addMeltable(chainHelmet,       false, moltenIron * 480,  1400);
 highoven.addMeltable(chainChestplate,   false, moltenIron * 768,  1400);
@@ -2801,13 +3013,13 @@ Smeltery.addMelting(invarShears,      moltenInvar * 288,  1425, invarBlock);
 Smeltery.addMelting(invarFishingPole, moltenInvar * 288,  1425, invarBlock);
 Smeltery.addMelting(invarBow,         moltenInvar * 288,  1425, invarBlock);
 for nugget in anyInvarNugget.items {
-    highoven.addMeltable(nugget,   false, moltenInvar * 16,   1425);
+    highoven.addMeltable(nugget, false, moltenInvar * 16,   1425);
 }
 for ingot in anyInvarIngot.items {
-    highoven.addMeltable(ingot,    false, moltenInvar * 144,  1425);
+    highoven.addMeltable(ingot,  false, moltenInvar * 144,  1425);
 }
 for block in anyInvarBlock.items {
-    highoven.addMeltable(block,    false, moltenInvar * 1296, 1425);
+    highoven.addMeltable(block,  false, moltenInvar * 1296, 1425);
 }
 highoven.addMeltable(invarHelmet,      false, moltenInvar * 720,  1425);
 highoven.addMeltable(invarChestplate,  false, moltenInvar * 1152, 1425);
@@ -2825,7 +3037,9 @@ highoven.addMeltable(invarBow,         false, moltenInvar * 288,  1425);
 # Nickel: 1450*C
 Smeltery.addMelting(anyNickelOre,       moltenNickel * 144,  1450, nickelOre);
 Smeltery.addMelting(anyNetherNickelOre, moltenNickel * 288,  1450, netherNickelOre);
+Smeltery.addMelting(anyDenseNickelOre,  moltenNickel * 432,  1450, denseNickelOre);
 Smeltery.addMelting(anyNickelNugget,    moltenNickel * 16,   1450, nickelBlock);
+Smeltery.addMelting(anyNickelOreberry,  moltenNickel * 16,   1450, nickelBlock);
 Smeltery.addMelting(anyNickelIngot,     moltenNickel * 144,  1450, nickelBlock);
 Smeltery.addMelting(anyNickelBlock,     moltenNickel * 1296, 1450, nickelBlock);
 Smeltery.addMelting(nickelHelmet,       moltenNickel * 720,  1450, nickelBlock);
@@ -2841,19 +3055,22 @@ Smeltery.addMelting(nickelShears,       moltenNickel * 288,  1450, nickelBlock);
 Smeltery.addMelting(nickelFishingPole,  moltenNickel * 288,  1450, nickelBlock);
 Smeltery.addMelting(nickelBow,          moltenNickel * 288,  1450, nickelBlock);
 for ore in anyNickelOre.items {
-    highoven.addMeltable(ore,      true,  moltenNickel * 144,  1450);
+    highoven.addMeltable(ore,    true,  moltenNickel * 144,  1450);
 }
 for ore in anyNetherNickelOre.items {
-    highoven.addMeltable(ore,      true,  moltenNickel * 288,  1450);
+    highoven.addMeltable(ore,    true,  moltenNickel * 288,  1450);
+}
+for ore in anyDenseNickelOre.items {
+    highoven.addMeltable(ore,    true,  moltenNickel * 432,  1450);
 }
 for nugget in anyNickelNugget.items {
-    highoven.addMeltable(nugget,   false, moltenNickel * 16,   1450);
+    highoven.addMeltable(nugget, false, moltenNickel * 16,   1450);
 }
 for ingot in anyNickelIngot.items {
-    highoven.addMeltable(ingot,    false, moltenNickel * 144,  1450);
+    highoven.addMeltable(ingot,  false, moltenNickel * 144,  1450);
 }
 for block in anyNickelBlock.items {
-    highoven.addMeltable(block,    false, moltenNickel * 1296, 1450);
+    highoven.addMeltable(block,  false, moltenNickel * 1296, 1450);
 }
 highoven.addMeltable(nickelHelmet,      false, moltenNickel * 720,  1450);
 highoven.addMeltable(nickelChestplate,  false, moltenNickel * 1152, 1450);
@@ -2887,13 +3104,13 @@ Smeltery.addMelting(lightDmgAnvil,   moltenSteel * 2976, 1500, steelBlock);
 Smeltery.addMelting(veryDmgAnvil,    moltenSteel * 1488, 1500, steelBlock);
 Smeltery.addMelting(flintNSteel,     moltenSteel * 144,  1500, steelBlock);
 for nugget in anySteelNugget.items {
-    highoven.addMeltable(nugget,   false, moltenSteel * 16,   1500);
+    highoven.addMeltable(nugget, false, moltenSteel * 16,   1500);
 }
 for ingot in anySteelIngot.items {
-    highoven.addMeltable(ingot,    false, moltenSteel * 144,  1500);
+    highoven.addMeltable(ingot,  false, moltenSteel * 144,  1500);
 }
 for block in anySteelBlock.items {
-    highoven.addMeltable(block,    false, moltenSteel * 1296, 1500);
+    highoven.addMeltable(block,  false, moltenSteel * 1296, 1500);
 }
 highoven.addMeltable(steelHelmet,     false, moltenSteel * 720,  1500);
 highoven.addMeltable(steelChestplate, false, moltenSteel * 1152, 1500);
@@ -2910,10 +3127,49 @@ highoven.addMeltable(lightDmgAnvil,   false, moltenSteel * 2976, 1500);
 highoven.addMeltable(veryDmgAnvil,    false, moltenSteel * 1488, 1500);
 highoven.addMeltable(flintNSteel,     false, moltenSteel * 144,  1500);
 
+# Meteorite: 1600*C
+Smeltery.addMelting(anyMeteorOre,       moltenMeteor * 144,  1080, meteorOre);
+Smeltery.addMelting(anyMeteorNugget,    moltenMeteor * 16,   1080, meteorBlock);
+Smeltery.addMelting(anyMeteorOreberry,  moltenMeteor * 16,   1080, meteorBlock);
+Smeltery.addMelting(anyMeteorIngot,     moltenMeteor * 144,  1080, meteorBlock);
+Smeltery.addMelting(anyMeteorBlock,     moltenMeteor * 1296, 1080, meteorBlock);
+Smeltery.addMelting(meteorHelmet,       moltenMeteor * 720,  1080, meteorBlock);
+Smeltery.addMelting(meteorChestplate,   moltenMeteor * 1152, 1080, meteorBlock);
+Smeltery.addMelting(meteorLeggings,     moltenMeteor * 1008, 1080, meteorBlock);
+Smeltery.addMelting(meteorBoots,        moltenMeteor * 576,  1080, meteorBlock);
+Smeltery.addMelting(meteorPickaxe,      moltenMeteor * 432,  1080, meteorBlock);
+Smeltery.addMelting(meteorSword,        moltenMeteor * 288,  1080, meteorBlock);
+Smeltery.addMelting(meteorAxe,          moltenMeteor * 288,  1080, meteorBlock);
+Smeltery.addMelting(meteorShovel,       moltenMeteor * 144,  1080, meteorBlock);
+Smeltery.addMelting(meteorHoe,          moltenMeteor * 288,  1080, meteorBlock);
+for ore in anyMeteorOre.items {
+    highoven.addMeltable(ore,    true,  moltenMeteor * 144,  1080);
+}
+for nugget in anyMeteorNugget.items {
+    highoven.addMeltable(nugget, false, moltenMeteor * 16,   1080);
+}
+for ingot in anyMeteorIngot.items {
+    highoven.addMeltable(ingot,  false, moltenMeteor * 144,  1080);
+}
+for block in anyMeteorBlock.items {
+    highoven.addMeltable(block,  false, moltenMeteor * 1296, 1080);
+}
+highoven.addMeltable(meteorHelmet,      false, moltenMeteor * 720,  1080);
+highoven.addMeltable(meteorChestplate,  false, moltenMeteor * 1152, 1080);
+highoven.addMeltable(meteorLeggings,    false, moltenMeteor * 1008, 1080);
+highoven.addMeltable(meteorBoots,       false, moltenMeteor * 576,  1080);
+highoven.addMeltable(meteorPickaxe,     false, moltenMeteor * 432,  1080);
+highoven.addMeltable(meteorSword,       false, moltenMeteor * 288,  1080);
+highoven.addMeltable(meteorAxe,         false, moltenMeteor * 288,  1080);
+highoven.addMeltable(meteorShovel,      false, moltenMeteor * 144,  1080);
+highoven.addMeltable(meteorHoe,         false, moltenMeteor * 288,  1080);
+
 # Platinum: 1750*C
 Smeltery.addMelting(anyPlatinumOre,       moltenPlatinum * 144,  1750, platinumOre);
 Smeltery.addMelting(anyNetherPlatinumOre, moltenPlatinum * 288,  1750, netherPlatinumOre);
+Smeltery.addMelting(anyDensePlatinumOre,  moltenPlatinum * 432,  1750, densePlatinumOre);
 Smeltery.addMelting(anyPlatinumNugget,    moltenPlatinum * 16,   1750, platinumBlock);
+Smeltery.addMelting(anyPlatinumOreberry,  moltenPlatinum * 16,   1750, platinumBlock);
 Smeltery.addMelting(anyPlatinumIngot,     moltenPlatinum * 144,  1750, platinumBlock);
 Smeltery.addMelting(anyPlatinumBlock,     moltenPlatinum * 1296, 1750, platinumBlock);
 Smeltery.addMelting(platinumHelmet,       moltenPlatinum * 720,  1750, platinumBlock);
@@ -2929,19 +3185,22 @@ Smeltery.addMelting(platinumShears,       moltenPlatinum * 288,  1750, platinumB
 Smeltery.addMelting(platinumFishingPole,  moltenPlatinum * 288,  1750, platinumBlock);
 Smeltery.addMelting(platinumBow,          moltenPlatinum * 288,  1750, platinumBlock);
 for ore in anyPlatinumOre.items {
-    highoven.addMeltable(ore,      true,  moltenPlatinum * 144,  1750);
+    highoven.addMeltable(ore,    true,  moltenPlatinum * 144,  1750);
 }
 for ore in anyNetherPlatinumOre.items {
-    highoven.addMeltable(ore,      true,  moltenPlatinum * 288,  1750);
+    highoven.addMeltable(ore,    true,  moltenPlatinum * 288,  1750);
+}
+for ore in anyDensePlatinumOre.items {
+    highoven.addMeltable(ore,    true,  moltenPlatinum * 432,  1750);
 }
 for nugget in anyPlatinumNugget.items {
-    highoven.addMeltable(nugget,   false, moltenPlatinum * 16,   1750);
+    highoven.addMeltable(nugget, false, moltenPlatinum * 16,   1750);
 }
 for ingot in anyPlatinumIngot.items {
-    highoven.addMeltable(ingot,    false, moltenPlatinum * 144,  1750);
+    highoven.addMeltable(ingot,  false, moltenPlatinum * 144,  1750);
 }
 for block in anyPlatinumBlock.items {
-    highoven.addMeltable(block,    false, moltenPlatinum * 1296, 1750);
+    highoven.addMeltable(block,  false, moltenPlatinum * 1296, 1750);
 }
 highoven.addMeltable(platinumHelmet,      false, moltenPlatinum * 720,  1750);
 highoven.addMeltable(platinumChestplate,  false, moltenPlatinum * 1152, 1750);
@@ -2957,53 +3216,73 @@ highoven.addMeltable(platinumFishingPole, false, moltenPlatinum * 288,  1750);
 highoven.addMeltable(platinumBow,         false, moltenPlatinum * 288,  1750);
 
 # Sanguinite: 2500*C
-Smeltery.addMelting(anySanguiniteIngot,   moltenSanguinite * 144,  2500, sanguiniteBlock);
-Smeltery.addMelting(anySanguiniteNugget,  moltenSanguinite * 16,   2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteHelmet,     moltenSanguinite * 720,  2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteChestplate, moltenSanguinite * 1152, 2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteLeggings,   moltenSanguinite * 1008, 2500, sanguiniteBlock);
-Smeltery.addMelting(sanguiniteBoots,      moltenSanguinite * 576,  2500,  sanguiniteBlock);
-Smeltery.addMelting(sanguinitePickaxe,    moltenSanguinite * 432,  2500,  sanguiniteBlock);
-Smeltery.addMelting(sanguiniteSword,      moltenSanguinite * 288,  2500,  sanguiniteBlock);
-Smeltery.addMelting(sanguiniteAxe,        moltenSanguinite * 288,  2500,  sanguiniteBlock);
-Smeltery.addMelting(sanguiniteShovel,     moltenSanguinite * 144,  2500,  sanguiniteBlock);
-Smeltery.addMelting(sanguiniteHoe,        moltenSanguinite * 288,  2500, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteIngot,    moltenSanguinite * 144,  2500, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteNugget,   moltenSanguinite * 16,   2500, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteOreberry, moltenSanguinite * 16,   2500, sanguiniteBlock);
+Smeltery.addMelting(anySanguiniteBlock,    moltenSanguinite * 1296, 2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteHelmet,      moltenSanguinite * 720,  2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteChestplate,  moltenSanguinite * 1152, 2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteLeggings,    moltenSanguinite * 1008, 2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteBoots,       moltenSanguinite * 576,  2500, sanguiniteBlock);
+Smeltery.addMelting(sanguinitePickaxe,     moltenSanguinite * 432,  2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteSword,       moltenSanguinite * 288,  2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteAxe,         moltenSanguinite * 288,  2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteShovel,      moltenSanguinite * 144,  2500, sanguiniteBlock);
+Smeltery.addMelting(sanguiniteHoe,         moltenSanguinite * 288,  2500, sanguiniteBlock);
 
 # Adamantine: 3000*C
-Smeltery.addMelting(anyAdamantineOre,     moltenAdamantine * 144,  3000, adamantineOre);
-Smeltery.addMelting(anyAdamantineNugget,  moltenAdamantine * 16,   3000, adamantineBlock);
-Smeltery.addMelting(anyAdamantineIngot,   moltenAdamantine * 144,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineHelmet,     moltenAdamantine * 720,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineChestplate, moltenAdamantine * 1152, 3000, adamantineBlock);
-Smeltery.addMelting(adamantineLeggings,   moltenAdamantine * 1008, 3000, adamantineBlock);
-Smeltery.addMelting(adamantineBoots,      moltenAdamantine * 576,  3000, adamantineBlock);
-Smeltery.addMelting(adamantinePickaxe,    moltenAdamantine * 432,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineSword,      moltenAdamantine * 288,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineAxe,        moltenAdamantine * 288,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineShovel,     moltenAdamantine * 144,  3000, adamantineBlock);
-Smeltery.addMelting(adamantineHoe,        moltenAdamantine * 288,  3000, adamantineBlock);
+Smeltery.addMelting(anyAdamantineOre,      moltenAdamantine * 144,  3000, adamantineOre);
+Smeltery.addMelting(anyDenseAdamantineOre, moltenAdamantine * 432,  3000, denseAdamantineOre);
+Smeltery.addMelting(anyAdamantineNugget,   moltenAdamantine * 16,   3000, adamantineBlock);
+Smeltery.addMelting(anyAdamantineOreberry, moltenAdamantine * 16,   3000, adamantineBlock);
+Smeltery.addMelting(anyAdamantineIngot,    moltenAdamantine * 144,  3000, adamantineBlock);
+Smeltery.addMelting(anyAdamantineBlock,    moltenAdamantine * 1296, 3000, adamantineBlock);
+Smeltery.addMelting(adamantineHelmet,      moltenAdamantine * 720,  3000, adamantineBlock);
+Smeltery.addMelting(adamantineChestplate,  moltenAdamantine * 1152, 3000, adamantineBlock);
+Smeltery.addMelting(adamantineLeggings,    moltenAdamantine * 1008, 3000, adamantineBlock);
+Smeltery.addMelting(adamantineBoots,       moltenAdamantine * 576,  3000, adamantineBlock);
+Smeltery.addMelting(adamantinePickaxe,     moltenAdamantine * 432,  3000, adamantineBlock);
+Smeltery.addMelting(adamantineSword,       moltenAdamantine * 288,  3000, adamantineBlock);
+Smeltery.addMelting(adamantineAxe,         moltenAdamantine * 288,  3000, adamantineBlock);
+Smeltery.addMelting(adamantineShovel,      moltenAdamantine * 144,  3000, adamantineBlock);
+Smeltery.addMelting(adamantineHoe,         moltenAdamantine * 288,  3000, adamantineBlock);
+
+# Endium: 3000*C
+Smeltery.addMelting(anyEndiumOre,      moltenEndium * 144,  3000, endiumOre);
+Smeltery.addMelting(anyEndiumNugget,   moltenEndium * 16,   3000, endiumBlock);
+Smeltery.addMelting(anyEndiumOreberry, moltenEndium * 16,   3000, endiumBlock);
+Smeltery.addMelting(anyEndiumIngot,    moltenEndium * 144,  3000, endiumBlock);
+Smeltery.addMelting(anyEndiumBlock,    moltenEndium * 1296, 3000, endiumBlock);
+
 
 # Eximite: 3500*C
-Smeltery.addMelting(anyEximiteOre,     moltenEximite * 144,  3500, eximiteOre);
-Smeltery.addMelting(anyEximiteNugget,  moltenEximite * 16,   3500, eximiteBlock);
-Smeltery.addMelting(anyEximiteIngot,   moltenEximite * 144,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteHelmet,     moltenEximite * 720,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteChestplate, moltenEximite * 1152, 3500, eximiteBlock);
-Smeltery.addMelting(eximiteLeggings,   moltenEximite * 1008, 3500, eximiteBlock);
-Smeltery.addMelting(eximiteBoots,      moltenEximite * 576,  3500, eximiteBlock);
-Smeltery.addMelting(eximitePickaxe,    moltenEximite * 432,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteSword,      moltenEximite * 288,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteAxe,        moltenEximite * 288,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteShovel,     moltenEximite * 144,  3500, eximiteBlock);
-Smeltery.addMelting(eximiteHoe,        moltenEximite * 288,  3500, eximiteBlock);
+Smeltery.addMelting(anyEximiteOre,      moltenEximite * 144,  3500, eximiteOre);
+Smeltery.addMelting(anyDenseEximiteOre, moltenEximite * 432,  3500, denseEximiteOre);
+Smeltery.addMelting(anyEximiteNugget,   moltenEximite * 16,   3500, eximiteBlock);
+Smeltery.addMelting(anyEximiteOreberry, moltenEximite * 16,   3500, eximiteBlock);
+Smeltery.addMelting(anyEximiteIngot,    moltenEximite * 144,  3500, eximiteBlock);
+Smeltery.addMelting(anyEximiteBlock,    moltenEximite * 1296, 3500, eximiteBlock);
+Smeltery.addMelting(eximiteHelmet,      moltenEximite * 720,  3500, eximiteBlock);
+Smeltery.addMelting(eximiteChestplate,  moltenEximite * 1152, 3500, eximiteBlock);
+Smeltery.addMelting(eximiteLeggings,    moltenEximite * 1008, 3500, eximiteBlock);
+Smeltery.addMelting(eximiteBoots,       moltenEximite * 576,  3500, eximiteBlock);
+Smeltery.addMelting(eximitePickaxe,     moltenEximite * 432,  3500, eximiteBlock);
+Smeltery.addMelting(eximiteSword,       moltenEximite * 288,  3500, eximiteBlock);
+Smeltery.addMelting(eximiteAxe,         moltenEximite * 288,  3500, eximiteBlock);
+Smeltery.addMelting(eximiteShovel,      moltenEximite * 144,  3500, eximiteBlock);
+Smeltery.addMelting(eximiteHoe,         moltenEximite * 288,  3500, eximiteBlock);
 
 # Meutoite: 3500*C
-Smeltery.addMelting(anyMeutoiteOre,    moltenMeutoite * 144, 3500, meutoiteOre);
-Smeltery.addMelting(anyMeutoiteNugget, moltenMeutoite * 16,  3500, meutoiteBlock);
-Smeltery.addMelting(anyMeutoiteIngot,  moltenMeutoite * 144, 3500, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteOre,      moltenMeutoite * 144,  3500, meutoiteOre);
+Smeltery.addMelting(anyDenseMeutoiteOre, moltenMeutoite * 432,  3500, denseMeutoiteOre);
+Smeltery.addMelting(anyMeutoiteNugget,   moltenMeutoite * 16,   3500, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteOreberry, moltenMeutoite * 16,   3500, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteIngot,    moltenMeutoite * 144,  3500, meutoiteBlock);
+Smeltery.addMelting(anyMeutoiteBlock,    moltenMeutoite * 1296, 3500, meutoiteBlock);
 
 # Desichalkos: 3750*C
 Smeltery.addMelting(anyDesichalkosIngot,   moltenDesichalkos * 144,  3750, desichalkosBlock);
+Smeltery.addMelting(anyDesichalkosBlock,   moltenDesichalkos * 1296, 3750, desichalkosBlock);
 Smeltery.addMelting(desichalkosHelmet,     moltenDesichalkos * 720,  3750, desichalkosBlock);
 Smeltery.addMelting(desichalkosChestplate, moltenDesichalkos * 1152, 3750, desichalkosBlock);
 Smeltery.addMelting(desichalkosLeggings,   moltenDesichalkos * 1008, 3750, desichalkosBlock);
@@ -3012,6 +3291,7 @@ Smeltery.addMelting(desichalkosPickaxe,    moltenDesichalkos * 432,  3750, desic
 Smeltery.addMelting(desichalkosSword,      moltenDesichalkos * 288,  3750, desichalkosBlock);
 Smeltery.addMelting(desichalkosAxe,        moltenDesichalkos * 288,  3750, desichalkosBlock);
 Smeltery.addMelting(desichalkosShovel,     moltenDesichalkos * 144,  3750, desichalkosBlock);
+Smeltery.addMelting(desichalkosHoe,        moltenDesichalkos * 288,  3750, desichalkosBlock);
 
 
 # Adjust Alloy Ratios
