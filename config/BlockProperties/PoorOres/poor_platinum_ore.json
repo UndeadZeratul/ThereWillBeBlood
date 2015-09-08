@@ -1,0 +1,20 @@
+{
+    "_name": "PoorOres:poor_platinum_ore",
+    "drops": [
+        {
+            "function": "!if_silk_touch",
+            "count": 1.0,
+            "functions": [
+                {
+                    "function": "default",
+                    "value": false
+                },
+                {
+                    "function": "add",
+                    "id": "ThermalFoundation:material",
+                    "damage": 101
+                }
+            ]
+        }
+    ]
+}
