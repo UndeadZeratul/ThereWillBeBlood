@@ -1,0 +1,66 @@
+{
+    "ignatiusUnderLava": {
+        "template": "underfluid",
+        "block": [
+            {
+                "name": "Metallurgy:nether.ore",
+                "metadata": 0,
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_ignatius_ore",
+                "weight": 10
+            }
+        ],
+        "material": "netherrack",
+        "genFluid": "lava",
+        "clusterSize": 4,
+        "numClusters": 16,
+        "minHeight": 1,
+        "maxHeight": 32,
+        "retrogen": true,
+        "biomeRestriction": "blacklist",
+        "biomes": [
+            {
+                "type": "name",
+                "entry": "Phantasmagoric Inferno"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "vulcaniteUnderLava": {
+        "template": "underfluid",
+        "block": [
+            {
+                "name": "Metallurgy:nether.ore",
+                "metadata": 8,
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_vulcanite_ore",
+                "weight": 10
+            }
+        ],
+        "material": "netherrack",
+        "genFluid": "lava",
+        "clusterSize": 4,
+        "numClusters": 16,
+        "minHeight": 1,
+        "maxHeight": 32,
+        "retrogen": true,
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {
+                "type": "name",
+                "entry": "Phantasmagoric Inferno"
+            }
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}

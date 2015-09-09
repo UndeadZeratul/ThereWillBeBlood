@@ -2,92 +2,81 @@
     "dirt": {
         "template": "uniform",
         "block": "dirt",
-		"material": "minecraft:stone",
+        "material": "stone",
         "clusterSize": 32,
         "numClusters": 20,
-        "minHeight": 1,
+        "minHeight": 0,
         "maxHeight": 128,
-        "retrogen": "false",
+        "retrogen": false,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            7
         ]
     },
     "gravel": {
         "template": "uniform",
+        "block": "gravel",
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ]
+    },
+    "coal": {
+        "template": "fractal",
         "block": [
             {
-                "name": "gravel",
-                "metadata": 0,
-                "weight": 975
+                "name": "enviromine:flammablecoal",
+                "weight": 90
             },
             {
-                "name": "TConstruct:GravelOre",
-                "metadata": 0,
-                "weight": 5
-            },
-            {
-                "name": "TConstruct:GravelOre",
-                "metadata": 1,
-                "weight": 5
-            },
-            {
-                "name": "TConstruct:GravelOre",
-                "metadata": 2,
-                "weight": 5
-            },
-            {
-                "name": "TConstruct:GravelOre",
-                "metadata": 3,
-                "weight": 5
-            },
-            {
-                "name": "TConstruct:GravelOre",
-                "metadata": 4,
-                "weight": 5
+                "name": "PoorOres:poor_coal_ore",
+                "weight": 10
             }
         ],
         "material": "stone",
         "clusterSize": 32,
-        "numClusters": 10,
-        "minHeight": 20,
-        "maxHeight": 128,
-        "retrogen": "true",
+        "numClusters": 96,
+        "chunkChance": 128,
+        "minHeight": 48,
+        "veinHeight": 16,
+        "veinDiameter": 96,
+        "verticalDensity": 96,
+        "horizontalDensity": 8,
+        "retrogen": false,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
-        ]
-    },
-    "coal": {
-        "template": "uniform",
-        "block": "coal_ore",
-		"material": "stone",
-        "clusterSize": 16,
-        "numClusters": 16,
-        "minHeight": 1,
-        "maxHeight": 128,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
+            1,
+            7
+        ],
+        "enabled": false
     },
     "iron": {
-        "template": "normal",
+        "template": "fractal",
         "block": [
             {
                 "name": "iron_ore",
-                "metadata": 0,
-                "weight": 990
+                "weight": 900
+            },
+            {
+                "name": "PoorOres:poor_iron_ore",
+                "weight": 85
             },
             {
                 "name": "BiomesOPlenty:gemOre",
@@ -98,55 +87,158 @@
                 "name": "BiomesOPlenty:gemOre",
                 "metadata": 8,
                 "weight": 5
+            },
+            {
+                "name": "Metallurgy:base.ore",
+                "metadata": 2,
+                "weight": 5
             }
         ],
         "material": "stone",
-        "clusterSize": 8,
-        "numClusters": 8,
-        "meanHeight": 32,
-        "maxVariance": 12,
-        "retrogen": "true",
+        "clusterSize": 32,
+        "numClusters": 144,
+        "chunkChance": 256,
+        "minHeight": 24,
+        "veinHeight": 32,
+        "veinDiameter": 96,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
-        ]
+            1,
+            7
+        ],
+        "enabled": false
     },
     "gold": {
-        "template": "normal",
-        "block": "gold_ore",
+        "template": "fractal",
+        "block": [
+            {
+                "name": "gold_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_gold_ore",
+                "weight": 10
+            }
+        ],
         "material": "stone",
-        "clusterSize": 4,
-        "numClusters": 4,
-        "meanHeight": 18,
-        "maxVariance": 6,
-        "retrogen": "true",
+        "clusterSize": 16,
+        "numClusters": 96,
+        "chunkChance": 128,
+        "minHeight": 16,
+        "veinHeight": 16,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
-        ]
+            1,
+            7
+        ],
+        "enabled": false
     },
     "redstone": {
-        "template": "normal",
-        "block": "redstone_ore",
+        "template": "fractal",
+        "block": [
+            {
+                "name": "redstone_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_redstone_ore",
+                "weight": 10
+            }
+        ],
         "material": "stone",
-        "clusterSize": 4,
-        "numClusters": 8,
-        "meanHeight": 13,
-        "maxVariance": 6,
-        "retrogen": "true",
+        "clusterSize": 32,
+        "numClusters": 96,
+        "chunkChance": 128,
+        "minHeight": 1,
+        "veinHeight": 16,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 4,
+        "retrogen": false,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
-        ]
+            1,
+            7
+        ],
+        "enabled": false
+    },
+    "lapis": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "lapis_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_lapis_ore",
+                "weight": 10
+            }
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 64,
+        "chunkChance": 128,
+        "minHeight": 1,
+        "veinHeight": 24,
+        "veinDiameter": 64,
+        "verticalDensity": 24,
+        "horizontalDensity": 8,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7
+        ],
+        "enabled": false
+    },
+    "quartz": {
+        "template": "fractal",
+        "block": [
+            {
+                "name": "quartz_ore",
+                "weight": 90
+            },
+            {
+                "name": "PoorOres:poor_quartz_ore",
+                "weight": 10
+            }
+        ],
+        "material": "netherrack",
+        "clusterSize": 32,
+        "numClusters": 144,
+        "chunkChance": 192,
+        "minHeight": 32,
+        "veinHeight": 64,
+        "veinDiameter": 64,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": false,
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ],
+        "enabled": false
     },
     "diamond": {
         "template": "uniform",
@@ -156,46 +248,15 @@
         "numClusters": 1,
         "minHeight": 1,
         "maxHeight": 16,
-        "retrogen": "true",
+        "retrogen": true,
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
-        ]
-    },
-    "lapis": {
-        "template": "normal",
-        "block": "lapis_ore",
-        "material": "stone",
-        "clusterSize": 8,
-        "numClusters": 4,
-        "meanHeight": 15,
-        "maxVariance": 14,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "quartz": {
-        "template": "uniform",
-        "block": "quartz_ore",
-        "material": "netherrack",
-        "clusterSize": 12,
-        "numClusters": 16,
-        "minHeight": 10,
-        "maxHeight": 118,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            -1
-        ]
+            1,
+            7
+        ],
+        "enabled": false
     }
 }

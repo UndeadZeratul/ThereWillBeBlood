@@ -1,0 +1,19 @@
+{
+    "_name": "PoorOres:poor_potash_ore",
+    "drops": [
+        {
+            "function": "!if_silk_touch",
+            "count": 1.0,
+            "functions": [
+                {
+                    "function": "default",
+                    "value": false
+                },
+                {
+                    "function": "add",
+                    "id": "PoorOres:potash_dustTiny"
+                }
+            ]
+        }
+    ]
+}
