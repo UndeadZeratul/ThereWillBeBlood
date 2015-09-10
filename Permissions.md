@@ -6,7 +6,6 @@
 [Item Physics Notification]:https://i.imgur.com/SruHzlI.png
 [Somnia's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291170
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
-[Tinkers' Defense Curseforge Page]:http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense
 [TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
 
 - **Agricraft** by: *InfinityRaider
@@ -85,8 +84,8 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Dense Ores** by: *RWTema*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Direction HUD** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -199,18 +198,15 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **PneumaticCraft** by: *MineMaarten*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **PoorOres** by: *Xexanos*
-  - **Private Packs**: Open: [PoorOres Curseforge Page]
-  - **Public Packs** : Open: [PoorOres Curseforge Page]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Primitive Mobs** by: *Davetx0*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Random Things** by: *Lumien*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **ServerTools** by: *matthewprenger*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Somnia** by: *Kingrunes*
@@ -240,15 +236,9 @@
 - **Thermal Foundation** by: *TeamCoFH*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **TiCTooltips** by: *Squeek502*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **Tinkers' Construct** by: *Boni, mDiyo*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Tinkers' Defense** by: *Lance5057*
-  - **Private Packs**: Open: [Tinkers' Defense Curseforge Page]
-  - **Public Packs** : Open: [Tinkers' Defense Curseforge Page]
 - **Tinkers Steelworks** by: *Ephys, Toops*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
