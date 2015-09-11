@@ -71,6 +71,12 @@ Reference Spreadsheet
 ===
 I've gone ahead and made a spreadsheet of every ore/resource in TWBB, as well as their equipment statistics, [here](https://drive.google.com/open?id=1l5xgq9EPYF-3owYx854fy4aVWIVfcB76Hcx0-4cm_kA).
 
+Modpack Requirements
+===
+TWBB requires Java 8 to run, due to the inclusion of TNT Utils.  If you can't or don't want to use Java 8, you'll have to disable TNT Utils for TWBB to run normally.
+
+Other than that, The pack runs well on 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
+
 Installation
 ===
 This modpack is currently hosted on the Technic Launcher as well as the Feed The Beast Launcher and Curse Voice Launcher.
