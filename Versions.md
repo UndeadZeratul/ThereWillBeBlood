@@ -6,14 +6,14 @@ Current API Versions
 =
 - **AppleCore** v1.1.0 by squeek
 - **Aroma1997Core** v1.0.2.15 by Aroma1997, Schillaa
-- **asielib** v0.4.0 by asiekierka, Vexatos
+- **asielib** v0.4.2 by asiekierka, Vexatos
 - **bspkrsCore** v6.16 by DaftPVF, bspkrs
-- **CodeChicken Core** v1.0.6.44 by ChickenBones
+- **CodeChicken Core** v1.0.7.47 by ChickenBones
 - **CoFH Core** v1.7.10R3.0.3 by Team CoFH
-- **Cookie Core** v1.3.1 by Ephys
+- **Cookie Core** v1.4.0 by Ephys
 - **CreativeCore** v1.0 by CreativeMD
-- **Forge Microblocks** v1.2.0.344
-- **Forge Multipart** v1.2.0.344
+- **Forge Microblocks** v1.2.0.345
+- **Forge Multipart** v1.2.0.345
 - **INpureCore** v1.7.10R1.0.0B9
 - **LunatriusCore** v1.1.2.21 by Lunatrius
 - **Mantle** v1.7.10-0.3.2.jenkins184
@@ -59,7 +59,7 @@ Current Mod Versions
 - **Natural Absorption** v1.2.1 by FatherToast
 - **NEI Integration** v1.0.12 by tonius11
 - **Nether Ores** v1.7.10R2.3.0 by PowerCrystals, TehKrush, AtomicStryker, skyboy026
-- **Not Enough Items** v1.0.4.107 by ChickenBones
+- **Not Enough Items** v1.0.5.118 by ChickenBones
 - **OpenEye** v0.6 by boq, Mikee
 - **Pam's HarvestCraft** v1.7.10j by Pamela Collins
 - **Pam's Temperate Plants** v1.7.2b
@@ -79,7 +79,7 @@ Current Mod Versions
 - **The Twilight Forest** v2.3.7
 - **Thermal Foundation** v1.7.10R1.2.0 by Team CoFH
 - **Tinkers' Construct** v1.7.10-1.8.7.build979 by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
-- **Tinkers' Steelworks** v1.7.10-1.1.0 by Toops, Ephys
+- **Tinkers' Steelworks** v1.7.10-1.1.1 by Toops, Ephys
 - **TNTUtils** v1.0.2-beta by ljfa
 - **TooMuchLoot** v4.0.0
 - **Waila** v1.5.10
