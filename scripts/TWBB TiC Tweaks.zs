@@ -81,7 +81,7 @@ var nickelOre                 = <ThermalFoundation:Ore:4>;
 
 # Dense Ores
 var denseIronOre           = <denseores:block0:0>;
-var denseGoldOre           = <denseores:block0:0>;
+var denseGoldOre           = <denseores:block0:1>;
 var denseZincOre           = <denseores:block0:8>;
 var denseCopperOre         = <denseores:block0:15>;
 var denseTinOre            = <denseores:block1:0>;
