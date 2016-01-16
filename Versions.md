@@ -18,7 +18,7 @@ Current API Versions
 - **LunatriusCore** v1.1.2.21 by Lunatrius
 - **Mantle** v1.7.10-0.3.2.jenkins184
 - **Metallurgy Core** v4.0.4 by Team Metallurgy
-- **TNTUtils Core** v1.0.2-beta by ljfa
+- **TNTUtils Core** v1.1-beta by ljfa
 
 Current Mod Versions
 =
@@ -80,7 +80,7 @@ Current Mod Versions
 - **Thermal Foundation** v1.7.10R1.2.0 by Team CoFH
 - **Tinkers' Construct** v1.7.10-1.8.7.build979 by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
 - **Tinkers' Steelworks** v1.7.10-1.1.1 by Toops, Ephys
-- **TNTUtils** v1.0.2-beta by ljfa
+- **TNTUtils** v1.1-beta by ljfa
 - **TooMuchLoot** v4.0.0
 - **Waila** v1.5.10
 - **weather2** v2.3.6
