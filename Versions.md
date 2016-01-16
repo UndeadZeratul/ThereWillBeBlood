@@ -18,6 +18,7 @@ Current API Versions
 - **LunatriusCore** v1.1.2.21 by Lunatrius
 - **Mantle** v1.7.10-0.3.2.jenkins184
 - **Metallurgy Core** v4.0.4 by Team Metallurgy
+- **SomniaCore** v1.3.1.1 by Kingrunes
 - **TNTUtils Core** v1.1-beta by ljfa
 
 Current Mod Versions
@@ -68,8 +69,7 @@ Current Mod Versions
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
 - **RPGAdvMod** v1.0.0
-- **Somnia** v-au by Kingrunes
-- **SomniaCore** v1.3.1.1 by Kingrunes
+- **Somnia** v1.4.8.55 by Kingrunes
 - **Special AI** v1.1.1 by FatherToast
 - **Stalker Creepers** v1.0.9 by AtomicStryker
 - **Special Mobs** v3.2.0 by FatherToast
