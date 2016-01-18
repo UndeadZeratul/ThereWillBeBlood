@@ -38,6 +38,7 @@ Current Mod Versions
 - **Creeper Awareness** v2.0 by Elix_x
 - **Dark Menagerie** v1.0 ny RWTema
 - **Deadly World** v1.0.2 by FatherToast
+- **Dimensional Doors** v2.2.5-test9 by CannibalVox, StevenRS11, SenseiKiwi
 - **Dense Ores** v1.0 by RWTema
 - **Hardcore Ender Expansion** v1.8.3 by chylex
 - **Doomlike Dungeons** v1.8.5
