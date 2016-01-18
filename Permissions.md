@@ -6,6 +6,7 @@
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
 [NincraftLib License]: https://github.com/Nincraft/NincraftLib/blob/master/LICENSE
 [TWBB Tweaks License]: https://github.com/UndeadZeratul/TWBB-Tweaks/blob/master/LICENSE
+[Ye Olde Tanks License]: https://github.com/shadowfacts/YeOldeTanks/blob/master/LICENSE.md
 
 - **Agricraft** by: *InfinityRaider*
   - **Private Packs**: Open: [FTB Permission Website]
@@ -277,6 +278,9 @@
 - **YAMPST** by: *bilde2910*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Ye Olde Tanks** by: *Shadowfacts*
+  - **Private Packs**: Open: [Ye Olde Tanks License]
+  - **Public Packs** : Open: [Ye Olde Tanks License]
 - **Zombie Awareness** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]

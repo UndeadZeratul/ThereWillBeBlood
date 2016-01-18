@@ -89,7 +89,8 @@ Current Mod Versions
 - **Waila** v1.5.10
 - **weather2** v2.3.6
 - **What Are We Looking At** v1.3.1 by Darkhax
-- **YAMPST** v1.3.6 by bilde2910, Commador 
+- **YAMPST** v1.3.6 by bilde2910, Commador
+- **Ye Olde Tanks** v1.4.5 by Shadowfacts
 - **Zombie Awareness** v1.9.5
 
 Optional Client Mod Versions

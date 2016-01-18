@@ -72,7 +72,9 @@ I've gone ahead and made a spreadsheet of every ore/resource in TWBB, as well as
 
 Modpack Requirements
 ===
-TWBB requires Java 7 to run with 2GBs of RAM and 128MBs allocated to the Permgen, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
+TWBB requires Java 8 to run due to "Ye Olde Tanks".  If you cannot or do not want to run with Java 8, you'll have to disable or remove that mod.  If Java 8 is not being used, be sure to allocate at least 128MBs to the Permgen.
+
+Otherwise, the pack runs well with 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
 
 Installation
 ===
