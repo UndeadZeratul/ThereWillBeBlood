@@ -75,7 +75,6 @@ var netherLeadOre             = <NetherOres:tile.netherores.ore.0:10>;
 var netherPlatinumOre         = <NetherOres:tile.netherores.ore.1:0>;
 var netherNickelOre           = <NetherOres:tile.netherores.ore.1:1>;
 var aluminumOre               = <TConstruct:SearedBrick:5>;
-var octineOre                 = <thebetweenlands:octineOre>;
 var leadOre                   = <ThermalFoundation:Ore:3>;
 var nickelOre                 = <ThermalFoundation:Ore:4>;
 
@@ -93,12 +92,10 @@ var denseAluminumOre       = <denseores:block1:5>;
 var denseEximiteOre        = <denseores:block1:6>;
 var denseMeutoiteOre       = <denseores:block1:7>;
 var denseAdamantineOre     = <denseores:block1:8>;
-var denseOctineOre         = <denseores:block1:11>;
 
 # Nuggets
 var endiumNugget              = <aobd:nuggetHeeEndium>;
 var meteorNugget              = <aobd:nuggetMeteorite>;
-var octineNugget              = <aobd:nuggetOctine>;
 var sanguiniteNugget          = <aobd:nuggetSanguinite>;
 var goldNugget                = <minecraft:gold_nugget>;
 var adamantineNugget          = <PoorOres:adamantine_nugget>;
@@ -140,7 +137,6 @@ var aluminumIngot             = <TConstruct:materials:11>;
 var bronzeIngot               = <TConstruct:materials:13>;
 var aluminumBrassIngot        = <TConstruct:materials:14>;
 var steelIngot                = <TConstruct:materials:16>;
-var octineIngot               = <thebetweenlands:null:17>;
 var copperIngot               = <ThermalFoundation:material:64>;
 var silverIngot               = <ThermalFoundation:material:66>;
 var leadIngot                 = <ThermalFoundation:material:67>;
@@ -180,7 +176,6 @@ var ironBlock                 = <minecraft:iron_block>;
 var redstoneBlock             = <minecraft:redstone_block>;
 var aluminumBlock             = <TConstruct:MetalBlock:6>;
 var aluminumBrassBlock        = <TConstruct:MetalBlock:7>;
-var octineBlock               = <thebetweenlands:octineBlock>;
 var leadBlock                 = <ThermalFoundation:Storage:3>;
 var nickelBlock               = <ThermalFoundation:Storage:4>;
 var invarBlock                = <ThermalFoundation:Storage:8>;
@@ -247,7 +242,6 @@ var platinumHelmet            = <Metallurgy:metallurgy.platinum.helmet>;
 var brassHelmet               = <Metallurgy:metallurgy.brass.helmet>;
 var electrumHelmet            = <Metallurgy:metallurgy.electrum.helmet>;
 var meteorHelmet              = <meteors:MetHelm>;
-var octineHelmet              = <thebetweenlands:octineHelmet>;
 var tinHelmet                 = <ThermalFoundation:armor.helmetTin>;
 var leadHelmet                = <ThermalFoundation:armor.helmetLead>;
 var nickelHelmet              = <ThermalFoundation:armor.helmetNickel>;
@@ -271,7 +265,6 @@ var platinumChestplate        = <Metallurgy:metallurgy.platinum.chestplate>;
 var brassChestplate           = <Metallurgy:metallurgy.brass.chestplate>;
 var electrumChestplate        = <Metallurgy:metallurgy.electrum.chestplate>;
 var meteorChestplate          = <meteors:MetBody>;
-var octineChestplate          = <thebetweenlands:octineChestplate>;
 var tinChestplate             = <ThermalFoundation:armor.plateTin>;
 var leadChestplate            = <ThermalFoundation:armor.plateLead>;
 var nickelChestplate          = <ThermalFoundation:armor.plateNickel>;
@@ -295,7 +288,6 @@ var platinumLeggings          = <Metallurgy:metallurgy.platinum.leggings>;
 var brassLeggings             = <Metallurgy:metallurgy.brass.leggings>;
 var electrumLeggings          = <Metallurgy:metallurgy.electrum.leggings>;
 var meteorLeggings            = <meteors:MetLegs>;
-var octineLeggings            = <thebetweenlands:octineLeggings>;
 var tinLeggings               = <ThermalFoundation:armor.legsTin>;
 var leadLeggings              = <ThermalFoundation:armor.legsLead>;
 var nickelLeggings            = <ThermalFoundation:armor.legsNickel>;
@@ -319,7 +311,6 @@ var platinumBoots             = <Metallurgy:metallurgy.platinum.boots>;
 var brassBoots                = <Metallurgy:metallurgy.brass.boots>;
 var electrumBoots             = <Metallurgy:metallurgy.electrum.boots>;
 var meteorBoots               = <meteors:MetBoots>;
-var octineBoots               = <thebetweenlands:octineBoots>;
 var tinBoots                  = <ThermalFoundation:armor.bootsTin>;
 var leadBoots                 = <ThermalFoundation:armor.bootsLead>;
 var nickelBoots               = <ThermalFoundation:armor.bootsNickel>;
@@ -342,7 +333,6 @@ var platinumPickaxe           = <Metallurgy:platinum.pickaxe>;
 var brassPickaxe              = <Metallurgy:brass.pickaxe>;
 var electrumPickaxe           = <Metallurgy:electrum.pickaxe>;
 var meteorPickaxe             = <meteors:MetPick>;
-var octinePickaxe             = <thebetweenlands:octinePickaxe>;
 var tinPickaxe                = <ThermalFoundation:tool.pickaxeTin>;
 var leadPickaxe               = <ThermalFoundation:tool.pickaxeLead>;
 var nickelPickaxe             = <ThermalFoundation:tool.pickaxeNickel>;
@@ -365,7 +355,6 @@ var platinumSword             = <Metallurgy:platinum.sword>;
 var brassSword                = <Metallurgy:brass.sword>;
 var electrumSword             = <Metallurgy:electrum.sword>;
 var meteorSword               = <meteors:MetSword>;
-var octineSword               = <thebetweenlands:octineSword>;
 var tinSword                  = <ThermalFoundation:tool.swordTin>;
 var leadSword                 = <ThermalFoundation:tool.swordLead>;
 var nickelSword               = <ThermalFoundation:tool.swordNickel>;
@@ -388,7 +377,6 @@ var platinumAxe               = <Metallurgy:platinum.axe>;
 var brassAxe                  = <Metallurgy:brass.axe>;
 var electrumAxe               = <Metallurgy:electrum.axe>;
 var meteorAxe                 = <meteors:MetAxe>;
-var octineAxe                 = <thebetweenlands:octineSword>;
 var tinAxe                    = <ThermalFoundation:tool.axeTin>;
 var leadAxe                   = <ThermalFoundation:tool.axeLead>;
 var nickelAxe                 = <ThermalFoundation:tool.axeNickel>;
@@ -411,7 +399,6 @@ var platinumShovel            = <Metallurgy:platinum.shovel>;
 var brassShovel               = <Metallurgy:brass.shovel>;
 var electrumShovel            = <Metallurgy:electrum.shovel>;
 var meteorShovel              = <meteors:MetSpade>;
-var octineShovel              = <thebetweenlands:octineShovel>;
 var tinShovel                 = <ThermalFoundation:tool.shovelTin>;
 var leadShovel                = <ThermalFoundation:tool.shovelLead>;
 var nickelShovel              = <ThermalFoundation:tool.shovelNickel>;
@@ -1158,7 +1145,6 @@ var moltenMeteor              = <liquid:meteorite>;
 var moltenMeutoite            = <liquid:meutoite>;
 var moltenNickel              = <liquid:nickel.molten>;
 var moltenObsidian            = <liquid:obsidian.molten>;
-var moltenOctine              = <liquid:octine>;
 var moltenPigIron             = <liquid:pigiron.molten>;
 var moltenPlatinum            = <liquid:platinum.molten>;
 var moltenPyrotheum           = <liquid:pyrotheum>;
@@ -1199,7 +1185,6 @@ var anyNetherPlatinumOre      = <ore:oreNetherPlatinum>;
 var anyNetherSilverOre        = <ore:oreNetherSilver>;
 var anyNetherTinOre           = <ore:oreNetherTin>;
 var anyNickelOre              = <ore:oreNickel>;
-var anyOctineOre              = <ore:oreOctine>;
 var anyPlatinumOre            = <ore:orePlatinum>;
 var anySanguiniteOre          = <ore:oreSanguinite>;
 var anySilverOre              = <ore:oreSilver>;
@@ -1216,7 +1201,6 @@ var anyDenseIronOre           = <ore:denseoreIron>;
 var anyDenseLeadOre           = <ore:denseoreLead>;
 var anyDenseMeutoiteOre       = <ore:denseoreMeutoite>;
 var anyDenseNickelOre         = <ore:denseoreNickel>;
-var anyDenseOctineOre         = <ore:denseoreOctine>;
 var anyDensePlatinumOre       = <ore:denseorePlatinum>;
 var anyDenseSilverOre         = <ore:denseoreSilver>;
 var anyDenseTinOre            = <ore:denseoreTin>;
@@ -1245,7 +1229,6 @@ var anyManyullynDust          = <ore:dustManyullyn>;
 var anyMeteorDust             = <ore:dustMeteorite>;
 var anyMeutoiteDust           = <ore:dustMeutoite>;
 var anyNickelDust             = <ore:dustNickel>;
-var anyOctineDust             = <ore:dustOctine>;
 var anyPlatinumDust           = <ore:dustPlatinum>;
 var anySanguiniteDust         = <ore:dustSanguinite>;
 var anySilverDust             = <ore:dustSilver>;
@@ -1276,7 +1259,6 @@ var anyManyullynIngot         = <ore:ingotManyullyn>;
 var anyMeteorIngot            = <ore:ingotMeteorite>;
 var anyMeutoiteIngot          = <ore:ingotMeutoite>;
 var anyNickelIngot            = <ore:ingotNickel>;
-var anyOctineIngot            = <ore:ingotOctine>;
 var anyPlatinumIngot          = <ore:ingotPlatinum>;
 var anySanguiniteIngot        = <ore:ingotSanguinite>;
 var anySilverIngot            = <ore:ingotSilver>;
@@ -1315,7 +1297,6 @@ var anyManyullynNugget        = <ore:nuggetManyullyn>;
 var anyMeteorNugget           = <ore:nuggetMeteorite>;
 var anyMeutoiteNugget         = <ore:nuggetMeutoite>;
 var anyNickelNugget           = <ore:nuggetNickel>;
-var anyOctineNugget           = <ore:nuggetOctine>;
 var anyPlatinumNugget         = <ore:nuggetPlatinum>;
 var anySanguiniteNugget       = <ore:nuggetSanguinite>;
 var anySilverNugget           = <ore:nuggetSilver>;
@@ -1347,7 +1328,6 @@ var anyManyullynBlock         = <ore:blockManyullyn>;
 var anyMeteorBlock            = <ore:blockMeteorite>;
 var anyMeutoiteBlock          = <ore:blockMeutoite>;
 var anyNickelBlock            = <ore:blockNickel>;
-var anyOctineBlock            = <ore:blockOctine>;
 var anyPlatinumBlock          = <ore:blockPlatinum>;
 var anySanguiniteBlock        = <ore:blockSanguinite>;
 var anySilverBlock            = <ore:blockSilver>;
@@ -1369,7 +1349,6 @@ var anyLeadOreberry           = <ore:oreberryLead>;
 var anyMeteorOreberry         = <ore:oreberryMeteorite>;
 var anyMeutoiteOreberry       = <ore:oreberryMeutoite>;
 var anyNickelOreberry         = <ore:oreberryNickel>;
-var anyOctineOreberry         = <ore:oreberryOctine>;
 var anyPlatinumOreberry       = <ore:oreberryPlatinum>;
 var anySanguiniteOreberry     = <ore:oreberrySanguinite>;
 var anySilverOreberry         = <ore:oreberrySilver>;
@@ -1403,7 +1382,6 @@ var allNuggets                = [
     anyMeteorNugget,
     anyMeutoiteNugget,
     anyNickelNugget,
-    anyOctineNugget,
     anyPlatinumNugget,
     anySanguiniteNugget,
     anySilverNugget,
@@ -1430,7 +1408,6 @@ var allIngots                 = [
     anyMeteorIngot,
     anyMeutoiteIngot,
     anyNickelIngot,
-    anyOctineIngot,
     anyPlatinumIngot,
     anySanguiniteIngot,
     anySilverIngot,
@@ -1458,7 +1435,6 @@ var allBlocks                 = [
     anyMeteorBlock,
     anyMeutoiteBlock,
     anyNickelBlock,
-    anyOctineBlock,
     anyPlatinumBlock,
     anySanguiniteBlock,
     anySilverBlock,
@@ -1480,7 +1456,6 @@ var allOreberries             = [
     anyMeteorOreberry,
     anyMeutoiteOreberry,
     anyNickelOreberry,
-    anyOctineOreberry,
     anyPlatinumOreberry,
     anySanguiniteOreberry,
     anySilverOreberry,
@@ -1510,7 +1485,6 @@ var moltenMetals              = [
     moltenAluminumBrass,
     moltenBlackSteel,
     moltenSanguinite,
-    moltenOctine,
     moltenEndium,
     moltenMeteor,
     moltenDesichalkos
@@ -1882,8 +1856,6 @@ var allFurnaceRemovals        = [
     anyMeutoiteNugget,
     anyNickelIngot,
     anyNickelNugget,
-    anyOctineIngot,
-    anyOctineNugget,
     anyPlatinumIngot,
     anyPlatinumNugget,
     anySanguiniteIngot,
@@ -1998,10 +1970,6 @@ var smelteryRemovals          = [
     anyNickelIngot,
     anyNickelNugget,
     anyNickelOre,
-    anyOctineBlock,
-    anyOctineDust,
-    anyOctineIngot,
-    anyOctineNugget,
     anyPlatinumBlock,
     anyPlatinumDust,
     anyPlatinumGear,
@@ -2154,10 +2122,6 @@ var highOvenOreDictRemovals   = [
     anyNickelIngot,
     anyNickelNugget,
     anyNickelOre,
-    anyOctineBlock,
-    anyOctineDust,
-    anyOctineIngot,
-    anyOctineNugget,
     anyPlatinumBlock,
     anyPlatinumDust,
     anyPlatinumGear,
@@ -2876,45 +2840,6 @@ highoven.addMeltable(copperHoe,         false, moltenCopper * 288,  1080);
 highoven.addMeltable(copperShears,      false, moltenCopper * 288,  1080);
 highoven.addMeltable(copperFishingPole, false, moltenCopper * 288,  1080);
 highoven.addMeltable(copperBow,         false, moltenCopper * 288,  1080);
-
-# Octine: 1280*C
-Smeltery.addMelting(anyOctineOre,      moltenOctine * 144,  1280, octineOre);
-Smeltery.addMelting(anyDenseOctineOre, moltenOctine * 432,  1280, denseOctineOre);
-Smeltery.addMelting(anyOctineNugget,   moltenOctine * 16,   1280, octineBlock);
-Smeltery.addMelting(anyOctineOreberry, moltenOctine * 16,   1280, octineBlock);
-Smeltery.addMelting(anyOctineIngot,    moltenOctine * 144,  1280, octineBlock);
-Smeltery.addMelting(anyOctineBlock,    moltenOctine * 1296, 1280, octineBlock);
-Smeltery.addMelting(octineHelmet,      moltenOctine * 720,  1280, octineBlock);
-Smeltery.addMelting(octineChestplate,  moltenOctine * 1152, 1280, octineBlock);
-Smeltery.addMelting(octineLeggings,    moltenOctine * 1008, 1280, octineBlock);
-Smeltery.addMelting(octineBoots,       moltenOctine * 576,  1280, octineBlock);
-Smeltery.addMelting(octinePickaxe,     moltenOctine * 432,  1280, octineBlock);
-Smeltery.addMelting(octineSword,       moltenOctine * 288,  1280, octineBlock);
-Smeltery.addMelting(octineAxe,         moltenOctine * 288,  1280, octineBlock);
-Smeltery.addMelting(octineShovel,      moltenOctine * 144,  1280, octineBlock);
-for ore in anyOctineOre.items {
-    highoven.addMeltable(ore,    true,  moltenOctine * 144,  1280);
-}
-for ore in anyDenseOctineOre.items {
-    highoven.addMeltable(ore,    true,  moltenOctine * 432,  1280);
-}
-for nugget in anyOctineNugget.items {
-    highoven.addMeltable(nugget, false, moltenOctine * 16,   1280);
-}
-for ingot in anyOctineIngot.items {
-    highoven.addMeltable(ingot,  false, moltenOctine * 144,  1280);
-}
-for block in anyOctineBlock.items {
-    highoven.addMeltable(block,  false, moltenOctine * 1296, 1280);
-}
-highoven.addMeltable(octineHelmet,     false, moltenOctine * 720,  1280);
-highoven.addMeltable(octineChestplate, false, moltenOctine * 1152, 1280);
-highoven.addMeltable(octineLeggings,   false, moltenOctine * 1008, 1280);
-highoven.addMeltable(octineBoots,      false, moltenOctine * 576,  1280);
-highoven.addMeltable(octinePickaxe,    false, moltenOctine * 432,  1280);
-highoven.addMeltable(octineSword,      false, moltenOctine * 288,  1280);
-highoven.addMeltable(octineAxe,        false, moltenOctine * 288,  1280);
-highoven.addMeltable(octineShovel,     false, moltenOctine * 144,  1280);
 
 
 # Black Steel: 1400*C
