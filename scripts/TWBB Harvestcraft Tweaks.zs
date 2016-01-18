@@ -96,33 +96,12 @@ var fishCooked  = <ore:listAllfishcooked>;
 fishCooked.add(<harvestcraft:crayfishcookedItem>);
 fishCooked.add(<minecraft:cooked_fished:1>);
 fishCooked.add(<Steamcraft:steamedFish>);
-fishCooked.add(<thebetweenlands:anglerMeatCooked>);
-fishCooked.add(<thebetweenlands:snailFleshCooked>);
-
-# Raw Fish
-var fishRaw     = <ore:listAllfishraw>;
-
-fishRaw.add(<thebetweenlands:anglerMeatRaw>);
-fishRaw.add(<thebetweenlands:snailFleshRaw>);
-fishRaw.add(<thebetweenlands:siltCrabClaw>);
-fishRaw.add(<thebetweenlands:crabstick>);
-
-# Cooked Frog
-var frogCooked = <ore:foodFrogcooked>;
-
-frogCooked.add(<thebetweenlands:frogLegsCooked>);
-
-# Raw Frog
-var frogRaw     = <ore:foodFrogRaw>;
-
-frogRaw.add(<thebetweenlands:frogLegsRaw>);
 
 # Fruit
 var fruit       = <ore:listAllfruit>;
 
 fruit.add(<BiomesOPlenty:food:8>);
 fruit.add(<Natura:saguaro.fruit>);
-fruit.add(<thebetweenlands:middleFruit>);
 
 # Berry
 var berry       = <ore:listAllberry>;
@@ -168,10 +147,6 @@ mushroom.add(<BiomesOPlenty:mushrooms:5>);
 mushroom.add(<Natura:Glowshroom:0>);
 mushroom.add(<Natura:Glowshroom:1>);
 mushroom.add(<Natura:Glowshroom:2>);
-mushroom.add(<thebetweenlands:blackHatMushroom>);
-mushroom.add(<thebetweenlands:bulbCappedMushroom>);
-mushroom.add(<thebetweenlands:flatHeadMushroom>);
-mushroom.add(<thebetweenlands:yellowDottedFungus>);
 
 # Soup
 var soup        = <ore:foodSoup>;
@@ -202,7 +177,6 @@ soup.add(<harvestcraft:lambbarleysoupItem>);
 soup.add(<harvestcraft:leekbaconsoupItem>);
 soup.add(<minecraft:mushroom_stew>);
 soup.add(<Natura:natura.stewbowl>);
-soup.add(<thebetweenlands:nettleSoup>);
 
 # Burger
 var burger      = <ore:foodBurger>;
@@ -382,9 +356,6 @@ jelly.add(<harvestcraft:raspberryjellyItem>);
 jelly.add(<harvestcraft:starfruitjellyItem>);
 jelly.add(<harvestcraft:strawberryjellyItem>);
 jelly.add(<harvestcraft:watermelonjellyItem>);
-jelly.add(<thebetweenlands:middleFruitJello>);
-jelly.add(<thebetweenlands:sapJello>);
-jelly.add(<thebetweenlands:sludgeJello>);
 
 # Pie
 var pie        = <ore:foodPie>;
@@ -405,7 +376,6 @@ pie.add(<harvestcraft:sweetpotatopieItem>);
 pie.add(<minecraft:pumpkin_pie>);
 pie.add(<swampmobs:mosspie>);
 pie.add(<TwilightForest:item.experiment115>);
-pie.add(<thebetweenlands:mincePie>);
 
 # Cake
 var cake       = <ore:foodCake>;
@@ -430,9 +400,6 @@ donut.add(<harvestcraft:cinnamonsugardonutItem>);
 donut.add(<harvestcraft:frosteddonutItem>);
 donut.add(<harvestcraft:jellydonutItem>);
 donut.add(<harvestcraft:powdereddonutItem>);
-donut.add(<thebetweenlands:reedDonut>);
-donut.add(<thebetweenlands:gertsDonut>);
-donut.add(<thebetweenlands:jamDonut>);
 
 # Pancakes
 var pancakes   = <ore:foodPancakes>;

@@ -13,7 +13,6 @@ var emptySocket            = <AWWayofTime:emptySocket>;
 var weakBloodShard         = <AWWayofTime:weakBloodShard>;
 var rubyBlock              = <BiomesOPlenty:gemOre:3>;
 var sanguiniteIngot        = <Metallurgy:sanguinite.ingot>;
-var lifeCrystal            = <thebetweenlands:null:11>;
 var carminite              = <TwilightForest:item.carminite>;
 
 # Blood Orbs
@@ -44,7 +43,6 @@ var leadOreberryBush       = <aobd:orebushLead>;
 var meteoriteOreberryBush  = <aobd:orebushMeteorite>;
 var meutoiteOreberryBush   = <aobd:orebushMeutoite>;
 var nickelOreberryBush     = <aobd:orebushNickel>;
-var octineOreberryBush     = <aobd:orebushOctine>;
 var platinumOreberryBush   = <aobd:orebushPlatinum>;
 var sanguiniteOreberryBush = <aobd:orebushSanguinite>;
 var silverOreberryBush     = <aobd:orebushSilver>;
@@ -75,7 +73,6 @@ var anyLeadBlock           = <ore:blockLead>;
 var anyMeteoriteBlock      = <ore:blockMeteorite>;
 var anyMeutoiteBlock       = <ore:blockMeutoite>;
 var anyNickelBlock         = <ore:blockNickel>;
-var anyOctineBlock         = <ore:blockOctine>;
 var anyPlatinumBlock       = <ore:blockPlatinum>;
 var anyRubyBlock           = <ore:blockRuby>;
 var anySanguiniteBlock     = <ore:blockSanguinite>;
@@ -109,7 +106,6 @@ var allOreberryBushes      = [
     meteoriteOreberryBush,
     meutoiteOreberryBush,
     nickelOreberryBush,
-    octineOreberryBush,
     platinumOreberryBush,
     sanguiniteOreberryBush,
     silverOreberryBush,
@@ -128,7 +124,6 @@ var allMetalBlocks         = [
     anyMeteoriteBlock,
     anyMeutoiteBlock,
     anyNickelBlock,
-    anyOctineBlock,
     anyPlatinumBlock,
     anySanguiniteBlock,
     anySilverBlock,
@@ -164,7 +159,7 @@ for ruby in anyRuby.items {
 
 # Apprentice Blood Orb
 Altar.removeRecipe(apprenticeBloodOrb);
-Altar.addRecipe(apprenticeBloodOrb, lifeCrystal, 2, 5000);
+#Altar.addRecipe(apprenticeBloodOrb, lifeCrystal, 2, 5000);
 
 # Magician's Blood Orb
 Altar.removeRecipe(magicianBloodOrb);

@@ -74,7 +74,6 @@ Current Mod Versions
 - **Stalker Creepers** v1.0.9 by AtomicStryker
 - **Special Mobs** v3.2.0 by FatherToast
 - **Stackie** v1.6.0.36 by Lunatrius
-- **The Betweenlands** v1.7.10-1.0
 - **The Spice of Life** v1.2.4 by squeek
 - **The Twilight Forest** v2.3.7
 - **Thermal Foundation** v1.7.10R1.2.0 by Team CoFH

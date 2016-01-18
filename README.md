@@ -42,7 +42,6 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 | Hepatizon | 1075 |
 | Copper | 1080 |
 | __Kerosene-Fueled Smeltery__ | __0 - 1500__ |
-| Octine | 1280 |
 | Black Steel | 1400 |
 | Iron | 1400 |
 | Invar | 1425 |

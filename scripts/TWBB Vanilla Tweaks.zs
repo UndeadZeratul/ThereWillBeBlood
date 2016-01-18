@@ -36,7 +36,6 @@ var anySulfurDust     = <ore:dustSulfur>;
 # Blocks
 var anySteelBlock     = <ore:blockSteel>;
 
-anySulfurDust.add(<thebetweenlands:null:24>);
 anySulfurDust.add(<Natura:barleyFood:4>);
 
 # ITEM LISTS
