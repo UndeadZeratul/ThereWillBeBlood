@@ -4,6 +4,8 @@
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
 [Item Physics Notification]:https://i.imgur.com/SruHzlI.png
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
+[NincraftLib License]: https://github.com/Nincraft/NincraftLib/blob/master/LICENSE
+[TWBB Tweaks License]: https://github.com/UndeadZeratul/TWBB-Tweaks/blob/master/LICENSE
 
 - **Agricraft** by: *InfinityRaider*
   - **Private Packs**: Open: [FTB Permission Website]
@@ -188,6 +190,9 @@
 - **Nether Ores** by: *skyboy026, powercrystals*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **NincraftLib** by: *Nincodedo, Undead_Zeratul*
+  - **Private Packs**: Open: [NincraftLib License]
+  - **Public Packs** : Open: [NincraftLib License]
 - **Not Enough Items** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -251,6 +256,9 @@
 - **Too Much Loot** by: *dmillerw*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **TWBB Tweaks** by: *Undead_Zeratul*
+  - **Private Packs**: Open: [TWBB Tweaks License]
+  - **Public Packs** : Open: [TWBB Tweaks License]
 - **Twilight Forest** by: *Benimatic*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]

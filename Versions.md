@@ -18,6 +18,7 @@ Current API Versions
 - **LunatriusCore** v1.1.2.21 by Lunatrius
 - **Mantle** v1.7.10-0.3.2.jenkins184
 - **Metallurgy Core** v4.0.4 by Team Metallurgy
+- **NincraftLib** v0.1.1+24 by Nincodedo, Undead_Zeratul
 - **SomniaCore** v1.3.1.1 by Kingrunes
 - **TNTUtils Core** v1.1-beta by ljfa
 
@@ -79,10 +80,11 @@ Current Mod Versions
 - **The Spice of Life** v1.2.4 by squeek
 - **The Twilight Forest** v2.3.7
 - **Thermal Foundation** v1.7.10R1.2.0 by Team CoFH
-- **Tinkers' Construct** v1.7.10-1.8.7.build979 by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
+- **Tinkers' Construct** v1.7.10-1.8.8.build991 by mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, boni
 - **Tinkers' Steelworks** v1.7.10-1.1.1 by Toops, Ephys
 - **TNTUtils** v1.1-beta by ljfa
 - **TooMuchLoot** v4.0.0
+- **TWBB Tweaks** v0.0.1 by Undead_Zeratul
 - **Waila** v1.5.10
 - **weather2** v2.3.6
 - **What Are We Looking At** v1.3.1 by Darkhax
