@@ -67,6 +67,9 @@
 - **CookieCore** by: *Ephys*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Cooking for Blockheads** by: *BlayTheNinth*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **CoroUtil** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
