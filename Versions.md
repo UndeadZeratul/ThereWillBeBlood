@@ -35,6 +35,7 @@ Current Mod Versions
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v0.1.2 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.3.3 by WayofTime
+- **Creeper Awareness** v2.0 by Elix_x
 - **Dark Menagerie** v1.0 ny RWTema
 - **Deadly World** v1.0.2 by FatherToast
 - **Dense Ores** v1.0 by RWTema

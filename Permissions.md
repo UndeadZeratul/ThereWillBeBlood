@@ -1,3 +1,4 @@
+[Creeper Awareness MCF Thread]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2328246
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
@@ -67,6 +68,9 @@
 - **CoroUtil** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Creeper Awareness** by: *elix_x*
+  - **Private Packs**: Open: [Creeper Awareness MCF Thread]
+  - **Public Packs** : Open: [Creeper Awareness MCF Thread]
 - **Damage Indicators Mod** by: *rich1051414*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
