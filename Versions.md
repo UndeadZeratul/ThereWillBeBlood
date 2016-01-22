@@ -6,7 +6,7 @@ Current API Versions
 =
 - **AppleCore** v1.1.0 by squeek
 - **Aroma1997Core** v1.7.10-1.0.2.16 by Aroma1997, Schillaa
-- **asielib** v0.4.2 by asiekierka, Vexatos
+- **asielib** v0.4.5 by asiekierka, Vexatos
 - **bspkrsCore** v6.16 by DaftPVF, bspkrs
 - **CodeChicken Core** v1.0.7.47 by ChickenBones
 - **CoFH Core** v1.7.10R3.0.3 by Team CoFH
@@ -32,7 +32,7 @@ Current Mod Versions
 - **Antique Atlas** v1.7.10-4.2.10
 - **AromaBackup** v1.7.10-0.0.0.6
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
-- **BetterStorage** v0.13.1.126 by copygirl, Vic Nightfall
+- **BetterStorage** v0.13.1.127 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v1.7.10-0.1.4 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.7.10-1.3.3-17 by WayofTime
