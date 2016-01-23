@@ -46,6 +46,7 @@ Current Mod Versions
 - **EnviroMine** v1.3.124 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
 - **Falling Meteors** v2.14.3
 - **Flaxbeard's Steam Power** v0.28.12 by SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
+- **Hammerz** v1.7.10-0.1.7.36 by VapourDrive
 - **Hardcore Ender Expansion** v1.7.10-1.8.5 by chylex
 - **Hunger Overhaul** v1.7.10-1.0.0.jenkins75 by iguana_man, Parker8283, progwml6, squeek502
 - **Iguana Tinker Tweaks** v1.7.10-2.1.5.140 by boni, iguana_man
