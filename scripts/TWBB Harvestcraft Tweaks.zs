@@ -53,5 +53,5 @@ var allDyes    = [
 # Nerf Candles
 for i, candle in candles {
     recipes.remove(candle);
-    #recipes.addShapeless(candle, [wax, mcString, allDyes[i]]);
+    recipes.addShapeless(candle, [wax, mcString, allDyes[i]]);
 }
