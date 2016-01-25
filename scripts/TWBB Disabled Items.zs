@@ -12,6 +12,7 @@ var deepTankController = <TSteelworks:HighOven:13>;
 var allDisabledItems   = [
     charcoalBlock,
     deepTankController,
+    <betterstorage:cardboardHoe>,
     <infernomobs:bucketpurelava>,
     <Metallurgy:alloyer>,
     <Metallurgy:crusher>,
