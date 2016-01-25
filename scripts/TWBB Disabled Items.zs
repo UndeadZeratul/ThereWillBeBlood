@@ -13,6 +13,7 @@ var allDisabledItems   = [
     charcoalBlock,
     deepTankController,
     <betterstorage:cardboardHoe>,
+    <harvestcraft:sink:*>,
     <infernomobs:bucketpurelava>,
     <Metallurgy:alloyer>,
     <Metallurgy:crusher>,
