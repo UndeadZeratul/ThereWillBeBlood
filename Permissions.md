@@ -1,20 +1,17 @@
-[Air Overhaul MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575?comment=45
-[AtomicStryker's License]:https://dl.dropboxusercontent.com/u/27836116/FTBPermissionsImages/advancedmachinesatomicstryker.png
+[Creeper Awareness MCF Thread]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2328246
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
+[Hammerz License]:https://github.com/VapourDrive/Hammerz/blob/master/LICENSE
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
 [Item Physics Notification]:https://i.imgur.com/SruHzlI.png
-[Somnia's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291170
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
-[Tinkers' Defense Curseforge Page]:http://minecraft.curseforge.com/mc-mods/226910-tinkers-defense
-[TNTUtils MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2347717-tntutils-control-your-explosions
+[NincraftLib License]: https://github.com/Nincraft/NincraftLib/blob/master/LICENSE
+[TWBB Tweaks License]: https://github.com/UndeadZeratul/TWBB-Tweaks/blob/master/LICENSE
+[Ye Olde Tanks License]: https://github.com/shadowfacts/YeOldeTanks/blob/master/LICENSE.md
 
-- **Agricraft** by: *InfinityRaider
+- **Agricraft** by: *InfinityRaider*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Air Overhaul** by: *Mark719*
-  - **Private Packs**: Open: [Air Overhaul MCF Thread]
-  - **Public Packs** : Open: [Air Overhaul MCF Thread]
 - **Alternate Terrain Generation** by: *TTFTCUTS*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -55,8 +52,8 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Block Properties** by: *FatherToast*
-  - **Private Packs**: Open: [FatherToast's MCF Thread]
-  - **Public Packs** : Open: [FatherToast's MCF Thread]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Blood Magic** by: *WayOfTime*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -72,9 +69,15 @@
 - **CookieCore** by: *Ephys*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Cooking for Blockheads** by: *BlayTheNinth*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **CoroUtil** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Creeper Awareness** by: *elix_x*
+  - **Private Packs**: Open: [Creeper Awareness MCF Thread]
+  - **Public Packs** : Open: [Creeper Awareness MCF Thread]
 - **Damage Indicators Mod** by: *rich1051414*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -84,13 +87,22 @@
 - **Deadly World** by: *FatherToast*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Default World Generator** by: *Fireball 1725*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Dense Ores** by: *RWTema*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **Dimensional Doors** by: *StevenRS11*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Direction HUD** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Doomlike Dungeons** by: *BlackJar72*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **Drowning Overhaul** by: *Mark719*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Dynamic Lights** by: *AtomicStryker*
@@ -114,6 +126,9 @@
 - **Forge Multipart** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Hammerz** by: *VapourDrive*
+  - **Private Packs**: Open: [Hammerz License]
+  - **Public Packs** : Open: [Hammerz License]
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Notified: [HCEE Notification]
@@ -186,6 +201,9 @@
 - **Nether Ores** by: *skyboy026, powercrystals*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **NincraftLib** by: *Nincodedo, Undead_Zeratul*
+  - **Private Packs**: Open: [NincraftLib License]
+  - **Public Packs** : Open: [NincraftLib License]
 - **Not Enough Items** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -199,23 +217,20 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **PneumaticCraft** by: *MineMaarten*
-  - **Private Packs**: Open: [FTB Permission Spreadsheet]
-  - **Public Packs** : Open: [FTB Permission Spreadsheet]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **PoorOres** by: *Xexanos*
-  - **Private Packs**: Open: [PoorOres Curseforge Page]
-  - **Public Packs** : Open: [PoorOres Curseforge Page]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Primitive Mobs** by: *Davetx0*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Random Things** by: *Lumien*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **ServerTools** by: *matthewprenger*
+- **Somnia** by: *Kingrunes*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Somnia** by: *Kingrunes*
-  - **Private Packs**: Open: [Somnia's MCF Thread]
-  - **Public Packs** : Open: [Somnia's MCF Thread]
 - **Sound Filters** by: *Tmtravlr*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -232,32 +247,29 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Stalker Creepers** by: *AtomicStryker*
-  - **Private Packs**: Open: [AtomicStryker's License]
-  - **Public Packs** : Open: [AtomicStryker's License]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Status Effect HUD** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Thermal Foundation** by: *TeamCoFH*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **TiCTooltips** by: *Squeek502*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **Tinkers' Construct** by: *Boni, mDiyo*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Tinkers' Defense** by: *Lance5057*
-  - **Private Packs**: Open: [Tinkers' Defense Curseforge Page]
-  - **Public Packs** : Open: [Tinkers' Defense Curseforge Page]
 - **Tinkers Steelworks** by: *Ephys, Toops*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **TNTUtils** by: *ljfa*
-  - **Private Packs**: Open: [TNTUtils MCF Thread]
-  - **Public Packs** : Open: [TNTUtils MCF Thread]
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Too Much Loot** by: *dmillerw*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **TWBB Tweaks** by: *Undead_Zeratul*
+  - **Private Packs**: Open: [TWBB Tweaks License]
+  - **Public Packs** : Open: [TWBB Tweaks License]
 - **Twilight Forest** by: *Benimatic*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -270,6 +282,12 @@
 - **Weather** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **YAMPST** by: *bilde2910*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **Ye Olde Tanks** by: *Shadowfacts*
+  - **Private Packs**: Open: [Ye Olde Tanks License]
+  - **Public Packs** : Open: [Ye Olde Tanks License]
 - **Zombie Awareness** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]

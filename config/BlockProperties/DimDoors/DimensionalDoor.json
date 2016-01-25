@@ -1,0 +1,15 @@
+{
+  "_name": "dimdoors:Dimensional Door",
+  "drops": [
+        {
+            "function": "all",
+            "count": 1.0,
+            "functions": [
+                {
+                    "function": "default",
+                    "value": false
+                }
+            ]
+        }
+    ]
+}

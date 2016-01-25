@@ -42,7 +42,6 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 | Hepatizon | 1075 |
 | Copper | 1080 |
 | __Kerosene-Fueled Smeltery__ | __0 - 1500__ |
-| Octine | 1280 |
 | Black Steel | 1400 |
 | Iron | 1400 |
 | Invar | 1425 |
@@ -70,6 +69,12 @@ Modpack Permissions
 Reference Spreadsheet
 ===
 I've gone ahead and made a spreadsheet of every ore/resource in TWBB, as well as their equipment statistics, [here](https://drive.google.com/open?id=1l5xgq9EPYF-3owYx854fy4aVWIVfcB76Hcx0-4cm_kA).
+
+Modpack Requirements
+===
+TWBB requires Java 8 to run due to "Ye Olde Tanks".  If you cannot or do not want to run with Java 8, you'll have to disable or remove that mod.  If Java 8 is not being used, be sure to allocate at least 128MBs to the Permgen.
+
+Otherwise, the pack runs well with 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
 
 Installation
 ===

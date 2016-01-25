@@ -106,17 +106,7 @@
             {
                 "name": "BiomesOPlenty:gemOre",
                 "metadata": 4,
-                "weight": 5
-            },
-            {
-                "name": "BiomesOPlenty:gemOre",
-                "metadata": 8,
-                "weight": 5
-            },
-            {
-                "name": "Metallurgy:base.ore",
-                "metadata": 2,
-                "weight": 5
+                "weight": 15
             }
         ],
         "material": "stone",
@@ -152,17 +142,7 @@
             {
                 "name": "BiomesOPlenty:gemOre",
                 "metadata": 4,
-                "weight": 5
-            },
-            {
-                "name": "BiomesOPlenty:gemOre",
-                "metadata": 8,
-                "weight": 5
-            },
-            {
-                "name": "Metallurgy:base.ore",
-                "metadata": 2,
-                "weight": 5
+                "weight": 15
             }
         ],
         "material": "stone",
@@ -198,17 +178,7 @@
             {
                 "name": "BiomesOPlenty:gemOre",
                 "metadata": 4,
-                "weight": 5
-            },
-            {
-                "name": "BiomesOPlenty:gemOre",
-                "metadata": 8,
-                "weight": 5
-            },
-            {
-                "name": "Metallurgy:base.ore",
-                "metadata": 2,
-                "weight": 5
+                "weight": 15
             }
         ],
         "material": "stone",
