@@ -31,12 +31,9 @@ var anySteelIngot     = <ore:ingotSteel>;
 
 # Dusts
 var anyPhosphorusDust = <ore:dustPhosphorus>;
-var anySulfurDust     = <ore:dustSulfur>;
 
 # Blocks
 var anySteelBlock     = <ore:blockSteel>;
-
-anySulfurDust.add(<Natura:barleyFood:4>);
 
 # ITEM LISTS
 #------------
