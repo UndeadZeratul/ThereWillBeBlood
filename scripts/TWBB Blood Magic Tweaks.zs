@@ -172,7 +172,7 @@ for block in anySanguiniteBlock.items {
 }
 
 # Carminite -> Sanguinite
-Altar.addRecipe(sanguiniteIngot, carminite, 3, 20000);
+Altar.addRecipe(sanguiniteIngot, carminite, 3, 10000);
 
 # Oreberry Bushes
 for i, oreberryBush in allOreberryBushes {
