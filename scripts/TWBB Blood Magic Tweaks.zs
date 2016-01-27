@@ -39,6 +39,7 @@ var sanguiniteSword        = <Metallurgy:sanguinite.sword>;
 var adamantineOreberryBush = <aobd:orebushAdamantine>;
 var eximiteOreberryBush    = <aobd:orebushEximite>;
 var endiumOreberryBush     = <aobd:orebushHeeEndium>;
+var kreknoriteOreberryBush = <aobd:orebushKreknorite>;
 var leadOreberryBush       = <aobd:orebushLead>;
 var meteoriteOreberryBush  = <aobd:orebushMeteorite>;
 var meutoiteOreberryBush   = <aobd:orebushMeutoite>;
@@ -69,6 +70,7 @@ var anyEximiteBlock        = <ore:blockEximite>;
 var anyGlassBlock          = <ore:blockGlass>;
 var anyGoldBlock           = <ore:blockGold>;
 var anyIronBlock           = <ore:blockIron>;
+var anyKreknoriteBlock     = <ore:blockKreknorite>;
 var anyLeadBlock           = <ore:blockLead>;
 var anyMeteoriteBlock      = <ore:blockMeteorite>;
 var anyMeutoiteBlock       = <ore:blockMeutoite>;
@@ -102,6 +104,7 @@ var allOreberryBushes      = [
     eximiteOreberryBush,
     goldOreberryBush,
     ironOreberryBush,
+    kreknoriteOreberryBush,
     leadOreberryBush,
     meteoriteOreberryBush,
     meutoiteOreberryBush,
@@ -120,6 +123,7 @@ var allMetalBlocks         = [
     anyEximiteBlock,
     anyGoldBlock,
     anyIronBlock,
+    anyKreknoriteBlock,
     anyLeadBlock,
     anyMeteoriteBlock,
     anyMeutoiteBlock,
