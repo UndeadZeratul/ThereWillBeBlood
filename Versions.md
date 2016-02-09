@@ -11,6 +11,7 @@ Current API Versions
 - **CodeChicken Core** v1.0.7.47 by ChickenBones
 - **CoFH Core** v1.7.10R3.0.3 by Team CoFH
 - **Cookie Core** v1.4.0 by Ephys
+- **Coro Utils** v1.7.10-1.1.3 by Corosus
 - **CreativeCore** v1.0 by CreativeMD
 - **Custom Ore Generation** v1.2.24 by noogenesis
 - **Forge Microblocks** v1.2.0.345
@@ -35,7 +36,7 @@ Current Mod Versions
 - **AromaBackup** v1.7.10-0.0.0.6
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
 - **BetterStorage** v0.13.1.127 by copygirl, Vic Nightfall
-- **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
+- **Biomes O' Plenty** v2.1.0.1640 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v1.7.10-0.1.4 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.7.10-1.3.3-17 by WayofTime
 - **Cooking for Blockheads** v1.0.134 by BlayTheNinth, ZeroTheShinigami
@@ -53,10 +54,10 @@ Current Mod Versions
 - **Harder Wildlife** v1.7.10-12.20.0a by Draco18s
 - **Hunger Overhaul** v1.7.10-1.0.0.jenkins75 by iguana_man, Parker8283, progwml6, squeek502
 - **Iguana Tinker Tweaks** v1.7.10-2.1.5.140 by boni, iguana_man
-- **Iguana Tweaks** v2B by iguana_man
+- **Iguana Tweaks** v1.7.10-2B by iguana_man
 - **Infernal Mobs** v1.6.1
 - **InfiniBows** v1.3.0 build 20 by Myrathi
-- **Inventory Tweaks** v1.58-147-645ca10
+- **Inventory Tweaks** v1.59-dev-152
 - **Lycanites Mobs** v1.7.10-1.13.0.5
 - **Metallurgy 4** v4.0.6 by Team Metallurgy
 - **Mine & Blade Battlegear 2 - Bullseye** v1.7.10-1.0.8.2 by nerd-boy, GotoLink, coolAlias
@@ -92,11 +93,11 @@ Current Mod Versions
 - **TooMuchLoot** v1.7.10-4.0.1.B0
 - **TWBB Tweaks** v0.0.1 by Undead_Zeratul
 - **Waila** v1.5.10
-- **weather2** v2.3.6
+- **weather2** v1.7.10-2.3.10 by Corosus
 - **What Are We Looking At** v1.7.10-1.3.3 by Darkhax
 - **YAMPST** v1.3.6 by bilde2910, Commador
 - **Ye Olde Tanks** v1.4.5 by Shadowfacts
-- **Zombie Awareness** v1.9.5
+- **Zombie Awareness** v1.7.10-1.9.6 by FatherToast
 
 Optional Client Mod Versions
 =
