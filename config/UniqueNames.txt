@@ -403,6 +403,10 @@ Natura:willow
 NetherOres:netherOresBlockHellfish
 NetherOres:tile.netherores.ore.0
 NetherOres:tile.netherores.ore.1
+OreFlowers:ore_flowers
+OreFlowers:ore_flowers2
+OreFlowers:ore_flowers3
+OreFlowers:ore_flowers_water
 PneumaticCraft:advancedAirCompressor
 PneumaticCraft:advancedLiquidCompressor
 PneumaticCraft:advancedPressureTube
@@ -2281,6 +2285,10 @@ Natura:willow
 NetherOres:netherOresBlockHellfish
 NetherOres:tile.netherores.ore.0
 NetherOres:tile.netherores.ore.1
+OreFlowers:ore_flowers
+OreFlowers:ore_flowers2
+OreFlowers:ore_flowers3
+OreFlowers:ore_flowers_water
 PneumaticCraft:advancedAirCompressor
 PneumaticCraft:advancedLiquidCompressor
 PneumaticCraft:advancedPCB

@@ -70,6 +70,7 @@ Current Mod Versions
 - **Nether Ores** v1.7.10R2.3.0 by PowerCrystals, TehKrush, AtomicStryker, skyboy026
 - **Not Enough Items** v1.0.5.118 by ChickenBones
 - **OpenEye** v0.6 by boq, Mikee
+- **Ore Flowers** v3.0.1c by Draco18s
 - **Pam's HarvestCraft** v1.7.10Lb by Pamela Collins
 - **Pam's Temperate Plants** v1.7.2b
 - **PneumaticCraft** v1.7.10-1.12.4-147 bt MineMaarten

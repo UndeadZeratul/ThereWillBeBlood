@@ -220,6 +220,9 @@
 - **Open Eye** by: *Mikeemoo, boq*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Ore Flowers** by: *Draco18s*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Pam's HarvestCraft** by: *MatrexsVigil*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
