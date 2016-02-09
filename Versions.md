@@ -12,8 +12,10 @@ Current API Versions
 - **CoFH Core** v1.7.10R3.0.3 by Team CoFH
 - **Cookie Core** v1.4.0 by Ephys
 - **CreativeCore** v1.0 by CreativeMD
+- **Custom Ore Generation** v1.2.24 by noogenesis
 - **Forge Microblocks** v1.2.0.345
 - **Forge Multipart** v1.2.0.345
+- **HardLib** v1.7.10-12.20.0a by Draco18s
 - **INpureCore** v1.7.10R1.0.0B9
 - **LunatriusCore** v1.1.2.21 by Lunatrius
 - **Mantle** v1.7.10-0.3.2b
@@ -48,6 +50,7 @@ Current Mod Versions
 - **Flaxbeard's Steam Power** v0.28.12 by SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
 - **Hammerz** v1.7.10-0.1.7.36 by VapourDrive
 - **Hardcore Ender Expansion** v1.7.10-1.8.5 by chylex
+- **Harder Wildlife** v1.7.10-12.20.0a by Draco18s
 - **Hunger Overhaul** v1.7.10-1.0.0.jenkins75 by iguana_man, Parker8283, progwml6, squeek502
 - **Iguana Tinker Tweaks** v1.7.10-2.1.5.140 by boni, iguana_man
 - **Iguana Tweaks** v2B by iguana_man

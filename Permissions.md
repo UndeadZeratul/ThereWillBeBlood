@@ -2,6 +2,7 @@
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
 [Hammerz License]:https://github.com/VapourDrive/Hammerz/blob/master/LICENSE
+[Harder Wildlife Permission]:http://i.imgur.com/YYLpNsR.png
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
 [Item Physics Notification]:https://i.imgur.com/SruHzlI.png
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
@@ -78,6 +79,9 @@
 - **Creeper Awareness** by: *elix_x*
   - **Private Packs**: Open: [Creeper Awareness MCF Thread]
   - **Public Packs** : Open: [Creeper Awareness MCF Thread]
+- **Custom Ore Generation** by: *noogenesis*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Damage Indicators Mod** by: *rich1051414*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -132,6 +136,12 @@
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Notified: [HCEE Notification]
+- **Harder Wildlife** by: *Draco18s*
+  - **Private Packs**: PERMISSION GRANTED: [Harder Wildlife Permission]
+  - **Public Packs** : PERMISSION GRANTED: [Harder Wildlife Permission]
+- **HardLib** by: *Draco18s*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Hunger Overhaul** by: *iguana_man*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
