@@ -78,9 +78,6 @@
 - **Creeper Awareness** by: *elix_x*
   - **Private Packs**: Open: [Creeper Awareness MCF Thread]
   - **Public Packs** : Open: [Creeper Awareness MCF Thread]
-- **Damage Indicators Mod** by: *rich1051414*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **Dark Menagerie** by: *RWTema*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]

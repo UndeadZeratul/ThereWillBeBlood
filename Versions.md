@@ -98,7 +98,6 @@ Optional Client Mod Versions
 =
 - **ArmorStatusHUD** v1.28 by bspkrs
 - **Better Foliage** v1.7.10-2.0.2 by octarine-noise, Meringue
-- **Damage Indicators** v3.2.3
 - **Default World Generator** v1.7.10-0.1-b13 by Fireball 1725 
 - **DirectionHUD** v1.24 by bspkrs
 - **Dynamic Lights** v1.3.8 by AtomicStryker

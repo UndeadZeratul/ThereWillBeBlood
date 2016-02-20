@@ -1,0 +1,17 @@
+{
+  "name": "twbb",
+  "title": "There Will Be Blood",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  },
+  "userFiles": {
+    "include": [
+      "options.txt",
+      "optionsshaders.txt",
+      "mods/VoxelMods/*"
+    ]
+  }
+}
