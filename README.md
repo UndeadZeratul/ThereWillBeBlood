@@ -72,9 +72,7 @@ I've gone ahead and made a spreadsheet of every ore/resource in TWBB, as well as
 
 Modpack Requirements
 ===
-TWBB requires Java 8 to run due to "Ye Olde Tanks".  If you cannot or do not want to run with Java 8, you'll have to disable or remove that mod.  If Java 8 is not being used, be sure to allocate at least 128MBs to the Permgen.
-
-Otherwise, the pack runs well with 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
+TWBB requires Java 8, and runs well with 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
 
 Installation
 ===
@@ -82,6 +80,7 @@ This modpack is currently hosted on the Technic Launcher as well as the Feed The
 * For Technic, go to [the pack's webpage](http://www.technicpack.net/modpack/details/there-will-be-blood.511723) and copy the **Platform URL**.  Open up the Technic Launcher, click on the **Add New Pack** button, and paste the **Platform URL** into the textfield.  When you're done, select the modpack, and click play!
 * For FTB, go to the **Third Party Packs** tab, and click the **Pack Codes** button.  type in the pack code **TWBB** into the textfield.  When you're done, select the modpack, and click launch!
 * For Curse Voice, Click on the **Browse All Modpacks** button.  Type in "There Will Be Blood" into the search bar.  You should see the pack in the listing below.  Hover over the modpack, and click on the **Install** button to install.  Wait a bit for the mods to be downloaded and installed, and when it's done, click play!
+* For the Nincraft Launcher, you'll first have to download the latest version [here](https://github.com/Nincraft/Nincraft-Launcher/releases).  Run the launcher and click the modpack called "There Will Be Blood", and click "Launch".
 
 Contributing
 ===
