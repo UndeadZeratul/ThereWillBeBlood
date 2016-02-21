@@ -14,7 +14,7 @@ del /s /q "server\prod\mods\*.jar"
 for /f "delims=" %%i IN ('dir *.jar /b') DO set modpackdownloader=%%i
 
 :: Download Forge
-java -jar "%modpackdownloader%" common/base/forge.json loaders
+java -jar "%modpackdownloader%" common/base/forge.json common/base/loaders
 
 :: Download Base Mods
 java -jar "%modpackdownloader%" common/base/mods.json common/base/mods
