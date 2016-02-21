@@ -1,0 +1,419 @@
+{
+    "curseFiles": [
+    {
+        "name": "Agricraft",
+        "projectID": 225635,
+        "fileID": 2271837
+    },
+    {
+        "name": "Another One Bites The Dust",
+        "projectID": 221863,
+        "fileID": 2273753
+    },
+    {
+        "name": "Another One Bites The Dust: Berry Bushes",
+        "projectID": 230292,
+        "fileID": 2263870
+    },
+    {
+        "name": "Antique Atlas",
+        "projectID": 227795,
+        "fileID": 2271214
+    },
+    {
+        "name": "AppleCore",
+        "projectID": 224472,
+        "fileID": 2277393
+    },
+    {
+        "name": "Aroma1997Core",
+        "projectID": 223735,
+        "fileID": 2257644
+    },
+    {
+        "name": "AromaBackup",
+        "projectID": 225658,
+        "fileID": 2267159
+    },
+    {
+        "name": "ATG",
+        "projectID": 228356,
+        "fileID": 2231153
+    },
+    {
+        "name": "Biomes O' Plenty",
+        "projectID": 220318,
+        "fileID": 2281726
+    },
+    {
+        "name": "Block Properties",
+        "projectID": 230368,
+        "fileID": 2276097
+    },
+    {
+        "name": "Blood Magic",
+        "projectID": 224791,
+        "fileID": 2264826
+    },
+    {
+        "name": "CodeChickenCore",
+        "projectID": 222213,
+        "fileID": 2262089
+    },
+    {
+        "name": "CoFHCore",
+        "projectID": 69162,
+        "fileID": 2280536
+    },
+    {
+        "name": "CookieCore",
+        "projectID": 222908,
+        "fileID": 2248699
+    },
+    {
+        "name": "Cooking For Blockheads",
+        "projectID": 231484,
+        "fileID": 2263858
+    },
+    {
+        "name": "CoroUtil",
+        "projectID": 237749,
+        "fileID": 2265741
+    },
+    {
+        "name": "Custom Ore Gen",
+        "projectID": 237130,
+        "fileID": 2264037
+    },
+    {
+        "name": "Dark Menagerie",
+        "projectID": 224039,
+        "fileID": 2240043
+    },
+    {
+        "name": "Deadly World",
+        "projectID": 60098,
+        "fileID": 2214317
+    },
+    {
+        "name": "Dense Ores",
+        "projectID": 224942,
+        "fileID": 2234692
+    },
+    {
+        "name": "Doomlike Dungeons",
+        "projectID": 74246,
+        "fileID": 2248782
+    },
+    {
+        "name": "Enviromine",
+        "projectID": 230236,
+        "fileID": 2269710
+    },
+    {
+        "name": "ExCore",
+        "projectID": 233180,
+        "fileID": 2282140
+    },
+    {
+        "name": "Falling Meteors",
+        "projectID": 66776,
+        "fileID": 2242266
+    },
+    {
+        "name": "Flaxbeard's Steam Power",
+        "projectID": 224867,
+        "fileID": 2265558
+    },
+    {
+        "name": "Hammerz",
+        "projectID": 238928,
+        "fileID": 2280216
+    },
+    {
+        "name": "Harder Wildlife",
+        "projectID": 232257,
+        "fileID": 2274966
+    },
+    {
+        "name": "Hardcore Ender Expansion",
+        "projectID": 228015,
+        "fileID": 2274119
+    },
+    {
+        "name": "HardLib",
+        "projectID": 232071,
+        "fileID": 2274962
+    },
+    {
+        "name": "Hunger Overhaul",
+        "projectID": 224476,
+        "fileID": 2237679
+    },
+    {
+        "name": "Iguana's Tinker Tweaks",
+        "projectID": 223248,
+        "fileID": 2237600
+    },
+    {
+        "name": "Iguana Tweaks",
+        "projectID": 228798,
+        "fileID": 2245004
+    },
+    {
+        "name": "Infernal Mobs",
+        "projectID": 227875,
+        "fileID": 2227584
+    },
+    {
+        "name": "InfiniBows",
+        "projectID": 62121,
+        "fileID": 2217188
+    },
+    {
+        "name": "INPureCore",
+        "projectID": 223792,
+        "fileID": 2238507
+    },
+    {
+        "name": "Inventory Tweaks",
+        "projectID": 223094,
+        "fileID": 2210792
+    },
+    {
+        "name": "Localized Weather and Storms 2",
+        "projectID": 237746,
+        "fileID": 2265739
+    },
+    {
+        "name": "LunatriusCore",
+        "projectID": 225605,
+        "fileID": 2225146
+    },
+    {
+        "name": "Lycanite's Mobs",
+        "projectID": 224770,
+        "fileID": 2268607
+    },
+    {
+        "name": "Mantle",
+        "projectID": 74924,
+        "fileID": 2264244
+    },
+    {
+        "name": "Metallurgy",
+        "projectID": 59641,
+        "fileID": 2217136
+    },
+    {
+        "name": "Metallurgy Core",
+        "projectID": 78640,
+        "fileID": 2215714
+    },
+    {
+        "name": "Mine & Blade: Battlegear 2",
+        "projectID": 59710,
+        "fileID": 2262994
+    },
+    {
+        "name": "MineTweaker3",
+        "projectID": 224029,
+        "fileID": 2259434
+    },
+    {
+        "name": "Mob Properties",
+        "projectID": 224298,
+        "fileID": 2281386
+    },
+    {
+        "name": "MobiusCore",
+        "projectID": 76734,
+        "fileID": 2232516
+    },
+    {
+        "name": "ModTweaker",
+        "projectID": 220954,
+        "fileID": 2270009
+    },
+    {
+        "name": "Natura",
+        "projectID": 74120,
+        "fileID": 2216125
+    },
+    {
+        "name": "Natural Absorption",
+        "projectID": 224296,
+        "fileID": 2214321
+    },
+    {
+        "name": "NEI Integration",
+        "projectID": 225251,
+        "fileID": 2272481
+    },
+    {
+        "name": "Nether Ores",
+        "projectID": 66675,
+        "fileID": 2277488
+    },
+    {
+        "name": "Not Enough Items",
+        "projectID": 222211,
+        "fileID": 2262091
+    },
+    {
+        "name": "Ore Flowers",
+        "projectID": 233472,
+        "fileID": 2272129
+    },
+    {
+        "name": "Pam's Harvestcraft",
+        "projectID": 221857,
+        "fileID": 2270206
+    },
+    {
+        "name": "Pam's Temperate Plants",
+        "projectID": 221916,
+        "fileID": 2206430
+    },
+    {
+        "name": "PneumaticCraft",
+        "projectID": 224125,
+        "fileID": 2280328
+    },
+    {
+        "name": "PoorOres",
+        "projectID": 224492,
+        "fileID": 2229278
+    },
+    {
+        "name": "RPG Advanced Mod",
+        "projectID": 220611,
+        "fileID": 2209081
+    },
+    {
+        "name": "Random Things",
+        "projectID": 59816,
+        "fileID": 2225310
+    },
+    {
+        "name": "Special AI",
+        "projectID": 224301,
+        "fileID": 2281145
+    },
+    {
+        "name": "Special Mobs",
+        "projectID": 59968,
+        "fileID": 2279900
+    },
+    {
+        "name": "Stackie",
+        "projectID": 225606,
+        "fileID": 2248339
+    },
+    {
+        "name": "Stalker Creepers",
+        "projectID": 227886,
+        "fileID": 2246908
+    },
+    {
+        "name": "The Spice of Life",
+        "projectID": 220811,
+        "fileID": 2277396
+    },
+    {
+        "name": "Thermal Foundation",
+        "projectID": 222880,
+        "fileID": 2246921
+    },
+    {
+        "name": "Tinkers' Construct",
+        "projectID": 74072,
+        "fileID": 2264246
+    },
+    {
+        "name": "Tinkers' Steelworks",
+        "projectID": 233076,
+        "fileID": 2269014
+    },
+    {
+        "name": "TNTUtils",
+        "projectID": 227449,
+        "fileID": 2260907
+    },
+    {
+        "name": "Too Much Loot",
+        "projectID": 220845,
+        "fileID": 2261887
+    },
+    {
+        "name": "TWBB Tweaks",
+        "projectID": 241052,
+        "fileID": 2276961
+    },
+    {
+        "name": "Twilight Forest",
+        "projectID": 227639,
+        "fileID": 2238492
+    },
+    {
+        "name": "WAILA",
+        "projectID": 73488,
+        "fileID": 2230518
+    },
+    {
+        "name": "WAWLA",
+        "projectID": 224712,
+        "fileID": 2267304
+    },
+    {
+        "name": "Ye Olde Tanks",
+        "projectID": 236923,
+        "fileID": 2272810
+    },
+    {
+        "name": "Zombie Awareness",
+        "projectID": 237754,
+        "fileID": 2265743
+    }],
+    "thirdParty": [
+    {
+        "name": "AsieLib",
+        "url": "http://files.vex.tty.sh/AsieLib/AsieLib-1.7.10-0.4.5.jar"
+    },
+    {
+        "name": "BetterStorage",
+        "url": "http://github.com/copygirl/BetterStorage/releases/download/v0.13.1.127/BetterStorage-1.7.10-0.13.1.127.jar"
+    },
+    {
+        "name": "Creeper Awareness",
+        "url": "http://download1507.mediafire.com/3ham0imat20g/2gaj88zw41opn8q/AvoidExplodingCreepers-1.7.10-LATEST.jar"
+    },
+    {
+        "name": "Dimensional Doors",
+        "url": "http://github.com/CannibalVox/DimDoors/releases/download/2.2.5-test9/DimensionalDoors-2.2.5-test9.jar"
+    },
+    {
+        "name": "Drowning Overhaul",
+        "url": "http://download2218.mediafire.com/arly2nfr77sg/kdxf6q3kzef75fa/airoverhaul-1.7.10_1.0.jar"
+    },
+    {
+        "name": "NincraftLib",
+        "url": "http://play.nincraft.com:8080/job/Nincraft%20Lib/24/artifact/build/libs/NincraftLib-1.7.10-0.1.1+24.jar"
+    },
+    {
+        "name": "OpenEye",
+        "url": "http://dl.dropboxusercontent.com/u/4295615/OpenEye-0.6-1.7.10.jar"
+    },
+    {
+        "name": "Primitive Mobs",
+        "url": "http://download1383.mediafire.com/g4673q8tez9g/8d2be4a8xd0dz43/primitivemobs-1.0c-1.7.10.jar"
+    },
+    {
+        "name": "Somnia",
+        "url": "http://codeheist.net:8080/view/Somnia/job/Somnia%20-%201.7.10/lastSuccessfulBuild/artifact/dist/Somnia-1.4.8.55.jar"
+    },
+    {
+        "name": "YAMPST",
+        "url": "http://en.yampst.net/gettracker.php/Yampst-There%20Will%20Be%20Blood-0.5.0.jar?trackid=fa65e1dc97876791e521a3d6e6b0ddea27e86ee4010b5d47e9d48767&file=e775b851a66544fcc52a1f3404ee7eb023c7964a47edfc639afa9bcb"
+    }]
+}

@@ -82,9 +82,6 @@
 - **Custom Ore Generation** by: *noogenesis*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Damage Indicators Mod** by: *rich1051414*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **Dark Menagerie** by: *RWTema*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
