@@ -18,15 +18,15 @@ java -jar "%modpackdownloader%" common/base/forge.json loaders
 
 :: Download Base Mods
 java -jar "%modpackdownloader%" common/base/mods.json common/base/mods
-java -jar "%modpackdownloader%" client/base/mods.json client/base/mods
-java -jar "%modpackdownloader%" server/base/mods.json server/base/mods
+::java -jar "%modpackdownloader%" client/base/mods.json client/base/mods
+::java -jar "%modpackdownloader%" server/base/mods.json server/base/mods
 
 :: Download Dev Mods
+::java -jar "%modpackdownloader%" common/dev/mods.json client/dev/mods
 java -jar "%modpackdownloader%" client/dev/mods.json common/dev/mods
-java -jar "%modpackdownloader%" common/dev/mods.json client/dev/mods
-java -jar "%modpackdownloader%" server/dev/mods.json server/dev/mods
+::java -jar "%modpackdownloader%" server/dev/mods.json server/dev/mods
 
 :: Download Production Mods
 java -jar "%modpackdownloader%" common/prod/mods.json common/prod/mods
-java -jar "%modpackdownloader%" client/prod/mods.json client/prod/mods
-java -jar "%modpackdownloader%" server/prod/mods.json server/prod/mods
+::java -jar "%modpackdownloader%" client/prod/mods.json client/prod/mods
+::java -jar "%modpackdownloader%" server/prod/mods.json server/prod/mods
