@@ -56,6 +56,11 @@
         "fileID": 2264826
     },
     {
+        "name": "bspkrsCore",
+        "projectID": 59218,
+        "fileID": 2227503
+    },
+    {
         "name": "CodeChickenCore",
         "projectID": 222213,
         "fileID": 2262089
@@ -106,6 +111,11 @@
         "fileID": 2248782
     },
     {
+        "name": "EnderCore",
+        "projectID": 231868,
+        "fileID": 2266611
+    },
+    {
         "name": "Enviromine",
         "projectID": 230236,
         "fileID": 2269710
@@ -113,7 +123,7 @@
     {
         "name": "ExCore",
         "projectID": 233180,
-        "fileID": 2282140
+        "fileID": 2282975
     },
     {
         "name": "Falling Meteors",
@@ -126,6 +136,11 @@
         "fileID": 2265558
     },
     {
+        "name": "Forge Multipart",
+        "projectID": 229323,
+        "fileID": 2242993
+    },
+    {
         "name": "Hammerz",
         "projectID": 238928,
         "fileID": 2280216
@@ -133,7 +148,7 @@
     {
         "name": "Harder Wildlife",
         "projectID": 232257,
-        "fileID": 2274966
+        "fileID": 2282932
     },
     {
         "name": "Hardcore Ender Expansion",
@@ -143,7 +158,7 @@
     {
         "name": "HardLib",
         "projectID": 232071,
-        "fileID": 2274962
+        "fileID": 2282930
     },
     {
         "name": "Hunger Overhaul",
@@ -248,7 +263,7 @@
     {
         "name": "NEI Integration",
         "projectID": 225251,
-        "fileID": 2272481
+        "fileID": 2282522
     },
     {
         "name": "Nether Ores",
@@ -323,12 +338,7 @@
     {
         "name": "Thermal Foundation",
         "projectID": 222880,
-        "fileID": 2246921
-    },
-    {
-        "name": "Tinkers' Construct",
-        "projectID": 74072,
-        "fileID": 2264246
+        "fileID": 2282520
     },
     {
         "name": "Tinkers' Steelworks",
@@ -397,6 +407,10 @@
         "url": "http://download2218.mediafire.com/arly2nfr77sg/kdxf6q3kzef75fa/airoverhaul-1.7.10_1.0.jar"
     },
     {
+        "name": "Modpack Tweaks",
+        "url": "http://ci.tterrag.com/job/ModpackTweaks/26/artifact/build/libs/ModpackTweaks-MC1.7.10-1.2.0-26.jar"
+    },
+    {
         "name": "NincraftLib",
         "url": "http://play.nincraft.com:8080/job/Nincraft%20Lib/24/artifact/build/libs/NincraftLib-1.7.10-0.1.1+24.jar"
     },
@@ -406,11 +420,15 @@
     },
     {
         "name": "Primitive Mobs",
-        "url": "http://download1383.mediafire.com/g4673q8tez9g/8d2be4a8xd0dz43/primitivemobs-1.0c-1.7.10.jar"
+        "url": "https://www.dropbox.com/s/6t4vp3wn4xr83xn/primitivemobs-1.0c-1.7.10.jar?dl=1"
     },
     {
         "name": "Somnia",
-        "url": "http://codeheist.net:8080/view/Somnia/job/Somnia%20-%201.7.10/lastSuccessfulBuild/artifact/dist/Somnia-1.4.8.55.jar"
+        "url": "http://codeheist.net:8080/view/Somnia/job/Somnia%20-%201.7.10/55/artifact/dist/Somnia-1.4.8.55.jar"
+    },
+    {
+        "name": "Tinkers' Construct",
+        "url": "http://addons-origin.cursecdn.com/files/2277/12/TConstruct-1.7.10-1.8.8.build991.jar"
     },
     {
         "name": "YAMPST",

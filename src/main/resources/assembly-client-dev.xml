@@ -21,6 +21,7 @@
             <directory>common/dev</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
+                <include>config/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
@@ -34,6 +35,7 @@
             <directory>client/base</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
+                <include>config/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
@@ -42,6 +44,7 @@
             <directory>client/dev</directory>
             <outputDirectory>/</outputDirectory>
             <includes>
+                <include>config/*.*</include>
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>

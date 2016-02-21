@@ -109,7 +109,13 @@
 - **Dynamic Lights** by: *AtomicStryker*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **EnderCore** by: *tterrag1098, CrazyPants*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Enviromine** by: *TimbukTato*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **EXCore** by: *Elix_x*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **ExtraTiC** by: *Glassmaker*
