@@ -6,7 +6,7 @@
     <includeBaseDirectory>false</includeBaseDirectory>
     <files>
         <file>
-            <source>loaders/modpack.jar</source>
+            <source>common/base/loaders/modpack.jar</source>
             <outputDirectory>bin/</outputDirectory>
             <filtered>true</filtered>
         </file>

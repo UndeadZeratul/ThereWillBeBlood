@@ -12,6 +12,9 @@
                 <include>mods/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
+            <excludes>
+                <exclude>loaders/modpack.jar</exclude>
+            </excludes>
         </fileSet>
         <fileSet>
             <directory>common/prod</directory>
