@@ -1,13 +1,13 @@
 :: Clean out old folders
 del /s /q "common\base\loaders\*.jar"
-del /s /q "common\base\mods\*.jar"
-del /s /q "client\base\mods\*.jar"
-::del /s /q "server\base\mods\*.jar"
 del /s /q "common\dev\mods\*.jar"
-del /s /q "client\dev\mods\*.jar"
-::del /s /q "server\dev\mods\*.jar"
+del /s /q "common\base\mods\*.jar"
 del /s /q "common\prod\mods\*.jar"
+del /s /q "client\dev\mods\*.jar"
+del /s /q "client\base\mods\*.jar"
 ::del /s /q "client\prod\mods\*.jar"
+::del /s /q "server\dev\mods\*.jar"
+::del /s /q "server\base\mods\*.jar"
 ::del /s /q "server\prod\mods\*.jar"
 
 :: Set ModpackDownloader Variable
