@@ -26,6 +26,11 @@
         "fileID": 2218893
     },
     {
+        "name": "Dynamic Lights",
+        "projectID": 227874,
+        "fileID": 2231444
+    },
+    {
         "name": "LiMI",
         "projectID": 238618,
         "fileID": 2269669
@@ -39,11 +44,6 @@
         "name": "Status Effect HUD",
         "projectID": 225566,
         "fileID": 2218935
-    },
-    {
-        "name": "Dynamic Lights",
-        "projectID": 227874,
-        "fileID": 2231444
     }],
     "thirdParty": [
     {

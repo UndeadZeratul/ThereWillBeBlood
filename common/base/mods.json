@@ -11,7 +11,7 @@
         "fileID": 2273753
     },
     {
-        "name": "Another One Bites The Dust: Berry Bushes",
+        "name": "Another One Bites The Dust Berry Bushes",
         "projectID": 230292,
         "fileID": 2263870
     },
@@ -146,14 +146,14 @@
         "fileID": 2280216
     },
     {
-        "name": "Harder Wildlife",
-        "projectID": 232257,
-        "fileID": 2282932
-    },
-    {
         "name": "Hardcore Ender Expansion",
         "projectID": 228015,
         "fileID": 2274119
+    },
+    {
+        "name": "Harder Wildlife",
+        "projectID": 232257,
+        "fileID": 2282932
     },
     {
         "name": "HardLib",
@@ -166,14 +166,14 @@
         "fileID": 2237679
     },
     {
-        "name": "Iguana's Tinker Tweaks",
-        "projectID": 223248,
-        "fileID": 2237600
-    },
-    {
         "name": "Iguana Tweaks",
         "projectID": 228798,
         "fileID": 2245004
+    },
+    {
+        "name": "Iguana's Tinker Tweaks",
+        "projectID": 223248,
+        "fileID": 2237600
     },
     {
         "name": "Infernal Mobs",
@@ -226,7 +226,7 @@
         "fileID": 2215714
     },
     {
-        "name": "Mine & Blade: Battlegear 2",
+        "name": "Mine and Blade Battlegear 2",
         "projectID": 59710,
         "fileID": 2262994
     },
@@ -419,9 +419,5 @@
     {
         "name": "Tinkers' Construct",
         "url": "http://addons-origin.cursecdn.com/files/2277/12/TConstruct-1.7.10-1.8.8.build991.jar"
-    },
-    {
-        "name": "YAMPST",
-        "url": "http://en.yampst.net/gettracker.php/Yampst-There%20Will%20Be%20Blood-0.5.0.jar?trackid=fa65e1dc97876791e521a3d6e6b0ddea27e86ee4010b5d47e9d48767&file=e775b851a66544fcc52a1f3404ee7eb023c7964a47edfc639afa9bcb"
     }]
 }
