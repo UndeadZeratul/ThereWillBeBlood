@@ -98,16 +98,17 @@ Current Mod Versions
 - **TNTUtils** v1.1-beta by ljfa
 - **TooMuchLoot** v1.7.10-4.0.1
 - **TWBB Tweaks** v0.0.1 by Undead_Zeratul
-- **Waila** v1.5.10
-- **What Are We Looking At** v1.7.10-1.3.3 by Darkhax
 - **Ye Olde Tanks** v1.4.5 by Shadowfacts
 - **Zombie Awareness** v1.7.10-1.9.6 by FatherToast
+
+Client Mod Versions
+- **Default World Generator** v1.7.10-0.1-b13 by Fireball 1725 
+- **LiMI** v1.7.10-1.0-1 by Vazkii
 
 Optional Client Mod Versions
 =
 - **ArmorStatusHUD** v1.28 by bspkrs
 - **Better Foliage** v1.7.10-2.0.3 by octarine-noise, Meringue
-- **Default World Generator** v1.7.10-0.1-b13 by Fireball 1725 
 - **DirectionHUD** v1.24 by bspkrs
 - **Dynamic Lights** v1.3.8 by AtomicStryker
 - **ItemPhysic** v1.1.5 by CreativeMD

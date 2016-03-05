@@ -6,6 +6,7 @@
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
 [Item Physics Notification]:https://i.imgur.com/SruHzlI.png
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
+[LiMI's License]:http://minecraft.curseforge.com/projects/limi/license
 [NincraftLib License]: https://github.com/Nincraft/NincraftLib/blob/master/LICENSE
 [TWBB Tweaks License]: https://github.com/UndeadZeratul/TWBB-Tweaks/blob/master/LICENSE
 [Ye Olde Tanks License]: https://github.com/shadowfacts/YeOldeTanks/blob/master/LICENSE.md
@@ -169,6 +170,9 @@
 - **Item Physic Lite** by: *CreativeMD*
   - **Private Packs**: Notified: [Item Physics Notification]
   - **Public Packs** : Notified: [Item Physics Notification]
+- **LiMI** by: *Vazkii*
+  - **Private Packs**: Open: [LiMI's License]
+  - **Public Packs** : Open: [LiMI's License]
 - **Lunatrius Core** by: *Lunatrius*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -287,12 +291,6 @@
   - **Private Packs**: Open: [TWBB Tweaks License]
   - **Public Packs** : Open: [TWBB Tweaks License]
 - **Twilight Forest** by: *Benimatic*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **WAILA** by: *ProfMobius*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **WAWLA** by: *Darkhax*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Weather** by: *Corosauce*
