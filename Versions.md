@@ -111,6 +111,7 @@ Optional Client Mod Versions
 - **Better Foliage** v1.7.10-2.0.3 by octarine-noise, Meringue
 - **DirectionHUD** v1.24 by bspkrs
 - **Dynamic Lights** v1.3.8 by AtomicStryker
+- **Dynamic Surroundings** v1.7.10-1.0.4.10 by OreCruncher
 - **ItemPhysic** v1.1.5 by CreativeMD
 - **Sound Filters** v0.8_for_1.7.X by Tmtravlr
 - **StatusEffectHUD** v1.27 by bspkrs
