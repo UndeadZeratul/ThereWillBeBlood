@@ -41,6 +41,11 @@
         "fileID": 2231153
     },
     {
+        "name": "Better Beginnings",
+        "projectID": 230120,
+        "fileID": 2274344
+    },
+    {
         "name": "Biomes O' Plenty",
         "projectID": 220318,
         "fileID": 2281726
@@ -301,14 +306,24 @@
         "fileID": 2229278
     },
     {
+        "name": "Random Things",
+        "projectID": 59816,
+        "fileID": 2225310
+    },
+    {
         "name": "RPG Advanced Mod",
         "projectID": 220611,
         "fileID": 2209081
     },
     {
-        "name": "Random Things",
-        "projectID": 59816,
-        "fileID": 2225310
+        "name": "Salty Mod",
+        "projectID": 234840,
+        "fileID": 2280980
+    },
+    {
+        "name": "Simple Achievements",
+        "projectID": 231126,
+        "fileID": 2264022
     },
     {
         "name": "Special AI",

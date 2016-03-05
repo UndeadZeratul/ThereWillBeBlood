@@ -1,3 +1,4 @@
+[Better Beginnings License]: http://minecraft.curseforge.com/projects/betterbeginnings-mod/license
 [Creeper Awareness MCF Thread]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2328246
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
@@ -8,6 +9,7 @@
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
 [LiMI's License]:http://minecraft.curseforge.com/projects/limi/license
 [NincraftLib License]: https://github.com/Nincraft/NincraftLib/blob/master/LICENSE
+[SaltyMod Notification]: http://i.imgur.com/7eoP5Vr.png
 [TWBB Tweaks License]: https://github.com/UndeadZeratul/TWBB-Tweaks/blob/master/LICENSE
 [Ye Olde Tanks License]: https://github.com/shadowfacts/YeOldeTanks/blob/master/LICENSE.md
 
@@ -41,6 +43,9 @@
 - **AsieLib** by: *asie*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Better Beginnings** by: *einsteinsci*
+  - **Private Packs**: Open: [Better Beginnings License]
+  - **Public Packs** : Open: [Better Beginnings License]
 - **Better Foliage** by: *OctarineNoise*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -249,6 +254,12 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Random Things** by: *Lumien*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **SaltyMod** by: *Liahim85*
+  - **Private Packs**: Notified: [SaltyMod Notification]
+  - **Public Packs** : Notified: [SaltyMod Notification]
+- **Simple Achievements** by: *insaneau, tterrag1098*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Somnia** by: *Kingrunes*

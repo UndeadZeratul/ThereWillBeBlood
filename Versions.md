@@ -38,8 +38,9 @@ Current Mod Versions
 - **Antique Atlas** v1.7.10-4.2.10
 - **AromaBackup Recovery** v1.7.10-1.0
 - **AromaBackup** v1.7.10-0.0.0.6
+- **Better Beginnings** v1.7.10-R6 by einsteinsci
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
-- **BetterStorage** v0.13.1.127 by copygirl, Vic Nightfall
+- **Better Storage** v0.13.1.127 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v1.7.10-0.1.4 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.7.10-1.3.3 by WayofTime
@@ -85,6 +86,8 @@ Current Mod Versions
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
 - **RPGAdvMod** v1.0.0
+- **SaltyMod** v1.7.10-1.7.d by Liahim85
+- **Simple Achievements** v1.7.10-1.1.0-21 by insaneau, tterrag1098
 - **Somnia** v1.7.0-1.4.8.55 by Kingrunes
 - **Special AI** v1.7.10-1.1.2 by FatherToast
 - **Special Mobs** v1.7.10-3.2.2 by FatherToast
