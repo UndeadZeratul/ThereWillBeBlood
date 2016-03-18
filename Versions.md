@@ -105,6 +105,7 @@ Current Mod Versions
 - **Zombie Awareness** v1.7.10-1.9.6 by FatherToast
 
 Client Mod Versions
+=
 - **Default World Generator** v1.7.10-0.1-b13 by Fireball 1725 
 - **LiMI** v1.7.10-1.0-1 by Vazkii
 
