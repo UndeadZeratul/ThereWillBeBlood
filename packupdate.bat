@@ -1,4 +1,12 @@
-:: Set ModpackDownload Variable
+:: Set ModpackDownloader Variable
+for /f "delims=" %%i IN ('dir *.jar /b') DO set modpackdownloader=%%i
+
+:: Update Modpack Downloader
+java -jar "%modpackdownloader%" -updateApp
+
+
+:: Update ModpackDownloader Variable
+for /f "skip=1 eol=: delims=" %%F in ('dir /b /o-d ModPackDownloader*.jar') do @del "%%F"
 for /f "delims=" %%i IN ('dir *.jar /b') DO set modpackdownloader=%%i
 
 :: Update All Common Mod JSONs
