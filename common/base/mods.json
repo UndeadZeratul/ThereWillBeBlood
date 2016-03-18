@@ -356,6 +356,11 @@
         "fileID": 2282520
     },
     {
+        "name": "Tinkers' Construct",
+        "projectID": 74072,
+        "fileID": 2277012
+    },
+    {
         "name": "Tinkers' Steelworks",
         "projectID": 233076,
         "fileID": 2269014
@@ -397,7 +402,7 @@
     },
     {
         "name": "BetterStorage",
-        "url": "http://github.com/copygirl/BetterStorage/releases/download/v0.13.1.127/BetterStorage-1.7.10-0.13.1.127.jar"
+        "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.127/BetterStorage-1.7.10-0.13.1.127.jar"
     },
     {
         "name": "Creeper Awareness",
@@ -405,7 +410,7 @@
     },
     {
         "name": "Dimensional Doors",
-        "url": "http://github.com/CannibalVox/DimDoors/releases/download/2.2.5-test9/DimensionalDoors-2.2.5-test9.jar"
+        "url": "https://github.com/CannibalVox/DimDoors/releases/download/2.2.5-test9/DimensionalDoors-2.2.5-test9.jar"
     },
     {
         "name": "Drowning Overhaul",
@@ -430,9 +435,5 @@
     {
         "name": "Somnia",
         "url": "http://codeheist.net:8080/view/Somnia/job/Somnia%20-%201.7.10/55/artifact/dist/Somnia-1.4.8.55.jar"
-    },
-    {
-        "name": "Tinkers' Construct",
-        "url": "http://addons-origin.cursecdn.com/files/2277/12/TConstruct-1.7.10-1.8.8.build991.jar"
     }]
 }
