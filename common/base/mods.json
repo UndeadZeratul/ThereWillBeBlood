@@ -276,6 +276,11 @@
         "fileID": 2277488
     },
     {
+        "name": "NincraftLib",
+        "projectID": 238622,
+        "fileID": 2288662
+    },
+    {
         "name": "Not Enough Items",
         "projectID": 222211,
         "fileID": 2262091
@@ -419,10 +424,6 @@
     {
         "name": "Modpack Tweaks",
         "url": "http://ci.tterrag.com/job/ModpackTweaks/26/artifact/build/libs/ModpackTweaks-MC1.7.10-1.2.0-26.jar"
-    },
-    {
-        "name": "NincraftLib",
-        "url": "http://play.nincraft.com:8080/job/Nincraft%20Lib/24/artifact/build/libs/NincraftLib-1.7.10-0.1.1+24.jar"
     },
     {
         "name": "OpenEye",
