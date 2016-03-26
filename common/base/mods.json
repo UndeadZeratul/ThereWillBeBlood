@@ -410,6 +410,16 @@
         "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.127/BetterStorage-1.7.10-0.13.1.127.jar"
     },
     {
+        "name": "common Codec",
+        "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-codec-1.9.jar",
+        "folder": "common/base/mods/1.7.10"
+    },
+    {
+        "name": "Common Compress",
+        "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-compress-1.8.1.jar",
+        "folder": "common/base/mods/1.7.10"
+    },
+    {
         "name": "Creeper Awareness",
         "url": "http://download1507.mediafire.com/3ham0imat20g/2gaj88zw41opn8q/AvoidExplodingCreepers-1.7.10-LATEST.jar"
     },
