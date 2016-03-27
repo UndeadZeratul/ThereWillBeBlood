@@ -1,6 +1,7 @@
 [Better Beginnings License]: http://minecraft.curseforge.com/projects/betterbeginnings-mod/license
 [Creeper Awareness MCF Thread]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2328246
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
+[Forge Auto-Shutdown License]:http://minecraft.curseforge.com/projects/forgeautoshutdown/license
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
 [Hammerz License]:https://github.com/VapourDrive/Hammerz/blob/master/LICENSE
 [Harder Wildlife Permission]:http://i.imgur.com/YYLpNsR.png
@@ -139,6 +140,9 @@
 - **Flaxbeard's Steam Power** by: *Flaxbeard, Esteemed Innovation*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Forge Auto-Shutdown** by: *Polaris_iv*
+  - **Private Packs**: Open: [Forge Auto-Shutdown License]
+  - **Public Packs** : Open: [Forge Auto-Shutdown License]
 - **Forge Multipart** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
