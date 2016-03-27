@@ -57,6 +57,7 @@ Current Mod Versions
 - **Falling Meteors** v2.14.3
 - **Flaxbeard's Steam Power** v0.28.12 by SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
 - **Hammerz** v1.7.10-0.1.7.37 by VapourDrive
+- **Hardcore Darkness** v1.7.10-1.7 by Lumien
 - **Hardcore Ender Expansion** v1.7.10-1.8.5 by chylex
 - **Harder Wildlife** v1.7.10-13.21.0a by Draco18s
 - **Hunger Overhaul** v1.7.10-1.0.0.jenkins75 by iguana_man, Parker8283, progwml6, squeek502

@@ -145,6 +145,9 @@
 - **Hammerz** by: *VapourDrive*
   - **Private Packs**: Open: [Hammerz License]
   - **Public Packs** : Open: [Hammerz License]
+- **Hardcore Darkness** by: *Lumien*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Notified: [HCEE Notification]
