@@ -66,7 +66,6 @@ Current Mod Versions
 - **Iguana Tinker Tweaks** v1.7.10-2.1.5.140 by boni, iguana_man
 - **Iguana Tweaks** v1.7.10-2B by iguana_man
 - **Infernal Mobs** v1.6.0
-- **InfiniBows** v1.3.0 build 20 by Myrathi
 - **Inventory Tweaks** v1.59-dev-152-cf6e263
 - **Localized Weather & Storms** v2.3.10 by Corosus
 - **Lycanites Mobs** v1.7.10-1.13.0.5
