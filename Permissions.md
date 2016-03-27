@@ -133,6 +133,9 @@
 - **Falling Meteors** by: *AlexDGr8r*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Farseek API** by: *delvr*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **FastCraft (Optional)** by: *Player*
   - **Private Packs**: Manual Download via Modpack Tweaks.
   - **Public Packs** : Manual Download via Modpack Tweaks.
@@ -287,6 +290,9 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Status Effect HUD** by: *bspkrs*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **Streams** by: *delvr*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Thermal Foundation** by: *TeamCoFH*

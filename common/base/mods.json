@@ -136,6 +136,11 @@
         "fileID": 2242266
     },
     {
+        "name": "Farseek API",
+        "projectID": 229708,
+        "fileID": 2281555
+    },
+    {
         "name": "Flaxbeard's Steam Power",
         "projectID": 224867,
         "fileID": 2265558
@@ -354,6 +359,11 @@
         "name": "The Spice of Life",
         "projectID": 220811,
         "fileID": 2277396
+    },
+    {
+        "name": "Streams",
+        "projectID": 229769,
+        "fileID": 2281587
     },
     {
         "name": "Thermal Foundation",
