@@ -45,6 +45,7 @@ Current Mod Versions
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v1.7.10-0.1.4 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.7.10-1.3.3 by WayofTime
+- **Chameleon Creepers** v1.7.10-1.2 by Vel0cityX
 - **Cooking for Blockheads** v1.0.134 by BlayTheNinth, ZeroTheShinigami
 - **Creeper Awareness** v2.0 by Elix_x
 - **Dark Menagerie** v1.0 ny RWTema

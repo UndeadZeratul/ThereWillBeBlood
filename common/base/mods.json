@@ -425,6 +425,10 @@
         "url": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.127/BetterStorage-1.7.10-0.13.1.127.jar"
     },
     {
+        "name": "Chameleon Creepers",
+        "url": "http://download1645.mediafire.com/54mtw8wd48bg/ciaw1m3e7nt1cw8/ChameleonCreepers-1.2-1.7.10.jar"
+    },
+    {
         "name": "common Codec",
         "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-codec-1.9.jar",
         "folder": "common/base/mods/1.7.10"

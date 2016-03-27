@@ -1,4 +1,5 @@
 [Better Beginnings License]: http://minecraft.curseforge.com/projects/betterbeginnings-mod/license
+[Chameleon Creepers Notification]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2628395-chameleon-creepers-creepers-take-the-color-of?comment=41
 [Creeper Awareness MCF Thread]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2328246
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
 [Forge Auto-Shutdown License]:http://minecraft.curseforge.com/projects/forgeautoshutdown/license
@@ -68,6 +69,9 @@
 - **bspkrs Core** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Chameleon Creepers** by: *Vel0cityX*
+  - **Private Packs**: Notified: [Chameleon Creepers Notification]
+  - **Public Packs** : Notified: [Chameleon Creepers Notification]
 - **CoFH Core** by: *CoFH Team*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
