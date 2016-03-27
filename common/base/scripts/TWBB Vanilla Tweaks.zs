@@ -12,11 +12,9 @@ var clayBlock         = <minecraft:clay>;
 var clayBall          = <minecraft:clay_ball>;
 var coal              = <minecraft:coal:0>;
 var charcoal          = <minecraft:coal:1>;
-var emerald           = <minecraft:emerald>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
 var gunpowder         = <minecraft:gunpowder>;
-var quartz            = <minecraft:quartz>;
 var torchWood         = <minecraft:torch>;
 var torchStone        = <TConstruct:decoration.stonetorch>;
 var torchberries      = <TwilightForest:item.torchberries>;
@@ -48,12 +46,6 @@ var allTorchHandles   = [
 var allTorches        = [
     torchWood
 ] as IItemStack[];
-
-# FURNACE TWEAKS
-#----------------
-furnace.remove(coal);
-furnace.remove(quartz);
-furnace.remove(emerald);
 
 # RECIPE TWEAKS
 #---------------
