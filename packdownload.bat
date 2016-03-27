@@ -28,5 +28,5 @@ java -jar "%modpackdownloader%" client/base/mods.json client/base/mods
 
 :: Download All Server Mods
 ::java -jar "%modpackdownloader%" server/dev/mods.json server/dev/mods
-::java -jar "%modpackdownloader%" server/base/mods.json server/base/mods
+java -jar "%modpackdownloader%" server/base/mods.json server/base/mods
 ::java -jar "%modpackdownloader%" server/prod/mods.json server/prod/mods
