@@ -15,6 +15,7 @@ Current API Versions
 - **CreativeCore** v1.3.14 by CreativeMD
 - **Custom Ore Generation** v1.2.24 by noogenesis
 - **EXCore** v1.3.8 by Elix_x
+- **Farseek** v1.0.11 by delvr
 - **Forge Microblocks** v1.2.0.345
 - **Forge Multipart** v1.2.0.345
 - **HardLib** v1.7.10-13.21.0a by Draco18s
@@ -94,6 +95,7 @@ Current Mod Versions
 - **Special Mobs** v1.7.10-3.2.2 by FatherToast
 - **Stackie** v1.6.0.36 by Lunatrius
 - **Stalker Creepers** v1.7.10-1.0.9 by AtomicStryker
+- **Streams** v0.2 by delvr
 - **The Spice of Life** v1.7.10-1.3.1 by squeek
 - **The Twilight Forest** v2.3.7
 - **Thermal Foundation** v1.7.10R1.2.3 by Team CoFH
