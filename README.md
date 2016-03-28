@@ -30,6 +30,8 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 | Tin | 230 |
 | Lead | 375 |
 | Zinc | 420 |
+| Glass | 550 |
+| Emerald | 650 |
 | Aluminum | 660 |
 | __Crude Oil-fueled Smeltery__ | __0 - 1000__ | 
 | Brass | 925 |
@@ -44,12 +46,14 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 | __Kerosene-Fueled Smeltery__ | __0 - 1500__ |
 | Black Steel | 1400 |
 | Iron | 1400 |
+| Pig Iron | 1400 |
 | Invar | 1425 |
 | Nickel | 1450 |
 | Steel | 1500 |
 | __Gasoline-Fueled Smeltery, High Oven__ | __0 - 2000__ |
 | Meteorite | 1600 |
 | Platinum | 1750 |
+| Kreknorite | 2000 |
 | __Pyrotheum-Fueled Smeltery__ | __0 - 3000__ |
 | Sanguinite | 2250 |
 | Adamantine | 2500 |
