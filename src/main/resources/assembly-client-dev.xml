@@ -11,6 +11,7 @@
             <includes>
                 <include>loaders/*.*</include>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
             <excludes>
@@ -23,6 +24,7 @@
             <includes>
                 <include>config/*.*</include>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
@@ -37,6 +39,7 @@
             <includes>
                 <include>config/*.*</include>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
@@ -46,6 +49,7 @@
             <includes>
                 <include>config/*.*</include>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
