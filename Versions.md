@@ -24,7 +24,6 @@ Current API Versions
 - **Mantle** v1.7.10-0.3.2.jenkins191
 - **Metallurgy Core** v4.0.4 by Team Metallurgy
 - **NincraftLib** v0.1.1+24 by Nincodedo, Undead_Zeratul
-- **OpenEye** v1.7.10-0.6 byboq, Mikee
 - **SomniaCore** v1.3.1.55 by Kingrunes
 - **TNTUtils Core** v1.1-beta by ljfa
 - **YAMPST** v1.3.6 by bilde2910, Commador
