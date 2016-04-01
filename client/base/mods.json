@@ -1,62 +1,67 @@
 {
-    "curseFiles": [
+  "minecraft": {
+    "version": "1.7.10"
+  },
+  "curseFiles": [
     {
-        "name": "Armor Status HUD",
-        "projectID": 225564,
-        "fileID": 2218859
+      "fileID": 2218859,
+      "projectID": 225564,
+      "name": "Armor Status HUD"
     },
     {
-        "name": "Better Foliage",
-        "projectID": 228529,
-        "fileID": 2279141
+      "fileID": 2291423,
+      "projectID": 228529,
+      "name": "Better Foliage"
     },
     {
-        "name": "Better Title Screen",
-        "projectID": 224223,
-        "fileID": 2214088
+      "fileID": 2214088,
+      "projectID": 224223,
+      "name": "Better Title Screen"
     },
     {
-        "name": "Default World Generator",
-        "projectID": 226188,
-        "fileID": 2225179
+      "fileID": 2225179,
+      "projectID": 226188,
+      "name": "Default World Generator"
     },
     {
-        "name": "Direction HUD",
-        "projectID": 225565,
-        "fileID": 2218893
+      "fileID": 2218893,
+      "projectID": 225565,
+      "name": "Direction HUD"
     },
     {
-        "name": "Dynamic Lights",
-        "projectID": 227874,
-        "fileID": 2231444
+      "fileID": 2231444,
+      "projectID": 227874,
+      "name": "Dynamic Lights"
     },
     {
-        "name": "Dynamic Surroundings",
-        "projectID": 238891,
-        "fileID": 2282307
+      "fileID": 2290472,
+      "projectID": 238891,
+      "name": "Dynamic Surroundings"
     },
     {
-        "name": "LiMI",
-        "projectID": 238618,
-        "fileID": 2269669
+      "fileID": 2269669,
+      "projectID": 238618,
+      "name": "LiMI"
     },
     {
-        "name": "Sound Filters",
-        "projectID": 222789,
-        "fileID": 2224003
+      "fileID": 2224003,
+      "projectID": 222789,
+      "name": "Sound Filters"
     },
     {
-        "name": "Status Effect HUD",
-        "projectID": 225566,
-        "fileID": 2218935
-    }],
-    "thirdParty": [
+      "fileID": 2218935,
+      "projectID": 225566,
+      "name": "Status Effect HUD"
+    }
+  ],
+  "thirdParty": [
     {
-        "name": "CreativeCore",
-        "url": "https://www.googleapis.com/download/storage/v1/b/filedimebucket/o/1293.CreativeCore%20v1.3.23%20mc1.7.10.jar?generation=1455555603283000&alt=media"
+      "url": "https://www.googleapis.com/download/storage/v1/b/filedimebucket/o/1293.CreativeCore%20v1.3.23%20mc1.7.10.jar?generation=1455555603283000&alt=media",
+      "name": "CreativeCore"
     },
     {
-        "name": "Item Physic",
-        "url": "http://www.dropbox.com/s/id0m78kp2ms0993/ItemPhysic%20Lite%201.1.5%20mc1.7.10.jar?dl=1"
-    }]
+      "url": "http://www.dropbox.com/s/id0m78kp2ms0993/ItemPhysic%20Lite%201.1.5%20mc1.7.10.jar?dl=1",
+      "name": "Item Physic"
+    }
+  ]
 }

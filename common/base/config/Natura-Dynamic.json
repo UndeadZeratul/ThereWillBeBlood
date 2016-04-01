@@ -1,0 +1,11 @@
+{
+  "CONFIG_VERSION": 1,
+  "modules": {
+    "Natura FMP Compatibility": {
+      "enabled": true
+    },
+    "Natura NEI Compatibility": {
+      "enabled": true
+    }
+  }
+}
