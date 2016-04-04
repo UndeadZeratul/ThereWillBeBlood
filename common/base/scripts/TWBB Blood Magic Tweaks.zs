@@ -8,95 +8,99 @@ import mods.bloodmagic.Binding;
 
 # COMMON VARIABLES
 #------------------
-var bloodAltar             = <AWWayofTime:Altar>;
-var emptySocket            = <AWWayofTime:emptySocket>;
-var weakBloodShard         = <AWWayofTime:weakBloodShard>;
-var rubyBlock              = <BiomesOPlenty:gemOre:3>;
-var sanguiniteIngot        = <Metallurgy:sanguinite.ingot>;
-var carminite              = <TwilightForest:item.carminite>;
+var bloodAltar              = <AWWayofTime:Altar>;
+var emptySocket             = <AWWayofTime:emptySocket>;
+var weakBloodShard          = <AWWayofTime:weakBloodShard>;
+var rubyBlock               = <BiomesOPlenty:gemOre:3>;
+var sanguiniteIngot         = <Metallurgy:sanguinite.ingot>;
+var carminite               = <TwilightForest:item.carminite>;
 
 # Blood Orbs
-var weakBloodOrb           = <AWWayofTime:weakBloodOrb>;
-var apprenticeBloodOrb     = <AWWayofTime:apprenticeBloodOrb>;
-var magicianBloodOrb       = <AWWayofTime:magicianBloodOrb>;
-var masterBloodOrb         = <AWWayofTime:masterBloodOrb>;
-var archmageBloodOrb       = <AWWayofTime:archmageBloodOrb>;
-var transcendentBloodOrb   = <AWWayofTime:transcendentBloodOrb>;
+var weakBloodOrb            = <AWWayofTime:weakBloodOrb>;
+var apprenticeBloodOrb      = <AWWayofTime:apprenticeBloodOrb>;
+var magicianBloodOrb        = <AWWayofTime:magicianBloodOrb>;
+var masterBloodOrb          = <AWWayofTime:masterBloodOrb>;
+var archmageBloodOrb        = <AWWayofTime:archmageBloodOrb>;
+var transcendentBloodOrb    = <AWWayofTime:transcendentBloodOrb>;
 
 # Bound Tools
-var boundAxe               = <AWWayofTime:boundAxe>;
-var boundPickaxe           = <AWWayofTime:boundPickaxe>;
-var boundShovel            = <AWWayofTime:boundShovel>;
-var boundSword             = <AWWayofTime:energySword>;
+var boundAxe                = <AWWayofTime:boundAxe>;
+var boundPickaxe            = <AWWayofTime:boundPickaxe>;
+var boundShovel             = <AWWayofTime:boundShovel>;
+var boundSword              = <AWWayofTime:energySword>;
 
 # Sanguinite Tools
-var sanguiniteAxe          = <Metallurgy:sanguinite.axe>;
-var sanguinitePickaxe      = <Metallurgy:sanguinite.pickaxe>;
-var sanguiniteShovel       = <Metallurgy:sanguinite.shovel>;
-var sanguiniteSword        = <Metallurgy:sanguinite.sword>;
+var sanguiniteAxe           = <Metallurgy:sanguinite.axe>;
+var sanguinitePickaxe       = <Metallurgy:sanguinite.pickaxe>;
+var sanguiniteShovel        = <Metallurgy:sanguinite.shovel>;
+var sanguiniteSword         = <Metallurgy:sanguinite.sword>;
 
 # Oreberry Bushes
-var adamantineOreberryBush = <aobd:orebushAdamantine>;
-var eximiteOreberryBush    = <aobd:orebushEximite>;
-var endiumOreberryBush     = <aobd:orebushHeeEndium>;
-var kreknoriteOreberryBush = <aobd:orebushKreknorite>;
-var leadOreberryBush       = <aobd:orebushLead>;
-var meteoriteOreberryBush  = <aobd:orebushMeteorite>;
-var meutoiteOreberryBush   = <aobd:orebushMeutoite>;
-var nickelOreberryBush     = <aobd:orebushNickel>;
-var platinumOreberryBush   = <aobd:orebushPlatinum>;
-var sanguiniteOreberryBush = <aobd:orebushSanguinite>;
-var silverOreberryBush     = <aobd:orebushSilver>;
-var zincOreberryBush       = <aobd:orebushZinc>;
-var ironOreberryBush       = <TConstruct:ore.berries.one:8>;
-var goldOreberryBush       = <TConstruct:ore.berries.one:9>;
-var copperOreberryBush     = <TConstruct:ore.berries.one:10>;
-var tinOreberryBush        = <TConstruct:ore.berries.one:11>;
-var aluminumOreberryBush   = <TConstruct:ore.berries.two:8>;
+var adamantineOreberryBush  = <aobd:orebushAdamantine>;
+var eximiteOreberryBush     = <aobd:orebushEximite>;
+var endiumOreberryBush      = <aobd:orebushHeeEndium>;
+var ironwoodOreberryBush    = <aobd:orebushIronwood>;
+var knightmetalOreberryBush = <aobd:orebushKnightmetal>;
+var kreknoriteOreberryBush  = <aobd:orebushKreknorite>;
+var leadOreberryBush        = <aobd:orebushLead>;
+var meteoriteOreberryBush   = <aobd:orebushMeteorite>;
+var meutoiteOreberryBush    = <aobd:orebushMeutoite>;
+var nickelOreberryBush      = <aobd:orebushNickel>;
+var platinumOreberryBush    = <aobd:orebushPlatinum>;
+var sanguiniteOreberryBush  = <aobd:orebushSanguinite>;
+var silverOreberryBush      = <aobd:orebushSilver>;
+var zincOreberryBush        = <aobd:orebushZinc>;
+var ironOreberryBush        = <TConstruct:ore.berries.one:8>;
+var goldOreberryBush        = <TConstruct:ore.berries.one:9>;
+var copperOreberryBush      = <TConstruct:ore.berries.one:10>;
+var tinOreberryBush         = <TConstruct:ore.berries.one:11>;
+var aluminumOreberryBush    = <TConstruct:ore.berries.two:8>;
 
 # ORE DICTIONARY
 #----------------
-var anyElectrumIngot       = <ore:ingotElectrum>;
-var anyRuby                = <ore:gemRuby>;
-var anySanguiniteIngot     = <ore:ingotSanguinite>;
-var anyStoneBlock          = <ore:stone>;
+var anyElectrumIngot        = <ore:ingotElectrum>;
+var anyRuby                 = <ore:gemRuby>;
+var anySanguiniteIngot      = <ore:ingotSanguinite>;
+var anyStoneBlock           = <ore:stone>;
 
 # Blocks
-var anyAdamantineBlock     = <ore:blockAdamantine>;
-var anyAluminumBlock       = <ore:blockAluminum>;
-var anyCopperBlock         = <ore:blockCopper>;
-var anyEndiumBlock         = <ore:blockHeeEndium>;
-var anyEximiteBlock        = <ore:blockEximite>;
-var anyGlassBlock          = <ore:blockGlass>;
-var anyGoldBlock           = <ore:blockGold>;
-var anyIronBlock           = <ore:blockIron>;
-var anyKreknoriteBlock     = <ore:blockKreknorite>;
-var anyLeadBlock           = <ore:blockLead>;
-var anyMeteoriteBlock      = <ore:blockMeteorite>;
-var anyMeutoiteBlock       = <ore:blockMeutoite>;
-var anyNickelBlock         = <ore:blockNickel>;
-var anyPlatinumBlock       = <ore:blockPlatinum>;
-var anyRubyBlock           = <ore:blockRuby>;
-var anySanguiniteBlock     = <ore:blockSanguinite>;
-var anySilverBlock         = <ore:blockSilver>;
-var anyTinBlock            = <ore:blockTin>;
-var anyZincBlock           = <ore:blockZinc>;
+var anyAdamantineBlock      = <ore:blockAdamantine>;
+var anyAluminumBlock        = <ore:blockAluminum>;
+var anyCopperBlock          = <ore:blockCopper>;
+var anyEndiumBlock          = <ore:blockHeeEndium>;
+var anyEximiteBlock         = <ore:blockEximite>;
+var anyGlassBlock           = <ore:blockGlass>;
+var anyGoldBlock            = <ore:blockGold>;
+var anyIronBlock            = <ore:blockIron>;
+var anyIronwoodBlock        = <ore:blockIronwood>;
+var anyKnightmetalBlock     = <ore:blockKnightmetal>;
+var anyKreknoriteBlock      = <ore:blockKreknorite>;
+var anyLeadBlock            = <ore:blockLead>;
+var anyMeteoriteBlock       = <ore:blockMeteorite>;
+var anyMeutoiteBlock        = <ore:blockMeutoite>;
+var anyNickelBlock          = <ore:blockNickel>;
+var anyPlatinumBlock        = <ore:blockPlatinum>;
+var anyRubyBlock            = <ore:blockRuby>;
+var anySanguiniteBlock      = <ore:blockSanguinite>;
+var anySilverBlock          = <ore:blockSilver>;
+var anyTinBlock             = <ore:blockTin>;
+var anyZincBlock            = <ore:blockZinc>;
 
 # ITEM LISTS
 #------------
-var boundTools             = [
+var boundTools              = [
     boundAxe,
     boundPickaxe,
     boundShovel,
     boundSword
 ] as IItemStack[];
-var sanguiniteTools        = [
+var sanguiniteTools         = [
     sanguiniteAxe,
     sanguinitePickaxe,
     sanguiniteShovel,
     sanguiniteSword
 ] as IItemStack[];
-var allOreberryBushes      = [
+var allOreberryBushes       = [
     adamantineOreberryBush,
     aluminumOreberryBush,
     copperOreberryBush,
@@ -104,6 +108,8 @@ var allOreberryBushes      = [
     eximiteOreberryBush,
     goldOreberryBush,
     ironOreberryBush,
+    ironwoodOreberryBush,
+    knightmetalOreberryBush,
     kreknoriteOreberryBush,
     leadOreberryBush,
     meteoriteOreberryBush,
@@ -115,7 +121,7 @@ var allOreberryBushes      = [
     tinOreberryBush,
     zincOreberryBush
 ] as IItemStack[];
-var allMetalBlocks         = [
+var allMetalBlocks          = [
     anyAdamantineBlock,
     anyAluminumBlock,
     anyCopperBlock,
@@ -123,6 +129,8 @@ var allMetalBlocks         = [
     anyEximiteBlock,
     anyGoldBlock,
     anyIronBlock,
+    anyIronwoodBlock,
+    anyKnightmetalBlock,
     anyKreknoriteBlock,
     anyLeadBlock,
     anyMeteoriteBlock,
