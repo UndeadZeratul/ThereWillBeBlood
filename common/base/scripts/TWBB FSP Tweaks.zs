@@ -188,38 +188,6 @@ recipes.addShaped(steamHeater, [
     [anyBrassPlate,   furnace,         anyBrassPlate],
     [null,            pipe,            null]]);
 
-
-# Steam Tools
-recipes.removeShaped(steamDrill.anyDamage());
-recipes.addShaped(steamDrill, [
-    [anyBrassIngot, anySteelIngot, anySteelIngot],
-    [pipe,          brassTurbine,  anySteelIngot],
-    [anyBrassIngot, pipe,          anyBrassIngot]]);
-recipes.addShaped(steamDrill, [
-    [anyBrassPlate, anySteelIngot, anySteelIngot],
-    [pipe,          brassTurbine,  anySteelIngot],
-    [anyBrassPlate, pipe,          anyBrassPlate]]);
-
-recipes.removeShaped(steamSaw.anyDamage());
-recipes.addShaped(steamSaw, [
-    [anySteelIngot, anySteelNugget, anySteelIngot],
-    [pipe,          brassTurbine,   anySteelNugget],
-    [anyBrassIngot, pipe,           anySteelIngot]]);
-recipes.addShaped(steamSaw, [
-    [anySteelIngot, anySteelNugget, anySteelIngot],
-    [pipe,          brassTurbine,   anySteelNugget],
-    [anyBrassPlate, pipe,           anySteelIngot]]);
-
-recipes.removeShaped(steamShovel.anyDamage());
-recipes.addShaped(steamShovel, [
-    [anySteelIngot, anyBrassIngot, anySteelIngot],
-    [pipe,          brassTurbine,  anyBrassIngot],
-    [anyBrassIngot, pipe,          anySteelIngot]]);
-recipes.addShaped(steamShovel, [
-    [anySteelIngot, anyBrassPlate, anySteelIngot],
-    [pipe,          brassTurbine,  anyBrassPlate],
-    [anyBrassPlate, pipe,          anySteelIngot]]);
-
 # Steam Wings
 recipes.removeShaped(wings);
 recipes.addShaped(wings, [
