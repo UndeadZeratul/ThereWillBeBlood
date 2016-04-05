@@ -120,7 +120,6 @@ Optional Client Mod Versions
 - **Dynamic Surroundings** v1.0.5.6 by OreCruncher
 - **ItemPhysic** v1.1.5 by CreativeMD
 - **Sound Filters** v0.8_for_1.7.X by Tmtravlr
-- **StatusEffectHUD** v1.27 by bspkrs
 
 Server Mod Versions
 =
