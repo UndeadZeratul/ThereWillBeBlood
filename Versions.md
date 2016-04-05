@@ -102,7 +102,7 @@ Current Mod Versions
 - **Tinkers' Steelworks** v1.7.10-1.1.2 by Toops
 - **TNTUtils** v1.1.3 by ljfa
 - **TooMuchLoot** v4.0.1
-- **TWBB Tweaks** v1.7.10-0.0.1+24
+- **TWBB Tweaks** v1.7.10-1.0.0-RC1
 - **Ye Olde Tanks** v1.4.5 by Shadowfacts
 - **Zombie Awareness** v1.10
 
