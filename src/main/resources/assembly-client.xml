@@ -51,6 +51,13 @@
             </includes>
         </fileSet>
         <fileSet>
+            <directory>client/prod/nincraft</directory>
+            <outputDirectory>/</outputDirectory>
+            <includes>
+                <include>mods/*.*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
             <directory>client/base/config</directory>
             <outputDirectory>/config</outputDirectory>
             <filtered>true</filtered>
