@@ -15,12 +15,15 @@ var charcoal          = <minecraft:coal:1>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
 var gunpowder         = <minecraft:gunpowder>;
+var leatherStrip      = <betterbeginnings:leatherStrip>;
+var rawhide           = <HarderWildlife:rawLeather>;
 var torchWood         = <minecraft:torch>;
 var torchStone        = <TConstruct:decoration.stonetorch>;
 var torchberries      = <TwilightForest:item.torchberries>;
 
 # ORE DICTIONARY
 #----------------
+var anyKnife          = <ore:itemKnife>;
 var anyWoodenStick    = <ore:stickWood>;
 var anyStoneRod       = <ore:rodStone>;
 
@@ -49,6 +52,9 @@ var allTorches        = [
 
 # RECIPE TWEAKS
 #---------------
+
+# Rawhide -> Leather Strip
+recipes.addShapeless(leatherStrip, [rawhide, anyKnife]);
 
 # Enforce Baking Bread
 recipes.removeShaped(bread);
