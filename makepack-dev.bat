@@ -2,4 +2,4 @@
 call packdownload.bat
 
 :: Assemble the Modpack
-mvn clean package -P client-dev,server-dev
+mvn clean package -D profile.develop
