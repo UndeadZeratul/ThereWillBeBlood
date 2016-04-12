@@ -7,7 +7,8 @@
         "primary": true,
         "folder": "common/base/loaders",
         "downloadInstaller": true,
-        "downloadUniversal": true
+        "downloadUniversal": true,
+        "renameUniversal": "modpack.jar"
       }
     ]
   },
