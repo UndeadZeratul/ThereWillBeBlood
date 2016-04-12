@@ -23,7 +23,6 @@ var torchberries      = <TwilightForest:item.torchberries>;
 
 # ORE DICTIONARY
 #----------------
-var anyKnife          = <ore:itemKnife>;
 var anyWoodenStick    = <ore:stickWood>;
 var anyStoneRod       = <ore:rodStone>;
 
@@ -54,7 +53,7 @@ var allTorches        = [
 #---------------
 
 # Rawhide -> Leather Strip
-recipes.addShapeless(leatherStrip, [rawhide, anyKnife]);
+recipes.addShapeless(leatherStrip, [rawhide]);
 
 # Enforce Baking Bread
 recipes.removeShaped(bread);
