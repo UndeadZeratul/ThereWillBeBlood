@@ -53,7 +53,7 @@ var allTorches        = [
 #---------------
 
 # Rawhide -> Leather Strip
-recipes.addShapeless(leatherStrip, [rawhide]);
+recipes.addShapeless(leatherStrip, [rawhide, flint]);
 
 # Enforce Baking Bread
 recipes.removeShaped(bread);
