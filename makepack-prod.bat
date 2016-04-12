@@ -2,4 +2,4 @@
 call packdownload.bat
 
 :: Assemble the Modpack
-mvn clean package -P client,client-ftb,server
+mvn clean package -D profile.master
