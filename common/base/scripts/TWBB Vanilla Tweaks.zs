@@ -15,6 +15,7 @@ var charcoal          = <minecraft:coal:1>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
 var gunpowder         = <minecraft:gunpowder>;
+var lead              = <minecraft:lead>;
 var leatherStrip      = <betterbeginnings:leatherStrip>;
 var rawhide           = <HarderWildlife:rawLeather>;
 var torchWood         = <minecraft:torch>;
@@ -23,8 +24,10 @@ var torchberries      = <TwilightForest:item.torchberries>;
 
 # ORE DICTIONARY
 #----------------
-var anyWoodenStick    = <ore:stickWood>;
+var anySlimeball      = <ore:slimeball>;
+var anyString         = <ore:itemString>;
 var anyStoneRod       = <ore:rodStone>;
+var anyWoodenStick    = <ore:stickWood>;
 
 # Ingots
 var anySteelIngot     = <ore:ingotSteel>;
@@ -118,3 +121,10 @@ recipes.addShaped(anvil, [
     [anySteelBlock, anySteelBlock, anySteelBlock],
     [null,          anySteelIngot, null],
     [anySteelIngot, anySteelIngot, anySteelIngot]]);
+
+# Unify Lead Recipe
+recipes.remove(lead);
+recipes.addShaped(lead, [
+    [anyString, anyString,    null],
+    [anyString, anySlimeball, null],
+    [null,      null,         anyString]]);
