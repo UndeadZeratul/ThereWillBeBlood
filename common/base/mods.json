@@ -79,6 +79,11 @@
       "name": "bspkrsCore"
     },
     {
+      "name": "Chameleon Creepers",
+      "projectID": 242617,
+      "fileID": 2285921
+    },
+    {
       "fileID": 2262089,
       "projectID": 222213,
       "name": "CodeChickenCore"
@@ -102,6 +107,11 @@
       "fileID": 2285744,
       "projectID": 237749,
       "name": "CoroUtil"
+    },
+    {
+      "name": "Creeper Awareness",
+      "projectID": 243078,
+      "fileID": 2291603
     },
     {
       "fileID": 2264037,
@@ -434,10 +444,6 @@
       "name": "BetterStorage"
     },
     {
-      "url": "http://download1645.mediafire.com/54mtw8wd48bg/ciaw1m3e7nt1cw8/ChameleonCreepers-1.2-1.7.10.jar",
-      "name": "Chameleon Creepers"
-    },
-    {
       "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-codec-1.9.jar",
       "name": "common Codec",
       "folder": "common/base/mods/1.7.10"
@@ -446,10 +452,6 @@
       "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-compress-1.8.1.jar",
       "name": "Common Compress",
       "folder": "common/base/mods/1.7.10"
-    },
-    {
-      "url": "http://download1507.mediafire.com/3ham0imat20g/2gaj88zw41opn8q/AvoidExplodingCreepers-1.7.10-LATEST.jar",
-      "name": "Creeper Awareness"
     },
     {
       "url": "https://github.com/CannibalVox/DimDoors/releases/download/2.2.5-test9/DimensionalDoors-2.2.5-test9.jar",
