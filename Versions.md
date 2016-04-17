@@ -32,7 +32,6 @@ Current Mod Versions
 =
 - **AgriCraft** v1.7.10-1.5.0 by InfinityRaider
 - **Air Overhaul** v1.7.10_1.0 by Mark719
-- **Alternate Terrain Generation** v0.10.0
 - **Another One Bites The Dust** v2.9.1 by ganymedes01
 - **Another One Bites The Dust: Berry Bushes** v1.0.6 by ganymedes01
 - **Antique Atlas** v1.7.10-4.2.10
@@ -45,6 +44,7 @@ Current Mod Versions
 - **Block Properties** v0.1.4 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.3.3 by WayofTime
 - **Chameleon Creepers** v1.7.10-1.2 by Vel0cityX
+- **Climate Control** v0.5-beta50 by Zeno410
 - **Cooking for Blockheads** v1.0.134 by BlayTheNinth, ZeroTheShinigami
 - **Creeper Awareness** v2.0 by Elix_x
 - **Dark Menagerie** v1.0 ny RWTema
@@ -86,6 +86,7 @@ Current Mod Versions
 - **PoorOres** v1.7.10-1.4.8 by Xexanos
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
+- **Realistic Terrain Generation** v0.8.0-SNAPSHOT-3 by WhichOnesPink
 - **RPGAdvMod** v1.0.0
 - **Salty Mod** v1.7.e by Liahim
 - **Simple Achievements** vMC1.7.10-1.1.0-21
