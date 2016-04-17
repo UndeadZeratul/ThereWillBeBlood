@@ -79,9 +79,9 @@
       "name": "bspkrsCore"
     },
     {
-      "name": "Chameleon Creepers",
+      "fileID": 2285921,
       "projectID": 242617,
-      "fileID": 2285921
+      "name": "Chameleon Creepers"
     },
     {
       "fileID": 2262089,
@@ -109,9 +109,9 @@
       "name": "CoroUtil"
     },
     {
-      "name": "Creeper Awareness",
+      "fileID": 2291603,
       "projectID": 243078,
-      "fileID": 2291603
+      "name": "Creeper Awareness"
     },
     {
       "fileID": 2264037,
