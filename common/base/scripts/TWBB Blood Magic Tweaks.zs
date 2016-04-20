@@ -58,7 +58,9 @@ var aluminumOreberryBush    = <TConstruct:ore.berries.two:8>;
 
 # ORE DICTIONARY
 #----------------
+var anyDiamond              = <ore:gemDiamond>;
 var anyElectrumIngot        = <ore:ingotElectrum>;
+var anyEmerald              = <ore:gemEmerald>;
 var anyRuby                 = <ore:gemRuby>;
 var anySanguiniteIngot      = <ore:ingotSanguinite>;
 var anyStoneBlock           = <ore:stone>;
@@ -171,12 +173,14 @@ for ruby in anyRuby.items {
 
 # Apprentice Blood Orb
 Altar.removeRecipe(apprenticeBloodOrb);
-#Altar.addRecipe(apprenticeBloodOrb, lifeCrystal, 2, 5000);
+for emerald in anyEmerald.items {
+    Altar.addRecipe(apprenticeBloodOrb, emerald, 2, 5000);
+}
 
 # Magician's Blood Orb
 Altar.removeRecipe(magicianBloodOrb);
-for block in anySanguiniteBlock.items {
-    Altar.addRecipe(magicianBloodOrb, block, 3, 25000);
+for diamond in anyDiamond.items {
+    Altar.addRecipe(magicianBloodOrb, diamond, 3, 25000);
 }
 
 # Carminite -> Sanguinite
