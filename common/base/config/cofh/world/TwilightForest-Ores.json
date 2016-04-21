@@ -8,7 +8,7 @@
                 "weight": 70
             },
             {
-                "name": "PoorOres:poor_coal_ore",
+                "name": "PoorOres:poor_adamantine_ore",
                 "weight": 30
             }
         ],
@@ -38,7 +38,7 @@
                 "weight": 90
             },
             {
-                "name": "PoorOres:poor_coal_ore",
+                "name": "PoorOres:poor_adamantine_ore",
                 "weight": 10
             }
         ],
@@ -68,7 +68,7 @@
                 "weight": 99
             },
             {
-                "name": "PoorOres:poor_coal_ore",
+                "name": "PoorOres:poor_adamantine_ore",
                 "weight": 1
             }
         ],
