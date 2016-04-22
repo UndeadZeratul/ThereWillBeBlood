@@ -6,7 +6,7 @@ import minetweaker.item.IIngredient;
 # COMMON VARIABLES
 #------------------
 var anyString  = <ore:itemString>;
-var anyWax     = <ore:materialPressedWax>;
+var anyWax     = <ore:materialPressedwax>;
 
 # ITEM LISTS
 #------------
