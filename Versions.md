@@ -86,7 +86,7 @@ Current Mod Versions
 - **PoorOres** v1.7.10-1.4.8 by Xexanos
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
-- **Realistic Terrain Generation** v0.8.0-SNAPSHOT-3 by WhichOnesPink
+- **Realistic Terrain Generation** v1.7.10-0.8.0-snapshot-5 by WhichOnesPink
 - **RPGAdvMod** v1.0.0
 - **Salty Mod** v1.7.e by Liahim
 - **Simple Achievements** vMC1.7.10-1.1.0-21
