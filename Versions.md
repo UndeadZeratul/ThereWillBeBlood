@@ -35,8 +35,8 @@ Current Mod Versions
 - **Another One Bites The Dust** v2.9.1 by ganymedes01
 - **Another One Bites The Dust: Berry Bushes** v1.0.6 by ganymedes01
 - **Antique Atlas** v1.7.10-4.2.10
-- **AromaBackup Recovery** v1.0
 - **AromaBackup** v0.1.0.0
+- **AromaBackup Recovery** v1.0
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
 - **BetterBeginnings** v0.9.5-R6 by einsteinsci, iLiminate, AnonTheMouse, Leviathan143
 - **BetterStorage** v0.13.1.127 by copygirl, Vic Nightfall
