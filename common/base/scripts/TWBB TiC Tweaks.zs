@@ -2040,6 +2040,11 @@ recipes.addShapeless(canisterRedHeart, [diamondApple, necroticBone, itemCanister
 recipes.addShapeless(canisterYellowHeart, [canisterRedHeart, miniYellowHeart, goldenNotchApple]);
 #recipes.addShapeless(canisterGreenHeart, [canisterYellowHeart, miniGreenHeart, ]);
 
+# Temporary stop-gap for Iron Tool Rods
+recipes.addShaped(ironToolRod * 2, [
+    [anyIronIngot],
+    [anyIronIngot]]);
+
 # FURNACE TWEAKS
 #----------------
 
