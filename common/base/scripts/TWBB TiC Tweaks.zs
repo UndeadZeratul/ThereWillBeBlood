@@ -1124,9 +1124,6 @@ var pigIronShuriken           = <TConstruct:ShurikenPart:18>;
 var stringShuriken            = <TConstruct:ShurikenPart:40>;
 
 # Liquids
-var diesel                    = <liquid:diesel>;
-var fuel                      = <liquid:fuel>;
-var kerosene                  = <liquid:kerosene>;
 var lava                      = <liquid:lava>;
 var moltenAdamantine          = <liquid:adamantine>;
 var moltenAluminum            = <liquid:aluminum.molten>;
@@ -1149,6 +1146,7 @@ var moltenGlass               = <liquid:glass.molten>;
 var moltenGlowstone           = <liquid:glowstone>;
 var moltenGold                = <liquid:gold.molten>;
 var moltenHepatizon           = <liquid:hepatizon.molten>;
+var moltenIgnatius            = <liquid:ignatius.molten>;
 var moltenInvar               = <liquid:invar.molten>;
 var moltenIron                = <liquid:iron.molten>;
 var moltenIronwood            = <liquid:ironwood>;
@@ -1172,8 +1170,8 @@ var moltenSignalum            = <liquid:signalum.molten>;
 var moltenSilver              = <liquid:silver.molten>;
 var moltenSteel               = <liquid:steel.molten>;
 var moltenTin                 = <liquid:tin.molten>;
+var moltenVulcanite           = <liquid:vulcanite.molten>;
 var moltenZinc                = <liquid:zinc>;
-var oil                       = <liquid:oil>;
 
 # ORE DICTIONARY
 #----------------
@@ -2064,22 +2062,16 @@ for fuel in fuelRemovals {
 }
 
 # Lava: 800*C
-Smeltery.addFuel(lava, 800, 160);
+Smeltery.addFuel(lava, 800, 80);
 
-# Oil: 1000*C
-Smeltery.addFuel(oil, 1000, 80);
+# Ignatius: 1600*C
+Smeltery.addFuel(moltenIgnatius, 1600, 160);
 
-# Diesel: 1250*C
-Smeltery.addFuel(diesel, 1250, 100);
+# Vulcanite: 2400*C
+Smeltery.addFuel(moltenVulcanite, 2400, 240);
 
-# Kerosene: 1500*C
-Smeltery.addFuel(kerosene, 1500, 120);
-
-# Gasoline: 2000*C
-Smeltery.addFuel(fuel, 2000, 140);
-
-# Pyrotheum: 3000*C
-Smeltery.addFuel(moltenPyrotheum, 3000, 80);
+# Pyrotheum: 3200*C
+Smeltery.addFuel(moltenPyrotheum, 3200, 320);
 
 
 # Disable TiC Metal Casts in favor of FSP Ceramic Molds
