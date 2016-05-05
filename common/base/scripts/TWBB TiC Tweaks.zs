@@ -1146,7 +1146,7 @@ var moltenGlass               = <liquid:glass.molten>;
 var moltenGlowstone           = <liquid:glowstone>;
 var moltenGold                = <liquid:gold.molten>;
 var moltenHepatizon           = <liquid:hepatizon.molten>;
-var moltenIgnatius            = <liquid:ignatius.molten>;
+var moltenIgnatius            = <liquid:ignatius>;
 var moltenInvar               = <liquid:invar.molten>;
 var moltenIron                = <liquid:iron.molten>;
 var moltenIronwood            = <liquid:ironwood>;
@@ -1170,7 +1170,7 @@ var moltenSignalum            = <liquid:signalum.molten>;
 var moltenSilver              = <liquid:silver.molten>;
 var moltenSteel               = <liquid:steel.molten>;
 var moltenTin                 = <liquid:tin.molten>;
-var moltenVulcanite           = <liquid:vulcanite.molten>;
+var moltenVulcanite           = <liquid:vulcanite>;
 var moltenZinc                = <liquid:zinc>;
 
 # ORE DICTIONARY
