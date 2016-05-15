@@ -82,7 +82,6 @@ Current Mod Versions
 - **Ore Flowers** v1.0.0 by Draco18s
 - **Pam's HarvestCraft** v1.7.10j by Pamela Collins
 - **Pam's Temperate Plants** v1.7.2b
-- **PneumaticCraft** v1.12.7-150
 - **PoorOres** v1.7.10-1.4.8 by Xexanos
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
