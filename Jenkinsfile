@@ -23,16 +23,16 @@ node {
 
    stage 'Download Common mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" common/dev/mods.json common/dev/mods
-          for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
           java -jar "%modpackdownloader%" common/base/mods.json common/base/mods
-          for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" common/prod/mods.json common/prod/mods
           exit 0'''
 
    stage 'Download Client mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
+          java -jar "%modpackdownloader%" client/dev/mods.json client/dev/mods
+          for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
           java -jar "%modpackdownloader%" client/base/mods.json client/base/mods
+          for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
+          java -jar "%modpackdownloader%" client/prod/mods.json client/prod/mods
           exit 0'''
 
    stage 'Download Server mods'
