@@ -23,8 +23,7 @@ node {
 
    stage 'Download Common mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" common/base/mods.json common/base/mods
-          exit 0'''
+          java -jar "%modpackdownloader%" common/base/mods.json common/base/mods'''
 
    stage 'Download Client mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
@@ -32,15 +31,13 @@ node {
           for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
           java -jar "%modpackdownloader%" client/base/mods.json client/base/mods
           for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" client/prod/mods.json client/prod/mods
-          exit 0'''
+          java -jar "%modpackdownloader%" client/prod/mods.json client/prod/mods'''
 
    stage 'Download Server mods'
    bat '''for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
           java -jar "%modpackdownloader%" server/base/mods.json server/base/mods
           for /f "delims=" %%i IN (\'dir *.jar /b\') DO set modpackdownloader=%%i
-          java -jar "%modpackdownloader%" server/prod/mods.json server/prod/mods
-          exit 0'''
+          java -jar "%modpackdownloader%" server/prod/mods.json server/prod/mods'''
 
    // Mark the code build 'stage'....
    stage 'Build Pack'
