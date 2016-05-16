@@ -97,7 +97,7 @@
     "locName": "drill.netherquartz",
     "harvestLevel": 4,
     "standard": false,
-    "oreName": "gemNetherQuartz",
+    "oreName": "gemQuartz",
     "color": "#FABD3F"
   },
   "Diamond": {
@@ -140,8 +140,7 @@
     "materialName": "Ironwood",
     "locName": "drill.ironwood",
     "harvestLevel": 5,
-    "standard": false,
-    "oreName": "ingotIronwood",
+    "standard": true,
     "color": "#655B49"
   },
   "Black Steel": {
@@ -176,8 +175,7 @@
     "materialName": "Knightmetal",
     "locName": "drill.knightmetal",
     "harvestLevel": 7,
-    "standard": false,
-    "oreName": "ingotKnightmetal",
+    "standard": true,
     "color": "#828D75"
   },
   "Sanguinite": {
