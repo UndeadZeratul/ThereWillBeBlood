@@ -56,7 +56,7 @@ Current Mod Versions
 - **EnderCore** v1.7.10-0.2.0.31_beta by tterrag, CrazyPants
 - **EnviroMine** v1.3.124 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
 - **Falling Meteors** v2.14.3
-- **Flaxbeard's Steam Power** v0.28.12 by SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
+- **Flaxbeard's Steam Power** v1.7.10-0.29.2 by Elifoster, SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
 - **Hammerz** v0.1.7.37
 - **Hardcore Darkness** v1.7 by lumien
 - **Hardcore Ender Expansion** v1.8.5 by chylex

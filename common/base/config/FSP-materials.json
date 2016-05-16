@@ -1,0 +1,211 @@
+{
+  "Brass": {
+    "materialName": "Brass",
+    "locName": "drill.brass",
+    "harvestLevel": 1,
+    "standard": true,
+    "color": "#FABD3F"
+  },
+  "Electrum": {
+    "materialName": "Electrum",
+    "locName": "drill.electrum",
+    "harvestLevel": 1,
+    "standard": true,
+    "color": "#FABD3F"
+  },
+  "Gold": {
+    "materialName": "Gold",
+    "locName": "drill.gold",
+    "harvestLevel": 1,
+    "standard": true,
+    "color": "#CED652"
+  },
+  "Silver": {
+    "materialName": "Silver",
+    "locName": "drill.silver",
+    "harvestLevel": 1,
+    "standard": true,
+    "color": "#B7BBBD"
+  },
+  "Platinum": {
+    "materialName": "Platinum",
+    "locName": "drill.platinum",
+    "harvestLevel": 5,
+    "standard": true,
+    "color": "#BBB8A1"
+  },
+  "Zinc": {
+    "materialName": "Zinc",
+    "locName": "drill.zinc",
+    "harvestLevel": 1,
+    "standard": true,
+    "color": "#A6A883"
+  },
+  "Hepatizon": {
+    "materialName": "Hepatizon",
+    "locName": "drill.hepatizon",
+    "harvestLevel": 2,
+    "standard": true,
+    "color": "#FABD3F"
+  },
+  "Lead": {
+    "materialName": "Lead",
+    "locName": "drill.lead",
+    "harvestLevel": 2,
+    "standard": true,
+    "color": "#A5AAB7"
+  },
+  "Tin": {
+    "materialName": "Tin",
+    "locName": "drill.tin",
+    "harvestLevel": 2,
+    "standard": true,
+    "color": "#A29E98"
+  },
+  "Copper": {
+    "materialName": "Copper",
+    "locName": "drill.copper",
+    "harvestLevel": 3,
+    "standard": true,
+    "color": "#B1662E"
+  },
+  "Bronze": {
+    "materialName": "Bronze",
+    "locName": "drill.bronze",
+    "harvestLevel": 4,
+    "standard": true,
+    "color": "#FABD3F"
+  },
+  "Emerald": {
+    "materialName": "Emerald",
+    "locName": "drill.emerald",
+    "harvestLevel": 4,
+    "standard": false,
+    "oreName": "gemEmerald",
+    "color": "#17DD62"
+  },
+  "Frozen Iron": {
+    "materialName": "FrozenIron",
+    "locName": "drill.frozeniron",
+    "harvestLevel": 4,
+    "standard": false,
+    "oreName": "ingotFrozenIron",
+    "color": "#FABD3F"
+  },
+  "Nether Quartz": {
+    "materialName": "NetherQuartz",
+    "locName": "drill.netherquartz",
+    "harvestLevel": 4,
+    "standard": false,
+    "oreName": "gemNetherQuartz",
+    "color": "#FABD3F"
+  },
+  "Diamond": {
+    "materialName": "Diamond",
+    "locName": "drill.diamond",
+    "harvestLevel": 5,
+    "standard": false,
+    "oreName": "gemDiamond",
+    "color": "#29C6AD"
+  },
+  "Invar": {
+    "materialName": "Invar",
+    "locName": "drill.invar",
+    "harvestLevel": 5,
+    "standard": true,
+    "color": "#FABD3F"
+  },
+  "Iron": {
+    "materialName": "Iron",
+    "locName": "drill.iron",
+    "harvestLevel": 5,
+    "standard": true,
+    "color": "#DEDEDE"
+  },
+  "Meteorite": {
+    "materialName": "Meteorite",
+    "locName": "drill.meteorite",
+    "harvestLevel": 5,
+    "standard": true,
+    "color": "#B562D0"
+  },
+  "Nickel": {
+    "materialName": "Nickel",
+    "locName": "drill.nickel",
+    "harvestLevel": 5,
+    "standard": true,
+    "color": "#BBB8A1"
+  },
+  "Ironwood": {
+    "materialName": "Ironwood",
+    "locName": "drill.ironwood",
+    "harvestLevel": 5,
+    "standard": false,
+    "oreName": "ingotIronwood",
+    "color": "#655B49"
+  },
+  "Black Steel": {
+    "materialName": "BlackSteel",
+    "locName": "drill.blacksteel",
+    "harvestLevel": 6,
+    "standard": true,
+    "color": "#FABD3F"
+  },
+  "Steel": {
+    "materialName": "Steel",
+    "locName": "drill.steel",
+    "harvestLevel": 6,
+    "standard": true,
+    "color": "#646361"
+  },
+  "Ardite": {
+    "materialName": "Ardite",
+    "locName": "drill.ardite",
+    "harvestLevel": 7,
+    "standard": true,
+    "color": "#AD3900"
+  },
+  "Cobalt": {
+    "materialName": "Cobalt",
+    "locName": "drill.cobalt",
+    "harvestLevel": 7,
+    "standard": true,
+    "color": "#134D9B"
+  },
+  "Knightmetal": {
+    "materialName": "Knightmetal",
+    "locName": "drill.knightmetal",
+    "harvestLevel": 7,
+    "standard": false,
+    "oreName": "ingotKnightmetal",
+    "color": "#828D75"
+  },
+  "Sanguinite": {
+    "materialName": "Sanguinite",
+    "locName": "drill.sanguinite",
+    "harvestLevel": 8,
+    "standard": true,
+    "color": "#940101"
+  },
+  "Adamantine": {
+    "materialName": "Adamantine",
+    "locName": "drill.adamantine",
+    "harvestLevel": 9,
+    "standard": true,
+    "color": "#670808"
+  },
+  "Eximite": {
+    "materialName": "Eximite",
+    "locName": "drill.eximite",
+    "harvestLevel": 9,
+    "standard": true,
+    "color": "#553F65"
+  },
+  "Desichalkos": {
+    "materialName": "Desichalkos",
+    "locName": "drill.desichalkos",
+    "harvestLevel": 10,
+    "standard": true,
+    "color": "#940101"
+  },
+}
