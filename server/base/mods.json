@@ -1,0 +1,12 @@
+{
+  "minecraft": {
+    "version": "1.7.10"
+  },
+  "files": [
+    {
+      "fileID": 2266825,
+      "projectID": 231774,
+      "name": "ForgeAutoShutdown"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "minecraft": {
+    "version": "1.7.10"
+  },
+  "files": [
+    {
+      "fileID": 2218859,
+      "projectID": 225564,
+      "name": "Armor Status HUD"
+    },
+    {
+      "fileID": 2291423,
+      "projectID": 228529,
+      "name": "Better Foliage"
+    },
+    {
+      "fileID": 2214088,
+      "projectID": 224223,
+      "name": "Better Title Screen"
+    },
+    {
+      "fileID": 2225179,
+      "projectID": 226188,
+      "name": "Default World Generator"
+    },
+    {
+      "fileID": 2218893,
+      "projectID": 225565,
+      "name": "Direction HUD"
+    },
+    {
+      "fileID": 2231444,
+      "projectID": 227874,
+      "name": "Dynamic Lights"
+    },
+    {
+      "fileID": 2290472,
+      "projectID": 238891,
+      "name": "Dynamic Surroundings"
+    },
+    {
+      "fileID": 2269669,
+      "projectID": 238618,
+      "name": "LiMI"
+    },
+    {
+      "fileID": 2224003,
+      "projectID": 222789,
+      "name": "Sound Filters"
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "https://www.googleapis.com/download/storage/v1/b/filedimebucket/o/1293.CreativeCore%20v1.3.23%20mc1.7.10.jar?generation=1455555603283000&alt=media",
+      "name": "CreativeCore"
+    },
+    {
+      "url": "http://www.dropbox.com/s/id0m78kp2ms0993/ItemPhysic%20Lite%201.1.5%20mc1.7.10.jar?dl=1",
+      "name": "Item Physic"
+    }
+  ]
+}

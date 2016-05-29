@@ -1,0 +1,44 @@
+ ::2
+ ::2
+ ::2
+ ::2
+ ::2
+ ::2
+ ::2
+ ::2
+ ::2
+There Will Be Blood::1
+Survival Guide Checklist::1
+By Undead Zeratul::1
+ ::2
+ ::2
+Survivalist/Stone Age::1
+Living in the wild, you must find a way to gather enough food and water, as well as build a shelter from the elements, to survive. Before you can continue further, you must build a smeltery to begin processing various metals.::2
+ ::2
+ ::2
+ ::2
+Build a shelter for protection::0
+Build a farm for supplying enough food::0
+Build a smeltery to begin processing metals::0
+Find Tin/Lead to make your first pickaxe.::0
+ ::2
+ ::2
+Industrial Age::1
+With a foothold against the evils outside, you can now focus on progressing.  The first step along that path is harvesting the power of steam.  Before you can begin to explore new lands, you need to be able to mine diamonds and/or obsidian, which will require a pickaxe of at least steel mining level.::2
+ ::2
+ ::2
+Find Coppper::0
+Find Zinc::0
+Make Brass::0
+Make Bronze::0
+Build a steam boiler::0
+Build a high oven to begin making steel::0
+ ::2
+Twilight/Nether/Magical Age::1
+Once you obtain a diamond, you may now enter the Twilight Forest; obsidian will allow you to enter the Nether.  From here you can explore these two new dimensions and their magical nature, allowing you to progress into the art of blood magic.::2
+ ::2
+ ::2
+Build a Blood Altar::0
+Upgrade the Blood Altar to tier 3::0
+Craft Sanguinite from Carminite::0
+Use Sanguinite to craft various pieces of bound equipment::0

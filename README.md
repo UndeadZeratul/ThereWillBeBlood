@@ -1,6 +1,6 @@
 There Will Be Blood
 ===
-A public repository for all changes to my Hardcore Modpack project.  This modpack focuses on the world around you and its inhabitants; namely how much they loathe your existance and want you gone.  Everything in this pack is geared towards giving you a bad time.  You will fight to survive against not only difficult mobs with increased intelligence, but also against the enviroment itself.  You'll need to stay hydrated, regulate your body's internal temperature as well as fatigue, and watch out for the occasional pockets of various gases found under the earth.  The deeper you mine, the harder time you'll have breathing, and will need to find cleaner air in order to not suffocate.  Even staving off hunger might be an issue; as you'll need to eat a varied and balanced diet in order to stay healthy.  You might be thinking, "this sounds insane!" and in a way, you'd be right; as certain mobs, especially those found in The Nether, will cause you to lose a bit of your sanity.
+A public repository for all changes to my Simply Brutal Modpack project.  This modpack focuses on the world around you and its inhabitants; namely how much they loathe your existance and want you gone.  Everything in this pack is geared towards giving you a bad time.  You will fight to survive against not only difficult mobs with increased intelligence, but also against the enviroment itself.  You'll need to stay hydrated, regulate your body's internal temperature as well as fatigue, and watch out for the occasional pockets of various gases found under the earth.  The deeper you mine, the harder time you'll have breathing, and will need to find cleaner air in order to not suffocate.  Even staving off hunger might be an issue; as you'll need to eat a varied and balanced diet in order to stay healthy.  You might be thinking, "this sounds insane!" and in a way, you'd be right; as certain mobs, especially those found in The Nether, will cause you to lose a bit of your sanity.
 
 If you think you're up for the challenge, give this pack a try; but be warned, _there will be blood_.
 
@@ -30,28 +30,33 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 | Tin | 230 |
 | Lead | 375 |
 | Zinc | 420 |
+| Glass | 550 |
+| Emerald | 650 |
 | Aluminum | 660 |
-| __Crude Oil-fueled Smeltery__ | __0 - 1000__ | 
+| __Ignatius-fueled Smeltery__ | __0 - 1600__ | 
 | Brass | 925 |
 | Aluminum Brass | 950 |
 | Bronze | 950 |
 | Silver | 950 |
 | Electrum | 1000 |
-| __Diesel-Fueled Smeltery__ | __0 - 1250__ |
 | Gold | 1050 |
 | Hepatizon | 1075 |
 | Copper | 1080 |
-| __Kerosene-Fueled Smeltery__ | __0 - 1500__ |
 | Black Steel | 1400 |
 | Iron | 1400 |
+| Pig Iron | 1400 |
 | Invar | 1425 |
 | Nickel | 1450 |
 | Steel | 1500 |
-| __Gasoline-Fueled Smeltery, High Oven__ | __0 - 2000__ |
+| Ignatius | 1600 |
 | Meteorite | 1600 |
+| __High Oven__ | __0 - 2000__ |
 | Platinum | 1750 |
-| __Pyrotheum-Fueled Smeltery__ | __0 - 3000__ |
+| Kreknorite | 2000 |
+| Vulcanite | 2000 |
+| __Vulcanite-Fueled Smeltery__ | __0 - 2400__ |
 | Sanguinite | 2250 |
+| __Pyrotheum-Fueled Smeltery__ | __0 - 3200__ |
 | Adamantine | 2500 |
 | Endium | 2500 |
 | Eximite | 2750 |
@@ -72,9 +77,7 @@ I've gone ahead and made a spreadsheet of every ore/resource in TWBB, as well as
 
 Modpack Requirements
 ===
-TWBB requires Java 8 to run due to "Ye Olde Tanks".  If you cannot or do not want to run with Java 8, you'll have to disable or remove that mod.  If Java 8 is not being used, be sure to allocate at least 128MBs to the Permgen.
-
-Otherwise, the pack runs well with 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
+TWBB requires Java 8, and runs well with 2GBs of RAM, at least through my own personal testing.  If you can achieve a decent performance with more/less, let me know and I'll adjust.
 
 Installation
 ===
@@ -82,6 +85,7 @@ This modpack is currently hosted on the Technic Launcher as well as the Feed The
 * For Technic, go to [the pack's webpage](http://www.technicpack.net/modpack/details/there-will-be-blood.511723) and copy the **Platform URL**.  Open up the Technic Launcher, click on the **Add New Pack** button, and paste the **Platform URL** into the textfield.  When you're done, select the modpack, and click play!
 * For FTB, go to the **Third Party Packs** tab, and click the **Pack Codes** button.  type in the pack code **TWBB** into the textfield.  When you're done, select the modpack, and click launch!
 * For Curse Voice, Click on the **Browse All Modpacks** button.  Type in "There Will Be Blood" into the search bar.  You should see the pack in the listing below.  Hover over the modpack, and click on the **Install** button to install.  Wait a bit for the mods to be downloaded and installed, and when it's done, click play!
+* For the Nincraft Launcher, you'll first have to download the latest version [here](https://github.com/Nincraft/Nincraft-Launcher/releases).  Run the launcher and click the modpack called "There Will Be Blood", and click "Launch".
 
 Contributing
 ===

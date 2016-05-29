@@ -1,18 +1,21 @@
+[Better Beginnings License]: http://minecraft.curseforge.com/projects/betterbeginnings-mod/license
+[Chameleon Creepers Notification]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2628395-chameleon-creepers-creepers-take-the-color-of?comment=41
 [Creeper Awareness MCF Thread]: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2328246
 [FatherToast's MCF Thread]:http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771
+[Forge Auto-Shutdown License]:http://minecraft.curseforge.com/projects/forgeautoshutdown/license
 [FTB Permission Website]:http://www.feed-the-beast.com/mods
 [Hammerz License]:https://github.com/VapourDrive/Hammerz/blob/master/LICENSE
+[Harder Wildlife Permission]:http://i.imgur.com/YYLpNsR.png
 [HCEE Notification]:https://i.imgur.com/TzX1qCf.png
 [Item Physics Notification]:https://i.imgur.com/SruHzlI.png
 [Iguana's Tweaks License]:https://github.com/Parker8283/IguanaTweaks/blob/master/LICENSE
+[LiMI's License]:http://minecraft.curseforge.com/projects/limi/license
 [NincraftLib License]: https://github.com/Nincraft/NincraftLib/blob/master/LICENSE
+[SaltyMod Notification]: http://i.imgur.com/7eoP5Vr.png
 [TWBB Tweaks License]: https://github.com/UndeadZeratul/TWBB-Tweaks/blob/master/LICENSE
 [Ye Olde Tanks License]: https://github.com/shadowfacts/YeOldeTanks/blob/master/LICENSE.md
 
 - **Agricraft** by: *InfinityRaider*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **Alternate Terrain Generation** by: *TTFTCUTS*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Another One Bites The Dust** by: *Ganymedes01*
@@ -39,6 +42,9 @@
 - **AsieLib** by: *asie*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Better Beginnings** by: *einsteinsci*
+  - **Private Packs**: Open: [Better Beginnings License]
+  - **Public Packs** : Open: [Better Beginnings License]
 - **Better Foliage** by: *OctarineNoise*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -60,6 +66,12 @@
 - **bspkrs Core** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Chameleon Creepers** by: *Vel0cityX*
+  - **Private Packs**: Notified: [Chameleon Creepers Notification]
+  - **Public Packs** : Notified: [Chameleon Creepers Notification]
+- **Climate Control** by: *Zeno410*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **CoFH Core** by: *CoFH Team*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -78,7 +90,7 @@
 - **Creeper Awareness** by: *elix_x*
   - **Private Packs**: Open: [Creeper Awareness MCF Thread]
   - **Public Packs** : Open: [Creeper Awareness MCF Thread]
-- **Damage Indicators Mod** by: *rich1051414*
+- **Custom Ore Generation** by: *noogenesis*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Dark Menagerie** by: *RWTema*
@@ -108,7 +120,16 @@
 - **Dynamic Lights** by: *AtomicStryker*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Dynamic Surroundings** by: *OreCruncher*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **EnderCore** by: *tterrag1098, CrazyPants*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Enviromine** by: *TimbukTato*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **EXCore** by: *Elix_x*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **ExtraTiC** by: *Glassmaker*
@@ -117,21 +138,36 @@
 - **Falling Meteors** by: *AlexDGr8r*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Farseek API** by: *delvr*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **FastCraft (Optional)** by: *Player*
   - **Private Packs**: Manual Download via Modpack Tweaks.
   - **Public Packs** : Manual Download via Modpack Tweaks.
 - **Flaxbeard's Steam Power** by: *Flaxbeard, Esteemed Innovation*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
+- **Forge Auto-Shutdown** by: *Polaris_iv*
+  - **Private Packs**: Open: [Forge Auto-Shutdown License]
+  - **Public Packs** : Open: [Forge Auto-Shutdown License]
 - **Forge Multipart** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Hammerz** by: *VapourDrive*
   - **Private Packs**: Open: [Hammerz License]
   - **Public Packs** : Open: [Hammerz License]
+- **Hardcore Darkness** by: *Lumien*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Hardcore Ender Expansion** by: *chylex*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Notified: [HCEE Notification]
+- **Harder Wildlife** by: *Draco18s*
+  - **Private Packs**: PERMISSION GRANTED: [Harder Wildlife Permission]
+  - **Public Packs** : PERMISSION GRANTED: [Harder Wildlife Permission]
+- **HardLib** by: *Draco18s*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **Hunger Overhaul** by: *iguana_man*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -144,9 +180,6 @@
 - **Infernal Mobs** by: *AtomicStryker*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **InfiniBows** by: *Myrathi*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **INPureCore** by: *denoflionsx*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -156,6 +189,9 @@
 - **Item Physic Lite** by: *CreativeMD*
   - **Private Packs**: Notified: [Item Physics Notification]
   - **Public Packs** : Notified: [Item Physics Notification]
+- **LiMI** by: *Vazkii*
+  - **Private Packs**: Open: [LiMI's License]
+  - **Public Packs** : Open: [LiMI's License]
 - **Lunatrius Core** by: *Lunatrius*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -207,16 +243,13 @@
 - **Not Enough Items** by: *Chickenbones*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Open Eye** by: *Mikeemoo, boq*
+- **Ore Flowers** by: *Draco18s*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Pam's HarvestCraft** by: *MatrexsVigil*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Pam's Temperate Plants** by: *MatrexsVigil*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **PneumaticCraft** by: *MineMaarten*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **PoorOres** by: *Xexanos*
@@ -226,6 +259,15 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Random Things** by: *Lumien*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **Realistic Terrain Generation** by: *WhichOnesPink*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **SaltyMod** by: *Liahim85*
+  - **Private Packs**: Notified: [SaltyMod Notification]
+  - **Public Packs** : Notified: [SaltyMod Notification]
+- **Simple Achievements** by: *insaneau, tterrag1098*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Somnia** by: *Kingrunes*
@@ -249,7 +291,7 @@
 - **Stalker Creepers** by: *AtomicStryker*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Status Effect HUD** by: *bspkrs*
+- **Streams** by: *delvr*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Thermal Foundation** by: *TeamCoFH*
@@ -271,12 +313,6 @@
   - **Private Packs**: Open: [TWBB Tweaks License]
   - **Public Packs** : Open: [TWBB Tweaks License]
 - **Twilight Forest** by: *Benimatic*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **WAILA** by: *ProfMobius*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **WAWLA** by: *Darkhax*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Weather** by: *Corosauce*
