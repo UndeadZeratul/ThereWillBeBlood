@@ -53,7 +53,6 @@ Current Mod Versions
 - **Dense Ores** v1.0 by RWTema
 - **Dimensional Doors** v2.2.5-test9 by StevenRS11, SenseiKiwi
 - **Doomlike Dungeons** v1.8.9
-- **EnderCore** v1.7.10-0.2.0.31_beta by tterrag, CrazyPants
 - **EnviroMine** v1.3.124 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
 - **Falling Meteors** v2.14.3
 - **Flaxbeard's Steam Power** v1.7.10-0.29.2 by Elifoster, SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
