@@ -50,6 +50,13 @@
             </includes>
         </fileSet>
         <fileSet>
+            <directory>client/prod/ftb</directory>
+            <outputDirectory>/minecraft</outputDirectory>
+            <includes>
+                <include>mods/*.*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
             <directory>client/base/config</directory>
             <outputDirectory>/minecraft/config</outputDirectory>
             <filtered>true</filtered>

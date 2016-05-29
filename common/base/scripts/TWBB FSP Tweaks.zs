@@ -41,6 +41,7 @@ var vacuum                 = <Steamcraft:vacuum>;
 var pipeWrench             = <Steamcraft:wrench>;
 
 var gildedIronIngot        = <Steamcraft:steamcraftIngot:3>;
+var gildedIronPlate        = <Steamcraft:steamcraftPlate:12>;
 var pipe                   = <Steamcraft:pipe>;
 
 # Molds
@@ -124,6 +125,7 @@ var anySteelNugget         = <ore:nuggetSteel>;
 # Plates
 var anyBrassPlate          = <ore:plateSteamcraftBrass>;
 var anyCopperPlate         = <ore:plateSteamcraftCopper>;
+var anyGildedIronPlate     = <ore:plateSteamcraftGildedIron>;
 var anyGoldPlate           = <ore:plateSteamcraftGold>;
 var anyIronPlate           = <ore:plateSteamcraftIron>;
 var anyLeadPlate           = <ore:plateSteamcraftLead>;
@@ -142,6 +144,11 @@ recipes.addShaped(astrolabe, [
 # Gilded Iron Ingots
 recipes.addShapeless(gildedIronIngot * 8, [anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
                                            anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
+                                           bucketMoltenGold.transformReplace(bucket)]);
+
+# Gilded Iron Plates
+recipes.addShapeless(gildedIronPlate * 8, [anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
                                            bucketMoltenGold.transformReplace(bucket)]);
 
 # Item Canister

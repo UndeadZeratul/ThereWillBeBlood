@@ -1,6 +1,6 @@
 Current Forge Version
 =
-- **Forge** v10.13.4.1566
+- **Forge** v10.13.4.1614
 
 Current API Versions
 =
@@ -32,31 +32,29 @@ Current Mod Versions
 =
 - **AgriCraft** v1.7.10-1.5.0 by InfinityRaider
 - **Air Overhaul** v1.7.10_1.0 by Mark719
-- **Alternate Terrain Generation** v0.10.0
 - **Another One Bites The Dust** v2.9.1 by ganymedes01
 - **Another One Bites The Dust: Berry Bushes** v1.0.6 by ganymedes01
 - **Antique Atlas** v1.7.10-4.2.10
-- **AromaBackup Recovery** v1.0
 - **AromaBackup** v0.1.0.0
+- **AromaBackup Recovery** v1.0
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
-- **BetterBeginnings** v0.9.5-R6 by einsteinsci, iLiminate, AnonTheMouse, Leviathan143
+- **BetterBeginnings** v0.9.5-R7 by einsteinsci, iLiminate, AnonTheMouse, Leviathan143
 - **BetterStorage** v0.13.1.127 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v0.1.4 by FatherToast
 - **Blood Magic: Alchemical Wizardry** v1.3.3 by WayofTime
 - **Chameleon Creepers** v1.7.10-1.2 by Vel0cityX
+- **Climate Control** v0.5-beta50 by Zeno410
 - **Cooking for Blockheads** v1.0.134 by BlayTheNinth, ZeroTheShinigami
 - **Creeper Awareness** v2.0 by Elix_x
 - **Dark Menagerie** v1.0 ny RWTema
 - **Deadly World** v1.0.2 by FatherToast
-- **Default World Generator** v0.1-b13 by FireBall1725
 - **Dense Ores** v1.0 by RWTema
 - **Dimensional Doors** v2.2.5-test9 by StevenRS11, SenseiKiwi
 - **Doomlike Dungeons** v1.8.9
-- **EnderCore** v1.7.10-0.2.0.31_beta by tterrag, CrazyPants
 - **EnviroMine** v1.3.124 by Funwayguy, TimbuckTato, GenDeathrow, thislooksfun
 - **Falling Meteors** v2.14.3
-- **Flaxbeard's Steam Power** v0.28.12 by SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
+- **Flaxbeard's Steam Power** v1.7.10-0.29.2 by Elifoster, SatanicSanta, xbony2, dmillerw, Flaxbeard, Zenith
 - **Hammerz** v0.1.7.37
 - **Hardcore Darkness** v1.7 by lumien
 - **Hardcore Ender Expansion** v1.8.5 by chylex
@@ -82,10 +80,10 @@ Current Mod Versions
 - **Ore Flowers** v1.0.0 by Draco18s
 - **Pam's HarvestCraft** v1.7.10j by Pamela Collins
 - **Pam's Temperate Plants** v1.7.2b
-- **PneumaticCraft** v1.12.7-150
 - **PoorOres** v1.7.10-1.4.8 by Xexanos
 - **Primitive Mobs** v1.0 by Daveyx0
 - **Random Things** v2.2.4 by Lumien
+- **Realistic Terrain Generation** v1.7.10-0.8.0-snapshot-5 by WhichOnesPink
 - **RPGAdvMod** v1.0.0
 - **Salty Mod** v1.7.e by Liahim
 - **Simple Achievements** vMC1.7.10-1.1.0-21
@@ -102,7 +100,7 @@ Current Mod Versions
 - **Tinkers' Steelworks** v1.7.10-1.1.2 by Toops
 - **TNTUtils** v1.1.3 by ljfa
 - **TooMuchLoot** v4.0.1
-- **TWBB Tweaks** v1.7.10-1.0.0-RC1
+- **TWBB Tweaks** v1.7.10-1.0.0
 - **Ye Olde Tanks** v1.4.5 by Shadowfacts
 - **Zombie Awareness** v1.10
 
@@ -120,7 +118,6 @@ Optional Client Mod Versions
 - **Dynamic Surroundings** v1.0.5.6 by OreCruncher
 - **ItemPhysic** v1.1.5 by CreativeMD
 - **Sound Filters** v0.8_for_1.7.X by Tmtravlr
-- **StatusEffectHUD** v1.27 by bspkrs
 
 Server Mod Versions
 =

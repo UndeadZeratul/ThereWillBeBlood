@@ -3,15 +3,16 @@
     "version": "1.7.10",
     "modLoaders": [
       {
-        "id": "forge-10.13.4.1566",
+        "id": "forge-10.13.4.1614",
         "primary": true,
         "folder": "common/base/loaders",
         "downloadInstaller": true,
-        "downloadUniversal": true
+        "downloadUniversal": true,
+        "renameUniversal": "modpack.jar"
       }
     ]
   },
-  "curseFiles": [
+  "files": [
     {
       "fileID": 2284130,
       "projectID": 225635,
@@ -48,12 +49,7 @@
       "name": "AromaBackup"
     },
     {
-      "fileID": 2231153,
-      "projectID": 228356,
-      "name": "ATG"
-    },
-    {
-      "fileID": 2274344,
+      "fileID": 2301656,
       "projectID": 230120,
       "name": "Better Beginnings"
     },
@@ -76,6 +72,16 @@
       "fileID": 2227503,
       "projectID": 59218,
       "name": "bspkrsCore"
+    },
+    {
+      "fileID": 2285921,
+      "projectID": 242617,
+      "name": "Chameleon Creepers"
+    },
+    {
+      "fileID": 2291739,
+      "projectID": 76544,
+      "name": "Climate Control"
     },
     {
       "fileID": 2262089,
@@ -101,6 +107,11 @@
       "fileID": 2285744,
       "projectID": 237749,
       "name": "CoroUtil"
+    },
+    {
+      "fileID": 2300715,
+      "projectID": 243078,
+      "name": "Creeper Awareness"
     },
     {
       "fileID": 2264037,
@@ -138,7 +149,7 @@
       "name": "Enviromine"
     },
     {
-      "fileID": 2288067,
+      "fileID": 2297853,
       "projectID": 233180,
       "name": "ExCore"
     },
@@ -153,7 +164,7 @@
       "name": "Farseek API"
     },
     {
-      "fileID": 2265558,
+      "fileID": 2297917,
       "projectID": 224867,
       "name": "Flaxbeard's Steam Power"
     },
@@ -318,11 +329,6 @@
       "name": "Pam's Temperate Plants"
     },
     {
-      "fileID": 2285499,
-      "projectID": 224125,
-      "name": "PneumaticCraft"
-    },
-    {
       "fileID": 2229278,
       "projectID": 224492,
       "name": "PoorOres"
@@ -336,6 +342,11 @@
       "fileID": 2209081,
       "projectID": 220611,
       "name": "RPG Advanced Mod"
+    },
+    {
+      "fileID": 2301604,
+      "projectID": 237989,
+      "name": "RTG"
     },
     {
       "fileID": 2285450,
@@ -403,7 +414,7 @@
       "name": "Too Much Loot"
     },
     {
-      "fileID": 2292259,
+      "fileID": 2303732,
       "projectID": 241052,
       "name": "TWBB Tweaks"
     },
@@ -433,10 +444,6 @@
       "name": "BetterStorage"
     },
     {
-      "url": "http://download1645.mediafire.com/54mtw8wd48bg/ciaw1m3e7nt1cw8/ChameleonCreepers-1.2-1.7.10.jar",
-      "name": "Chameleon Creepers"
-    },
-    {
       "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-codec-1.9.jar",
       "name": "common Codec",
       "folder": "common/base/mods/1.7.10"
@@ -445,10 +452,6 @@
       "url": "https://github.com/INpureProjects/INpureCore/raw/master/libs/commons-compress-1.8.1.jar",
       "name": "Common Compress",
       "folder": "common/base/mods/1.7.10"
-    },
-    {
-      "url": "http://download1507.mediafire.com/3ham0imat20g/2gaj88zw41opn8q/AvoidExplodingCreepers-1.7.10-LATEST.jar",
-      "name": "Creeper Awareness"
     },
     {
       "url": "https://github.com/CannibalVox/DimDoors/releases/download/2.2.5-test9/DimensionalDoors-2.2.5-test9.jar",

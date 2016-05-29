@@ -12,5 +12,12 @@
     "colorChecked": 0,
     "align": "CENTER",
     "shadow": false
+  },
+  "2": {
+    "isAchievement": false,
+    "color": 0,
+    "colorChecked": 0,
+    "align": "LEFT",
+    "shadow": false
   }
 }

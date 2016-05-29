@@ -2,7 +2,7 @@
   "minecraft": {
     "version": "1.7.10"
   },
-  "curseFiles": [
+  "files": [
     {
       "fileID": 2242814,
       "projectID": 221140,

@@ -2,7 +2,7 @@
   "minecraft": {
     "version": "1.7.10"
   },
-  "curseFiles": [
+  "files": [
     {
       "fileID": 2218859,
       "projectID": 225564,
@@ -47,11 +47,6 @@
       "fileID": 2224003,
       "projectID": 222789,
       "name": "Sound Filters"
-    },
-    {
-      "fileID": 2218935,
-      "projectID": 225566,
-      "name": "Status Effect HUD"
     }
   ],
   "thirdParty": [

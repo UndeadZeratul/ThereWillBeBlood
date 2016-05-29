@@ -18,9 +18,6 @@
 - **Agricraft** by: *InfinityRaider*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **Alternate Terrain Generation** by: *TTFTCUTS*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **Another One Bites The Dust** by: *Ganymedes01*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -72,6 +69,9 @@
 - **Chameleon Creepers** by: *Vel0cityX*
   - **Private Packs**: Notified: [Chameleon Creepers Notification]
   - **Public Packs** : Notified: [Chameleon Creepers Notification]
+- **Climate Control** by: *Zeno410*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
 - **CoFH Core** by: *CoFH Team*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -252,9 +252,6 @@
 - **Pam's Temperate Plants** by: *MatrexsVigil*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **PneumaticCraft** by: *MineMaarten*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **PoorOres** by: *Xexanos*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
@@ -262,6 +259,9 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Random Things** by: *Lumien*
+  - **Private Packs**: Open: [FTB Permission Website]
+  - **Public Packs** : Open: [FTB Permission Website]
+- **Realistic Terrain Generation** by: *WhichOnesPink*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **SaltyMod** by: *Liahim85*
@@ -289,9 +289,6 @@
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Stalker Creepers** by: *AtomicStryker*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
-- **Status Effect HUD** by: *bspkrs*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
 - **Streams** by: *delvr*

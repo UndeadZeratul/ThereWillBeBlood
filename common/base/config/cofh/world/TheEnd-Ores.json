@@ -97,7 +97,7 @@
         "block": [
             {
                 "name": "Metallurgy:ender.ore",
-                "metadata": 0,
+                "metadata": 1,
                 "weight": 70
             },
             {
@@ -128,7 +128,7 @@
         "block": [
             {
                 "name": "Metallurgy:ender.ore",
-                "metadata": 0,
+                "metadata": 1,
                 "weight": 90
             },
             {
@@ -159,7 +159,7 @@
         "block": [
             {
                 "name": "Metallurgy:ender.ore",
-                "metadata": 0,
+                "metadata": 1,
                 "weight": 99
             },
             {
