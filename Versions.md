@@ -49,7 +49,6 @@ Current Mod Versions
 - **Creeper Awareness** v2.0 by Elix_x
 - **Dark Menagerie** v1.0 ny RWTema
 - **Deadly World** v1.0.2 by FatherToast
-- **Default World Generator** v0.1-b13 by FireBall1725
 - **Dense Ores** v1.0 by RWTema
 - **Dimensional Doors** v2.2.5-test9 by StevenRS11, SenseiKiwi
 - **Doomlike Dungeons** v1.8.9
