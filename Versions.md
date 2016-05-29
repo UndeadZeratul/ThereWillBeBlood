@@ -38,7 +38,7 @@ Current Mod Versions
 - **AromaBackup** v0.1.0.0
 - **AromaBackup Recovery** v1.0
 - **Better Title Screen** v1.7.10-1.1 by Girafi, Amadornes
-- **BetterBeginnings** v0.9.5-R6 by einsteinsci, iLiminate, AnonTheMouse, Leviathan143
+- **BetterBeginnings** v0.9.5-R7 by einsteinsci, iLiminate, AnonTheMouse, Leviathan143
 - **BetterStorage** v0.13.1.127 by copygirl, Vic Nightfall
 - **Biomes O' Plenty** v2.1.0 by Adubbz, Amnet, Forstride, ted80
 - **Block Properties** v0.1.4 by FatherToast
@@ -102,7 +102,7 @@ Current Mod Versions
 - **Tinkers' Steelworks** v1.7.10-1.1.2 by Toops
 - **TNTUtils** v1.1.3 by ljfa
 - **TooMuchLoot** v4.0.1
-- **TWBB Tweaks** v1.7.10-1.0.0-RC1
+- **TWBB Tweaks** v1.7.10-1.0.0
 - **Ye Olde Tanks** v1.4.5 by Shadowfacts
 - **Zombie Awareness** v1.10
 
