@@ -318,9 +318,6 @@
 - **Weather** by: *Corosauce*
   - **Private Packs**: Open: [FTB Permission Website]
   - **Public Packs** : Open: [FTB Permission Website]
-- **YAMPST** by: *bilde2910*
-  - **Private Packs**: Open: [FTB Permission Website]
-  - **Public Packs** : Open: [FTB Permission Website]
 - **Ye Olde Tanks** by: *Shadowfacts*
   - **Private Packs**: Open: [Ye Olde Tanks License]
   - **Public Packs** : Open: [Ye Olde Tanks License]
