@@ -26,7 +26,6 @@ Current API Versions
 - **Nincraft Lib** v1.7.10-0.1.1+24 by Nincodedo
 - **SomniaCore** v1.3.1.55 by Kingrunes
 - **TNTUtils Core** v1.1.3 by ljfa
-- **YAMPST** v1.3.6 by bilde2910, Commador
 
 Current Mod Versions
 =
