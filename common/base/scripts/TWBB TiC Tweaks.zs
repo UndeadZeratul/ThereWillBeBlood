@@ -2061,17 +2061,17 @@ for fuel in fuelRemovals {
     Smeltery.removeFuel(fuel);
 }
 
-# Lava: 800*C
-Smeltery.addFuel(lava, 800, 80);
+# Lava: 1200*C
+Smeltery.addFuel(lava, 1200, 80);
 
 # Ignatius: 1600*C
 Smeltery.addFuel(moltenIgnatius, 1600, 160);
 
-# Vulcanite: 2400*C
-Smeltery.addFuel(moltenVulcanite, 2400, 240);
+# Vulcanite: 2000*C
+Smeltery.addFuel(moltenVulcanite, 2000, 240);
 
-# Pyrotheum: 3200*C
-Smeltery.addFuel(moltenPyrotheum, 3200, 320);
+# Pyrotheum: 3000*C
+Smeltery.addFuel(moltenPyrotheum, 3000, 320);
 
 
 # Disable TiC Metal Casts in favor of FSP Ceramic Molds
@@ -2085,6 +2085,7 @@ Casting.addTableRecipe(ingotCast, moltenAluminumBrass * 144, brick, true, 40);
 
 # Fix Seared Brick Cost
 Casting.removeTableRecipe(searedBrick);
+Casting.addTableRecipe(searedBrick, moltenSearedStone * 144, ingotMold, true, 40);
 Casting.addTableRecipe(searedBrick, moltenSearedStone * 144, ingotCast, false, 40);
 
 # Remove re-melting down toolparts
