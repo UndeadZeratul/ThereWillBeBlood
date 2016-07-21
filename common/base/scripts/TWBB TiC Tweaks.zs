@@ -12,6 +12,8 @@ import mods.tsteelworks.mix;
 #------------------
 var chain                     = <battlegear2:chain>;
 
+var enderAmethyst             = <BiomesOPlenty:gems:0>;
+
 var activatorRail             = <minecraft:activator_rail>;
 var anvil                     = <minecraft:anvil:0>;
 var lightDmgAnvil             = <minecraft:anvil:1>;
@@ -40,6 +42,7 @@ var goldPressurePlate         = <minecraft:light_weighted_pressure_plate>;
 var minecart                  = <minecraft:minecart>;
 var rail                      = <minecraft:rail>;
 var glisteringMelon           = <minecraft:speckled_melon>;
+var netherQuartz              = <minecraft:quartz>;
 
 var itemCanister              = <Steamcraft:canister>;
 
@@ -167,6 +170,7 @@ var brassPlate                = <Steamcraft:steamcraftPlate:4>;
 var leadPlate                 = <Steamcraft:steamcraftPlate:9>;
 
 # Blocks
+var enderAmethystBlock        = <BiomesOPlenty:gemOre:1>;
 var endiumBlock               = <HardcoreEnderExpansion:endium_block>;
 var copperBlock               = <Metallurgy:base.block:0>;
 var tinBlock                  = <Metallurgy:base.block:1>;
@@ -187,6 +191,7 @@ var electrumBlock             = <Metallurgy:precious.block:4>;
 var meteorBlock               = <meteors:BlockMeteorDecoration>;
 var goldBlock                 = <minecraft:gold_block>;
 var ironBlock                 = <minecraft:iron_block>;
+var netherQuartzBlock         = <minecraft:quartz_block>;
 var redstoneBlock             = <minecraft:redstone_block>;
 var aluminumBlock             = <TConstruct:MetalBlock:6>;
 var aluminumBrassBlock        = <TConstruct:MetalBlock:7>;
@@ -2281,3 +2286,7 @@ Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotMold, tr
 
 Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotCast, false, 40);
 Casting.addBasinRecipe(desichalkosBlock, moltenDesichalkos * 1296, null,      false, 40);
+
+# Ender Amethyst
+Casting.addTableRecipe(enderAmethyst, moltenMeutoite * 250, netherQuartz, true, 40);
+Casting.addBasinRecipe(enderAmethystBlock, moltenMeutoite * 1000, netherQuartzBlock, true, 40);
