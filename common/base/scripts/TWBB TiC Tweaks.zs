@@ -102,11 +102,13 @@ var ironwoodNugget            = <aobd:nuggetIronwood>;
 var knightmetalNugget         = <aobd:nuggetKnightmetal>;
 var kreknoriteNugget          = <aobd:nuggetKreknorite>;
 var meteorNugget              = <aobd:nuggetMeteorite>;
-var sanguiniteNugget          = <aobd:nuggetSanguinite>;
+var hepatizonNugget           = <Metallurgy:base.nugget:4>;
+var eximiteNugget             = <Metallurgy:ender.nugget:0>;
+var meutoiteNugget            = <Metallurgy:ender.nugget:1>;
+var desichalkosNugget         = <Metallurgy:ender.nugget:2>;
+var adamantineNugget          = <Metallurgy:fantasy.nugget:13>;
+var sanguiniteNugget          = <Metallurgy:nether.nugget:9>;
 var goldNugget                = <minecraft:gold_nugget>;
-var adamantineNugget          = <PoorOres:adamantine_nugget>;
-var eximiteNugget             = <PoorOres:eximite_nugget>;
-var meutoiteNugget            = <PoorOres:meutoite_nugget>;
 var copperNugget              = <Steamcraft:steamcraftNugget:0>;
 var zincNugget                = <Steamcraft:steamcraftNugget:1>;
 var ironNugget                = <Steamcraft:steamcraftNugget:2>;
@@ -1454,27 +1456,37 @@ anyAluminumNugget.remove(aluminumOreberry);
 var allNuggets                = [
     anyAdamantineNugget,
     anyAlduoriteNugget,
+    anyAluminumBrassNugget,
     anyAluminumNugget,
     anyArditeNugget,
     anyAstralSilverNugget,
     anyAtlarusNugget,
+    anyBlackSteelNugget,
+    anyBrassNugget,
+    anyBronzeNugget,
     anyCarmotNugget,
     anyCeruclaseNugget,
     anyCobaltNugget,
     anyCopperNugget,
     anyDeepIronNugget,
+    anyDesichalkosNugget,
+    anyElectrumNugget,
     anyEndiumNugget,
     anyEximiteNugget,
     anyGoldNugget,
+    anyHepatizonNugget,
     anyIgnatiusNugget,
     anyInfuscoliumNugget,
+    anyInvarNugget,
     anyIronNugget,
     anyIronwoodNugget,
     anyKalendriteNugget,
     anyKnightmetalNugget,
+    anyKreknoriteNugget,
     anyLeadNugget,
     anyLemuriteNugget,
     anyManganeseNugget,
+    anyManyullynNugget,
     anyMeteorNugget,
     anyMeutoiteNugget,
     anyMidasiumNugget,
@@ -1488,6 +1500,7 @@ var allNuggets                = [
     anySanguiniteNugget,
     anyShadowIronNugget,
     anySilverNugget,
+    anySteelNugget,
     anyTinNugget,
     anyVulcaniteNugget,
     anyVyroxeresNugget,
@@ -2282,7 +2295,8 @@ Casting.addTableRecipe(meutoiteIngot,  moltenMeutoite * 144, ingotMold,  true, 4
 Casting.addTableRecipe(meutoiteNugget, moltenMeutoite * 16,  nuggetMold, true, 40);
 
 # Desichalkos
-Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotMold, true,  40);
+Casting.addTableRecipe(desichalkosIngot,  moltenDesichalkos * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(desichalkosNugget, moltenDesichalkos * 16,  nuggetMold, true, 40);
 
 Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotCast, false, 40);
 Casting.addBasinRecipe(desichalkosBlock, moltenDesichalkos * 1296, null,      false, 40);

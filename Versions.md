@@ -65,7 +65,7 @@ Current Mod Versions
 - **Inventory Tweaks** v1.59-dev-152-cf6e263
 - **Localized Weather & Storms** v2.3.11 by Corosus
 - **Lycanites Mobs** v1.13.0.5 - MC 1.7.10
-- **Metallurgy 4** v4.0.6 by Team Metallurgy
+- **Metallurgy 4** v4.0.8 by Team Metallurgy
 - **Mine & Blade Battlegear 2 - Bullseye** v1.7.10 by nerd-boy, GotoLink, coolAlias
 - **MineTweaker 3** v3.0.10 by Stan Hebben
 - **Mob Properties** v1.0.2 by FatherToast
