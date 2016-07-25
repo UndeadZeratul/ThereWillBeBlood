@@ -12,14 +12,15 @@ var bookNQuill        = <minecraft:writable_book>;
 var bread             = <minecraft:bread>;
 var bucket            = <minecraft:bucket>;
 var charcoal          = <minecraft:coal:1>;
-var cookBook          = <cookingbook:recipebook>;
 var clayBall          = <minecraft:clay_ball>;
 var clayBlock         = <minecraft:clay>;
 var coal              = <minecraft:coal:0>;
+var cookBook          = <cookingbook:recipebook>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
 var foodJournal       = <SpiceOfLife:bookfoodjournal>;
 var gunpowder         = <minecraft:gunpowder>;
+var obsidianRod       = <HardcoreEnderExpansion:obsidian_rod>;
 var lead              = <minecraft:lead>;
 var leatherStrip      = <betterbeginnings:leatherStrip>;
 var rawhide           = <HarderWildlife:rawLeather>;
@@ -30,6 +31,7 @@ var torchWood         = <minecraft:torch>;
 # ORE DICTIONARY
 #----------------
 var anyFood           = <ore:listAllfood>;
+var anyObsidianRod    = <ore:rodObsidian>;
 var anyPurpleDye      = <ore:dyePurple>;
 var anySlimeball      = <ore:slimeball>;
 var anyStoneRod       = <ore:rodStone>;
@@ -37,6 +39,7 @@ var anyString         = <ore:itemString>;
 var anyWoodenStick    = <ore:stickWood>;
 
 # Ingots
+var anyObsidianIngot  = <ore:ingotObsidian>;
 var anySteelIngot     = <ore:ingotSteel>;
 
 # Dusts
@@ -135,6 +138,12 @@ recipes.addShaped(lead, [
     [anyString, anyString,    null],
     [anyString, anySlimeball, null],
     [null,      null,         anyString]]);
+
+# Unify Obsidian Rod Recipe
+recipes.remove(anyObsidianRod);
+recipes.addShaped(obsidianRod * 2, [
+    [anyObsidianIngot],
+    [anyObsidianIngot]]);
 
 # Achievement Book costs Book & Quill
 recipes.remove(achievementBook);

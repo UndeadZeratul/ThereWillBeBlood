@@ -2278,6 +2278,9 @@ Smeltery.addMelting(fancyObsidianBrick, lava * 1000, 1200, fancyObsidianBrick);
 Smeltery.addMelting(obsidianBlock,      lava * 1000, 1200, obsidianBlock);
 Smeltery.addMelting(enchantingTable,    lava * 4000, 1200, enchantingTable);
 
+# Iron
+Smeltery.addMelting(ironToolRod, moltenIron * 144, 1400, ironBlock);
+
 
 # Add Missing Casting Recipes
 
