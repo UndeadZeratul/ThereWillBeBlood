@@ -5,28 +5,35 @@ import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
+var achievementBook   = <SimpleAchievements:sa.achievementBook>;
 var anvil             = <minecraft:anvil>;
+var book              = <minecraft:book>;
+var bookNQuill        = <minecraft:writable_book>;
 var bread             = <minecraft:bread>;
 var bucket            = <minecraft:bucket>;
-var clayBlock         = <minecraft:clay>;
-var clayBall          = <minecraft:clay_ball>;
-var coal              = <minecraft:coal:0>;
 var charcoal          = <minecraft:coal:1>;
+var cookBook          = <cookingbook:recipebook>;
+var clayBall          = <minecraft:clay_ball>;
+var clayBlock         = <minecraft:clay>;
+var coal              = <minecraft:coal:0>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
+var foodJournal       = <SpiceOfLife:bookfoodjournal>;
 var gunpowder         = <minecraft:gunpowder>;
 var lead              = <minecraft:lead>;
 var leatherStrip      = <betterbeginnings:leatherStrip>;
 var rawhide           = <HarderWildlife:rawLeather>;
-var torchWood         = <minecraft:torch>;
-var torchStone        = <TConstruct:decoration.stonetorch>;
 var torchberries      = <TwilightForest:item.torchberries>;
+var torchStone        = <TConstruct:decoration.stonetorch>;
+var torchWood         = <minecraft:torch>;
 
 # ORE DICTIONARY
 #----------------
+var anyFood           = <ore:listAllfood>;
+var anyPurpleDye      = <ore:dyePurple>;
 var anySlimeball      = <ore:slimeball>;
-var anyString         = <ore:itemString>;
 var anyStoneRod       = <ore:rodStone>;
+var anyString         = <ore:itemString>;
 var anyWoodenStick    = <ore:stickWood>;
 
 # Ingots
@@ -128,3 +135,11 @@ recipes.addShaped(lead, [
     [anyString, anyString,    null],
     [anyString, anySlimeball, null],
     [null,      null,         anyString]]);
+
+# Achievement Book costs Book & Quill
+recipes.remove(achievementBook);
+recipes.addShapeless(achievementBook, [anyPurpleDye, bookNQuill]);
+
+# Food Journal costs Book & Quill
+recipes.remove(foodJournal);
+recipes.addShapeless(foodJournal, [anyFood, bookNQuill]);

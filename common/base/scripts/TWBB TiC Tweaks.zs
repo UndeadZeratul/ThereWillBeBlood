@@ -43,9 +43,11 @@ var ironDoor                  = <minecraft:iron_door>;
 var ironHorseArmor            = <minecraft:iron_horse_armor>;
 var goldPressurePlate         = <minecraft:light_weighted_pressure_plate>;
 var minecart                  = <minecraft:minecart>;
+var paper                     = <minecraft:paper>;
 var rail                      = <minecraft:rail>;
 var glisteringMelon           = <minecraft:speckled_melon>;
 var stone                     = <minecraft:stone>;
+var mcString                  = <minecraft:string>;
 var netherQuartz              = <minecraft:quartz>;
 
 var itemCanister              = <Steamcraft:canister>;
@@ -56,6 +58,7 @@ var ironBrick                 = <TConstruct:decoration.multibrick:4>;
 var fancyObsidianBrick        = <TConstruct:decoration.multibrickfancy:0>;
 var fancyIronBrick            = <TConstruct:decoration.multibrickfancy:4>;
 var diamondApple              = <TConstruct:diamondApple>;
+var anyTinkersManual          = <TConstruct:manualBook:*>;
 var searedBrick               = <TConstruct:materials:2>;
 var necroticBone              = <TConstruct:materials:8>;
 var enderBlock                = <TConstruct:MetalBlock:10>;
@@ -226,6 +229,7 @@ var plateMold                 = <Steamcraft:plateMold>;
 
 # Casts
 var anyBlankCast              = <TConstruct:blankPattern:*>;
+var woodenBlankPattern        = <TConstruct:blankPattern:0>;
 var aluminumBrassBlankCast    = <TConstruct:blankPattern:1>;
 var goldBlankCast             = <TConstruct:blankPattern:2>;
 var anyRangedCast             = <TConstruct:Cast:*>;
@@ -2105,7 +2109,11 @@ recipes.addShaped(scorchedDuct, [
     [null,          null,          null],
     [scorchedBrick, scorchedBrick, scorchedBrick]]);
 
-# Remove Downgrade Recipe
+# Disable Books made from Wooden Blank Patterns
+recipes.removeShapeless(book, [paper, paper, paper, mcString,
+                               woodenBlankPattern, woodenBlankPattern]);
+
+# Remove Downgrade Mini Heart Recipe
 recipes.remove(miniRedHeart);
 
 # Remove Easy Storage Recipes

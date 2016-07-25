@@ -5,14 +5,16 @@
 #import mods.betterbeginnings.AdvancedCrafting;
 #import mods.betterbeginnings.Campfire;
 import mods.betterbeginnings.Kiln;
-#import mods.betterbeginnings.Oven;
+import mods.betterbeginnings.Oven;
 #import mods.betterbeginnings.Smelter;
 import mods.tconstruct.Casting;
 
 # COMMON VARIABLES
 #------------------
+var bread              = <minecraft:bread>;
 var bucket             = <minecraft:bucket>;
 var bucketLava         = <minecraft:lava_bucket>;
+var wheat              = <minecraft:wheat>;
 
 var clayBucket         = <IguanaTweaksTConstruct:clayBucketFired>;
 var clayBucketLava     = <IguanaTweaksTConstruct:clayBucketLava>;
@@ -29,8 +31,16 @@ var searedNetherBrick  = <TConstruct:materials:37>;
 var scorchedBrick      = <TSteelworks:Materials:0>;
 var scorchedBrickBlock = <TSteelworks:HighOven:2>;
 
+# ORE DICTIONARY
+#----------------
+var anyDough           = <ore:foodDough>;
+
 # RECIPE TWEAKS
 #----------------
+
+# Bread Requires Dough in Brick Oven
+Oven.removeOutput(bread);
+Oven.addShapelessRecipe(bread, [anyDough]);
 
 # Rebalance Seared Bricks
 Kiln.removeOutput(searedBrick);
