@@ -10,6 +10,7 @@
             <outputDirectory>/minecraft</outputDirectory>
             <includes>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
             <excludes>
@@ -21,6 +22,7 @@
             <outputDirectory>/minecraft</outputDirectory>
             <includes>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
@@ -34,6 +36,7 @@
             <outputDirectory>/minecraft</outputDirectory>
             <includes>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
             </includes>
         </fileSet>
@@ -42,7 +45,15 @@
             <outputDirectory>/minecraft</outputDirectory>
             <includes>
                 <include>mods/*.*</include>
+                <include>mods/${mcVersion}/*.*</include>
                 <include>scripts/*.*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>client/prod/ftb</directory>
+            <outputDirectory>/minecraft</outputDirectory>
+            <includes>
+                <include>mods/*.*</include>
             </includes>
         </fileSet>
         <fileSet>

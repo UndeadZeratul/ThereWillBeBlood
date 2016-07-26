@@ -5,9 +5,13 @@ import mods.tconstruct.Casting;
 # COMMON VARIABLES
 #------------------
 var book                   = <minecraft:book>;
-var bucket                 = <minecraft:bucket>;
 var furnace                = <minecraft:furnace>;
+
+var bucket                 = <minecraft:bucket>;
 var bucketMoltenGold       = <TConstruct:buckets:1>;
+
+var clayBucket             = <IguanaTweaksTConstruct:clayBucketFired>;
+var clayBucketMoltenGold   = <IguanaTweaksTConstruct:clayBucketsTinkers:1>;
 
 var astrolabe              = <Steamcraft:astrolabe>;
 var boiler                 = <Steamcraft:boiler>;
@@ -41,6 +45,7 @@ var vacuum                 = <Steamcraft:vacuum>;
 var pipeWrench             = <Steamcraft:wrench>;
 
 var gildedIronIngot        = <Steamcraft:steamcraftIngot:3>;
+var gildedIronPlate        = <Steamcraft:steamcraftPlate:12>;
 var pipe                   = <Steamcraft:pipe>;
 
 # Molds
@@ -124,6 +129,7 @@ var anySteelNugget         = <ore:nuggetSteel>;
 # Plates
 var anyBrassPlate          = <ore:plateSteamcraftBrass>;
 var anyCopperPlate         = <ore:plateSteamcraftCopper>;
+var anyGildedIronPlate     = <ore:plateSteamcraftGildedIron>;
 var anyGoldPlate           = <ore:plateSteamcraftGold>;
 var anyIronPlate           = <ore:plateSteamcraftIron>;
 var anyLeadPlate           = <ore:plateSteamcraftLead>;
@@ -143,6 +149,17 @@ recipes.addShaped(astrolabe, [
 recipes.addShapeless(gildedIronIngot * 8, [anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
                                            anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
                                            bucketMoltenGold.transformReplace(bucket)]);
+recipes.addShapeless(gildedIronIngot * 8, [anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
+                                           anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
+                                           clayBucketMoltenGold]);
+
+# Gilded Iron Plates
+recipes.addShapeless(gildedIronPlate * 8, [anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           bucketMoltenGold.transformReplace(bucket)]);
+recipes.addShapeless(gildedIronPlate * 8, [anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           clayBucketMoltenGold]);
 
 # Item Canister
 recipes.removeShaped(itemCanister);
@@ -187,38 +204,6 @@ recipes.addShaped(steamHeater, [
     [anyBronzeNugget, anyBronzeNugget, anyBronzeNugget],
     [anyBrassPlate,   furnace,         anyBrassPlate],
     [null,            pipe,            null]]);
-
-
-# Steam Tools
-recipes.removeShaped(steamDrill.anyDamage());
-recipes.addShaped(steamDrill, [
-    [anyBrassIngot, anySteelIngot, anySteelIngot],
-    [pipe,          brassTurbine,  anySteelIngot],
-    [anyBrassIngot, pipe,          anyBrassIngot]]);
-recipes.addShaped(steamDrill, [
-    [anyBrassPlate, anySteelIngot, anySteelIngot],
-    [pipe,          brassTurbine,  anySteelIngot],
-    [anyBrassPlate, pipe,          anyBrassPlate]]);
-
-recipes.removeShaped(steamSaw.anyDamage());
-recipes.addShaped(steamSaw, [
-    [anySteelIngot, anySteelNugget, anySteelIngot],
-    [pipe,          brassTurbine,   anySteelNugget],
-    [anyBrassIngot, pipe,           anySteelIngot]]);
-recipes.addShaped(steamSaw, [
-    [anySteelIngot, anySteelNugget, anySteelIngot],
-    [pipe,          brassTurbine,   anySteelNugget],
-    [anyBrassPlate, pipe,           anySteelIngot]]);
-
-recipes.removeShaped(steamShovel.anyDamage());
-recipes.addShaped(steamShovel, [
-    [anySteelIngot, anyBrassIngot, anySteelIngot],
-    [pipe,          brassTurbine,  anyBrassIngot],
-    [anyBrassIngot, pipe,          anySteelIngot]]);
-recipes.addShaped(steamShovel, [
-    [anySteelIngot, anyBrassPlate, anySteelIngot],
-    [pipe,          brassTurbine,  anyBrassPlate],
-    [anyBrassPlate, pipe,          anySteelIngot]]);
 
 # Steam Wings
 recipes.removeShaped(wings);

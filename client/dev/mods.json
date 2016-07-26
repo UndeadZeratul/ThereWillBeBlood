@@ -1,17 +1,22 @@
 {
-	"curseFiles": [
-	{
-		"name": "Version Checker",
-		"projectID": 221140,
-		"fileID": 2242814
-	}],
-	"thirdParty": [
-	{
-		"name": "Anti ID Conflict",
-		"url": "http://download2172.mediafire.com/xxx9fbxp8gfg/7eg73y9bckfaivn/AntiIdConflict-LATEST-1.7.10.jar"
-	},
-	{
-		"name": "Nin's Mod Lister",
-		"url": "http://play.nincraft.com:8080/job/Nins%20Mod%20Lister/23/artifact/build/libs/NinsModLister-1.7.10-1.0.23.jar"
-	}]
+  "minecraft": {
+    "version": "1.7.10"
+  },
+  "files": [
+    {
+      "fileID": 2242814,
+      "projectID": 221140,
+      "name": "Version Checker"
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "http://download2172.mediafire.com/xxx9fbxp8gfg/7eg73y9bckfaivn/AntiIdConflict-LATEST-1.7.10.jar",
+      "name": "Anti ID Conflict"
+    },
+    {
+      "url": "http://play.nincraft.com:8080/job/Nins%20Mod%20Lister/23/artifact/build/libs/NinsModLister-1.7.10-1.0.23.jar",
+      "name": "Nin's Mod Lister"
+    }
+  ]
 }

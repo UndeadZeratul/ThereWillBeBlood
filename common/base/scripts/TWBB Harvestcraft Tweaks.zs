@@ -5,8 +5,8 @@ import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
-var mcString   = <minecraft:string>;
-var wax        = <ore:materialPressedWax>;
+var anyString  = <ore:itemString>;
+var anyWax     = <ore:materialPressedwax>;
 
 # ITEM LISTS
 #------------
@@ -53,5 +53,5 @@ var allDyes    = [
 # Nerf Candles
 for i, candle in allCandles {
     recipes.remove(candle);
-    recipes.addShapeless(candle, [wax, mcString, allDyes[i]]);
+    recipes.addShapeless(candle, [anyWax, anyString, allDyes[i]]);
 }

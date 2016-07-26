@@ -5,28 +5,41 @@ import minetweaker.item.IIngredient;
 
 # COMMON VARIABLES
 #------------------
+var achievementBook   = <SimpleAchievements:sa.achievementBook>;
 var anvil             = <minecraft:anvil>;
+var book              = <minecraft:book>;
+var bookNQuill        = <minecraft:writable_book>;
 var bread             = <minecraft:bread>;
 var bucket            = <minecraft:bucket>;
-var clayBlock         = <minecraft:clay>;
-var clayBall          = <minecraft:clay_ball>;
-var coal              = <minecraft:coal:0>;
 var charcoal          = <minecraft:coal:1>;
-var emerald           = <minecraft:emerald>;
+var clayBall          = <minecraft:clay_ball>;
+var clayBlock         = <minecraft:clay>;
+var coal              = <minecraft:coal:0>;
+var cookBook          = <cookingbook:recipebook>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
+var foodJournal       = <SpiceOfLife:bookfoodjournal>;
 var gunpowder         = <minecraft:gunpowder>;
-var quartz            = <minecraft:quartz>;
-var torchWood         = <minecraft:torch>;
-var torchStone        = <TConstruct:decoration.stonetorch>;
+var obsidianRod       = <HardcoreEnderExpansion:obsidian_rod>;
+var lead              = <minecraft:lead>;
+var leatherStrip      = <betterbeginnings:leatherStrip>;
+var rawhide           = <HarderWildlife:rawLeather>;
 var torchberries      = <TwilightForest:item.torchberries>;
+var torchStone        = <TConstruct:decoration.stonetorch>;
+var torchWood         = <minecraft:torch>;
 
 # ORE DICTIONARY
 #----------------
-var anyWoodenStick    = <ore:stickWood>;
+var anyFood           = <ore:listAllfood>;
+var anyObsidianRod    = <ore:rodObsidian>;
+var anyPurpleDye      = <ore:dyePurple>;
+var anySlimeball      = <ore:slimeball>;
 var anyStoneRod       = <ore:rodStone>;
+var anyString         = <ore:itemString>;
+var anyWoodenStick    = <ore:stickWood>;
 
 # Ingots
+var anyObsidianIngot  = <ore:ingotObsidian>;
 var anySteelIngot     = <ore:ingotSteel>;
 
 # Dusts
@@ -49,14 +62,11 @@ var allTorches        = [
     torchWood
 ] as IItemStack[];
 
-# FURNACE TWEAKS
-#----------------
-furnace.remove(coal);
-furnace.remove(quartz);
-furnace.remove(emerald);
-
 # RECIPE TWEAKS
 #---------------
+
+# Rawhide -> Leather Strip
+recipes.addShapeless(leatherStrip, [rawhide, flint]);
 
 # Enforce Baking Bread
 recipes.removeShaped(bread);
@@ -121,3 +131,24 @@ recipes.addShaped(anvil, [
     [anySteelBlock, anySteelBlock, anySteelBlock],
     [null,          anySteelIngot, null],
     [anySteelIngot, anySteelIngot, anySteelIngot]]);
+
+# Unify Lead Recipe
+recipes.remove(lead);
+recipes.addShaped(lead, [
+    [anyString, anyString,    null],
+    [anyString, anySlimeball, null],
+    [null,      null,         anyString]]);
+
+# Unify Obsidian Rod Recipe
+recipes.remove(anyObsidianRod);
+recipes.addShaped(obsidianRod * 2, [
+    [anyObsidianIngot],
+    [anyObsidianIngot]]);
+
+# Achievement Book costs Book & Quill
+recipes.remove(achievementBook);
+recipes.addShapeless(achievementBook, [anyPurpleDye, bookNQuill]);
+
+# Food Journal costs Book & Quill
+recipes.remove(foodJournal);
+recipes.addShapeless(foodJournal, [anyFood, bookNQuill]);

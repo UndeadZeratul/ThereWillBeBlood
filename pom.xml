@@ -2,11 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.undeadzeratul</groupId>
 	<artifactId>TWBB</artifactId>
-	<version>0.5.0</version>
+	<version>1.0.0</version>
 	<name>There Will Be Blood</name>
 	<url>http://maven.apache.org</url>
 	<packaging>pom</packaging>
 	<properties>
+		<mcVersion>1.7.10</mcVersion>
 		<build.number>SNAPSHOT</build.number>
 	</properties>
 	<build>
