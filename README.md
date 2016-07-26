@@ -26,14 +26,14 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 
 | Ore/Resource | Melting Point (*C) |
 | ----------- | -----------------: |
-| __Lava-Fueled Smeltery__ | __0 - 800__ |
+| __Lava-Fueled Smeltery__ | __0 - 1200__ |
 | Tin | 230 |
 | Lead | 375 |
 | Zinc | 420 |
 | Glass | 550 |
 | Emerald | 650 |
 | Aluminum | 660 |
-| __Ignatius-fueled Smeltery__ | __0 - 1600__ | 
+| Seared Stone | 750 |
 | Brass | 925 |
 | Aluminum Brass | 950 |
 | Bronze | 950 |
@@ -42,22 +42,25 @@ In addition to the mining level adjustments made in TWBB, there has also been a 
 | Gold | 1050 |
 | Hepatizon | 1075 |
 | Copper | 1080 |
-| Black Steel | 1400 |
+| __Ignatius-fueled Smeltery__ | __0 - 1600__ |
+| Black Steel | 1345 |
+| Ironwood | 1365 |
 | Iron | 1400 |
 | Pig Iron | 1400 |
+| Steel | 1400 |
 | Invar | 1425 |
 | Nickel | 1450 |
-| Steel | 1500 |
 | Ignatius | 1600 |
 | Meteorite | 1600 |
-| __High Oven__ | __0 - 2000__ |
+| __Vulcanite-Fueled Smeltery, High Oven__ | __0 - 2000__ |
 | Platinum | 1750 |
+| Knightmetal | 1800 |
 | Kreknorite | 2000 |
 | Vulcanite | 2000 |
-| __Vulcanite-Fueled Smeltery__ | __0 - 2400__ |
+| __Pyrotheum-Fueled Smeltery__ | __0 - 3000__ |
 | Sanguinite | 2250 |
-| __Pyrotheum-Fueled Smeltery__ | __0 - 3200__ |
 | Adamantine | 2500 |
+| Ender Pearls | 2500 |
 | Endium | 2500 |
 | Eximite | 2750 |
 | Meutoite | 2750 |
