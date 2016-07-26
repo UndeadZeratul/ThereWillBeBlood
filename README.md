@@ -22,7 +22,9 @@ Ores and other resources have had their mining levels re-balanced in order to gi
 | Adamantine | 9 |
 | Desichalkos (Eximite + Meutoite) | 10 |
 
-In addition to the mining level adjustments made in TWBB, there has also been a significant Ore Processing change.  All metals follow a more realistic melting point paradigm.  Thanks to Tinkers' Construct, each and every ore now requires at least the Smeltery, if not the Tinkers' Steelworks High Oven, to be processed.  To give you an idea, here's a chart of the temperatures required to melt down various ores, as well as the types of smelteries used to melt down said ores:
+In addition to the mining level adjustments made in TWBB, there has also been a significant Ore Processing change.  All metals follow a more realistic melting point paradigm.  Thanks to Tinkers' Construct, each and every ore now requires at least the Smeltery, if not the Tinkers' Steelworks High Oven, to be processed.  However, **TiC Tools themselves have been disabled; the Smeltery & High Oven are only for structuring progression.**
+
+To give you an idea, here's a chart of the temperatures required to melt down various ores, as well as the types of smelteries used to melt down said ores:
 
 | Ore/Resource | Melting Point (*C) |
 | ----------- | -----------------: |
