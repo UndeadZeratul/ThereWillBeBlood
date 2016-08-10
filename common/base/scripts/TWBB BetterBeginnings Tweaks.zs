@@ -2,7 +2,7 @@
 #-------------
 #import minetweaker.item.IIngredient;
 #import minetweaker.item.IItemStack;
-#import mods.betterbeginnings.AdvancedCrafting;
+import mods.betterbeginnings.AdvancedCrafting;
 #import mods.betterbeginnings.Campfire;
 import mods.betterbeginnings.Kiln;
 import mods.betterbeginnings.Oven;
@@ -11,6 +11,7 @@ import mods.tconstruct.Casting;
 
 # COMMON VARIABLES
 #------------------
+var bed                = <minecraft:bed>;
 var bread              = <minecraft:bread>;
 var bucket             = <minecraft:bucket>;
 var bucketLava         = <minecraft:lava_bucket>;
@@ -35,8 +36,23 @@ var scorchedBrickBlock = <TSteelworks:HighOven:2>;
 #----------------
 var anyDough           = <ore:foodDough>;
 
+# Nuggets
+var anyAluminumNugget  = <ore:nuggetAluminum>;
+
+# Blocks
+var anyWoodPlankBlock  = <ore:plankWood>;
+var anyWoolBlock       = <ore:blockCloth>;
+
 # RECIPE TWEAKS
 #----------------
+
+# Remove Iron Requirement from Beds
+AdvancedCrafting.removeOutput(bed);
+AdvancedCrafting.addRecipe(bed, [
+    [null,              null,              null],
+    [anyWoolBlock,      anyWoolBlock,      anyWoolBlock],
+    [anyWoodPlankBlock, anyWoodPlankBlock, anyWoodPlankBlock]],
+    [anyAluminumNugget]);
 
 # Bread Requires Dough in Brick Oven
 Oven.removeOutput(bread);
