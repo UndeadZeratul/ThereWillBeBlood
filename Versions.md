@@ -91,6 +91,7 @@ Current Mod Versions
 - **Special Mobs** v3.2.2 by FatherToast
 - **Stackie** v1.6.0.36 by Lunatrius
 - **Stalker Creepers** v1.7.10-1.0.9 by AtomicStryker
+- **StartingInventory** v1.7.10.r03 by DaftPVF, bspkrs
 - **Streams** v0.2 by delvr
 - **The Spice of Life** v1.3.2 by squeek
 - **The Twilight Forest** v2.3.7
