@@ -5,10 +5,11 @@
       {
         "id": "forge-10.13.4.1614",
         "primary": true,
-        "folder": "common/base/loaders",
         "downloadInstaller": true,
         "downloadUniversal": true,
-        "renameUniversal": "modpack.jar"
+        "renameUniversal": "modpack.jar",
+        "name": "forge",
+        "folder": "common/base/loaders"
       }
     ]
   },
@@ -19,7 +20,7 @@
       "name": "Agricraft"
     },
     {
-      "fileID": 2279232,
+      "fileID": 2305237,
       "projectID": 221863,
       "name": "Another One Bites The Dust"
     },
@@ -34,7 +35,7 @@
       "name": "Antique Atlas"
     },
     {
-      "fileID": 2277393,
+      "fileID": 2305594,
       "projectID": 224472,
       "name": "AppleCore"
     },
@@ -49,17 +50,17 @@
       "name": "AromaBackup"
     },
     {
-      "fileID": 2301656,
+      "fileID": 2316801,
       "projectID": 230120,
       "name": "Better Beginnings"
     },
     {
-      "fileID": 2281726,
+      "fileID": 2308122,
       "projectID": 220318,
       "name": "Biomes O' Plenty"
     },
     {
-      "fileID": 2276097,
+      "fileID": 2281380,
       "projectID": 230368,
       "name": "Block Properties"
     },
@@ -74,12 +75,12 @@
       "name": "bspkrsCore"
     },
     {
-      "fileID": 2285921,
+      "fileID": 2303402,
       "projectID": 242617,
       "name": "Chameleon Creepers"
     },
     {
-      "fileID": 2291739,
+      "fileID": 2304112,
       "projectID": 76544,
       "name": "Climate Control"
     },
@@ -99,7 +100,7 @@
       "name": "CookieCore"
     },
     {
-      "fileID": 2263858,
+      "fileID": 2299135,
       "projectID": 231484,
       "name": "Cooking For Blockheads"
     },
@@ -139,7 +140,7 @@
       "name": "Doomlike Dungeons"
     },
     {
-      "fileID": 2266611,
+      "fileID": 2307830,
       "projectID": 231868,
       "name": "EnderCore"
     },
@@ -164,7 +165,7 @@
       "name": "Farseek API"
     },
     {
-      "fileID": 2297917,
+      "fileID": 2301651,
       "projectID": 224867,
       "name": "Flaxbeard's Steam Power"
     },
@@ -184,17 +185,17 @@
       "name": "Hardcore Darkness"
     },
     {
-      "fileID": 2274119,
+      "fileID": 2316923,
       "projectID": 228015,
       "name": "Hardcore Ender Expansion"
     },
     {
-      "fileID": 2282932,
+      "fileID": 2314401,
       "projectID": 232257,
       "name": "Harder Wildlife"
     },
     {
-      "fileID": 2282930,
+      "fileID": 2311665,
       "projectID": 232071,
       "name": "HardLib"
     },
@@ -249,7 +250,7 @@
       "name": "Mantle"
     },
     {
-      "fileID": 2217136,
+      "fileID": 2228830,
       "projectID": 59641,
       "name": "Metallurgy"
     },
@@ -279,7 +280,7 @@
       "name": "MobiusCore"
     },
     {
-      "fileID": 2270009,
+      "fileID": 2313730,
       "projectID": 220954,
       "name": "ModTweaker"
     },
@@ -309,12 +310,12 @@
       "name": "NincraftLib"
     },
     {
-      "fileID": 2262091,
+      "fileID": 2302312,
       "projectID": 222211,
       "name": "Not Enough Items"
     },
     {
-      "fileID": 2272129,
+      "fileID": 2302212,
       "projectID": 233472,
       "name": "Ore Flowers"
     },
@@ -344,12 +345,12 @@
       "name": "RPG Advanced Mod"
     },
     {
-      "fileID": 2301604,
+      "fileID": 2311424,
       "projectID": 237989,
       "name": "RTG"
     },
     {
-      "fileID": 2285450,
+      "fileID": 2313083,
       "projectID": 234840,
       "name": "Salty Mod"
     },
@@ -379,12 +380,17 @@
       "name": "Stalker Creepers"
     },
     {
+      "fileID": 2218985,
+      "projectID": 225569,
+      "name": "Starting Inventory"
+    },
+    {
       "fileID": 2281587,
       "projectID": 229769,
       "name": "Streams"
     },
     {
-      "fileID": 2277396,
+      "fileID": 2305603,
       "projectID": 220811,
       "name": "The Spice of Life"
     },
@@ -404,7 +410,7 @@
       "name": "Tinkers' Steelworks"
     },
     {
-      "fileID": 2281619,
+      "fileID": 2298592,
       "projectID": 227449,
       "name": "TNTUtils"
     },

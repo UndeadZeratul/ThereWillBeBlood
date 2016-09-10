@@ -12,17 +12,22 @@ import mods.tsteelworks.mix;
 #------------------
 var chain                     = <battlegear2:chain>;
 
+var enderAmethyst             = <BiomesOPlenty:gems:0>;
+
 var activatorRail             = <minecraft:activator_rail>;
 var anvil                     = <minecraft:anvil:0>;
 var lightDmgAnvil             = <minecraft:anvil:1>;
 var veryDmgAnvil              = <minecraft:anvil:2>;
+var book                      = <minecraft:book>;
 var brick                     = <minecraft:brick>;
 var bucket                    = <minecraft:bucket>;
 var cauldron                  = <minecraft:cauldron>;
 var chestMinecart             = <minecraft:chest_minecart>;
 var clock                     = <minecraft:clock>;
+var cobblestone               = <minecraft:cobblestone>;
 var compass                   = <minecraft:compass>;
 var detectorRail              = <minecraft:detector_rail>;
+var enchantingTable           = <minecraft:enchanting_table>;
 var enderPearl                = <minecraft:ender_pearl>;
 var flintNSteel               = <minecraft:flint_and_steel>;
 var furnaceMinecart           = <minecraft:furnace_minecart>;
@@ -38,17 +43,32 @@ var ironDoor                  = <minecraft:iron_door>;
 var ironHorseArmor            = <minecraft:iron_horse_armor>;
 var goldPressurePlate         = <minecraft:light_weighted_pressure_plate>;
 var minecart                  = <minecraft:minecart>;
+var paper                     = <minecraft:paper>;
 var rail                      = <minecraft:rail>;
 var glisteringMelon           = <minecraft:speckled_melon>;
+var stone                     = <minecraft:stone>;
+var mcString                  = <minecraft:string>;
+var netherQuartz              = <minecraft:quartz>;
 
 var itemCanister              = <Steamcraft:canister>;
 
+var grout                     = <TConstruct:CraftedSoil:1>;
+var obsidianBrick             = <TConstruct:decoration.multibrick:0>;
 var ironBrick                 = <TConstruct:decoration.multibrick:4>;
+var fancyObsidianBrick        = <TConstruct:decoration.multibrickfancy:0>;
 var fancyIronBrick            = <TConstruct:decoration.multibrickfancy:4>;
 var diamondApple              = <TConstruct:diamondApple>;
+var anyTinkersManual          = <TConstruct:manualBook:*>;
 var searedBrick               = <TConstruct:materials:2>;
 var necroticBone              = <TConstruct:materials:8>;
 var enderBlock                = <TConstruct:MetalBlock:10>;
+
+var highOvenController        = <TSteelworks:HighOven:0>;
+var scorchedDrain             = <TSteelworks:HighOven:1>;
+var scorchedBrickBlock        = <TSteelworks:HighOven:2>;
+var scorchedDuct              = <TSteelworks:HighOven:12>;
+var scorchedBrick             = <TSteelworks:Materials:0>;
+var steelworkingBook          = <TSteelworks:tsteelManual>;
 
 # Ores
 var endiumOre                 = <HardcoreEnderExpansion:endium_ore>;
@@ -99,11 +119,13 @@ var ironwoodNugget            = <aobd:nuggetIronwood>;
 var knightmetalNugget         = <aobd:nuggetKnightmetal>;
 var kreknoriteNugget          = <aobd:nuggetKreknorite>;
 var meteorNugget              = <aobd:nuggetMeteorite>;
-var sanguiniteNugget          = <aobd:nuggetSanguinite>;
+var hepatizonNugget           = <Metallurgy:base.nugget:4>;
+var eximiteNugget             = <Metallurgy:ender.nugget:0>;
+var meutoiteNugget            = <Metallurgy:ender.nugget:1>;
+var desichalkosNugget         = <Metallurgy:ender.nugget:2>;
+var adamantineNugget          = <Metallurgy:fantasy.nugget:13>;
+var sanguiniteNugget          = <Metallurgy:nether.nugget:9>;
 var goldNugget                = <minecraft:gold_nugget>;
-var adamantineNugget          = <PoorOres:adamantine_nugget>;
-var eximiteNugget             = <PoorOres:eximite_nugget>;
-var meutoiteNugget            = <PoorOres:meutoite_nugget>;
 var copperNugget              = <Steamcraft:steamcraftNugget:0>;
 var zincNugget                = <Steamcraft:steamcraftNugget:1>;
 var ironNugget                = <Steamcraft:steamcraftNugget:2>;
@@ -111,6 +133,7 @@ var brassNugget               = <Steamcraft:steamcraftNugget:3>;
 var aluminumNugget            = <TConstruct:materials:22>;
 var bronzeNugget              = <TConstruct:materials:31>;
 var aluminumBrassNugget       = <TConstruct:materials:24>;
+var obsidianNugget            = <TConstruct:materials:27>;
 var steelNugget               = <TConstruct:materials:33>;
 var tinNugget                 = <ThermalFoundation:material:97>;
 var silverNugget              = <ThermalFoundation:material:98>;
@@ -149,6 +172,7 @@ var aluminumIngot             = <TConstruct:materials:11>;
 var bronzeIngot               = <TConstruct:materials:13>;
 var aluminumBrassIngot        = <TConstruct:materials:14>;
 var steelIngot                = <TConstruct:materials:16>;
+var obsidianIngot             = <TConstruct:materials:18>;
 var copperIngot               = <ThermalFoundation:material:64>;
 var silverIngot               = <ThermalFoundation:material:66>;
 var leadIngot                 = <ThermalFoundation:material:67>;
@@ -167,6 +191,7 @@ var brassPlate                = <Steamcraft:steamcraftPlate:4>;
 var leadPlate                 = <Steamcraft:steamcraftPlate:9>;
 
 # Blocks
+var enderAmethystBlock        = <BiomesOPlenty:gemOre:1>;
 var endiumBlock               = <HardcoreEnderExpansion:endium_block>;
 var copperBlock               = <Metallurgy:base.block:0>;
 var tinBlock                  = <Metallurgy:base.block:1>;
@@ -187,6 +212,8 @@ var electrumBlock             = <Metallurgy:precious.block:4>;
 var meteorBlock               = <meteors:BlockMeteorDecoration>;
 var goldBlock                 = <minecraft:gold_block>;
 var ironBlock                 = <minecraft:iron_block>;
+var obsidianBlock             = <minecraft:obsidian>;
+var netherQuartzBlock         = <minecraft:quartz_block>;
 var redstoneBlock             = <minecraft:redstone_block>;
 var aluminumBlock             = <TConstruct:MetalBlock:6>;
 var aluminumBrassBlock        = <TConstruct:MetalBlock:7>;
@@ -202,6 +229,7 @@ var plateMold                 = <Steamcraft:plateMold>;
 
 # Casts
 var anyBlankCast              = <TConstruct:blankPattern:*>;
+var woodenBlankPattern        = <TConstruct:blankPattern:0>;
 var aluminumBrassBlankCast    = <TConstruct:blankPattern:1>;
 var goldBlankCast             = <TConstruct:blankPattern:2>;
 var anyRangedCast             = <TConstruct:Cast:*>;
@@ -1175,8 +1203,8 @@ var moltenZinc                = <liquid:zinc>;
 
 # ORE DICTIONARY
 #----------------
-var cobblestone               = <ore:cobblestone>;
-var stone                     = <ore:stone>;
+var anyCobblestone            = <ore:cobblestone>;
+var anyStone                  = <ore:stone>;
 
 # Ores
 var anyAdamantineOre          = <ore:oreAdamantine>;
@@ -1449,27 +1477,37 @@ anyAluminumNugget.remove(aluminumOreberry);
 var allNuggets                = [
     anyAdamantineNugget,
     anyAlduoriteNugget,
+    anyAluminumBrassNugget,
     anyAluminumNugget,
     anyArditeNugget,
     anyAstralSilverNugget,
     anyAtlarusNugget,
+    anyBlackSteelNugget,
+    anyBrassNugget,
+    anyBronzeNugget,
     anyCarmotNugget,
     anyCeruclaseNugget,
     anyCobaltNugget,
     anyCopperNugget,
     anyDeepIronNugget,
+    anyDesichalkosNugget,
+    anyElectrumNugget,
     anyEndiumNugget,
     anyEximiteNugget,
     anyGoldNugget,
+    anyHepatizonNugget,
     anyIgnatiusNugget,
     anyInfuscoliumNugget,
+    anyInvarNugget,
     anyIronNugget,
     anyIronwoodNugget,
     anyKalendriteNugget,
     anyKnightmetalNugget,
+    anyKreknoriteNugget,
     anyLeadNugget,
     anyLemuriteNugget,
     anyManganeseNugget,
+    anyManyullynNugget,
     anyMeteorNugget,
     anyMeutoiteNugget,
     anyMidasiumNugget,
@@ -1483,6 +1521,7 @@ var allNuggets                = [
     anySanguiniteNugget,
     anyShadowIronNugget,
     anySilverNugget,
+    anySteelNugget,
     anyTinNugget,
     anyVulcaniteNugget,
     anyVyroxeresNugget,
@@ -2005,11 +2044,76 @@ var fuelRemovals              = [
     lava,
     moltenPyrotheum
 ] as ILiquidStack[];
+var searedStoneInputs         = [
+    cobblestone,
+    stone,
+    grout,
+    searedBrick,
+    <TConstruct:Smeltery:*>,
+    stoneShard,
+    stoneToolRod,
+    stonePickHead,
+    stoneShovelHead,
+    stoneHatchetHead,
+    stoneBinding,
+    stoneToughBinding,
+    stoneToughRod,
+    stoneHeavyPlate,
+    stoneSwordBlade,
+    stoneWideGuard,
+    stoneHandGuard,
+    stoneCrossbar,
+    stoneKnifeBlade,
+    stoneFullGuard,
+    stoneFryingPanHead,
+    stoneSignHead,
+    stoneChiselHead,
+    stoneScytheBlade,
+    stoneBroadAxeHead,
+    stoneExcavatorHead,
+    stoneLargeSwordBlade,
+    stoneHammerHead,
+    #stoneArrowhead,
+    stoneBowLimb,
+    stoneCrossbowLimb,
+    stoneCrossbowBody,
+    stoneShuriken
+] as IItemStack[];
+var moltenObsidianInputs      = [
+    <ThermalFoundation:material:4>,
+    enchantingTable,
+    fancyObsidianBrick,
+    obsidianBlock,
+    obsidianBrick,
+    obsidianIngot,
+    obsidianNugget
+] as IItemStack[];
 
 # RECIPE TWEAKS
 #---------------
 
-# Remove Downgrade Recipe
+# Add Missing High Oven Recipes
+recipes.addShaped(highOvenController, [
+    [scorchedBrick, scorchedBrick, scorchedBrick],
+    [scorchedBrick, null,          scorchedBrick],
+    [scorchedBrick, scorchedBrick, scorchedBrick]]);
+recipes.addShaped(scorchedBrickBlock, [
+    [scorchedBrick, scorchedBrick],
+    [scorchedBrick, scorchedBrick]]);
+recipes.addShaped(scorchedDrain, [
+    [scorchedBrick, null, scorchedBrick],
+    [scorchedBrick, null, scorchedBrick],
+    [scorchedBrick, null, scorchedBrick]]);
+recipes.addShaped(scorchedDuct, [
+    [scorchedBrick, scorchedBrick, scorchedBrick],
+    [null,          null,          null],
+    [scorchedBrick, scorchedBrick, scorchedBrick]]);
+
+# Disable Books made from Wooden Blank Patterns
+recipes.removeShapeless(book, [paper, paper, paper, mcString,
+                               woodenBlankPattern, woodenBlankPattern]);
+
+# Remove Downgrade Mini Heart Recipe
 recipes.remove(miniRedHeart);
 
 # Remove Easy Storage Recipes
@@ -2061,17 +2165,17 @@ for fuel in fuelRemovals {
     Smeltery.removeFuel(fuel);
 }
 
-# Lava: 800*C
-Smeltery.addFuel(lava, 800, 80);
+# Lava: 1200*C
+Smeltery.addFuel(lava, 1200, 80);
 
 # Ignatius: 1600*C
 Smeltery.addFuel(moltenIgnatius, 1600, 160);
 
-# Vulcanite: 2400*C
-Smeltery.addFuel(moltenVulcanite, 2400, 240);
+# Vulcanite: 2000*C
+Smeltery.addFuel(moltenVulcanite, 2000, 240);
 
-# Pyrotheum: 3200*C
-Smeltery.addFuel(moltenPyrotheum, 3200, 320);
+# Pyrotheum: 3000*C
+Smeltery.addFuel(moltenPyrotheum, 3000, 320);
 
 
 # Disable TiC Metal Casts in favor of FSP Ceramic Molds
@@ -2082,10 +2186,6 @@ Casting.removeTableRecipe(gearCast);
 
 # Enforce Ingot Casts Made From Aluminum Brass and a Brick
 Casting.addTableRecipe(ingotCast, moltenAluminumBrass * 144, brick, true, 40);
-
-# Fix Seared Brick Cost
-Casting.removeTableRecipe(searedBrick);
-Casting.addTableRecipe(searedBrick, moltenSearedStone * 144, ingotCast, false, 40);
 
 # Remove re-melting down toolparts
 for i, shard in metalShards {
@@ -2146,6 +2246,15 @@ for i, shard in metalShards {
     Casting.removeTableRecipe(metalShurikens[i]);
 }
 
+# Remove Seared Stone & Molten Obsidian
+for input in searedStoneInputs {
+    Smeltery.removeMelting(input);
+}
+for input in moltenObsidianInputs {
+	Smeltery.removeMelting(input);
+}
+Casting.removeTableRecipe(steelworkingBook);
+
 
 # Remove Unused Alloys
 
@@ -2159,7 +2268,29 @@ Smeltery.removeAlloy(moltenLumium * 576);
 Smeltery.removeAlloy(moltenSignalum * 576);
 
 
+# Add Missing Melting Recipes
+
+# Lava
+Smeltery.addMelting(obsidianNugget,     lava * 10,   1200, obsidianBlock);
+Smeltery.addMelting(obsidianIngot,      lava * 100,  1200, obsidianBlock);
+Smeltery.addMelting(obsidianBrick,      lava * 1000, 1200, obsidianBrick);
+Smeltery.addMelting(fancyObsidianBrick, lava * 1000, 1200, fancyObsidianBrick);
+Smeltery.addMelting(obsidianBlock,      lava * 1000, 1200, obsidianBlock);
+Smeltery.addMelting(enchantingTable,    lava * 4000, 1200, enchantingTable);
+
+# Iron
+Smeltery.addMelting(ironToolRod, moltenIron * 144, 1400, ironBlock);
+
+
 # Add Missing Casting Recipes
+
+# Lava/Obsidian
+Casting.addTableRecipe(obsidianIngot,  lava * 100,  ingotMold,  true, 40);
+Casting.addTableRecipe(obsidianNugget, lava * 10,   nuggetMold, true, 40);
+
+Casting.addTableRecipe(obsidianIngot,  lava * 100,  ingotCast,  false, 40);
+Casting.addTableRecipe(obsidianNugget, lava * 10,   nuggetCast, false, 40);
+Casting.addBasinRecipe(obsidianBlock,  lava * 1000, null,       false, 40);
 
 # Tin
 Casting.addTableRecipe(tinIngot,  moltenTin * 144, ingotMold,  true, 40);
@@ -2276,7 +2407,13 @@ Casting.addTableRecipe(meutoiteIngot,  moltenMeutoite * 144, ingotMold,  true, 4
 Casting.addTableRecipe(meutoiteNugget, moltenMeutoite * 16,  nuggetMold, true, 40);
 
 # Desichalkos
-Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotMold, true,  40);
+Casting.addTableRecipe(desichalkosIngot,  moltenDesichalkos * 144, ingotMold,  true, 40);
+Casting.addTableRecipe(desichalkosNugget, moltenDesichalkos * 16,  nuggetMold, true, 40);
 
-Casting.addTableRecipe(desichalkosIngot, moltenDesichalkos * 144,  ingotCast, false, 40);
-Casting.addBasinRecipe(desichalkosBlock, moltenDesichalkos * 1296, null,      false, 40);
+Casting.addTableRecipe(desichalkosIngot,  moltenDesichalkos * 144,  ingotCast,  false, 40);
+Casting.addTableRecipe(desichalkosNugget, moltenDesichalkos * 16,   nuggetCast, false, 40);
+Casting.addBasinRecipe(desichalkosBlock,  moltenDesichalkos * 1296, null,      false,  40);
+
+# Ender Amethyst
+Casting.addTableRecipe(enderAmethyst, moltenMeutoite * 250, netherQuartz, true, 40);
+Casting.addBasinRecipe(enderAmethystBlock, moltenMeutoite * 1000, netherQuartzBlock, true, 40);

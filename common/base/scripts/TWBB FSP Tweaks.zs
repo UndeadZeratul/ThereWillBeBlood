@@ -5,9 +5,13 @@ import mods.tconstruct.Casting;
 # COMMON VARIABLES
 #------------------
 var book                   = <minecraft:book>;
-var bucket                 = <minecraft:bucket>;
 var furnace                = <minecraft:furnace>;
+
+var bucket                 = <minecraft:bucket>;
 var bucketMoltenGold       = <TConstruct:buckets:1>;
+
+var clayBucket             = <IguanaTweaksTConstruct:clayBucketFired>;
+var clayBucketMoltenGold   = <IguanaTweaksTConstruct:clayBucketsTinkers:1>;
 
 var astrolabe              = <Steamcraft:astrolabe>;
 var boiler                 = <Steamcraft:boiler>;
@@ -145,11 +149,17 @@ recipes.addShaped(astrolabe, [
 recipes.addShapeless(gildedIronIngot * 8, [anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
                                            anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
                                            bucketMoltenGold.transformReplace(bucket)]);
+recipes.addShapeless(gildedIronIngot * 8, [anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
+                                           anyIronIngot, anyIronIngot, anyIronIngot, anyIronIngot,
+                                           clayBucketMoltenGold]);
 
 # Gilded Iron Plates
 recipes.addShapeless(gildedIronPlate * 8, [anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
                                            anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
                                            bucketMoltenGold.transformReplace(bucket)]);
+recipes.addShapeless(gildedIronPlate * 8, [anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           anyIronPlate, anyIronPlate, anyIronPlate, anyIronPlate,
+                                           clayBucketMoltenGold]);
 
 # Item Canister
 recipes.removeShaped(itemCanister);
