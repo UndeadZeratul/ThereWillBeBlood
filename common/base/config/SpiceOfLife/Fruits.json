@@ -2,8 +2,8 @@
 	"name": "Fruits",
 	"food": {
 		"oredict": [
-			"listAllfruit",
-			"listAllberry"
+			"listAllberry",
+			"listAllfruit"
 		]
 	}
 }
