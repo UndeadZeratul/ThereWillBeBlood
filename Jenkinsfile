@@ -53,7 +53,7 @@ node {
       profileName = "develop"
    }
    
-   bat "mvnw clean package -D profile.${profileName} -Dbuild.number=${env.BUILD_NUMBER}"
+   bat "mvnw.cmd clean package -D profile.${profileName} -Dbuild.number=${env.BUILD_NUMBER}"
    
 
    stage 'Archive'
