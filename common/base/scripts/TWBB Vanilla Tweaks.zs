@@ -16,6 +16,8 @@ var clayBall          = <minecraft:clay_ball>;
 var clayBlock         = <minecraft:clay>;
 var coal              = <minecraft:coal:0>;
 var cookBook          = <cookingbook:recipebook>;
+var cottonNatura      = <Natura:barleyFood:3>;
+var cottonPam         = <harvestcraft:cottonItem>;
 var flint             = <minecraft:flint>;
 var flintNSteel       = <minecraft:flint_and_steel>;
 var foodJournal       = <SpiceOfLife:bookfoodjournal>;
@@ -23,6 +25,7 @@ var gunpowder         = <minecraft:gunpowder>;
 var obsidianRod       = <HardcoreEnderExpansion:obsidian_rod>;
 var lead              = <minecraft:lead>;
 var leatherStrip      = <betterbeginnings:leatherStrip>;
+var mcString          = <minecraft:string>;
 var rawhide           = <HarderWildlife:rawLeather>;
 var torchberries      = <TwilightForest:item.torchberries>;
 var torchStone        = <TConstruct:decoration.stonetorch>;
@@ -30,6 +33,7 @@ var torchWood         = <minecraft:torch>;
 
 # ORE DICTIONARY
 #----------------
+var anyCotton         = <ore:cropCotton>;
 var anyFood           = <ore:listAllfood>;
 var anyObsidianRod    = <ore:rodObsidian>;
 var anyPurpleDye      = <ore:dyePurple>;
@@ -152,3 +156,18 @@ recipes.addShapeless(achievementBook, [anyPurpleDye, bookNQuill]);
 # Food Journal costs Book & Quill
 recipes.remove(foodJournal);
 recipes.addShapeless(foodJournal, [anyFood, bookNQuill]);
+
+# Flax Makes Twine, not String
+recipes.remove(mcString, [
+    [flax, flax, flax],
+    [flax, flax, flax],
+    [flax, flax, flax]]);
+
+recipes.addShapeless(twine, [
+    [flax, itemKnife.damage()]]);
+
+# Unify Cotton -> String Recipe
+recipes.remove(mcString [[cottonNatura, cottonNatura, cottonNatura]]);
+recipes.remove(mcString [[cottonPam, cottonPam, cottonPam]]);
+
+recipes.addShapeless(mcString, [anyCotton, anyCotton, anyCotton]);
