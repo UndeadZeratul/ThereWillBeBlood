@@ -2,4 +2,4 @@
 call packdownload.bat
 
 :: Assemble the Modpack
-mvn clean package -D profile.develop
+mvnw clean package -D profile.develop
