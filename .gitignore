@@ -18,8 +18,10 @@ screenshots/
 */config/mapwriter*
 */config/opis*
 */config/versionchecker*
+**/loaders/*.jar
+**/mods/*.jar
+modpackdownloader*.jar
 
-*.jar
 *.lck
 *.rar
 1213309934
