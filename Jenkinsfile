@@ -53,8 +53,7 @@ node {
       profileName = "develop"
    }
 
-   bat '''mvn -N io.takari:maven:wrapper
-          mvnw.cmd clean package -D profile.${profileName} -Dbuild.number=${env.BUILD_NUMBER}'''
+   bat '''mvnw.cmd clean package -D profile.${profileName} -Dbuild.number=${env.BUILD_NUMBER}'''
 
 
    stage 'Archive'
