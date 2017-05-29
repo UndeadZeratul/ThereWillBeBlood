@@ -5,7 +5,7 @@ node {
 
 
    stage 'Clean out Workspace'
-   bat '''del /s /q "*.jar"
+   bat '''del /s /q "ModpackDownloader*.jar"
         del /s /q "common\\base\\loaders\\*.jar"
         del /s /q "common\\dev\\mods\\*.jar"
         del /s /q "common\\base\\mods\\*.jar"
